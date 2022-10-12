@@ -1,4 +1,4 @@
-<lexicon xmlns="http://www.w3.org/2005/01/pronunciation-lexicon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:claws="http://www.example.com/claws7tags" version="1.0"  alphabet="ipa" xml:lang="zh-CN">
+<lexicon xmlns="http://www.w3.org/2005/01/pronunciation-lexicon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:claws="http://www.example.com/claws7tags" version="1.0"  alphabet="sapi" xml:lang="zh-CN">
 <lexeme>
 	<grapheme>哔哩哔哩</grapheme>
 	<phoneme>bi 1 - li 5</phoneme>
