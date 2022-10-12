@@ -29,6 +29,12 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
     <grapheme>RC三石</grapheme>
     <alias>RC三拾</alias>
   </lexeme>
+  
+  <lexeme>
+    <grapheme>RC石石</grapheme>
+    <alias><lang xml:lang="en-US">RC</lang>拾拾</alias>
+  </lexeme>
+      
   <lexeme>
     <grapheme>ECO+ mode</grapheme>
     <alias>eco plus mode</alias>
