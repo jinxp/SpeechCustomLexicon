@@ -97,7 +97,11 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
     <grapheme>RC三石</grapheme>
     <alias>RC三拾</alias>
   </lexeme>
-
+  <lexeme>
+    <grapheme>PC三石</grapheme>
+    <alias>PC三步</alias>
+  </lexeme>
+      
   <lexeme>
     <grapheme> 哔哩哔哩 </grapheme>
     <phoneme> bi 1 - li 5 - bi 1 - li 5 </phoneme>
