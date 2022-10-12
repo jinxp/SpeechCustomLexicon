@@ -31,7 +31,7 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
   </lexeme>
    <lexeme>
     <grapheme>RC三天</grapheme>
-    <alias><lang xml:lang=\"en-US\">RC</lang>三天</alias>
+    <alias><lang xml:lang="en-US">RC</lang>三天</alias>
   </lexeme>
   <lexeme>
     <grapheme>ECO+ mode</grapheme>
