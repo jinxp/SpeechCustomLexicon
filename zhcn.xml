@@ -6,26 +6,6 @@
 http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="x-microsoft-sapi" xml:lang="zh-CN">
   <lexeme>
-    <grapheme>汽车城瑞立酒店</grapheme>
-    <alias>汽车城瑞立酒店</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>chjie_li</grapheme>
-    <alias>超杰李</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>Roqi</grapheme>
-    <alias>肉齐</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>Hunt Zhao</grapheme>
-    <alias>沆脦赵</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>Williams_C</grapheme>
-    <alias>WilliamsC</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>bilibili</grapheme>
     <alias>哔哩哔哩</alias>
   </lexeme>
@@ -38,149 +18,12 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
     <alias>哔哩哔哩</alias>
   </lexeme>
   <lexeme>
-    <grapheme>biubiubiubiubiu</grapheme>
-    <alias>bububububu</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>biubiubiubiu</grapheme>
-    <alias>bubububu</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>biubiubiu</grapheme>
-    <alias>bububu</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>biubiu</grapheme>
-    <alias>bubu</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>Dr Sunny</grapheme>
-    <alias>Doctor Sunny</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>ECO+ mode</grapheme>
-    <alias>eco plus mode</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>远/近光灯</grapheme>
-    <alias>远近光灯</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>__SKY__</grapheme>
-    <alias>SKY</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>IF YOU</grapheme>
     <alias>if you</alias>
   </lexeme>
   <lexeme>
-    <grapheme>上背部按摩</grapheme>
-    <alias>上背部按摩</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>你不是真正的快乐</grapheme>
-    <alias>你不是真正的快乐</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>中腰部模式</grapheme>
-    <alias>中腰部模式</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>光头强</grapheme>
     <alias>光头强</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>Noix</grapheme>
-    <alias>Noiks</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>RC三石</grapheme>
-    <alias>R C 三 拾</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>PC三石</grapheme>
-    <alias>PC三步</alias>
-  </lexeme>
-      
-  <lexeme>
-    <grapheme> 哔哩哔哩 </grapheme>
-    <phoneme> bi 1 - li 5 - bi 1 - li 5 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 乐行记 </grapheme>
-    <phoneme> yue 4 - hang 2 - ji 4 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 盛一鸣 </grapheme>
-    <phoneme> sheng 4 - yi 1 - ming 2 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 猫步按摩 </grapheme>
-    <phoneme> mao 1 - bu 4 - an 4 - mo 2 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 需要数分钟 </grapheme>
-    <phoneme> xu 1 - yao 4 - shu 4 - fen 1 - zhong 1 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 如歌的行板 </grapheme>
-    <phoneme> ru 2 - ge 1 - de 5 - xing 2 - ban 3 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 汤汤妈咪 </grapheme>
-    <phoneme> tang 1 - tang 1 - ma 1 - mi 5 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 汤汤爸比 </grapheme>
-    <phoneme> tang 1 - tang 1 - ba 3 - bi 2 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 我一切洋葱 </grapheme>
-    <phoneme> wo 3 - yi 4 - qie 1 - yang 2 - cong 1 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 塘厦 </grapheme>
-    <phoneme> tang 2 - xia 4 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 不在于量 </grapheme>
-    <phoneme> bu 2 - zai 4 - yu 2 - liang 4 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 嘉行公路 </grapheme>
-    <phoneme> jia 1 - hang 2 - gong 1 - lu 4 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 重庆园博园 </grapheme>
-    <phoneme> chong 2 - qing 4 - yuan 2 - bo 2 - yuan 2 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 弝涒 </grapheme>
-    <phoneme>  ba 4 - tun 1 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 已切歌 </grapheme>
-    <phoneme>  yi 3 - qie 1 - ge 1 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 曾振海 </grapheme>
-    <phoneme>  zeng 1 - zhen 4 - hai 3 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 翟希 </grapheme>
-    <phoneme>  zhai 2 - xi 1 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 蒙现军 </grapheme>
-    <phoneme>  meng 2 - xian 4 - jun 1 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 调到 </grapheme>
-    <phoneme>  tiao 2 - dao 4 </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme> 覃小胖蛋儿 </grapheme>
-    <phoneme>  qin 2 - xiao 3 - pang 4 - dan r 4 </phoneme>
   </lexeme>
 
 </lexicon>
