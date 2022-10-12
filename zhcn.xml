@@ -1,0 +1,10 @@
+<lexicon xmlns="http://www.w3.org/2005/01/pronunciation-lexicon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:claws="http://www.example.com/claws7tags" version="1.0"  alphabet="ipa" xml:lang="zh-CN">
+<lexeme>
+	<grapheme>哔哩哔哩</grapheme>
+	<alias>bi 1 - li 5</alias>
+</lexeme>
+<lexeme>
+	<grapheme>CP三石</grapheme>
+	<phoneme>CP三天</phoneme>
+</lexeme>
+</lexicon>
