@@ -30,10 +30,10 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
     <alias>RC 三拾</alias>
   </lexeme>
   
-  <lexeme>
-    <grapheme>RC石石</grapheme>
-    <alias>&lt;lang xml:lang=&quot;en-US&quot;&gt;RC&lt;/lang&gt; 拾拾</alias>
-  </lexeme>
+<lexeme>
+    <grapheme>智能电动中大型SUV</grapheme>
+    <alias>智能电动中大型 SUV</alias>
+</lexeme>
       
   <lexeme>
     <grapheme>ECO+ mode</grapheme>
