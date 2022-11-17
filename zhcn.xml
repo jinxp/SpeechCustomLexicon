@@ -29,7 +29,10 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
     <grapheme>RC三石</grapheme>
     <alias>RC 三拾</alias>
   </lexeme>
-  
+    <lexeme>
+    <grapheme> 安晓路-路侧 </grapheme>
+    <alias>安晓路路侧</alias>
+  </lexeme>
 <lexeme>
     <grapheme>智能电动中大型SUV</grapheme>
     <alias>智能电动中大型 SUV</alias>
