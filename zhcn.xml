@@ -39,6 +39,11 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
         <phoneme>tyˈɾc liˈ.ɾa.sɯ</phoneme>
    </lexeme>
 
+    
+  <lexeme>
+        <grapheme> TTT </grapheme>
+        <phoneme> tyˈɾc tyˈɾc tyˈɾc </phoneme>
+   </lexeme>
       
   <lexeme>
     <grapheme>ECO+ mode</grapheme>
