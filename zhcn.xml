@@ -4,7 +4,7 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
 http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
-      alphabet="x-microsoft-sapi" xml:lang="zh-CN">
+      alphabet="x-microsoft-sapi" xml:lang="tr-TR">
   <lexeme>
     <grapheme>bilibili</grapheme>
     <alias>哔哩哔哩</alias>
@@ -33,10 +33,12 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
     <grapheme> 安晓路-路侧 </grapheme>
     <alias>安晓路路侧</alias>
   </lexeme>
-<lexeme>
-    <grapheme>智能电动中大型SUV</grapheme>
-    <alias>智能电动中大型 SUV</alias>
-</lexeme>
+  
+  <lexeme>
+        <grapheme> TL </grapheme>
+        <phoneme>tyˈɾc liˈ.ɾa.sɯ</phoneme>
+   </lexeme>
+
       
   <lexeme>
     <grapheme>ECO+ mode</grapheme>
