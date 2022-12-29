@@ -4,7 +4,7 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
 http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
-      alphabet="ipa" xml:lang="tr-TR">
+      alphabet="x-microsoft-sapi" xml:lang="zh-CN">
   <lexeme>
     <grapheme>bilibili</grapheme>
     <alias>哔哩哔哩</alias>
@@ -27,24 +27,13 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
   </lexeme>
   <lexeme>
     <grapheme>RC三石</grapheme>
-    <alias>RC 三拾</alias>
+    <alias>RC 三三</alias>
   </lexeme>
     <lexeme>
     <grapheme> 安晓路-路侧 </grapheme>
     <alias>安晓路路侧</alias>
   </lexeme>
-  
-  <lexeme>
-        <grapheme> TL </grapheme>
-        <phoneme>tyˈɾc liˈ.ɾa.sɯ</phoneme>
-   </lexeme>
 
-    
-  <lexeme>
-        <grapheme> TTT </grapheme>
-        <phoneme>tyˈɾc</phoneme>
-   </lexeme>
-      
   <lexeme>
     <grapheme>ECO+ mode</grapheme>
     <alias>eco plus mode</alias>
