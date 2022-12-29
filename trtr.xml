@@ -10,16 +10,15 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
         <alias>By By By</alias>
     </lexeme>    
    <lexeme>
-        <grapheme> TL </grapheme>
+        <grapheme>TL</grapheme>
         <phoneme>tyˈɾc liˈ.ɾa.sɯ</phoneme>
    </lexeme>
-
   <lexeme>
-        <grapheme> TTT </grapheme>
+        <grapheme>TTT</grapheme>
         <phoneme>tyˈɾc</phoneme>
    </lexeme>
-  <lexeme>
-        <grapheme> TTTT </grapheme>
+   <lexeme>
+        <grapheme>TTTT</grapheme>
         <alias>AAAA</alias>
    </lexeme>
 </lexicon>
