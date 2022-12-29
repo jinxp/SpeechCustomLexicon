@@ -5,6 +5,10 @@
       xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
 http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="ipa" xml:lang="tr-TR">
+    <lexeme>
+        <grapheme>BTW</grapheme>
+        <alias>By By By</alias>
+    </lexeme>    
    <lexeme>
         <grapheme> TL </grapheme>
         <phoneme>tyˈɾc liˈ.ɾa.sɯ</phoneme>
