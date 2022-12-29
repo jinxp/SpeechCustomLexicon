@@ -7,18 +7,10 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="ipa" xml:lang="tr-TR">
     <lexeme>
         <grapheme>BTW</grapheme>
-        <alias>By By By</alias>
+        <alias>B B B</alias>
     </lexeme>    
-   <lexeme>
-        <grapheme>TL</grapheme>
-        <phoneme>tyˈɾc liˈ.ɾa.sɯ</phoneme>
-   </lexeme>
   <lexeme>
-        <grapheme>TTT</grapheme>
-        <phoneme>tyˈɾc</phoneme>
-   </lexeme>
-   <lexeme>
-        <grapheme>TTTT</grapheme>
-        <alias>AAAA</alias>
-   </lexeme>
+    <grapheme>RC三石</grapheme>
+    <alias>RC 三三石石石</alias>
+  </lexeme>
 </lexicon>
