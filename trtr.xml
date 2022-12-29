@@ -13,4 +13,9 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
     <grapheme>RC三石</grapheme>
     <alias>RC 三三石石石</alias>
   </lexeme>
+  
+  <lexeme>
+    <grapheme>TL</grapheme>
+    <phoneme>tyˈɾc tyˈɾc</phoneme>
+  </lexeme>
 </lexicon>
