@@ -38,4 +38,14 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
     <grapheme>ECO+ mode</grapheme>
     <alias>eco plus mode</alias>
   </lexeme>
+  <lexeme>
+    <grapheme>  (Live) </grapheme>
+    <alias> (Live 版) </alias>
+  </lexeme>
+
+  <lexeme>
+    <grapheme> 陆家嘴(地铁站) </grapheme>
+    <alias> 陆家嘴地铁站 </alias>
+  </lexeme>
+      
 </lexicon>
