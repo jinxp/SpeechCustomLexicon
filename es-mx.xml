@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="es-mx">
+  <lexeme>
+    <grapheme>汽车城瑞立酒店</grapheme>
+    <alias>汽车城瑞立酒店</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>chjie_li</grapheme>
+    <alias>超杰李</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Roqi</grapheme>
+    <alias>肉齐</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hunt Zhao</grapheme>
+    <alias>沆脦赵</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Williams_C</grapheme>
+    <alias>WilliamsC</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>bilibili</grapheme>
+    <alias>哔哩哔哩</alias>
+  </lexeme>
+ 
+<lexeme>
+<grapheme>¿Sí o no?</grapheme>
+<alias>¿sí? o no.</alias>
+</lexeme>
+
+<lexeme>
+<grapheme>\¿Sí o no?</grapheme>
+<alias>\¿sí? o no.</alias>
+</lexeme>
+
+</lexicon>
