@@ -4,48 +4,9 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
 http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
-      alphabet="ipa" xml:lang="zh-CN">
-  <lexeme>
-    <grapheme>bilibili</grapheme>
-    <alias>哔哩哔哩</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>Bilibili</grapheme>
-    <alias>哔哩哔哩</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>BILIBILI</grapheme>
-    <alias>哔哩哔哩</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>IF YOU</grapheme>
-    <alias>if you</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>光头强</grapheme>
-    <alias>光头强</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>RC三石</grapheme>
-    <alias>RC 三三石石石</alias>
-  </lexeme>
-    <lexeme>
-    <grapheme> 安晓路-路侧 </grapheme>
-    <alias>安晓路路侧</alias>
-  </lexeme>
-
-  <lexeme>
-    <grapheme>ECO+ mode</grapheme>
-    <alias>eco plus mode</alias>
-  </lexeme>
+      alphabet="x-microsoft-sapi" xml:lang="zh-CN">
   <lexeme>
     <grapheme>  (Live) </grapheme>
     <alias> (Live 版) </alias>
   </lexeme>
-
-  <lexeme>
-    <grapheme> 陆家嘴(地铁站) </grapheme>
-    <alias> 陆家嘴地铁站 </alias>
-  </lexeme>
-      
 </lexicon>
