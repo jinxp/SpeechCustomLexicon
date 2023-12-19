@@ -5,6 +5,14 @@
     <phoneme>エフワン</phoneme>
   </lexeme>
   <lexeme>
+    <grapheme>F1</grapheme>
+    <alias>F 一</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>F 一</grapheme>
+    <phoneme>エフワン</phoneme>
+  </lexeme>
+  <lexeme>
     <grapheme>美味しい</grapheme>
     <phoneme>オイシイ</phoneme>
   </lexeme>
