@@ -2,10 +2,10 @@
 <lexicon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd" version="1.0" alphabet="x-microsoft-sapi" xml:lang="ja-JP" xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
     <grapheme>F1</grapheme>
-    <alias>F 一</alias>
+    <alias>F一</alias>
   </lexeme>
   <lexeme>
-    <grapheme>F 一</grapheme>
+    <grapheme>F一</grapheme>
     <phoneme>エフワン</phoneme>
   </lexeme>
   <lexeme>
