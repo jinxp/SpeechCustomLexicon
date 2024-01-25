@@ -13,4 +13,8 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
     <grapheme>  FM </grapheme>
     <alias> Ehff Ehmm! </alias>
   </lexeme>
+  <lexeme>
+    <grapheme>AAAAA级</grapheme>
+    <alias>五 A 级</alias>
+  </lexeme>
 </lexicon>
