@@ -23,10 +23,14 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
   </lexeme>
   <lexeme>
     <grapheme>蓝心小V</grapheme>
-    <alias>蓝 心 小 V</alias>
+    <alias>蓝心小微</alias>
   </lexeme>
   <lexeme>
     <grapheme>蓝心小v</grapheme>
     <alias>蓝 心 小 v</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>AAAAA</grapheme>
+    <phoneme>wu 3 - ei 1 - ji 2</phoneme>
   </lexeme>
 </lexicon>
