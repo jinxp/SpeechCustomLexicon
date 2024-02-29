@@ -33,4 +33,8 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
     <grapheme>AAAAA</grapheme>
     <phoneme>wu 3 - ei 1 - ji 2</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>#</grapheme>
+    <phoneme></phoneme>
+  </lexeme>
 </lexicon>
