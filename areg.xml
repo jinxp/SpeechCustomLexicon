@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="ar-EG">
+  <lexeme>
+    <grapheme> ومقهى الكوفة </grapheme>
+    <alias>وَمَقْهَىْ الْكوفَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ومقهى النايا </grapheme>
+    <alias>وَمَقْهَىْ الْنايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ومقهى الوداية المغربي </grapheme>
+    <alias>وَمَقْهَىْ اَلْوَدايَةِ الْمَغْرِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ومقهى ايام الخير </grapheme>
+    <alias>وَمَقْهَىْ اَيامِ الْخَيْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ومقهى ايام العز </grapheme>
+    <alias>وَمَقْهَىْ اَيامِ الْعِزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ومقهى خوفو </grapheme>
+    <alias>وَمَقْهَىْ خوفو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ومقهى سلطان سراي التركي </grapheme>
+    <alias>وَمَقْهَىْ سُلْطانْ سَرايِ الْتَرْكِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ومقهى قرية التراث </grapheme>
+    <alias>وَمَقْهَىْ قَرْيَةْ اَلْتُراثْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ومقهى لقمة خليجي تريتس </grapheme>
+    <alias>وَمَقْهَىْ لُقْمَةِ خَليجي تْرْيْتْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ومقهى نجمة الرياضة </grapheme>
+    <alias>وَمَقْهَىْ نَجْمَة الْرِياضَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وملحمة الاصابع الذهبية </grapheme>
+    <alias>وَمَلْحَمَةِ الْاَصابِعِ الْذَهَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وملحمة المجد </grapheme>
+    <alias>وَمَلْحَمَةِ الْمَجْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وملحمة رأس الخيمة الجديدة </grapheme>
+    <alias>وَمَلْحَمَةِ رَأْسِ الْخَيْمَةِ الْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وملحمة عبير الشام </grapheme>
+    <alias>وَمَلْحَمَةِ عَبيرُ الْشامِ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ون إيت ون للهواتف المتحركة </grapheme>
+    <alias>وَنْ إِيِتْ وَنْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ون تو ثري للهواتف المتحركة </grapheme>
+    <alias>وَنْ تُوْ ثْري لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ون تو ون للإدارة الرياضية </grapheme>
+    <alias>وَنْ تُوْ وَنْ لِلْإِدارَةِ الْرِياضِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ونش حمل ونقل السيارات </grapheme>
+    <alias>وَنْشْ حَمْلْ وَنَقْل الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ونوس لتجارة مواد البناء </grapheme>
+    <alias>وَنوسْ لِتِجارَةِ مَوادِ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ووريدول للعمود الفقري </grapheme>
+    <alias>وُوْرْيْدولْ لِلْعَمودِ الْفِقْرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وول ستريت للصرافة </grapheme>
+    <alias>وولْ سْتْريتْ لِلْصِرافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ياس الاسم الملكي للعطور </grapheme>
+    <alias>ياسْ اَلْاِسْمُ الْمَلَكِيْ لِلْعُطورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ياسين الطبي </grapheme>
+    <alias>ياسين الْطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ياسين لاعمال الالمنيوم </grapheme>
+    <alias>ياسينَ لِاَعْمالِ الْاَلِمِنْيومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> يامال الشام </grapheme>
+    <alias>يامالِ الْشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> يحيى للاكلات البحرية </grapheme>
+    <alias>يَحْيَىْ لِلْاَكَلاتِ الْبَحْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> يرجى إعادة الاستفسار بطريقة أخرى </grapheme>
+    <alias>يُرْجَىْ إِعادَةِ الِاسْتِفْسارْ بِطَريقَةٍ أُخْرَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> يرجى استخدام رقم معرف الحساب الخاص بك </grapheme>
+    <alias>يُرْجَىْ اسْتِخْدامُ رَقْمُ مُعَرِفِ الْحِسابِ الْخاصْ بَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> يرجى التواصل معهم لدفع المستحقات </grapheme>
+    <alias>يُرْجَىْ الْتَواصُلُ مَعَهُمْ لِدَفْعِ الْمُسْتَحَقاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> يرجى القيام بتحديث بيانات الهوية الإماراتية لإعادة تشغيل حسابك </grapheme>
+    <alias>يُرْجَىْ الْقِيامُ بِتَحْديثِ بَياناتِ الْهُوِيَةِ الْإِماراتِيَةْ لِإِعادَةِ تَشْغيلِ حِسابِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> يسرية لتجارة الملابس </grapheme>
+    <alias>يُسْرِيَةْ لِتِجارَةِ الْمَلابِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> يعيش الزبيدي للإلكترونيات </grapheme>
+    <alias>يَعيشُ الْزُبَيْدِيْ لِلْإِلِكْتِرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> يمكنك الدفع من خلال طرق الدفع الأخرى </grapheme>
+    <alias>يُمْكِنُك الْدَفْعُ مَنْ خِلالِ طُرُقِ الْدَفْعِ الْأُخْرَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> يمكنك معرفة المزيد من التفاصيل </grapheme>
+    <alias>يُمْكِنُكَ مَعْرِفَةِ الْمَزيدِ مِن الْتَفاصيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ينابيع الشام </grapheme>
+    <alias>يَنابيعِ الْشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ينابيع الوادي </grapheme>
+    <alias>يَنابيعِ الْوادي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> يورو ستار لتأجير السيارات </grapheme>
+    <alias>يورو سْتارْ لِتَأْجيرِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> يولاند الطبي </grapheme>
+    <alias>يولانْدِ الْطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> يونايتد الطبي </grapheme>
+    <alias>يونايْتِدِ الْطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> يونيفرسال الطبي التخصصي </grapheme>
+    <alias>يونيفِرْسالِ الْطِبِيْ اَلْتَخَصُصي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> يُرْجَى العلم بأنه سيتم إلغاء الحساب بِشَكْلٍ نهائي </grapheme>
+    <alias>يُرْجَىْ الْعِلْمِ بِأَنَهُ سَيَتِمُ إِلْغاءِ الْحِسابْ بِشَكْلٍ نِهائي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> يُرْجَى العِلْمْ </grapheme>
+    <alias>يُرْجَىْ الْعِلْمْ</alias>
+  </lexeme>
+</lexicon>
