@@ -1,0 +1,2008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="ar-SA">
+  <lexeme>
+    <grapheme> مطبعة السفير </grapheme>
+    <alias>مَطْبَعَةْ اَلسَفيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبعة الصحابة </grapheme>
+    <alias>مَطْبَعَةْ اَلصَحابَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبعة الفجيرة الوطنية </grapheme>
+    <alias>مَطْبَعَةْ اَلْفُجَيْرَةْ اَلْوَطَنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبعة المستقبل </grapheme>
+    <alias>مَطْبَعَةْ اَلْمُسْتَقْبَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبعة النخيل ومكتبتها </grapheme>
+    <alias>مَطْبَعَةْ اَلنَخيلِ وَمَكْتَبَتُها</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبعة جلفار </grapheme>
+    <alias>مَطْبَعَةْ جِلْفارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبعة فينوس </grapheme>
+    <alias>مَطْبَعَةْ فْيْنوسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبعة مكس كلر </grapheme>
+    <alias>مَطْبَعَةْ مِكْسْ كَلَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة </grapheme>
+    <alias>مَطْحَنَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة أبوسليمان </grapheme>
+    <alias>مَطْحَنَةْ أَبوسُلَيْمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة أبونواس </grapheme>
+    <alias>مَطْحَنَةْ أَبونْواسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة أنس </grapheme>
+    <alias>مَطْحَنَةْ أَنَسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة الجزيرة </grapheme>
+    <alias>مَطْحَنَةْ اَلْجَزيرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة الجوهر </grapheme>
+    <alias>مَطْحَنَةِ الْجَوْهَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة الحرية </grapheme>
+    <alias>مَطْحَنَةْ اَلْحُرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة الخليج </grapheme>
+    <alias>مَطْحَنَةِ الْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة الزينة </grapheme>
+    <alias>مَطْحَنَةِ الزينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة السناء </grapheme>
+    <alias>مَطْحَنَةْ اَلسَناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة المشجري </grapheme>
+    <alias>مَطْحَنَةْ اَلْمُشْجَري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة جراند ليوا </grapheme>
+    <alias>مَطْحَنَةْ جُرانْدْ ليوا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة جرين يثرب </grapheme>
+    <alias>مَطْحَنَةْ جِرينْ يَثْرِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة حلوان </grapheme>
+    <alias>مَطْحَنَةْ حُلْوانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة دقيق فاطمة </grapheme>
+    <alias>مَطْحَنَةْ دَقيقْ فاطِمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة سحار </grapheme>
+    <alias>مَطْحَنَةْ سَحارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة صقر الإمارات </grapheme>
+    <alias>مَطْحَنَةْ صَقْرْ اَلْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة عمر </grapheme>
+    <alias>مَطْحَنَةْ عُمَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة مرواس </grapheme>
+    <alias>مَطْحَنَةْ مِرْواسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة نور الذيد </grapheme>
+    <alias>مَطْحَنَةْ نورْ اَلذيدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة هاشم </grapheme>
+    <alias>مَطْحَنَةْ هاشِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة وبقالة بغداد </grapheme>
+    <alias>مَطْحَنَةْ وَبِقالَةِ بَغْدادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة وسوبر ماركت الصفا </grapheme>
+    <alias>مَطْحَنَةْ وْسوبَرْ مارْكَتْ اَلصَفا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة وسوبر ماركت الصفوان </grapheme>
+    <alias>مَطْحَنَةْ وْسوبَرْ مارْكَتْ اَلصَفْوانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطحنة ومحمصة فاطمة </grapheme>
+    <alias>مَطْحَنَةْ وَمَحْمَصَةِ فاطِمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطر ربيع الدبوس للكهرباء </grapheme>
+    <alias>مَطَرْ رَبْيْعْ الدَبوسْ لِلْكَهْرُباءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم </grapheme>
+    <alias>مَطْعَمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم آبل كريك </grapheme>
+    <alias>مَطْعَمْ آبَلْ كْريكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم آر إكس </grapheme>
+    <alias>مَطْعَمْ آرْ إِكْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم آمنة </grapheme>
+    <alias>مَطْعَمْ آمِنَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبو الفداء </grapheme>
+    <alias>مَطْعَمْ أَبو الْفِداءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبو حنش للمندي و المظبي </grapheme>
+    <alias>مَطْعَمْ أَبو حَنَشْ لِلْمَنْدْيْ وَ الْمُظْبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبو سهلة </grapheme>
+    <alias>مَطْعَمْ أَبو سَهْلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبوأيوب </grapheme>
+    <alias>مَطْعَمْ أَبوأَيوبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبوحلب </grapheme>
+    <alias>مَطْعَمْ أَبوحَلِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبوخالد </grapheme>
+    <alias>مَطْعَمْ أَبوخالِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبوخلفان </grapheme>
+    <alias>مَطْعَمْ أَبوخَلْفانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبودرويش </grapheme>
+    <alias>مَطْعَمْ أَبودْرَويشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبوشقرة </grapheme>
+    <alias>مَطْعَمْ أَبوشَقْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبوعلي </grapheme>
+    <alias>مَطْعَمْ أَبوعَلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبوفيصل </grapheme>
+    <alias>مَطْعَمْ أَبوفَيْصِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبونواس </grapheme>
+    <alias>مَطْعَمْ أَبونْواسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبونواف </grapheme>
+    <alias>مَطْعَمْ أَبونَوافْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبين </grapheme>
+    <alias>مَطْعَمْ أَبينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أحمد </grapheme>
+    <alias>مَطْعَمْ أَحْمَدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أرجانة </grapheme>
+    <alias>مَطْعَمْ أَرْجانَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أرز لبنان </grapheme>
+    <alias>مَطْعَمْ أَرَزَ لُبْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أطعمة الإمارات </grapheme>
+    <alias>مَطْعَمْ أَطْعِمَةِ الْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أفغان بخاري </grapheme>
+    <alias>مَطْعَمْ أَفْغانْ بُخاري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أفغان خليج للبخاري </grapheme>
+    <alias>مَطْعَمْ أَفْغانُ خَليجْ لِلْبُخارِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أم علي </grapheme>
+    <alias>مَطْعَمْ أُمْ عَلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أهلا </grapheme>
+    <alias>مَطْعَمْ أَهْلًا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أواني </grapheme>
+    <alias>مَطْعَمْ أَوانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ابراج زمزم </grapheme>
+    <alias>مَطْعَمْ اَبْراجِ زَمْزَمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ابراهيم </grapheme>
+    <alias>مَطْعَمْ اِبْراهيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ابن الديرة </grapheme>
+    <alias>مَطْعَمْ اِبْنُ الديرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ابن حميدو </grapheme>
+    <alias>مَطْعَمْ اِبْنْ حَمْيِدو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اتموسفير </grapheme>
+    <alias>مَطْعَمْ اَتْموسْفيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اتون </grapheme>
+    <alias>مَطْعَمْ اَتونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ارسلان </grapheme>
+    <alias>مَطْعَمْ اَرَسَلانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ارلكان </grapheme>
+    <alias>مَطْعَمْ اَرَلَكانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اريانا افغان </grapheme>
+    <alias>مَطْعَمْ اَرْيانَاَ افْغانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ازال للمندي </grapheme>
+    <alias>مَطْعَمْ اَزالْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اس اس باكيت برياني </grapheme>
+    <alias>مَطْعَمْ اِسْ اِسْ باكيتْ بْرْيانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم استاكوزا للمأكولات البحرية </grapheme>
+    <alias>مَطْعَمْ اِسْتاكوزا لِلْمْأَكولاتِ الْبَحْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم استوديو مصر </grapheme>
+    <alias>مَطْعَمْ اُسْتودَيو مِصْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اسراء </grapheme>
+    <alias>مَطْعَمْ اِسْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اسمار للمندي </grapheme>
+    <alias>مَطْعَمْ اَسْمارْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اسماك سمكمك </grapheme>
+    <alias>مَطْعَمْ اَسْماكِ سَمَكْمَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اشاز </grapheme>
+    <alias>مَطْعَمْ اَشازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اشرفي </grapheme>
+    <alias>مَطْعَمْ اَشْرَفِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اصفهان </grapheme>
+    <alias>مَطْعَمْ اَصْفَهانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اطياف </grapheme>
+    <alias>مَطْعَمْ اَطْيافْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم افغان خراسان كباب </grapheme>
+    <alias>مَطْعَمْ اَفْغانْ خُراسانِ كَبابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم افغان للكباب </grapheme>
+    <alias>مَطْعَمْ اَفْغانْ لِلْكَبابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اكسبرس غياثي </grapheme>
+    <alias>مَطْعَمْ اِكْسَبِرِسْ غَياثي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الأبراج للمندي </grapheme>
+    <alias>مَطْعَمْ اَلْأَبْراجْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الأجواء </grapheme>
+    <alias>مَطْعَمْ اَلْأَجْواءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الأسطى أبوسعيد </grapheme>
+    <alias>مَطْعَمْ اَلْأُسْطَىْ أَبوسَعيدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الأسيوطي </grapheme>
+    <alias>مَطْعَمْ اَلْأَسْيوطِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الأصداف الذهبية للأرز البخاري </grapheme>
+    <alias>مَطْعَمْ اَلْأَصْدافِ الذَهَبِيَةِ لِلُأْرُزِ الْبُخارِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الأفواج </grapheme>
+    <alias>مَطْعَمْ اَلْأَفْواجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الأمور </grapheme>
+    <alias>مَطْعَمْ اَلْأَمورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الأمور اكسبرس </grapheme>
+    <alias>مَطْعَمْ اَلْأَمورْ اِكْسَبِرِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الأمور باشا </grapheme>
+    <alias>مَطْعَمْ اَلْأَمورْ باشا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الأنوار </grapheme>
+    <alias>مَطْعَمْ اَلْأَنْوارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الأهلي </grapheme>
+    <alias>مَطْعَمْ اَلْأَهْلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الأوبرج </grapheme>
+    <alias>مَطْعَمْ اَلْأوبَرْجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الإخوان </grapheme>
+    <alias>مَطْعَمْ اَلْإِخْوانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الابار </grapheme>
+    <alias>مَطْعَمْ اَلْاَبارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الاجاويد للمندي والمدفون </grapheme>
+    <alias>مَطْعَمْ اَلْاَجاويدْ لِلْمَنْدِيْ والْمَدْفونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الاجداد </grapheme>
+    <alias>مَطْعَمْ اَلْاَجْدادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الاجيال </grapheme>
+    <alias>مَطْعَمْ اَلْاِجْيالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الاحباء </grapheme>
+    <alias>مَطْعَمْ اَلْاَحِباءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الاحلام الذهبية </grapheme>
+    <alias>مَطْعَمْ اَلْاَحْلامِ الذَهَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الاخطبوط </grapheme>
+    <alias>مَطْعَمْ اَلْاُخْطُبوطْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الارز البخاري </grapheme>
+    <alias>مَطْعَمْ اَلْاَرُزِ الْبُخارِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الارز وسلطة </grapheme>
+    <alias>مَطْعَمْ اَلْاَرُزْ وَسَلَطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الاسكندراني </grapheme>
+    <alias>مَطْعَمْ اَلْاِسْكَنْدَراني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الاصيل </grapheme>
+    <alias>مَطْعَمْ اَلْاَصيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الامانة </grapheme>
+    <alias>مَطْعَمْ اَلْاَمانَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الامبراطور </grapheme>
+    <alias>مَطْعَمْ اَلْاِمْبِراطورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الامير </grapheme>
+    <alias>مَطْعَمْ اَلْاَميرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الامين </grapheme>
+    <alias>مَطْعَمْ اَلْاَمينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الاوتوماتيك </grapheme>
+    <alias>مَطْعَمْ اَلْاوتوماتِيْكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الايام </grapheme>
+    <alias>مَطْعَمْ اَلْاَيامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البارون </grapheme>
+    <alias>مَطْعَمْ اَلْبارونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الباشا </grapheme>
+    <alias>مَطْعَمْ اَلْباشا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الباشق </grapheme>
+    <alias>مَطْعَمْ اَلْباشِقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البر والبحر </grapheme>
+    <alias>مَطْعَمْ اَلْبَرِ والْبَحْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البراري </grapheme>
+    <alias>مَطْعَمْ اَلْبَراري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البرشاء </grapheme>
+    <alias>مَطْعَمْ اَلْبَرْشاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البسطة </grapheme>
+    <alias>مَطْعَمْ اَلْبَسْطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البطائح </grapheme>
+    <alias>مَطْعَمْ اَلْبَطائِحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البو كمال </grapheme>
+    <alias>مَطْعَمْ اَلْبو كَمالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البوغاز </grapheme>
+    <alias>مَطْعَمْ اَلْبوغازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيك </grapheme>
+    <alias>مَطْعَمْ اْلْبيكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيك كورنر </grapheme>
+    <alias>مَطْعَمْ اَلْبيكْ كورْنَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم التاج </grapheme>
+    <alias>مَطْعَمْ اَلتاجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم التاج الملكي </grapheme>
+    <alias>مَطْعَمْ اَلتاجْ اَلْمَلَكِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم التاريخ </grapheme>
+    <alias>مَطْعَمْ اَلتاريخْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم التسامح للمندي </grapheme>
+    <alias>مَطْعَمْ اَلتَسامُحْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم التعاون </grapheme>
+    <alias>مَطْعَمْ اَلتَعاوُنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم التعاون الجديد </grapheme>
+    <alias>مَطْعَمْ اَلتَعاوُنْ اَلْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم التواصل </grapheme>
+    <alias>مَطْعَمْ اَلتَواصُلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجابر </grapheme>
+    <alias>مَطْعَمْ اَلْجابِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجافلية </grapheme>
+    <alias>مَطْعَمْ اَلْجافِلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجالبوت </grapheme>
+    <alias>مَطْعَمْ اَلْجالْبوتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجبل </grapheme>
+    <alias>مَطْعَمْ اَلْجَبَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجبل الازرق </grapheme>
+    <alias>مَطْعَمْ اَلْجَبَلْ اَلْاَزْرَقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجداول </grapheme>
+    <alias>مَطْعَمْ اَلْجَداوِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجزيرة </grapheme>
+    <alias>مَطْعَمْ اَلْجَزيرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجزيرة والخليج </grapheme>
+    <alias>مَطْعَمْ اَلْجَزيرَةْ والْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجعفري </grapheme>
+    <alias>مَطْعَمْ اَلْجَعْفَرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجلسة للمندي </grapheme>
+    <alias>مَطْعَمْ اَلْجَلْسَةْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجمال </grapheme>
+    <alias>مَطْعَمْ اَلْجَمالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجمرة </grapheme>
+    <alias>مَطْعَمْ اَلْجَمْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجميزة </grapheme>
+    <alias>مَطْعَمْ اَلْجُمَيْزَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجنادرية للمندي والمظبي </grapheme>
+    <alias>مَطْعَمْ اَلْجَنادِرِيَةْ لِلْمَنْدِيْ والْمَظْبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجنوب للمندي </grapheme>
+    <alias>مَطْعَمْ اَلْجَنوبْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجوارح الشعبي </grapheme>
+    <alias>مَطْعَمْ اَلْجَوارِحِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجود للمندي </grapheme>
+    <alias>مَطْعَمْ اَلْجودْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجوهرة </grapheme>
+    <alias>مَطْعَمْ اَلْجَوْهَرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجيلاني </grapheme>
+    <alias>مَطْعَمْ اَلْجيلاني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الحاتى </grapheme>
+    <alias>مَطْعَمْ اَلْحاتِىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الحاتي </grapheme>
+    <alias>مَطْعَمْ اَلْحاتي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الحبشة </grapheme>
+    <alias>مَطْعَمْ اَلْحَبَشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الحركة </grapheme>
+    <alias>مَطْعَمْ اَلْحَرَكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الحرير </grapheme>
+    <alias>مَطْعَمْ اَلْحَريرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الحطاب </grapheme>
+    <alias>مَطْعَمْ اَلْحَطابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الحمراء </grapheme>
+    <alias>مَطْعَمْ اَلْحَمْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الحمصاني </grapheme>
+    <alias>مَطْعَمْ اَلْحُمْصاني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الحميدية </grapheme>
+    <alias>مَطْعَمْ اَلْحَميدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الحوت </grapheme>
+    <alias>مَطْعَمْ اَلْحوتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الخروف الذهبي </grapheme>
+    <alias>مَطْعَمْ اَلْخَروفِ الذَهَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الخزنة </grapheme>
+    <alias>مَطْعَمْ اَلْخَزْنَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الخطار </grapheme>
+    <alias>مَطْعَمْ اَلْخَطارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الخليج </grapheme>
+    <alias>مَطْعَمْ اَلْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الخليج الجديد </grapheme>
+    <alias>مَطْعَمْ اَلْخَليجْ اَلْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الخليج للمندي </grapheme>
+    <alias>مَطْعَمْ اَلْخَليجْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الخنيزي </grapheme>
+    <alias>مَطْعَمْ اَلْخِنَيْزي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الخيزران </grapheme>
+    <alias>مَطْعَمْ اَلْخَيْزَرانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الدار </grapheme>
+    <alias>مَطْعَمْ اَلدارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الدار للمندي </grapheme>
+    <alias>مَطْعَمْ اَلدارْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الدروازة </grapheme>
+    <alias>مَطْعَمْ اَلدِرْوازَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الدعاء </grapheme>
+    <alias>مَطْعَمْ اَلدُعاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الدلة </grapheme>
+    <alias>مَطْعَمْ اَلدَلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الدمياطي اكسبرس </grapheme>
+    <alias>مَطْعَمْ اَلدِمْياطْيْ اِكْسَبْرِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الديوان </grapheme>
+    <alias>مَطْعَمْ اَلديوانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الذ شاورما </grapheme>
+    <alias>مَطْعَمْ اَلَذْ شاوَرَما</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الذوق العالمي </grapheme>
+    <alias>مَطْعَمْ اَلذَوْقْ الْعالَمِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الراحة </grapheme>
+    <alias>مَطْعَمْ اَلراحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الراس </grapheme>
+    <alias>مَطْعَمْ اَلرَاْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الراشد </grapheme>
+    <alias>مَطْعَمْ اَلراشِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الربان </grapheme>
+    <alias>مَطْعَمْ اَلرُبانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الرحال </grapheme>
+    <alias>مَطْعَمْ اَلْرَحالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الرحال المميز </grapheme>
+    <alias>مَطْعَمْ اَلْرَحالْ اَلْمُمَيَزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الرسالة </grapheme>
+    <alias>مَطْعَمْ اَلرِسالَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الرفيق </grapheme>
+    <alias>مَطْعَمْ اَلرَفيقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الرملة </grapheme>
+    <alias>مَطْعَمْ اَلرَمْلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الروشة </grapheme>
+    <alias>مَطْعَمْ اَلروشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الروضة </grapheme>
+    <alias>مَطْعَمْ اَلرَوْضَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الريادة للبخاري </grapheme>
+    <alias>مَطْعَمْ اَلرِيادَةْ لِلْبُخارِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الرياضي </grapheme>
+    <alias>مَطْعَمْ اَلرِياضِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الريان </grapheme>
+    <alias>مَطْعَمْ اَلرَيانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الريحان </grapheme>
+    <alias>مَطْعَمْ اَلرَيْحانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الريدان للمندي </grapheme>
+    <alias>مَطْعَمْ اَلريدانْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الزعفران </grapheme>
+    <alias>مَطْعَمْ اَلزَعْفَرانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الزمان </grapheme>
+    <alias>مَطْعَمْ اَلزَمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الزهراء </grapheme>
+    <alias>مَطْعَمْ اَلزَهْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الزيتون </grapheme>
+    <alias>مَطْعَمْ اَلزَيْتونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الزين </grapheme>
+    <alias>مَطْعَمْ اَلزينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الساحة </grapheme>
+    <alias>مَطْعَمْ اَلساحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الساحة سكاسكا </grapheme>
+    <alias>مَطْعَمْ اَلساحَةْ سْكاسْكا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الساحل </grapheme>
+    <alias>مَطْعَمْ اَلساحِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السارية </grapheme>
+    <alias>مَطْعَمْ اَلسارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السحاب </grapheme>
+    <alias>مَطْعَمْ اَلسَحابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السخي </grapheme>
+    <alias>مَطْعَمْ اَلسَخِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السدرة </grapheme>
+    <alias>مَطْعَمْ اَلسِدْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السراج </grapheme>
+    <alias>مَطْعَمْ اَلسَراجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السراج المنير </grapheme>
+    <alias>مَطْعَمْ اَلسَراجْ اَلْمُنيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السرود </grapheme>
+    <alias>مَطْعَمْ اَلسَرودْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السرود والمجبا </grapheme>
+    <alias>مَطْعَمْ اَلسَرودْ والْمِجْبا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السعد </grapheme>
+    <alias>مَطْعَمْ اَلسَعْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السفرة </grapheme>
+    <alias>مَطْعَمْ اَلسُفْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السفير </grapheme>
+    <alias>مَطْعَمْ اَلسَفيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السكيك </grapheme>
+    <alias>مَطْعَمْ اَلسْكيكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السلام </grapheme>
+    <alias>مَطْعَمْ اَلسَلامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السلطان </grapheme>
+    <alias>مَطْعَمْ اَلسُلْطانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السلطان الشامي </grapheme>
+    <alias>مَطْعَمْ اَلسُلْطانْ اَلشامي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السلوى </grapheme>
+    <alias>مَطْعَمْ اَلسَلْوَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السندباد </grapheme>
+    <alias>مَطْعَمْ اَلسِنْدِبادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السنيار </grapheme>
+    <alias>مَطْعَمْ اَلسِنْيارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السوباط </grapheme>
+    <alias>مَطْعَمْ اَلسُوْباطْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السوليدير </grapheme>
+    <alias>مَطْعَمْ اَلسولِيْديرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السيف للمندي والبخاري </grapheme>
+    <alias>مَطْعَمْ اَلسَيْفْ لِلْمَنْدِيْ والْبُخاري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السيفة </grapheme>
+    <alias>مَطْعَمْ اَلسيفَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السيوح </grapheme>
+    <alias>مَطْعَمْ اَلسْيوحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشادروان </grapheme>
+    <alias>مَطْعَمْ اَلشادَرْوانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشاطئ </grapheme>
+    <alias>مَطْعَمْ اَلشاطِئْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشاطر حسن </grapheme>
+    <alias>مَطْعَمْ اَلشاطِرْ حَسَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشامي </grapheme>
+    <alias>مَطْعَمْ اَلشامي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشباب والكباب </grapheme>
+    <alias>مَطْعَمْ اَلشَبابْ والْكَبابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشبحات </grapheme>
+    <alias>مَطْعَمْ اَلشَبْحاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشبراوي </grapheme>
+    <alias>مَطْعَمْ اَلشَبْراوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشجاع </grapheme>
+    <alias>مَطْعَمْ اَلشُجاعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشرفاء </grapheme>
+    <alias>مَطْعَمْ اَلشُرَفاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشرقي </grapheme>
+    <alias>مَطْعَمْ اَلشَرْقِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشعبيات </grapheme>
+    <alias>مَطْعَمْ اَلشَعْبِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشفا </grapheme>
+    <alias>مَطْعَمْ اَلشِفا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشواء </grapheme>
+    <alias>مَطْعَمْ اَلشِواءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشوامخ </grapheme>
+    <alias>مَطْعَمْ اَلشَوامِخْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشورسة </grapheme>
+    <alias>مَطْعَمْ اَلشْوْرْسَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشيزان </grapheme>
+    <alias>مَطْعَمْ اَلشْيْزانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الصادق </grapheme>
+    <alias>مَطْعَمْ اَلصادِقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الصحاري </grapheme>
+    <alias>مَطْعَمْ اَلصَحاري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الصفا </grapheme>
+    <alias>مَطْعَمْ اَلصَفا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الصفدي </grapheme>
+    <alias>مَطْعَمْ اَلصَفَدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الصفصاف </grapheme>
+    <alias>مَطْعَمْ اَلصَفْصافْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الصفية </grapheme>
+    <alias>مَطْعَمْ اَلصَفِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الصنوبر </grapheme>
+    <alias>مَطْعَمْ اَلصَنَوْبَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الصياد </grapheme>
+    <alias>مَطْعَمْ اَلصَيادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الضيافة </grapheme>
+    <alias>مَطْعَمْ اَلضِيافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الطائرة </grapheme>
+    <alias>مَطْعَمْ اَلطائِرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الطازج </grapheme>
+    <alias>مَطْعَمْ اَلطازِجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الطربوش </grapheme>
+    <alias>مَطْعَمْ اَلطَرْبوشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الطربوش السوري </grapheme>
+    <alias>مَطْعَمْ اَلطَرْبوشْ اَلسورِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الطيبة </grapheme>
+    <alias>مَطْعَمْ اَلطَيِبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الطيران </grapheme>
+    <alias>مَطْعَمْ اَلطَيَرانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الظبي </grapheme>
+    <alias>مَطْعَمْ اَلظَبْيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الظفرة </grapheme>
+    <alias>مَطْعَمْ اَلظَفْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العائلات </grapheme>
+    <alias>مَطْعَمْ اَلْعائِلاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العاصمة </grapheme>
+    <alias>مَطْعَمْ اَلْعاصِمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العافية </grapheme>
+    <alias>مَطْعَمْ اَلْعافِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العبرة </grapheme>
+    <alias>مَطْعَمْ اَلْعَبْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العتبة </grapheme>
+    <alias>مَطْعَمْ اَلْعَتَبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العراب </grapheme>
+    <alias>مَطْعَمْ اَلْعَرابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العرب </grapheme>
+    <alias>مَطْعَمْ اَلْعَرَبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العروس </grapheme>
+    <alias>مَطْعَمْ اَلْعَروسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العريبي </grapheme>
+    <alias>مَطْعَمْ اَلْعُرَيْبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العريش </grapheme>
+    <alias>مَطْعَمْ اَلْعَريشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العز </grapheme>
+    <alias>مَطْعَمْ اَلْعِزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العزايم العراقي </grapheme>
+    <alias>مَطْعَمْ اَلْعَزايِمِ الْعِراقِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العفيف </grapheme>
+    <alias>مَطْعَمْ اَلْعَفيفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العمدة </grapheme>
+    <alias>مَطْعَمْ اَلْعُمْدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العنفلوص للاسماك </grapheme>
+    <alias>مَطْعَمْ اَلْعَنْفَلوصْ لِلْاَسْماكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العنود </grapheme>
+    <alias>مَطْعَمْ اَلْعَنودْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العود </grapheme>
+    <alias>مَطْعَمْ اَلْعودْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العين </grapheme>
+    <alias>مَطْعَمْ اَلْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الغليلة </grapheme>
+    <alias>مَطْعَمْ اَلْغَليلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الغوبانة </grapheme>
+    <alias>مَطْعَمْ اَلْغَوْبانَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الغويزي للمندي </grapheme>
+    <alias>مَطْعَمْ اَلْغويْزي لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفاخر </grapheme>
+    <alias>مَطْعَمْ اَلْفاخِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفانوس </grapheme>
+    <alias>مَطْعَمْ اَلْفانوسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفجيرة </grapheme>
+    <alias>مَطْعَمْ اَلْفُجَيْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفرات </grapheme>
+    <alias>مَطْعَمْ اَلْفُراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفران </grapheme>
+    <alias>مَطْعَمْ اَلْفَرانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفرح </grapheme>
+    <alias>مَطْعَمْ اَلْفَرَحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفرن الأصيل </grapheme>
+    <alias>مَطْعَمْ اَلْفُرْنْ اَلْأَصيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفروانية </grapheme>
+    <alias>مَطْعَمْ اَلْفَرْوانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفروج الطازج </grapheme>
+    <alias>مَطْعَمْ اَلْفَروجِ الطازَجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفريج </grapheme>
+    <alias>مَطْعَمْ اَلْفِريجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفضل </grapheme>
+    <alias>مَطْعَمْ اَلْفَضْلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفطور </grapheme>
+    <alias>مَطْعَمْ اَلْفُطورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفلك </grapheme>
+    <alias>مَطْعَمْ اَلْفَلَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفلمنكي </grapheme>
+    <alias>مَطْعَمْ اَلْفَلَمَنْكِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفنة </grapheme>
+    <alias>مَطْعَمْ اَلْفَنَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفنر </grapheme>
+    <alias>مَطْعَمْ اَلْفَنَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفوار </grapheme>
+    <alias>مَطْعَمْ اَلْفَوارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفورنو </grapheme>
+    <alias>مَطْعَمْ اَلْفُوْرْنو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفورنو اونو </grapheme>
+    <alias>مَطْعَمْ اَلْفُوْرْنو اِوُنو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفيصل </grapheme>
+    <alias>مَطْعَمْ اَلْفَيْصَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم القائد </grapheme>
+    <alias>مَطْعَمْ اَلْقائِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم القاضي </grapheme>
+    <alias>مَطْعَمْ اَلْقاضي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم القبائل </grapheme>
+    <alias>مَطْعَمْ اَلْقَبائِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم القباية </grapheme>
+    <alias>مَطْعَمْ اَلْقُبايَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم القطينة </grapheme>
+    <alias>مَطْعَمْ اَلْقُطينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم القمر والنجوم للمحاشي </grapheme>
+    <alias>مَطْعَمْ اَلْقَمَرِ والنُجومْ لِلْمْحاشِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم القوس </grapheme>
+    <alias>مَطْعَمْ اَلْقَوْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكاتم </grapheme>
+    <alias>مَطْعَمْ اَلْكاتِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكباب البحريني </grapheme>
+    <alias>مَطْعَمْ اَلْكَبابِ الْبَحْرينِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكباب الخاص </grapheme>
+    <alias>مَطْعَمْ اَلْكَبابْ اَلْخاصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكباب الكوخردي </grapheme>
+    <alias>مَطْعَمْ اَلْكَبابِ الْكوخَرْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكرم </grapheme>
+    <alias>مَطْعَمْ اَلْكَرَمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكروان </grapheme>
+    <alias>مَطْعَمْ اَلْكَرَوانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكروم </grapheme>
+    <alias>مَطْعَمْ اَلْكُرومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكلحة </grapheme>
+    <alias>مَطْعَمْ اَلْكَلْحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكنز </grapheme>
+    <alias>مَطْعَمْ اَلْكَنْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكهف </grapheme>
+    <alias>مَطْعَمْ اَلْكَهْفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكوخ الذهبي </grapheme>
+    <alias>مَطْعَمْ اَلْكوخِ الذَهَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكورنيش </grapheme>
+    <alias>مَطْعَمْ اَلْكورْنِيْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اللقمة السريعة </grapheme>
+    <alias>مَطْعَمْ اَلُلقْمَةِ السَريعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اللياقه </grapheme>
+    <alias>مَطْعَمْ اَلَلياقَهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الليوان </grapheme>
+    <alias>مَطْعَمْ اَلْليْوانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الليوان الشامي </grapheme>
+    <alias>مَطْعَمْ اَلْليْوانْ اَلشامي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المائدة </grapheme>
+    <alias>مَطْعَمْ اَلْمائِدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المازمي </grapheme>
+    <alias>مَطْعَمْ اَلْمازْمي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المبارك </grapheme>
+    <alias>مَطْعَمْ اَلْمُبارَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المباشر </grapheme>
+    <alias>مَطْعَمْ اَلْمُباشِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المتنوع </grapheme>
+    <alias>مَطْعَمْ اَلْمُتَنَوِعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المجداف للمأكولات البحرية </grapheme>
+    <alias>مَطْعَمْ اَلْمِجْدافْ لِلْمَأْكولاتِ الْبَحْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المجلس </grapheme>
+    <alias>مَطْعَمْ اَلْمَجْلِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المحارة </grapheme>
+    <alias>مَطْعَمْ اَلْمَحارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المحارة الجديدة </grapheme>
+    <alias>مَطْعَمْ اَلْمَحارَةْ اَلْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المحفل </grapheme>
+    <alias>مَطْعَمْ اَلْمَحْفَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المحيط </grapheme>
+    <alias>مَطْعَمْ اَلْمُحيطْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المحيط الازرق للمشاوي </grapheme>
+    <alias>مَطْعَمْ اَلْمُحيطْ اَلْاَزْرَقِ لِلْمَشاوي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المذاق </grapheme>
+    <alias>مَطْعَمْ اَلْمَذاقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المذاق الدمشقي </grapheme>
+    <alias>مَطْعَمْ اَلْمَذاقْ اَلدِمَشْقِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المرج </grapheme>
+    <alias>مَطْعَمْ اَلْمَرْجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المرفأ </grapheme>
+    <alias>مَطْعَمْ اَلْمَرْفَأْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المسار </grapheme>
+    <alias>مَطْعَمْ اَلْمَسارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المسيلة </grapheme>
+    <alias>مَطْعَمْ اَلْمَسْيِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المشوار </grapheme>
+    <alias>مَطْعَمْ اَلْمِشْوارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المصفح </grapheme>
+    <alias>مَطْعَمْ اَلْمُصْفِحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المطبخ السعودي </grapheme>
+    <alias>مَطْعَمْ اَلْمَطْبَخِ السُعودِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المغرب </grapheme>
+    <alias>مَطْعَمْ اَلْمَغْرِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المكان </grapheme>
+    <alias>مَطْعَمْ اَلْمَكانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المنصوري </grapheme>
+    <alias>مَطْعَمْ اَلْمَنْصورِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الميدان </grapheme>
+    <alias>مَطْعَمْ اَلْمَيْدانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الناضج الشعبي </grapheme>
+    <alias>مَطْعَمْ اَلناضِجِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم النجوم الخمس </grapheme>
+    <alias>مَطْعَمْ اَلنُجومِ الْخَمْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم النسمة </grapheme>
+    <alias>مَطْعَمْ اَلنِسْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم النعمان </grapheme>
+    <alias>مَطْعَمْ اَلنُعْمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم النهضة </grapheme>
+    <alias>مَطْعَمْ اَلنَهْضَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الواحة </grapheme>
+    <alias>مَطْعَمْ اَلْواحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الوفاء </grapheme>
+    <alias>مَطْعَمْ اَلْوَفاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الوليد </grapheme>
+    <alias>مَطْعَمْ اَلْوَليدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الوليمة </grapheme>
+    <alias>مَطْعَمْ اَلْوَليمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اليحر </grapheme>
+    <alias>مَطْعَمْ اَلْيَحَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اليمن </grapheme>
+    <alias>مَطْعَمْ اَلْيَمَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ام حسن </grapheme>
+    <alias>مَطْعَمْ اُمْ حَسَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم امينة </grapheme>
+    <alias>مَطْعَمْ اَمينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اوف ذا هوك </grapheme>
+    <alias>مَطْعَمْ اوفْ ذا هوكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ايفا </grapheme>
+    <alias>مَطْعَمْ اْيْفا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم بابو </grapheme>
+    <alias>مَطْعَمْ بابو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم برياني هوت </grapheme>
+    <alias>مَطْعَمْ بَرْياني هوتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم بست برياني </grapheme>
+    <alias>مَطْعَمْ بِسْتْ بَرْياني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم بغداد </grapheme>
+    <alias>مَطْعَمْ بَغْدادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم بلاد الشام </grapheme>
+    <alias>مَطْعَمْ بِلادِ الشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم بوم الشارقة </grapheme>
+    <alias>مَطْعَمْ بومَ الشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم بيت الخير </grapheme>
+    <alias>مَطْعَمْ بَيْتِ الْخَيْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم بيتنا </grapheme>
+    <alias>مَطْعَمْ بَيْتَنا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم بيتي </grapheme>
+    <alias>مَطْعَمْ بَيْتي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم تاج الرحبة </grapheme>
+    <alias>مَطْعَمْ تاجِ الرَحَبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم تشليز </grapheme>
+    <alias>مَطْعَمْ تْشِليزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم تشيكن كورنر </grapheme>
+    <alias>مَطْعَمْ تْشيكِنْ كورْنَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم جبل علي </grapheme>
+    <alias>مَطْعَمْ جَبَلْ عَلي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم جبل لبنان </grapheme>
+    <alias>مَطْعَمْ جَبَلْ لُبْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم جست باستا </grapheme>
+    <alias>مَطْعَمْ جَسْتْ باسْتا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم جعفر </grapheme>
+    <alias>مَطْعَمْ جَعْفَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم حاتم </grapheme>
+    <alias>مَطْعَمْ حاتِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم حياة </grapheme>
+    <alias>مَطْعَمْ حَياةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم خالد </grapheme>
+    <alias>مَطْعَمْ خالِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم خورفكان </grapheme>
+    <alias>مَطْعَمْ خورْفَكانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم دار الاعتماد </grapheme>
+    <alias>مَطْعَمْ دارِ الاعْتِمادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم دار الرحمة </grapheme>
+    <alias>مَطْعَمْ دارِ الرَحْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم دار الزين </grapheme>
+    <alias>مَطْعَمْ دارِ الزينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم دار الكباب </grapheme>
+    <alias>مَطْعَمْ دارِ الكَبابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم دار ورد </grapheme>
+    <alias>مَطْعَمْ دارِ وَرْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم دانة </grapheme>
+    <alias>مَطْعَمْ دانَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم دايت هاوس </grapheme>
+    <alias>مَطْعَمْ دايِتْ هاوْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم دبي </grapheme>
+    <alias>مَطْعَمِ دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم درايش </grapheme>
+    <alias>مَطْعَمْ دَرايِشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم دكان برياني </grapheme>
+    <alias>مَطْعَمْ دُكانْ بِرْياني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم دوار الخان </grapheme>
+    <alias>مَطْعَمْ دَوارِ الْخانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ذهب </grapheme>
+    <alias>مَطْعَمْ ذَهَبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم راشد </grapheme>
+    <alias>مَطْعَمْ راشِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم راشد علي </grapheme>
+    <alias>مَطْعَمْ راشِدْ عَلي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم راك </grapheme>
+    <alias>مَطْعَمْ راكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم رايس </grapheme>
+    <alias>مَطْعَمْ رايْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ربوع لبنان </grapheme>
+    <alias>مَطْعَمْ رُبوعِ لُبْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم رتاج </grapheme>
+    <alias>مَطْعَمْ رِتاجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم رمز الوحدة </grapheme>
+    <alias>مَطْعَمْ رَمْزُ الْوَحْدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم رونا </grapheme>
+    <alias>مَطْعَمْ رونا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ريحان </grapheme>
+    <alias>مَطْعَمْ ريحانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم زعتر وزيت </grapheme>
+    <alias>مَطْعَمْ زَعْتَرْ وَزَيْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم زمزم </grapheme>
+    <alias>مَطْعَمْ زَمْزَمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم زهرة لبنان </grapheme>
+    <alias>مَطْعَمْ زَهْرَةْ لُبْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم زيزو </grapheme>
+    <alias>مَطْعَمْ زِيْزو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم زينة </grapheme>
+    <alias>مَطْعَمِ زينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم سبيس تون </grapheme>
+    <alias>مَطْعَمْ سْبيسْ تونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم سفاري </grapheme>
+    <alias>مَطْعَمْ سَفاري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم سلايدر ستيشن </grapheme>
+    <alias>مَطْعَمْ سْلايْدَرْ سْتَيَشِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم سلة الأسماك </grapheme>
+    <alias>مَطْعَمْ سَلَةْ الْأَسْماكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم سلسبيل </grapheme>
+    <alias>مَطْعَمْ سَلْسَبيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم سلطان </grapheme>
+    <alias>مَطْعَمْ سُلْطانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم سمكمك </grapheme>
+    <alias>مَطْعَمْ سَمَكْمَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم سنايبر </grapheme>
+    <alias>مَطْعَمْ سْنايْبَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم سوبريم لشوي الأسماك </grapheme>
+    <alias>مَطْعَمْ سوبْريمْ لَشَوْيِ الْأَسْماكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم سوق السمك </grapheme>
+    <alias>مَطْعَمْ سوقِ السَمَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم سولت مانجو </grapheme>
+    <alias>مَطْعَمْ سُوْلْتْ مانْجو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم سويتش </grapheme>
+    <alias>مَطْعَمْ سْوْيْتْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم سيف </grapheme>
+    <alias>مَطْعَمْ سَيْفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم شاهين </grapheme>
+    <alias>مَطْعَمْ شاهينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم شبل الفداء </grapheme>
+    <alias>مَطْعَمْ شِبْلْ اَلْفِداءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم شهرزاد </grapheme>
+    <alias>مَطْعَمْ شَهْرَزادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم صاج الضيعة </grapheme>
+    <alias>مَطْعَمْ صاجِ اَلضَيْعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم صافي </grapheme>
+    <alias>مَطْعَمْ صافي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم صدف الايراني </grapheme>
+    <alias>مَطْعَمْ صَدَفْ اَلْايرانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم صقر </grapheme>
+    <alias>مَطْعَمْ صَقْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم طربوش </grapheme>
+    <alias>مَطْعَمْ طَرْبوشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم عالية </grapheme>
+    <alias>مَطْعَمْ عالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم عدن </grapheme>
+    <alias>مَطْعَمْ عَدَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم عصير تايم </grapheme>
+    <alias>مَطْعَمْ عَصيرْ تايِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم علاء الدين </grapheme>
+    <alias>مَطْعَمْ عَلاءُ الدينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم علي بابا </grapheme>
+    <alias>مَطْعَمْ عَلي بابا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم عيش ولحم </grapheme>
+    <alias>مَطْعَمْ عَيْشْ وَلَحْمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم عين الشمس </grapheme>
+    <alias>مَطْعَمْ عَيْنِ الشَمْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم فرن وعجينة </grapheme>
+    <alias>مَطْعَمْ فُرْنْ وَعَجينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم فلافل النيل </grapheme>
+    <alias>مَطْعَمْ فَلافِلِ النيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم فهد </grapheme>
+    <alias>مَطْعَمْ فَهْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم فود بوكس </grapheme>
+    <alias>مَطْعَمْ فودْ بوكْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم قصر الطعام </grapheme>
+    <alias>مَطْعَمْ قَصْرِ الطَعامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم كباب محلي </grapheme>
+    <alias>مَطْعَمْ كَبابْ مَحَلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم كبابي </grapheme>
+    <alias>مَطْعَمْ كَبابي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم كرك وصاج </grapheme>
+    <alias>مَطْعَمْ كَرَكْ وَصاجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم كرم الشام </grapheme>
+    <alias>مَطْعَمْ كَرَمِ الشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم كلاسيك </grapheme>
+    <alias>مَطْعَمْ كْلاسيكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم كلباء </grapheme>
+    <alias>مَطْعَمْ كَلْباءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم كوخ البرجر </grapheme>
+    <alias>مَطْعَمْ كوخِ الْبِرْجَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم كوخ الدجاج </grapheme>
+    <alias>مَطْعَمْ كوخِ الدَجاجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ليالي </grapheme>
+    <alias>مَطْعَمْ لَيالي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ماي بيك </grapheme>
+    <alias>مَطْعَمْ مايْ بَيْكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم مدينة الشوامخ </grapheme>
+    <alias>مَطْعَمْ مَدينَةِ الشَوامِخْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم مدينة زايد </grapheme>
+    <alias>مَطْعَمْ مَدينَةِ زايِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم مرحبا </grapheme>
+    <alias>مَطْعَمْ مَرْحَبا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم مرسى عجمان </grapheme>
+    <alias>مَطْعَمْ مَرْسَىْ عَجْمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم معلم حسن </grapheme>
+    <alias>مَطْعَمْ مَعْلِمْ حَسَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم مكاني </grapheme>
+    <alias>مَطْعَمْ مَكاني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم مكة </grapheme>
+    <alias>مَطْعَمْ مَكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم نار المندي </grapheme>
+    <alias>مَطْعَمْ نارَ الْمَنْدي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ناصر </grapheme>
+    <alias>مَطْعَمْ ناصِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم نجمة الصباح </grapheme>
+    <alias>مَطْعَمْ نَجْمَةَ الصَباحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم نكهات العالم </grapheme>
+    <alias>مَطْعَمْ نَكَهاتِ الْعالَمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم نهال </grapheme>
+    <alias>مَطْعَمْ نَهالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم وايت برجر </grapheme>
+    <alias>مَطْعَمْ وايِتْ بِرْجَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم وحلويات الطبيعة </grapheme>
+    <alias>مَطْعَمْ وَحَلوياتِ الطَبيعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ورق عنب </grapheme>
+    <alias>مَطْعَمْ وَرَقْ عِنَبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم وكافيتريا ساجدة </grapheme>
+    <alias>مَطْعَمْ وَكافيتِرَيا ساجِدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم وكافيه </grapheme>
+    <alias>مَطْعَمْ وَكافيهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم وكافيه سكيك </grapheme>
+    <alias>مَطْعَمْ وَكافيهْ سْكَيْكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ومشاوي الخروف </grapheme>
+    <alias>مَطْعَمْ وَمَشاوي اَلْخَروفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ومشاوي الرحلات بيكنك </grapheme>
+    <alias>مَطْعَمْ وَمَشاوي اَلْرِحْلاتْ بيكْنِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ومشاوي السلطان </grapheme>
+    <alias>مَطْعَمْ وَمَشاوي اَلسُلْطانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ومطبخ قصر نجد </grapheme>
+    <alias>مَطْعَمْ وَمَطْبَخْ قَصْرِ نَجْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ومقهى اراجيل </grapheme>
+    <alias>مَطْعَمْ وَمَقْهَىْ اَراجيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ومقهى التنور </grapheme>
+    <alias>مَطْعَمْ وَمَقْهَىْ التَنورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ومقهى روتانا </grapheme>
+    <alias>مَطْعَمْ وَمَقْهَىْ رْوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم يثرب </grapheme>
+    <alias>مَطْعَمْ يَثْرِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السهرة </grapheme>
+    <alias>مَطْعَمْ اَلسَهَرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مع خدمة </grapheme>
+    <alias>مَعَ خِدْمَةِ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معاملاتي للطباعة </grapheme>
+    <alias>مُعامَلاتِيْ لِلطِباعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معاملتك </grapheme>
+    <alias>مُعامَلَتِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات </grapheme>
+    <alias>مُعَجَناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات الخليلي </grapheme>
+    <alias>مُعَجَناتِ الْخَليلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات الضيافة </grapheme>
+    <alias>مُعَجَناتْ اَلضِيافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات الفرح </grapheme>
+    <alias>مُعَجَناتْ اَلْفَرَحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات الفوار </grapheme>
+    <alias>مُعَجَناتْ اَلْفَوارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات الكابتن </grapheme>
+    <alias>مُعَجَناتْ اَلْكابْتِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات المحبة </grapheme>
+    <alias>مُعَجَناتْ اَلْمَحَبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات المدينة </grapheme>
+    <alias>مُعَجَناتْ اَلْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات المزة </grapheme>
+    <alias>مُعَجَناتْ اَلْمَزَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات بيك اند تيك </grapheme>
+    <alias>مُعَجَناتْ بيكْ اَنْدْ تَيْكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات حفيت </grapheme>
+    <alias>مُعَجَناتْ حَفيتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات زهرة الليالي </grapheme>
+    <alias>مُعَجَناتْ زَهْرَةْ اَلَليالي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات زهرة المذاق اللبناني </grapheme>
+    <alias>مُعَجَناتْ زَهْرَةْ اَلْمَذاقِ الُلبْنانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات شتورة </grapheme>
+    <alias>مُعَجَناتْ شْتورَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات عكاوي الشام </grapheme>
+    <alias>مُعَجَناتْ عَكاوي الشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات كراكاس </grapheme>
+    <alias>مُعَجَناتْ كَراكاسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات كرك هوم </grapheme>
+    <alias>مُعَجَناتْ كَرَكْ هومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات مناقيش اكسبرس </grapheme>
+    <alias>مُعَجَناتْ مَناقيشْ اِكْسَبِرِسْ</alias>
+  </lexeme>
+</lexicon>

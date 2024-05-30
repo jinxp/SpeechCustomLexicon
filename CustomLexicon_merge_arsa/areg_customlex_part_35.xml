@@ -1,0 +1,2008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="ar-SA">
+  <lexeme>
+    <grapheme> مدرسة القرية للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ الْقَرْيَةِ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة القلعة للتعليم الأساسي والثانوي للبنات </grapheme>
+    <alias>مَدْرَسَةِ الْقَلْعَةْ لِلْتَعْليمِ الْأَساسِيْ والثانَوِيْ لِلْبَناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة القمة الخاصة </grapheme>
+    <alias>مَدْرَسَةْ الْقِمَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة القمر لتعليم قيادة السيارات </grapheme>
+    <alias>مَدْرَسَةِ اَلْقَمَرْ لِتَعْليمِ قِيادَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الكرامة للتوحد </grapheme>
+    <alias>مَدْرَسَةِ الْكَرامَةْ لِلتَوَحِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الكمال الامريكية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْكَمالِ الْاَمْريكِيَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة اللآلئ </grapheme>
+    <alias>مَدْرَسَةِ الَلآلِئْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة اللؤلؤة الابتدائية </grapheme>
+    <alias>مَدْرَسَةِ الُلؤْلُؤَةِ الابْتِدائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة اللسيلي للتعليم الأساسي والثانوي بنات </grapheme>
+    <alias>مَدْرَسَةِ الِلسَيْلي لِلْتَعْليمِ الْأَساسِيْ والثانَوِيْ بَناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة اللغة الانجليزية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الُلغَةِ الْاِنْجِليزِيَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة اللولو </grapheme>
+    <alias>مَدْرَسَةَ الْلولو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الماسة </grapheme>
+    <alias>مَدْرَسَةِ الْماسَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المبادئ </grapheme>
+    <alias>مَدْرَسَةِ الْمَبادِئْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المتنبي </grapheme>
+    <alias>مَدْرَسَةِ الْمُتَنَبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المدار الدولية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْمَدارِ الدَوْلِيَةْ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المدينة </grapheme>
+    <alias>مَدْرَسَةِ الْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المروة </grapheme>
+    <alias>مَدْرَسَةِ الْمَرْوَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المروج العلمية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْمُروجْ اَلْعِلْمِيَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المريجب </grapheme>
+    <alias>مَدْرَسَةِ الْمُرَيْجِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المستقبل الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْمُسْتَقْبَلِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المستقبل النموذجية </grapheme>
+    <alias>مَدْرَسَةِ الْمُسْتَقْبَلِ النَموذَجِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المشاعل الوطنية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْمَشاعِلِ الْوَطَنِيَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المطاف للتعليم الاساسي للبنات </grapheme>
+    <alias>مَدْرَسَةِ الْمَطافِ لِلْتَعْليمِ الْاَساسِيْ لِلْبَناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المعارف الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْمَعارِفِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المعارف للتعليم الثانوي </grapheme>
+    <alias>مَدْرَسَةِ الْمَعارِفِ لِلْتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المعالي </grapheme>
+    <alias>مَدْرَسَةِ الْمَعالي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المعالي الدولية </grapheme>
+    <alias>مَدْرَسَةِ الْمَعالي الدَوْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المعتصم </grapheme>
+    <alias>مَدْرَسَةِ الْمُعْتَصِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المعرفة الدولية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْمَعْرِفَةِ الدَوْلِيَةْ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المعيريض للبنين </grapheme>
+    <alias>مَدْرَسَةِ الْمُعْيَريضْ لِلْبَنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المقام </grapheme>
+    <alias>مَدْرَسَةِ الْمَقامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الملا لتعليم قيادة السيارات </grapheme>
+    <alias>مَدْرَسَةِ الْمُلا لِتَعْليمِ قِيادَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المنار الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْمَنارِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المنار للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ الْمَنارِ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المنارة الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْمَنارَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المنامة الخيرية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْمَنامَةِ الْخَيْرِيَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المناهل الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْمَناهِلِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المنتهى </grapheme>
+    <alias>مَدْرَسَةِ الْمُنْتَهَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المنصور للتعليم الاساسي للبنين </grapheme>
+    <alias>مَدْرَسَةِ الْمَنْصورْ لِلْتَعْليمِ الْاَساسِيْ لِلْبَنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المنصوري لتعليم قيادة السيارات </grapheme>
+    <alias>مَدْرَسَةِ الْمَنْصورِيْ لِتَعْليمِ قِيادَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المنهل الدولية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْمَنْهَلْ الْدَوْلِيَةْ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المنيرة الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْمُنيرَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المواكب </grapheme>
+    <alias>مَدْرَسَةِ الْمَواكِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المواهب </grapheme>
+    <alias>مَدْرَسَةِ الْمَواهِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المواهب الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْمَواهِبْ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الناصرية لتعليم قيادة الدراجات النارية </grapheme>
+    <alias>مَدْرَسَةِ اَلناصِرِيَةِ لِتَعْليمِ قِيادَةِ الدَراجاتِ النارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النبراس </grapheme>
+    <alias>مَدْرَسَةِ النِبْراسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النبراس الدولية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ النِبْراسْ الدَوْلِيَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النجاح الخاصة </grapheme>
+    <alias>مَدْرَسَةِ النَجاحِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النجاح لتعليم قيادة السيارات </grapheme>
+    <alias>مَدْرَسَةِ النَجاحِ لِتَعْليمِ قِيادَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النجاح للتعليم الثانوي </grapheme>
+    <alias>مَدْرَسَةِ النَجاحِ لِلْتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النجمة الخاصة </grapheme>
+    <alias>مَدْرَسَةِ النَجْمَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النحو </grapheme>
+    <alias>مَدْرَسَةِ النَحْوْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النخبة الأمريكية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ النُخْبَةِ الْأَمْريكِيَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النخبة الخاصة </grapheme>
+    <alias>مَدْرَسَةِ النُخْبَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النخبة النموذجية للتعليم الاساسي بنين </grapheme>
+    <alias>مَدْرَسَةِ النُخْبَةِ النَموذَجِيَةْ لِلْتَعْليمِ الْاَساسِيْ بَنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النخيل للتعليم الاساسي </grapheme>
+    <alias>مَدْرَسَةِ النَخيلِ لِلْتَعْليمِ الْاَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النخيلات للتعليم الاساسي </grapheme>
+    <alias>مَدْرَسَةِ النَخْيْلاتْ لِلْتَعْليمِ الْاَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النرجس </grapheme>
+    <alias>مَدْرَسَةِ النَرْجِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النصر الخاصة </grapheme>
+    <alias>مَدْرَسَةِ النَصْرِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النصر لتعليم سواقة السيارات </grapheme>
+    <alias>مَدْرَسَةِ النَصْرِ لِتَعْليمِ سِواقَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النعمان بن مقرن للتعليم الاساسي </grapheme>
+    <alias>مَدْرَسَةِ النُعْمانْ بِنْ مُقْرِنْ لِلْتَعْليمِ الْاَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النعيم </grapheme>
+    <alias>مَدْرَسَةِ النَعيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النعيمية الثانوية المشتركة </grapheme>
+    <alias>مَدْرَسَةِ النَعيمِيَةِ الثانَوِيَةِ الْمُشْتَرَكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النعيمية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ النَعيمِيَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النموذجية للتعليم الثانوي بنين </grapheme>
+    <alias>مَدْرَسَةِ النَموذَجِيَةْ لِلْتَعْليمِ الثانَوِيْ بَنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النهيانية </grapheme>
+    <alias>مَدْرَسَةِ النَهْيانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النور </grapheme>
+    <alias>مَدْرَسَةِ النورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النور الدولية </grapheme>
+    <alias>مَدْرَسَةْ اَلنورْ الْدَوْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النوف </grapheme>
+    <alias>مَدْرَسَةِ النوفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النيل لتعليم قيادة السيارات </grapheme>
+    <alias>مَدْرَسَةِ النيلِ لِتَعْليمِ قِيادَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الهجرة للتعليم الاساسي </grapheme>
+    <alias>مَدْرَسَةِ الْهِجْرَةِ لِلْتَعْليمِ الْاَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الهلال الدولية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْهِلالِ الْدَوْلِيَةْ اَلْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الهلاليات للتعليم الاساسي والثانوي للبنات </grapheme>
+    <alias>مَدْرَسَةِ الْهَلالِياتْ لِلْتَعْليمِ الْاَساسِيْ والثانَوِيْ لِلْبَناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الهمة </grapheme>
+    <alias>مَدْرَسَةِ الْهِمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الواحة الدولية </grapheme>
+    <alias>مَدْرَسَةِ الْواحَةْ الْدَوْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الواحة للتعليم الأساسي والثانوي </grapheme>
+    <alias>مَدْرَسَةِ الْواحَةْ لِلْتَعْليمِ الْأَساسِيْ والثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الوثبة </grapheme>
+    <alias>مَدْرَسَةِ الْوَثْبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الوحدة الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْوَحْدَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الوحدة العربية </grapheme>
+    <alias>مَدْرَسَةِ الْوَحْدَةِ الْعَرَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الوحيدة للتعليم الثانوي </grapheme>
+    <alias>مَدْرَسَةِ الْوَحيدَةْ لِلْتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الوردية </grapheme>
+    <alias>مَدْرَسَةِ الْوَرْدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الوصل للتعليم الاساسي </grapheme>
+    <alias>مَدْرَسَةِ الْوَصْلِ لِلْتَعْليمِ الْاَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الوطن </grapheme>
+    <alias>مَدْرَسَةِ الْوَطَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة اليحر الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْيَحَرِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة اليقين الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْيَقينِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة اليوبيل الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْيُوْبيلِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ام الإمارات للتعليم الثانوي </grapheme>
+    <alias>مَدْرَسَةِ اُمِ الْإِماراتِ لِلْتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ام العرب </grapheme>
+    <alias>مَدْرَسَةِ اُمِ الْعَرَبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ام الفضل بنت الحارث للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ اُمِ الْفَضْلِ بِنْتْ الْحارِثْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ام الفضل بنت حمزة </grapheme>
+    <alias>مَدْرَسَةِ اُمِ الْفَضْلِ بِنْتْ حَمْزَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ام رومان بنت عامر للتعليم الاساسي </grapheme>
+    <alias>مَدْرَسَةِ اُمْ رومانِ بِنْتْ عامِرْ لِلْتَعْليمِ الْاَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ام عمارة للتعليم الثانوي </grapheme>
+    <alias>مَدْرَسَةِ اُمْ عِمارَةْ لِلْتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة امامة بنت الحارث </grapheme>
+    <alias>مَدْرَسَةِ اُمامَةْ بِنْتَ الْحارِثْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة باحثة البادية للتعليم الثانوي </grapheme>
+    <alias>مَدْرَسَةِ باحِثَةِ الْبادِيَةِ لِلْتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة بريليانت إنترناشونال الخاصة </grapheme>
+    <alias>مَدْرَسَةِ بْريلْيانْتْ إِنْتَرْناشونالِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة بلاط الشهداء للتعليم الاساسي </grapheme>
+    <alias>مَدْرَسَةِ بَلاطِ الشُهَدَاِءْ لِلْتَعْليمِ الْاَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة بنت الشاطئ </grapheme>
+    <alias>مَدْرَسَةِ بِنْتَ الشاطِئْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة بيت المقدس الدولية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ بَيْتِ الْمَقَدِسِ الدَوْلِيَةْ اَلْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة بيعة الرضوان </grapheme>
+    <alias>مَدْرَسَةِ بَيْعَةِ الرُضُوانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة تدريب الشرطة </grapheme>
+    <alias>مَدْرَسَةِ تَدْريبْ اَلْشُرْطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة تدريب شرطة رأس الخيمة </grapheme>
+    <alias>مَدْرَسَةِ تَدْريبْ شُرْطَةِ رَأْسِ الْخَيْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة تريم الامريكية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ تَرِيْمِ الْاَمْريكِيَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة تريم عمران للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ تَرِيْمْ عِمْرانْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة توام النموذجية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ تُوامِ النَموذَجِيَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة تيمور لتعليم قيادة السيارات </grapheme>
+    <alias>مَدْرَسَةِ تَيْمورْ لِتَعْليمِ قِيادَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة جزيرة أبوظبي العالمية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ جَزيرَةِ أَبوظَبِيْ اَلْعالَمِيَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة جلفار للتعليم الثانوي </grapheme>
+    <alias>مَدْرَسَةِ جِلْفارْ لِلْتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة جلوبال الإنجليزية </grapheme>
+    <alias>مَدْرَسَةِ جْلوبالِ الْإِنْجِليزِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة جمانة بنت ابي طالب للتعليم الاساسي بنات </grapheme>
+    <alias>مَدْرَسَةِ جُمانَةْ بِنْتَ اَبي طالِبْ لِلْتَعْليمِ الْاَساسِيْ بَناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة جميرا النموذجية للبنات </grapheme>
+    <alias>مَدْرَسَةِ جُمْيَرا النَموذَجِيَةْ لِلْبَناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة حاتم الطائي للتعليم الاساسي والثانوي </grapheme>
+    <alias>مَدْرَسَةِ حاتِمِ الطائي لِلْتَعْليمِ الْاَساسِيْ والثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة حراء للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ حِرَاْءْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة حصة بنت المر للبنات </grapheme>
+    <alias>مَدْرَسَةِ حِصَةْ بِنْتَ الْمُرْ لِلْبَناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة حليمة السعدية </grapheme>
+    <alias>مَدْرَسَةِ حَليمَةْ السَعَدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة حمدان بن راشد للتعليم الثانوي </grapheme>
+    <alias>مَدْرَسَةِ حَمْدانْ بِنْ راشِدْ لِلْتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة حميد بن عبدالعزيز للتعليم الثانوي </grapheme>
+    <alias>مَدْرَسَةِ حُميدْ بِنْ عَبْدالْعَزيزْ لِلْتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة خالد بن الوليد </grapheme>
+    <alias>مَدْرَسَةِ خالِدُ بِنِ الْوَليدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة خالد بن محمد للتعليم الاساسي </grapheme>
+    <alias>مَدْرَسَةِ خالِدُ بِنْ مُحَمَدْ لِلْتَعْليمِ الْاَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة خت للتعليم الاساسي والثانوي </grapheme>
+    <alias>مَدْرَسَةِ خَتْ لِلْتَعْليمِ الْاَساسِيْ والثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة خديجة بنت خويلد للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ خَديجَةْ بِنْتْ خويْلِدْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة خديجة للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ خَديجَةْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة خليفة الهمزة الخاصة </grapheme>
+    <alias>مَدْرَسَةِ خَليفَةْ الْهَمْزَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة خورفكان الخاصة </grapheme>
+    <alias>مَدْرَسَةِ خورْفَكانِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة خورفكان النموذجية للتعليم الاساسي بنين </grapheme>
+    <alias>مَدْرَسَةِ خورْفَكانَ النَموذَجِيَةْ لِلْتَعْليمِ الْاَساسِيْ بَنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة خولة بنت الأزور </grapheme>
+    <alias>مَدْرَسَةِ خَوْلَةْ بِنْتَ الْأَزْوَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة دار السلام الخاصة </grapheme>
+    <alias>مَدْرَسَةِ دارِ السَلامِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة دار العلوم الخاصة </grapheme>
+    <alias>مَدْرَسَةِ دارْ اَلْعُلومِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة دار المعرفة الخاصة </grapheme>
+    <alias>مَدْرَسَةِ دارْ اَلْمَعْرِفَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة دبا الفجيرة للتعليم الثانوي </grapheme>
+    <alias>مَدْرَسَةِ دِبا الْفُجَيْرَةْ لِلْتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة دبي الثانوية الحديثة </grapheme>
+    <alias>مَدْرَسَةِ دُبي اَلثانَوِيَةِ الْحَديثَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة دبي العربية الأمريكية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ دُبي اَلْعَرَبِيَةِ الْأَمْريكِيَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة دبي الوطنية </grapheme>
+    <alias>مَدْرَسَةِ دُبي اَلْوَطَنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة دوار الساعة لتعليم قيادة السيارات </grapheme>
+    <alias>مَدْرَسَةِ دَوارِ الساعَةِ لِتَعْليمِ قِيادَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ديرة الخاصة </grapheme>
+    <alias>مَدْرَسَةِ دِيْرَةْ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ديرة الدولية </grapheme>
+    <alias>مَدْرَسَةِ دِيْرَةْ الْدَوْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة رأس الخيمة الحديثة الخاصة </grapheme>
+    <alias>مَدْرَسَةِ رَأْسِ الْخَيْمَةِ الْحَديثَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة رأس الخيمة للتعليم الثانوي بنين </grapheme>
+    <alias>مَدْرَسَةِ رَأْسِ الْخَيْمَةِ لِلْتَعْليمِ الثانَوِيْ بَنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة راشد بن سعيد للتعليم الاساسي والثانوي </grapheme>
+    <alias>مَدْرَسَةِ راشِدْ بِنْ سَعيدْ لِلْتَعْليمِ الْاَساسِيْ والثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة رفيدة الانصارية للتعليم الاساسي </grapheme>
+    <alias>مَدْرَسَةِ رُفَيِدَةِ الْاَنْصارِيَةْ لِلْتَعْليمِ الْاَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة رقية للتعليم الثانوي </grapheme>
+    <alias>مَدْرَسَةِ رُقَيَةْ لِلْتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة رمسيس الخاصة </grapheme>
+    <alias>مَدْرَسَةِ رَمْسيسِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة رميثة الانصارية للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ رُميثَةِ الْاِنْصارِيَةْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة روح الاتحاد </grapheme>
+    <alias>مَدْرَسَةِ روحِ الاتِحادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة زايد الثاني </grapheme>
+    <alias>مَدْرَسَةِ زايِدِ الثاني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة زايد الخير </grapheme>
+    <alias>مَدْرَسَةِ زايِدِ الْخَيْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة زايد بن سلطان للتعليم الاساسي بنين </grapheme>
+    <alias>مَدْرَسَةِ زايِدْ بِنْ سُلْطانْ لِلْتَعْليمِ الْاَساسِيْ بَنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة زبيدة بنت جعفر للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ زُبيدَةْ بِنْتْ جَعْفَرْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة زعبيل الثانوية </grapheme>
+    <alias>مَدْرَسَةِ زَعْبيلِ الثانَوِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة زهرة المدائن للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ زَهْرَةْ اَلْمَدائِنْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة زينب للتعليم الاساسي والثانوي </grapheme>
+    <alias>مَدْرَسَةِ زَيْنَبْ لِلْتَعْليمِ الْاَساسِيْ والثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة سكمكم للتعليم الاساسي </grapheme>
+    <alias>مَدْرَسَةِ سَكَمْكُمْ لِلْتَعْليمِ الْاَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة سكينة بنت الحسين للتعليم الثانوي </grapheme>
+    <alias>مَدْرَسَةِ سُكَيْنَةُ بِنْتَ الْحُسَيْنِ لِلْتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة سلمان الفارسي </grapheme>
+    <alias>مَدْرَسَةِ سَلْمانَ الْفارِسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة سلمى الأنصارية للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ سَلْمَىْ الْأَنْصارِيَةْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة سما الامريكية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ سَما الْاَمْريكِيَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة سيف الدولة للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ سَيْفِ الدَوْلَةِ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة شماء لتعليم قيادة السيارات </grapheme>
+    <alias>مَدْرَسَةِ شَمَاْءْ لِتَعْليمِ قِيادَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة شمل للتعليم الاساسي للبنين </grapheme>
+    <alias>مَدْرَسَةِ شَمْلْ لِلْتَعْليمِ الْاَساسِيْ لِلْبَنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة شمل للتعليم الاساسي والثانوي للبنات </grapheme>
+    <alias>مَدْرَسَةِ شَمْلْ لِلْتَعْليمِ الْاَساسِيْ والثانَوِيْ لِلْبَناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة شيخة بنت سعيد النموذجية </grapheme>
+    <alias>مَدْرَسَةِ شَيْخَةْ بِنْتَ سَعيدْ الْنَموذَجِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة صفية بنت حيي للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ صَفِيَةَ بِنْتَ حِيِيَ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة صناع الغد </grapheme>
+    <alias>مَدْرَسَةِ صُناعِ الْغَدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة طنب للتعليم الثانوي </grapheme>
+    <alias>مَدْرَسَةِ طَنْبْ لِلْتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عائشة بنت ابي بكر الثانوية </grapheme>
+    <alias>مَدْرَسَةِ عائِشَةَ بِنْتَ اَبي بَكْرِ الثانَوِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عاتكة بنت زيد للتعليم الاساسي بنات </grapheme>
+    <alias>مَدْرَسَةِ عاتِكَةْ بِنْتَ زَيْدْ لِلْتَعْليمِ الْاَساسِيْ بَناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عاتكة بنت عبد المطلب </grapheme>
+    <alias>مَدْرَسَةِ عاتِكَةْ بِنْتَ عَبْدِ الْمُطَلِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عاصم بن ثابت للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ عاصِمِ بِنْ ثابِتْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عبدالجليل الفهيم </grapheme>
+    <alias>مَدْرَسَةِ عَبْدُالْجَليلِ الْفُهَيْمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عبدالقادر الجزائري </grapheme>
+    <alias>مَدْرَسَةِ عَبْدالْقادِرِ الْجَزائِرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عبدالله بن المبارك للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ عَبْدالَلهْ بِنِ الْمُبارَكِ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عتبة بن غزوان للتعليم الأساسي بنين </grapheme>
+    <alias>مَدْرَسَةِ عُتْبَةُ بِنْ غَزْوانْ لِلْتَعْليمِ الْأَساسِيْ بَنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عثمان بن ابي العاص للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ عُثْمانَ بِنْ اَبي الْعاصِ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عجمان الامريكية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ عَجْمانِ الْاَمْريكِيَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عجمان الثانوية </grapheme>
+    <alias>مَدْرَسَةِ عَجْمانِ الثانَوِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عجمان الحديثة </grapheme>
+    <alias>مَدْرَسَةِ عَجْمانِ الْحَديثَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عجمان الخاصة </grapheme>
+    <alias>مَدْرَسَةِ عَجْمانِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عزة لتعليم قيادة السيارات </grapheme>
+    <alias>مَدْرَسَةِ عَزَةْ لِتَعْليمِ قِيادَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عفراء بنت عبيد للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ عَفْراءْ بِنْتْ عُبَيْدْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة علي بن أبي طالب للتعليم الأساسي بنين </grapheme>
+    <alias>مَدْرَسَةِ عَلي بِنْ أَبي طالِبْ لِلْتَعْليمِ الْأَساسِيْ بَنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عمر بن الخطاب النموذجية </grapheme>
+    <alias>مَدْرَسَةِ عُمَرِ بِنِ الْخَطابِ النَموذَجِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عين الخليج </grapheme>
+    <alias>مَدْرَسَةِ عَيْنِ الْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة غرناطة للتعليم الاساسي </grapheme>
+    <alias>مَدْرَسَةِ غِرْناطَةْ لِلْتَعْليمِ الْاَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة غليلة للتعليم الأساسي والثانوي </grapheme>
+    <alias>مَدْرَسَةِ غَليلَةْ لِلْتَعْليمِ الْأَساسِيْ والثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة فرجينيا الدولية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ فِرْجَيْنِيا الْدَوْلِيَةْ اَلْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة فرونت لاين العالمية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ فْرونْتْ لايْنْ اَلْعالَمِيَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة فكتوريا الإنجليزية </grapheme>
+    <alias>مَدْرَسَةِ فِكْتورْيا الْإِنْجِليزِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة فكتوريا الدولية </grapheme>
+    <alias>مَدْرَسَةِ فِكْتورْيا الْدَوْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة فيلادلفيا الخاصة </grapheme>
+    <alias>مَدْرَسَةِ فيلادِلْفِيا الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة قادة المستقبل الدولية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ قادَةِ الْمُسْتَقْبَلِ الْدَوْلِيَةْ اَلْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة قصر المعرفة الدولية </grapheme>
+    <alias>مَدْرَسَةِ قَصْرْ اَلْمَعْرِفَةِ الْدَوْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة قطر الندى </grapheme>
+    <alias>مَدْرَسَةِ قَطْرَ النَدَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة كاليفورنيا الامريكية </grapheme>
+    <alias>مَدْرَسَةِ كاليفورْنِيا الْاَمْريكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة كامبردج الثانوية </grapheme>
+    <alias>مَدْرَسَةِ كِامْبْرَدْجِ الثانَوِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة كلباء الانجليزية </grapheme>
+    <alias>مَدْرَسَةِ كَلْباءِ الْاِنْجِليزِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة كلباء للتعليم الاساسي </grapheme>
+    <alias>مَدْرَسَةِ كَلْبَاْءْ لِلْتَعْليمِ الْاَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة كوين الدولية </grapheme>
+    <alias>مَدْرَسَةِ كُوينْ الْدَوْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة لبنان الاولى </grapheme>
+    <alias>مَدْرَسَةِ لُبْنانَ الْاولَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة لبنى بنت حباب للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ لُبْنَىْ بِنْتَ حَبابْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ليوا الدولية </grapheme>
+    <alias>مَدْرَسَةِ ليوا الْدَوْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة مارية القبطية للتعليم الثانوي </grapheme>
+    <alias>مَدْرَسَةِ مارِيَةِ الْقِبْطِيَةِ لِلْتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة محمد بن القاسم </grapheme>
+    <alias>مَدْرَسَةِ مُحَمَدْ بِنِ الْقاسِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة محمد بن راشد النموذجية للتعليم الأساسي والثانوي </grapheme>
+    <alias>مَدْرَسَةِ مُحَمَدْ بِنْ راشِدْ اَلنَموذَجِيَةْ لِلْتَعْليمِ الْأَساسِيْ والثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة محمد نور للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ مُحَمَدْ نورْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة مربح للتعليم الثانوي </grapheme>
+    <alias>مَدْرَسَةِ مِرْبِحْ لِلْتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة مردف الامريكية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ مِرْدِفْ اَلْاَمْريكِيَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة مريشيد للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ مْرْيَشيدْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة مريم للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ مَرْيَمْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة مشيرف النموذجية للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ مْشْيَرِفِ النَموذَجِيَةْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة مضب الثانوية </grapheme>
+    <alias>مَدْرَسَةِ مَضَبِ الثانَوِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة مليحة للتعليم الثانوي </grapheme>
+    <alias>مَدْرَسَةِ مَليحَةْ لِلْتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة منار الايمان الخيرية </grapheme>
+    <alias>مَدْرَسَةِ مَنارِ الْايمانِ الْخَيْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة منار العلم الخاصة </grapheme>
+    <alias>مَدْرَسَةِ مَنارِ الْعِلْمِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة منارة الشارقة الخاصة </grapheme>
+    <alias>مَدْرَسَةِ مَنارَةِ الشارِقَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ميبل وود الدولية </grapheme>
+    <alias>مَدْرَسَةِ مَيْبِلْ وودْ الْدَوْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة نبراس الايمان الخاصة </grapheme>
+    <alias>مَدْرَسَةِ نِبْراسِ الْايمانِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ند الحمر </grapheme>
+    <alias>مَدْرَسَةِ نَدْ الْحَمَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة نداء الاسلام الخاصة </grapheme>
+    <alias>مَدْرَسَةِ نِداءِ الْاِسْلامِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة نورة بنت سلطان للتعليم الثانوي للبنات </grapheme>
+    <alias>مَدْرَسَةِ نورَةْ بِنْتْ سُلْطانْ لِلْتَعْليمِ الثانَوِيْ لِلْبَناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة هارفست الخاصة </grapheme>
+    <alias>مَدْرَسَةِ هارْفَسْتِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة هند بنت مكتوم للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ هِنْدْ بِنْتْ مَكْتومْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة هورايزون الخاصة </grapheme>
+    <alias>مَدْرَسَةِ هورايْزونِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة وادي الحلو </grapheme>
+    <alias>مَدْرَسَةِ وادي الْحْلْوْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة وادي الرحمة الهندية </grapheme>
+    <alias>مَدْرَسَةِ وادي الرَحْمَةِ الْهِنْدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة واسط للتعليم الثانوي </grapheme>
+    <alias>مَدْرَسَةِ واسِطْ لِلْتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة وشاح للتعليم الاساسي للبنين </grapheme>
+    <alias>مَدْرَسَةِ وِشاحْ لِلْتَعْليمِ الْاَساسِيْ لِلْبَنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ويلز الدولية </grapheme>
+    <alias>مَدْرَسَةِ وَيْلْزِ الْدَوْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ينابيع المعرفة الخاصة </grapheme>
+    <alias>مَدْرَسَةِ يَنابيعِ الْمَعْرِفَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الأضواء الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْأَضْواءِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة التفوق </grapheme>
+    <alias>مَدْرَسَةِ التَفَوُقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الرؤية الدولية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْرُؤْيَةُ الدَوْلِيَةُ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الراحة الدولية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْراحَةِ الدَوْلِيَةِ الخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الشروق الانجليزية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ الْشُروقْ الْاِنْجِليزِيَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة صقر الإمارات الدولية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ صَقْرِ الْإِماراتِ الْدَوْلِيَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرستنا الثانوية الانجليزية </grapheme>
+    <alias>مَدْرَسَتُنا الثانَوِيَةِ الْاِنْجْليزِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدفون الخيمة </grapheme>
+    <alias>مَدْفونِ الْخَيْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدفون السدة </grapheme>
+    <alias>مَدْفونِ السَدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدفون تايم للمندي والماكولات الشعبية </grapheme>
+    <alias>مَدْفونْ تايِمْ لِلْمَنْدِيْ والْمَاْكولاتِ الشَعْبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدلين لطب الأسنان </grapheme>
+    <alias>مَدْلينْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدن العقارية </grapheme>
+    <alias>مُدُنِ الْعَقارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدير مركز الطب الوقائي </grapheme>
+    <alias>مُديرُ مَرْكَزْ اَلطِبْ الْوِقائِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مديرية شرطة العاصمة </grapheme>
+    <alias>مُديرِيَةِ شُرْطَةِ الْعاصِمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة أبوظبي الصناعية ايكاد </grapheme>
+    <alias>مَدينَةِ أَبوظَبِيْ اَلصِناعِيَةِ ايكادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة الباهية </grapheme>
+    <alias>مَدينَةِ الْباهْيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة الرازي الطبي </grapheme>
+    <alias>مَدينَةِ اَلرازِيِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة الرحمة </grapheme>
+    <alias>مَدينَةِ الرَحْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة الزهراء لإصلاح الكمبيوتر والهواتف المتحركة </grapheme>
+    <alias>مَدينَةِ الزَهْرَاْءْ لِإِصْلاحِ الْكُمْبِيوتَرْ والْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة الشارقة للخدمات الانسانية </grapheme>
+    <alias>مَدينَةِ الشارِقَةْ لِلْخِدْماتِ الْاِنْسانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة الشوامخ </grapheme>
+    <alias>مَدينَةِ الشَوامِخْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة الشيخ شخبوط الطبية </grapheme>
+    <alias>مَدينَةِ الشَيْخِ شَخْبوطِ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة الصين </grapheme>
+    <alias>مَدينَةِ الصينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة العطور </grapheme>
+    <alias>مَدينَةِ الْعُطورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة القرم للهواتف المتحركة </grapheme>
+    <alias>مَدينَةِ الْقَرْمْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة الكرك </grapheme>
+    <alias>مَدينَةِ الْكَرَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة جميرا </grapheme>
+    <alias>مَدينَةِ جُمْيَرا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة دبي الأكاديمية العالمية </grapheme>
+    <alias>مَدينَةِ دُبي اَلْأَكاديمِيَةِ الْعالَمِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة الذهب للمجوهرات </grapheme>
+    <alias>مَدينَةِ الذَهَبِ لِلْمُجُوَهَراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة السندباد للألعاب الالكترونية </grapheme>
+    <alias>مَدينَةِ السِنْدِبادْ لِلْأَلْعابِ الْاِلِكْتُرونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مذاق الفخار </grapheme>
+    <alias>مَذاقِ الْفُخارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مذاق الكرك </grapheme>
+    <alias>مَذاقِ الْكَرَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مراحب للماكولات اليمنية </grapheme>
+    <alias>مَراحِبْ لِلْمَاْكولاتِ الْيَمَنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مراكز التنمية الأسرية </grapheme>
+    <alias>مَراكِزِ التَنْمِيَةِ الْأُسَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مراكش للأزياء المغربية </grapheme>
+    <alias>مُراكِشْ لِلَأَزِياءِ الْمَغْرِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرام التجارية </grapheme>
+    <alias>مُرامِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مربح الصحي </grapheme>
+    <alias>مُرْبِحِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرتضى لتجارة قطع غيار السيارات </grapheme>
+    <alias>مُرْتَضَىْ لِتِجارَةِ قِطَعِ غِيارِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرحبا لتوزيع الغاز </grapheme>
+    <alias>مَرْحَبًا لِتَوْزيعِ الْغازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرحبا لخياطة الملابس الرجالية والاقمشة </grapheme>
+    <alias>مَرْحَبًا لِخْياطَةِ الْمَلابِسِ اَلرِجالِيَةْ والْاَقْمِشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرحبا للاسماك الطازجة </grapheme>
+    <alias>مَرْحَبًا لِلْاَسْماكِ الطازِجَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرحبا للايدي العاملة </grapheme>
+    <alias>مَرْحَبًا لِلْاَيْدْيْ الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرحبا للهواتف المتحركة </grapheme>
+    <alias>مَرْحَبًا لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مردف للنقليات وتاجير السيارات </grapheme>
+    <alias>مِرْدِفْ لِلْنَقْلِياتْ وَتاجيرِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات البحر العربي </grapheme>
+    <alias>مُرَطِباتْ اَلْبَحْرِ الْعَرَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات التلة الفضية </grapheme>
+    <alias>مُرَطِباتْ اَلتَلَةْ الْفِضِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات الفتى العيناوي </grapheme>
+    <alias>مُرَطِباتْ اَلْفَتَىْ الْعيناوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات المجر الذهبي </grapheme>
+    <alias>مُرَطِباتْ اَلْمَجَرِ الذَهَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات المشهور </grapheme>
+    <alias>مُرَطِباتْ الْمَشْهورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات المعيشة </grapheme>
+    <alias>مُرَطِباتْ الْمَعيشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات الملك المشهور </grapheme>
+    <alias>مُرَطِباتْ اَلْمَلِكُ الْمَشْهورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات المنصور </grapheme>
+    <alias>مُرَطِباتْ الْمَنْصورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات النبراس الاخضر </grapheme>
+    <alias>مُرَطِباتْ اَلنِبْراسِ الْاَخْضَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات النبراس الذهبي </grapheme>
+    <alias>مُرَطِباتْ اَلنِبْراسِ الذَهَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات النبراس الفضي </grapheme>
+    <alias>مُرَطِباتْ اَلنِبْراسِ الْفِضِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات الهدف </grapheme>
+    <alias>مُرَطِباتْ الْهَدَفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات الهدى </grapheme>
+    <alias>مُرَطِباتْ الْهُدَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات ام الزمول </grapheme>
+    <alias>مُرَطِباتْ اُمِ الزَمولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات بيت المدينة </grapheme>
+    <alias>مُرَطِباتْ بَيْتِ الْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات بين الجسرين </grapheme>
+    <alias>مُرَطِباتْ بَيْنَ الْجَسْرينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات جبل النور الذهبية </grapheme>
+    <alias>مُرَطِباتِ جَبَلِ النورِ الذَهَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات دار الخير </grapheme>
+    <alias>مُرَطِباتْ دارِ الْخَيْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات سيح الخير </grapheme>
+    <alias>مُرَطِباتْ سيحِ الْخَيْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات شاطئ البحر </grapheme>
+    <alias>مُرَطِباتْ شاطِئِ الْبَحْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات شباب الجسرين </grapheme>
+    <alias>مُرَطِباتْ شَبابِ الْجِسْرَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات شعبية التوفيق </grapheme>
+    <alias>مُرَطِباتْ شَعْبِيَةِ التَوْفيقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات شمس الخليج </grapheme>
+    <alias>مُرَطِباتْ شَمْسِ الْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات صفا الخير </grapheme>
+    <alias>مُرَطِباتْ صَفا الْخَيْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات قصر الصحراء </grapheme>
+    <alias>مُرَطِباتْ قَصْرْ الصَحْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات محارة البحر الألفية </grapheme>
+    <alias>مُرَطِباتْ مَحارَةِ الْبَحْرِ الْأَلْفِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات محارة البحر الحديثة </grapheme>
+    <alias>مُرَطِباتْ مَحارَةِ الْبَحْرِ الْحَديثَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات محارة بحر الخليج </grapheme>
+    <alias>مُرَطِباتْ مَحارَةْ بَحْرِ الْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات نبراس السماء </grapheme>
+    <alias>مُرَطِباتْ نِبْراسِ السَماءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات نجم البحر </grapheme>
+    <alias>مُرَطِباتْ نَجْمُ الْبَحْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات نجم الرحبة </grapheme>
+    <alias>مُرَطِباتْ نَجْمُ الرَحَبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات نجمة الشهامة </grapheme>
+    <alias>مُرَطِباتْ نَجْمَةَ الشَهامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات نجوم الفلاح </grapheme>
+    <alias>مُرَطِباتْ نُجومِ الْفَلاحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات نور الفتح </grapheme>
+    <alias>مُرَطِباتْ نورِ الْفَتْحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات نور الفجر </grapheme>
+    <alias>مُرَطِباتْ نورْ الْفَجْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات وادي الوردي </grapheme>
+    <alias>مُرَطِباتْ وادي الْوَرْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات ومشاوي الإختيار </grapheme>
+    <alias>مُرَطِباتْ وَمَشاوي الْإَخْتِيارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات أبوشيبوب </grapheme>
+    <alias>مُرَطِباتْ أَبوشَيْبوبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات التلة الذهبية </grapheme>
+    <alias>مُرَطِباتْ الْتِلَةِ الذَهَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات جبل النور الحديث </grapheme>
+    <alias>مُرَطِباتِ جَبَلِ النورِ الْحَديثْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات ركن الأمانة </grapheme>
+    <alias>مُرَطِباتْ رُكْنْ الْأَمانَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات سويت برجر جديد </grapheme>
+    <alias>مُرَطِباتْ سْويتْ بِرْجَرْ جَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات شباب المرفأ </grapheme>
+    <alias>مُرَطِباتْ شَبابِ الْمَرْفَأْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات عروس نور البحر </grapheme>
+    <alias>مُرَطِباتْ عَروسْ نورْ الْبَحْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات قلعة المشهور </grapheme>
+    <alias>مُرَطِباتْ قَلْعَةُ الْمَشْهورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات مشكور </grapheme>
+    <alias>مُرَطِباتْ مَشْكورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرعي لطب وتقويم الأسنان </grapheme>
+    <alias>مَرْعْيِ لِطِبِ وَتَقْويمِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مركز الأهلي لتعليم قيادة السيارات </grapheme>
+    <alias>مَرْكَزْ اَلْأَهْلي لِتَعْليمِ قِيادَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مركز الخليج للهندسة الكهربائية والميكانيكية </grapheme>
+    <alias>مَرْكَزْ الْخَليجَ لِلْهَنْدَسَةِ الْكَهْرُبائِيَةِ والْميكانيكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مركز الدكتور خالد الجمل الطبي </grapheme>
+    <alias>مَرْكَزَ الدُكْتورِ خالِدِ الْجَمَلِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مركز الفخامة الطبي </grapheme>
+    <alias>مَرْكَزْ الْفَخامَةِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مركز الفراشة للحنة العربية </grapheme>
+    <alias>مَرْكَزْ الْفَراشَةِ لِلْحِنَةِ الْعَرَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مركز النجاح للتاهيل الخاص </grapheme>
+    <alias>مَرْكَزْ اَلنَجاحِ لِلْتَاْهيلِ الْخاصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مركز الهلال الإماراتي للتجارة وبيع الأعشاب </grapheme>
+    <alias>مَرْكَزِ الْهِلالِ الْإَماراتي لِلْتِجارَةْ وَبيعِ الْأَعْشابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مركز اليازية للتجميل </grapheme>
+    <alias>مَرْكَزْ اَلْيازِيَةْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرمرة لتجارة السجاد والكماليات </grapheme>
+    <alias>مَرْمَرَةْ لِتِجارَةِ السَجادْ والْكَمالِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرور أم القيوين </grapheme>
+    <alias>مُرورْ أُمْ الْقيوَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرور البرشاء </grapheme>
+    <alias>مُرورِ الْبَرْشاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرور الرحبة </grapheme>
+    <alias>مُرورِ الرَحَبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرور المصفح </grapheme>
+    <alias>مُرورِ الْمُصْفَحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مريبط لشفط المجاري </grapheme>
+    <alias>مُرْيَبِطْ لِشَفْطِ الْمَجاري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مريشيد الصحي </grapheme>
+    <alias>مْرَيْشيدِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزار الشريف </grapheme>
+    <alias>مَزارِ الشَريفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزارع الشام لتجارة اللحوم </grapheme>
+    <alias>مَزارِعَ الشامْ لِتِجارَةِ الُلحومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزايا الطبي </grapheme>
+    <alias>مَزايا الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزرعة ابقار العين </grapheme>
+    <alias>مَزْرَعَةِ اَبْقارِ الْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزرعة الاطفال </grapheme>
+    <alias>مَزْرَعَةِ الْاَطْفالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزرعة الخزنة للدواجن </grapheme>
+    <alias>مَزْرَعَةِ الْخَزْنَةْ لِلْدَواجِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزرعة المرموم لإنتاج الألبان </grapheme>
+    <alias>مَزْرَعَةِ الْمَرْمومْ لِإِنْتاجِ الْأَلْبانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزن للمياه المعدنية </grapheme>
+    <alias>مُزْنْ لِلْمِياهِ الْمَعْدِنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزهر لتجارة الهدايا </grapheme>
+    <alias>مُزْهِرْ لِتِجارَةِ الْهَدايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مساء الخير للهواتف المتحركة </grapheme>
+    <alias>مَساءُ الْخَيْرِ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسار المدينة </grapheme>
+    <alias>مَسارِ الْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسايا لتجارة ألعاب الأطفال </grapheme>
+    <alias>مَسايا لِتِجارَةِ أَلْعابِ الْأَطْفالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستر درين لخدمات سحب المجاري والصرف الصحي </grapheme>
+    <alias>مِسْتِرْ دْرينْ لِخِدْماتْ سَحْبِ الْمَجاري والصَرْفِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستر كلين للتنظيف الجاف </grapheme>
+    <alias>مِسْتِرْ كْلينْ لِلْتَنْظيفِ الْجافْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستر هامور للماكولات البحرية والمشاوي </grapheme>
+    <alias>مِسْتِرْ هامورْ لِلْمَاْكولاتِ الْبَحْرِيَةِ والْمَشاوي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى أم القيوين </grapheme>
+    <alias>مُسْتَشْفَىْ أُمْ الْقيوَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى أوريانا لجراحات اليوم الواحد </grapheme>
+    <alias>مُسْتَشْفَىْ أورَيانا لِجْراحاتِ الْيَوْمَ الْواحِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الاهلية </grapheme>
+    <alias>مُسْتَشْفَىْ الْاَهْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى البريطاني البيطري </grapheme>
+    <alias>مُسْتَشْفَىْ الْبِريطانِيِ الْبَيْطَرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى التأهيل التخصصي </grapheme>
+    <alias>مُسْتَشْفَىْ التَأْهيلِ التَخَصُصي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الجراحة العصبية والعمود الفقري </grapheme>
+    <alias>مُسْتَشْفَىْ الْجِراحَةِ الْعَصَبِيَةِ والْعَمودِ الْفِقْرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الجليلة </grapheme>
+    <alias>مُسْتَشْفَىْ الْجَليلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الراحة </grapheme>
+    <alias>مُسْتَشْفَىْ الراحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الرحبة </grapheme>
+    <alias>مُسْتَشْفَىْ الرَحَبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الرفاعة للتوليد والجراحة </grapheme>
+    <alias>مُسْتَشْفَىْ الرَفاعَةْ لِلْتَوْليدْ والْجِراحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الرويس </grapheme>
+    <alias>مُسْتَشْفَىْ الْرُويسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الرويس ان ام سي </grapheme>
+    <alias>مُسْتَشْفَىْ الرُوَيْسْ اَنْ اَمْ سي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الزهراوي </grapheme>
+    <alias>مُسْتَشْفَىْ الزَهْراوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى السلام </grapheme>
+    <alias>مُسْتَشْفَىْ السَلامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى السلامة </grapheme>
+    <alias>مُسْتَشْفَىْ السَلامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الشارقة للخيول </grapheme>
+    <alias>مُسْتَشْفَىْ الشارِقَةْ لِلْخُيولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الشرق </grapheme>
+    <alias>مُسْتَشْفَىْ الشَرْقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى العريبي </grapheme>
+    <alias>مُسْتَشْفَىْ الْعُرَيْبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى القاسمي </grapheme>
+    <alias>مُسْتَشْفَىْ الْقاسِمِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى القاسمي للنساء و الولادة </grapheme>
+    <alias>مُسْتَشْفَىْ الْقاسِمِيْ لِلنِساءِ وَ الْوِلادَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى القرهود </grapheme>
+    <alias>مُسْتَشْفَىْ الْقُرْهودْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى القطارة البيطري </grapheme>
+    <alias>مُسْتَشْفَىْ الْقَطارَةِ الْبَيْطَرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى المدينة </grapheme>
+    <alias>مُسْتَشْفَىْ الْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى المفرق </grapheme>
+    <alias>مُسْتَشْفَىْ الْمَفْرِقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الوقن </grapheme>
+    <alias>مُسْتَشْفَىْ الْوَقَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى انجاب الطبي لجراحات اليوم الواحد </grapheme>
+    <alias>مُسْتَشْفَىْ اِنْجابِ الطِبِيْ لِجْراحاتِ الْيَوْمَ الْواحِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى دار العيون لجراحة اليوم الواحد </grapheme>
+    <alias>مُسْتَشْفَىْ دارْ اَلْعُيونِ لِجْراحَةِ الْيَوْمَ الْواحِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى دانة الإمارات </grapheme>
+    <alias>مُسْتَشْفَىْ دانَةِ الْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى سليمان الحبيب </grapheme>
+    <alias>مُسْتَشْفَىْ سُلَيْمانَ الْحَبيبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى صحة الإمارات لجراحة اليوم الواحد </grapheme>
+    <alias>مُسْتَشْفَىْ صِحَةِ الْإِماراتِ لِجْراحَةِ الْيَوْمْ الْواحِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى عجمان التخصصي </grapheme>
+    <alias>مُسْتَشْفَىْ عَجْمانْ اَلتَخَصُصي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى عين الخليج </grapheme>
+    <alias>مُسْتَشْفَىْ عَيْنِ الْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى كورنيش الشارقة </grapheme>
+    <alias>مُسْتَشْفَىْ كُوْرْنيشِ الشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى مركز الخليج للتشخيص </grapheme>
+    <alias>مُسْتَشْفَىْ مَرْكَزِ الْخَليجِ لِلتَشْخيصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى نيو هوب للأمراض النسائية والإخصاب </grapheme>
+    <alias>مُسْتَشْفَىْ نيوْ هوبْ لِلْأَمْراضِ النِسائِيَةِ والْإِخْصابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى خط الحياة </grapheme>
+    <alias>مُسْتَشْفَىْ خَطِ الْحَياةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفيات السعودي الألماني </grapheme>
+    <alias>مُسْتَشْفَياتِ السُعودِيِ الْأَلْمانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستقبل عمان لتجارة قطع غيار للسيارات </grapheme>
+    <alias>مُسْتَقْبَلِ عُمانْ لِتِجارَةِ قِطْعِ غِيارِ لِلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستندات لخدمات المعلومات التجارية </grapheme>
+    <alias>مُسْتَنَداتْ لِخِدْماتْ اَلْمَعْلوماتِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسرح الشارقة الوطني </grapheme>
+    <alias>مَسْرَحِ الشارِقَةِ الْوَطَنِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسمكة عمق البحار </grapheme>
+    <alias>مَسْمَكَةْ عُمْقْ الْبِحارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاريع السالم التجارية </grapheme>
+    <alias>مَشاريعَ السالِمِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاريع الشيراوي </grapheme>
+    <alias>مَشاريعَ الشيراوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاريع الفجيرة للتجارة العامة </grapheme>
+    <alias>مَشاريعَ الْفُجَيْرَةْ لِلتِجارَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاريع المجرودي </grapheme>
+    <alias>مَشاريعَ الْمَجْرودِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاريع بن تمام التجارية </grapheme>
+    <alias>مَشاريعَ بِنْ تَمامِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاريع بن حام الهندسية </grapheme>
+    <alias>مَشاريعَ بِنْ حامِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاريع ليوا التجارية </grapheme>
+    <alias>مَشاريعْ ليوا التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاعر للعباية الملكية </grapheme>
+    <alias>مَشاعِرْ لِلْعَبايَةِ الْمَلَكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاعل الخليج للهواتف المتحركة </grapheme>
+    <alias>مَشاعِلِ الْخَليجِ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاعل للتعهدات العمالية </grapheme>
+    <alias>مَشاعِلْ لِلتَعَهُداتِ الْعُمالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاوي البوابة الدمشقية </grapheme>
+    <alias>مَشاوي الْبَوابَةِ الدِمَشْقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاوي بيبلوس اللبنانية </grapheme>
+    <alias>مَشاوي بْيْبْلوسِ الُلبْنانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاوي دبي للكباب الخاص </grapheme>
+    <alias>مَشاوي دُبي لِلْكَبابِ الْخاصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاوي ضياء الشام </grapheme>
+    <alias>مَشاوي ضِياءُ الشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاوي كباب الضيافة </grapheme>
+    <alias>مَشاوي كَبابِ الضِيافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاوي كرم الشهباء </grapheme>
+    <alias>مَشاوي كَرَمِ الشَهْباءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاوي ليالي الكرم </grapheme>
+    <alias>مَشاوي لَيالي الْكَرَمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاوي شقايق </grapheme>
+    <alias>مَشاوي شَقايِقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشتل النرجس </grapheme>
+    <alias>مَشْتَلِ النَرْجِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشرف لخياطة وتطريز ملابس السيدات </grapheme>
+    <alias>مِشْرِفْ لِخْياطَةِ وَتَطَريزِ مَلابِسِ السَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشروع حفظ النعمة </grapheme>
+    <alias>مَشْروعِ حِفْظِ النِعْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشري لخدمات نقل الركاب </grapheme>
+    <alias>مِشْري لِخِدْماتْ نَقْلِ الرُكابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشغل الازياء الشرقية لخياطة ازياء السيدات </grapheme>
+    <alias>مَشْغَلِ الْاَزْياءِ الشَرْقِيَةِ لِخْياطَةِ اِزْياءْ السَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشغل الخدمة </grapheme>
+    <alias>مُشَغِلِ الْخِدْمَةِ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشغل الرباط للخياطة المغربية </grapheme>
+    <alias>مَشْغَلِ الرِباطْ لِلْخِياطَةِ الْمَغْرِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشغل الظبية للسيدات </grapheme>
+    <alias>مَشْغَلِ الظَبْيَةِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشغل الفن الإماراتي للملابس </grapheme>
+    <alias>مَشْغَلِ الْفَنِ الْإِماراتِيْ لِلْمَلابِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشغل الكابتن للشراشف </grapheme>
+    <alias>مَشْغَلِ الْكابْتَنْ لِلشَراشِفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشغل بلودان لخياطة ازياء السيدات </grapheme>
+    <alias>مَشْغَلْ بُلودانْ لِخْياطَةِ اِزْياءْ السَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشغل ليلة الحناء </grapheme>
+    <alias>مَشْغَلْ لَيْلَةِ الْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشغل ميار للملابس </grapheme>
+    <alias>مَشْغَلْ مَيارْ لِلْمَلابِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشمش وتوت للوجبات السريعة </grapheme>
+    <alias>مَشْمَشْ وَتْوُتْ لِلْوَجَباتِ السَريعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشويات كابري الايطالية </grapheme>
+    <alias>مَشْوِياتْ كابْري الْايطالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشيرف الصحي </grapheme>
+    <alias>مُشْيَرِفِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصانع البسام العالمية </grapheme>
+    <alias>مَصانِعَ الْبَسامَ الْعالَمِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصباح الخان </grapheme>
+    <alias>مِصْباحِ الْخانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصباح الخليج </grapheme>
+    <alias>مِصْباحِ الْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصباح الزهراء </grapheme>
+    <alias>مِصْباحِ الزَهْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصباح الشارقة </grapheme>
+    <alias>مِصْباحِ الشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصباح المشرف </grapheme>
+    <alias>مِصْباحِ الْمُشْرِفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصباح المنخول </grapheme>
+    <alias>مِصْباحِ الْمَنْخولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة الرداء الابيض </grapheme>
+    <alias>مَصْبَغَةِ الرَداءِ الْاَبْيَضْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة السعادة الالية </grapheme>
+    <alias>مَصْبَغَةْ اَلسَعادَةِ الْاَلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة الصدف الاوتوماتيكية </grapheme>
+    <alias>مَصْبَغَةْ اَلصَدَفْ الْاوتوماتيكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة العيناوي الاوتوماتيكية </grapheme>
+    <alias>مَصْبَغَةْ اَلْعيناوِيِ الْاوتوماتيكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة اللمسة الناعمة </grapheme>
+    <alias>مَصْبَغَةْ اَلَلمْسَةِ الناعِمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة شاطئ القرم </grapheme>
+    <alias>مَصْبَغَةْ شاطِئِ الْقَرْمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة شراع السفينة الأوتوماتيكية </grapheme>
+    <alias>مَصْبَغَةْ شَراعِ السَفينَةِ الْأوتوماتيكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة طريق الإمارات </grapheme>
+    <alias>مَصْبَغَةْ طَريقِ الْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة عاتي الآلية </grapheme>
+    <alias>مَصْبَغَةْ عاتي الْآلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة عرماء الاوتوماتيكية </grapheme>
+    <alias>مَصْبَغَةْ عَرْماءِ الْاوتوماتيكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة كاسر الامواج </grapheme>
+    <alias>مَصْبَغَةْ كاسِرِ الْاَمْواجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصرف الإمارات الاسلامي </grapheme>
+    <alias>مَصْرِفْ اَلْإِماراتِ الْاِسْلامِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصرف الإمارات المركزي و هيئة التأمين </grapheme>
+    <alias>مُصْرِفِ الْإِماراتِ الْمَرْكَزِيْ وَ هَيْئَةِ التَأْمينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصرف الشارقة الإسلامي </grapheme>
+    <alias>مَصْرِفِ الشارِقَةِ الْإِسْلامْيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصطفى القيسي الطبي </grapheme>
+    <alias>مُصْطَفَىْ الْقَيْسِيْ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع أسمنت الشارقة </grapheme>
+    <alias>مَصْنَعْ أَسْمَنْتِ الشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الإمارات الدولي للطابوق والانترلوك </grapheme>
+    <alias>مَصْنَعْ اَلْإِماراتِ الدَوْلِيْ لِلْطابوقْ والانْتَرْلوكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الإمارات للأسمدة البيولوجية </grapheme>
+    <alias>مَصْنَعْ اَلْإِماراتِ لِلْأَسْمِدَةِ الْبَيولوجِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الجاسم الاوتوماتيكي للبلاط والرخام </grapheme>
+    <alias>مَصْنَعْ اَلْجاسِمِ الْاوتوماتيكِيْ لِلْبَلاطْ والرُخامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الخليج للمياه النقية </grapheme>
+    <alias>مَصْنَعْ اَلْخَليجِ لِلْمِياهِ النَقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الزاجل للصناعات الجلدية </grapheme>
+    <alias>مَصْنَعْ اَلزاجِلْ لِلصِناعاتِ الْجِلْدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الساحل للصناعات البلاستيكية </grapheme>
+    <alias>مَصْنَعْ اَلساحِلِ لِلصِناعاتِ الْبْلاسْتيكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الطابوق الحديث </grapheme>
+    <alias>مَصْنَعْ اَلطابوقِ الْحَديثْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع العين لتعبئة المياه المعدنية </grapheme>
+    <alias>مَصْنَعْ اَلْعَيْنِ لِتَعْبِئَةِ الْمِياهِ الْمَعْدِنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الغدير للمياه النقية </grapheme>
+    <alias>مَصْنَعْ اَلْغَديرِ لِلْمِياهِ النَقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الفجيرة للصوف الصخري </grapheme>
+    <alias>مَصْنَعْ اَلْفُجَيْرَةْ لِلْصوفِ الصَخْرْيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الفلاح للخرسانة الجاهزة </grapheme>
+    <alias>مَصْنَعْ اَلْفَلاحِ لِلْخَرَسانَةِ الْجاهِزَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع القطارة لتنقية وتعبئة المياه </grapheme>
+    <alias>مَصْنَعْ اَلْقَطارَةِ لِتَنْقِيَةِ وَتَعْبِئَةِ الْمِياهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع القطارة لتنقية وتوزيع المياه </grapheme>
+    <alias>مَصْنَعْ اَلْقَطارَةِ لِتَنْقِيَةِ وَتَوْزيعِ الْمِياهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع بن حرمل للمنتجات الاسمنتية </grapheme>
+    <alias>مَصْنَعْ بِنْ حَرْمَلْ لِلْمُنْتَجاتِ الْاَسْمِنْتِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع توب للمنتجات الخرسانية </grapheme>
+    <alias>مَصْنَعْ توبْ لِلْمُنْتَجاتِ الْخَرَسانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع جمبو لصناعة البلاستيك </grapheme>
+    <alias>مَصْنَعْ جَمْبو لِصِناعَةِ الْبْلاسْتيكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع ريفيير لتنقية وتعبئة المياه المعدنية </grapheme>
+    <alias>مَصْنَعْ ريفِييرْ لِتَنْقِيَةِ وَتَعْبِئَةِ الْمِياهِ الْمَعْدِنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع صفا العين للمياه </grapheme>
+    <alias>مَصْنَعْ صَفا الْعَيْنْ لِلْمِياهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع طيبات الإمارات للتمور </grapheme>
+    <alias>مَصْنَعْ طَيِباتِ الْإِماراتِ لِلْتُمورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع مغل العالمي للاعمال الخشبية </grapheme>
+    <alias>مَصْنَعْ مَغَلِ الْعالَمِيْ لِلْاَعْمالِ الْخَشَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصيرة لبيع الأسماك </grapheme>
+    <alias>مَصيرَةْ لِبَيْعِ الْأَسْماكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطابخ الشندغة لاعداد الولائم </grapheme>
+    <alias>مَطابِخِ الشَنْدَغَةْ لِاِعْدادِ الْوَلائِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطار البطين للطيران الخاص </grapheme>
+    <alias>مَطارِ الْبُطينْ لِلطَيَرانِ الْخاصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطار العين الدولي </grapheme>
+    <alias>مَطارِ الْعَيْنِ الدَوْلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطار الفجيرة </grapheme>
+    <alias>مَطارِ الْفُجَيْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطاعم الجميرا </grapheme>
+    <alias>مَطاعِمَ الْجُميرا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطاعم الحلة </grapheme>
+    <alias>مَطاعِمَ الْحِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطاعم ومطابخ مدفون السدة </grapheme>
+    <alias>مَطاعِمْ وَمَطابِخْ مَدْفونِ السَدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ ابوسمرة الماهر </grapheme>
+    <alias>مَطْبَخْ اَبوسَمْرَةِ الْماهِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الأمير للأكلات الشعبية </grapheme>
+    <alias>مَطْبَخْ اَلْأَميرُ لِلْأَكَلاتِ الشَعْبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الإمارات الشعبي </grapheme>
+    <alias>مَطْبَخْ اَلْإِماراتِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الاجواد الجديد الشعبي </grapheme>
+    <alias>مَطْبَخْ اَلْاَجْوادِ الْجَديدِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الاجواد الشعبي </grapheme>
+    <alias>مَطْبَخْ اَلْاَجْوادِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الاصيل الشعبي </grapheme>
+    <alias>مَطْبَخْ اَلْاَصيلِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الاكرام للاكلات الشعبية </grapheme>
+    <alias>مَطْبَخْ اَلْاِكْرامْ لِلْاَكَلاتِ الشَعْبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ البراحة الشعبي </grapheme>
+    <alias>مَطْبَخْ اَلْبَراحَةِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ البشائر للمأكولات الشعبية </grapheme>
+    <alias>مَطْبَخْ اَلْبَشائِرْ لِلْمَأْكولاتِ الشَعْبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ البوم الشعبي </grapheme>
+    <alias>مَطْبَخْ اَلْبومِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ التشريفات الشعبي </grapheme>
+    <alias>مَطْبَخْ اَلتَشْريفاتِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الجماهير الشعبي </grapheme>
+    <alias>مَطْبَخْ اَلْجَماهيرِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الحفلات الشعبي </grapheme>
+    <alias>مَطْبَخْ اَلْحَفَلاتِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الختم للمأكولات الشعبية </grapheme>
+    <alias>مَطْبَخْ اَلْخِتْمْ لِلْمَأْكولاتِ الشَعْبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الدانة الشعبي </grapheme>
+    <alias>مَطْبَخْ اَلدانَةِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الرابي الشعبي </grapheme>
+    <alias>مَطْبَخْ اَلرابي الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ السدرة الشعبي </grapheme>
+    <alias>مَطْبَخْ اَلسِدْرَةِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ السرور الشعبي للولائم </grapheme>
+    <alias>مَطْبَخْ اَلسُرورِ الشَعْبِيْ لِلْوَلائِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ السيد الهاشمي </grapheme>
+    <alias>مَطْبَخْ اَلسَيِدْ الْهاشِمِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الشان الشعبي </grapheme>
+    <alias>مَطْبَخْ اَلشانِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الشموخ الشعبي </grapheme>
+    <alias>مَطْبَخْ اَلشُموخِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الصدف الشعبي </grapheme>
+    <alias>مَطْبَخْ اَلصَدَفَ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الطوار الشعبي </grapheme>
+    <alias>مَطْبَخْ اَلطَوارِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الطواش الشعبي </grapheme>
+    <alias>مَطْبَخْ اَلطَواشِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ العربي الحديث </grapheme>
+    <alias>مَطْبَخْ اَلْعَرَبِيِ الْحَديثْ</alias>
+  </lexeme>
+</lexicon>

@@ -1,0 +1,2008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="ar-SA">
+  <lexeme>
+    <grapheme> مدرسة اكاديمية عجمان </grapheme>
+    <alias>مَدْرَسَةِ اَكاديمِيَةِ عَجْمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة اكاديمية ياس </grapheme>
+    <alias>مَدْرَسَةِ اَكاديمِيَةِ ياسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة اكسفورد </grapheme>
+    <alias>مَدْرَسَةِ اُكْسْفورْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ال مكتوم </grapheme>
+    <alias>مَدْرَسَةِ اَلْ مَكْتومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الأصالة </grapheme>
+    <alias>مَدْرَسَةِ اَلْأَصالَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الأصايل </grapheme>
+    <alias>مَدْرَسَةِ اَلْأَصايِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الألفية للبنات </grapheme>
+    <alias>مَدْرَسَةِ اَلْأَلْفِيَةِ لِلْبَناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الإمارات الوطنية </grapheme>
+    <alias>مَدْرَسَةْ اَلْإِماراتِ الْوَطَنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الاتقان الأمريكية </grapheme>
+    <alias>مَدْرَسَةْ اَلاتْقانِ الْأَمْريكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة البثنة للتعليم الاساسي </grapheme>
+    <alias>مَدْرَسَةِ اَلْبَثْنَةْ لِلْتَعْليمِ الْاَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة البدع </grapheme>
+    <alias>مَدْرَسَةِ اَلْبِدَعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة البردي للتعليم الأساسي للبنات </grapheme>
+    <alias>مَدْرَسَةِ اَلْبَرْدِيْ لِلتَعْليمِ الْأَساسِيْ لِلْبَناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة البطين </grapheme>
+    <alias>مَدْرَسَةِ اَلْبُطَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الختم </grapheme>
+    <alias>مَدْرَسَةِ اَلْخِتْمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الخليج لتعليم قيادة السيارات </grapheme>
+    <alias>مَدْرَسَةِ اَلْخَليجِ لِتَعْليمِ قِيادَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الدانة </grapheme>
+    <alias>مَدْرَسَةِ اَلدانَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الدهماء </grapheme>
+    <alias>مَدْرَسَةِ اَلدَهْماءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الدوحة </grapheme>
+    <alias>مَدْرَسَةِ اَلدَوْحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الربيع </grapheme>
+    <alias>مَدْرَسَةْ اَلرَبيعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الرواد </grapheme>
+    <alias>مَدْرَسَةْ اَلْرُوادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الريم </grapheme>
+    <alias>مَدْرَسَةْ اَلريمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة السلام </grapheme>
+    <alias>مَدْرَسَةِ اَلسَلامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة السمو </grapheme>
+    <alias>مَدْرَسَةْ اَلسُمُوْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الشاهين </grapheme>
+    <alias>مَدْرَسَةِ اَلشاهينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الصدارة </grapheme>
+    <alias>مَدْرَسَةْ اَلصَدارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الصقور </grapheme>
+    <alias>مَدْرَسَةْ اَلصُقورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الطموح </grapheme>
+    <alias>مَدْرَسَةْ اَلطُموحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الطموح الخاصة </grapheme>
+    <alias>مَدْرَسَةْ اَلطُموحْ اَلْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الطويلة </grapheme>
+    <alias>مَدْرَسَةِ اَلطَويلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الظاهر </grapheme>
+    <alias>مَدْرَسَةِ اَلظاهِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الظاهرة </grapheme>
+    <alias>مَدْرَسَةِ اَلظاهِرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الظبيانية </grapheme>
+    <alias>مَدْرَسَةِ اَلظَبْيانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الظفرة للبنين </grapheme>
+    <alias>مَدْرَسَةِ اَلظَفْرَةْ لِلْبَنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الظيت للبنات </grapheme>
+    <alias>مَدْرَسَةِ اَلظيتْ لِلْبَناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة العاصمة </grapheme>
+    <alias>مَدْرَسَةِ اَلْعاصِمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة العباس بن عبدالمطلب </grapheme>
+    <alias>مَدْرَسَةِ اَلْعَباسِ بِنْ عَبْدِالْمُطَلِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة العين </grapheme>
+    <alias>مَدْرَسَةِ اَلْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة العين الانجليزية </grapheme>
+    <alias>مَدْرَسَةِ اَلْعَيْنْ اَلْاِنْجِليزِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة العين التمهيدية </grapheme>
+    <alias>مَدْرَسَةِ اَلْعَيْنْ اَلتَمْهيدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الغافية </grapheme>
+    <alias>مَدْرَسَةِ اَلْغافِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة القمة </grapheme>
+    <alias>مَدْرَسَةْ اَلْقِمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة القيم النموذجية للبنين </grapheme>
+    <alias>مَدْرَسَةِ اَلْقِيَمِ النَموذَجِيَةِ لِلْبَنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المتحدة </grapheme>
+    <alias>مَدْرَسَةِ اَلْمُتَحِدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المروج </grapheme>
+    <alias>مَدْرَسَةِ اَلْمُروجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المعترض لتعليم قيادة السيارات </grapheme>
+    <alias>مَدْرَسَةِ اَلْمُعْتَرِضْ لِتَعْليمِ قِيادَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المنيعي الثانوية للبنين </grapheme>
+    <alias>مَدْرَسَةْ اَلْمُنَيَعي اَلْثانَوِيَةِ لِلْبَنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المها </grapheme>
+    <alias>مَدْرَسَةِ اَلْمَها</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة المهلب للبنين </grapheme>
+    <alias>مَدْرَسَةِ اَلْمُهَلَبْ لِلْبَنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة النسيم </grapheme>
+    <alias>مَدْرَسَةْ اَلنَسيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الوليد بن عبدالملك </grapheme>
+    <alias>مَدْرَسَةِ اَلْوَليدِ بِنْ عَبْدِالْمَلِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة الياسمينة </grapheme>
+    <alias>مَدْرَسَةِ اَلْياسْمينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ام غافة </grapheme>
+    <alias>مَدْرَسَةِ اُمْ غافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ام كلثوم </grapheme>
+    <alias>مَدْرَسَةِ اُمْ كُلْثومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة اميتي الدولية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ اَمْيَتِيْ الدَوْلِيَةْ اَلْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة انترناشونال كوميونيتي </grapheme>
+    <alias>مَدْرَسَةِ اِنْتَرْناشونالْ كومْيونْيْتِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة بلفيدير البريطانية </grapheme>
+    <alias>مَدْرَسَةِ بَلْفيديرْ الْبِريطانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة بلفيدير العالمية </grapheme>
+    <alias>مَدْرَسَةِ بَلْفيديرْ الْعالَمِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة تريم عمران تريم </grapheme>
+    <alias>مَدْرَسَةِ تَريمْ عُمْرانْ تَرِيْمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة جاردن سيتي البريطانية </grapheme>
+    <alias>مَدْرَسَةِ جارَدِنْ سيتي اَلْبِريطانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة جبل حفيت </grapheme>
+    <alias>مَدْرَسَةِ جَبَلْ حَفَيْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة جرن يافور </grapheme>
+    <alias>مَدْرَسَةِ جَرْنْ يافورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة جيمز فاوندرز </grapheme>
+    <alias>مَدْرَسَةِ جَيْمْزْ فاوْنْدَرْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة جيمز كامبردج الدولية </grapheme>
+    <alias>مَدْرَسَةِ جَيْمْزْ كامْبْرِدْجْ الدَوْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة جيمز وستمنستر </grapheme>
+    <alias>مَدْرَسَةِ جَيْمْزْ وِسْتْمِنِسْتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة جيمز وينشستر </grapheme>
+    <alias>مَدْرَسَةِ جَيْمْزْ وينْشِسْتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة حتا للبنين </grapheme>
+    <alias>مَدْرَسَةِ حَتا لِلْبَنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة حصة بنت محمد </grapheme>
+    <alias>مَدْرَسَةِ حِصَةْ بِنْتَ مُحَمَدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة حمدان بن زايد </grapheme>
+    <alias>مَدْرَسَةِ حَمْدانْ بِنْ زايِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة حمزة بن عبدالمطلب </grapheme>
+    <alias>مَدْرَسَةِ حَمْزَةْ بِنْ عَبْدالْمُطَلِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة حنين </grapheme>
+    <alias>مَدْرَسَةِ حُنَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة خليفة بن زايد </grapheme>
+    <alias>مَدْرَسَةِ خَليفَةْ بِنْ زايِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة خولة بنت حكيم </grapheme>
+    <alias>مَدْرَسَةِ خَوْلَةْ بِنْتْ حَكيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة دبي الدولية </grapheme>
+    <alias>مَدْرَسَةِ دُبي الْدَوْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة دبي للتعليم الثانوي </grapheme>
+    <alias>مَدْرَسَةِ دُبي لِلتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة درويش بن كرم </grapheme>
+    <alias>مَدْرَسَةِ دِرْويشْ بِنْ كَرَمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ديار الدولية الخاصة </grapheme>
+    <alias>مَدْرَسَةِ دِيارْ الْدَوْلِيَةْ اَلْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ذات النطاقين </grapheme>
+    <alias>مَدْرَسَةِ ذاتِ النَطاقينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة رأس الخيمة لمتحدثي الإنجليزية </grapheme>
+    <alias>مَدْرَسَةِ رَأْسِ الْخَيْمَةِ لِمُتَحَدِثي الْإِنْجِليزِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة رابعة العدوية </grapheme>
+    <alias>مَدْرَسَةِ رابِعَةْ اَلْعَدَوِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة راشد للبنين </grapheme>
+    <alias>مَدْرَسَةْ راشِدْ لِلْبَنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة رفاعة </grapheme>
+    <alias>مَدْرَسَةِ رِفاعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة زاخر الخاصة </grapheme>
+    <alias>مَدْرَسَةِ زاخِرْ اَلْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة سارة </grapheme>
+    <alias>مَدْرَسَةِ سارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ساس النخل </grapheme>
+    <alias>مَدْرَسَةِ ساسِ النَخْلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة سلامة بنت بطي </grapheme>
+    <alias>مَدْرَسَةِ سَلامَةْ بِنْتَ بَطي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة سلطان بن زايد </grapheme>
+    <alias>مَدْرَسَةِ سُلْطانْ بِنْ زايِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة شخبوط بن سلطان </grapheme>
+    <alias>مَدْرَسَةِ شُخْبوطْ بِنْ سُلْطانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة شما بنت محمد </grapheme>
+    <alias>مَدْرَسَةِ شَما بِنْتَ مُحَمَدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة شيخة بنت سرور </grapheme>
+    <alias>مَدْرَسَةِ شَيْخَةْ بِنْتَ سُرورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة صير بني ياس </grapheme>
+    <alias>مَدْرَسَةِ صيرْ بَنِيْ ياسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة طحنون بن محمد </grapheme>
+    <alias>مَدْرَسَةِ طَحْنونَ بِنْ مُحَمَدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عائشة بنت عبدالله للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ عائِشَةَ بِنْتَ عَبْدالَلهْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عالية الدولية </grapheme>
+    <alias>مَدْرَسَةْ عالِيَةْ اَلدُوَلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عبدالله عمران تريم </grapheme>
+    <alias>مَدْرَسَةِ عَبْدالَلهْ عِمْرانْ تَرِيْمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة علي بن أبي طالب </grapheme>
+    <alias>مَدْرَسَةِ عَلي بِنْ أَبي طالِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة عين جالوت </grapheme>
+    <alias>مَدْرَسَةِ عَيْنِ جالوتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة كامبردج إنترناشونال </grapheme>
+    <alias>مَدْرَسَةِ كِامْبْرَدْجْ إِنْتَرْناشونالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة لطيفة </grapheme>
+    <alias>مَدْرَسَةِ لَطيفَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة مبارك بن محمد </grapheme>
+    <alias>مَدْرَسَةِ مُبارَكْ بِنْ مُحَمَدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة محمد بن خالد </grapheme>
+    <alias>مَدْرَسَةْ مُحَمَدْ بِنْ خالِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة محمد بن خالد آل نهيان للاجيال </grapheme>
+    <alias>مَدْرَسَةِ مُحَمَدْ بِنْ خالِدْ آلِ نِهْيانَ لِلْاَجْيالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة محمد بن راشد ال مكتوم </grapheme>
+    <alias>مَدْرَسَةِ مُحَمَدْ بِنْ راشِدْ اَلْ مَكْتومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة مدينة بني ياس </grapheme>
+    <alias>مَدْرَسَةِ مَدينَةِ بَنِيْ ياسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة مدينة خليفة </grapheme>
+    <alias>مَدْرَسَةِ مَدينَةِ خَليفَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة مريم بنت سلطان </grapheme>
+    <alias>مَدْرَسَةِ مَرْيَمْ بِنْتْ سُلْطانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة مريم بنت عمران </grapheme>
+    <alias>مَدْرَسَةِ مَرْيَمْ بِنْتْ عُمْرانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة مزيد </grapheme>
+    <alias>مَدْرَسَةِ مَزِيَدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة مكة </grapheme>
+    <alias>مَدْرَسَةِ مَكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة مليح </grapheme>
+    <alias>مَدْرَسَةِ مَلَيْحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة مهرة بنت أحمد </grapheme>
+    <alias>مَدْرَسَةِ مُهْرَةْ بِنْتْ أَحْمَدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة موزة بنت بطي </grapheme>
+    <alias>مَدْرَسَةِ موزَةْ بِنْتْ بَطي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة نسيبة بنت كعب للبنات </grapheme>
+    <alias>مَدْرَسَةِ نُسَيْبَةْ بِنْتْ كَعْبْ لِلْبَناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة نعمة </grapheme>
+    <alias>مَدْرَسَةِ نِعْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة نورث اميريكان انترناشونال </grapheme>
+    <alias>مَدْرَسَةِ نَوْرْثْ اَميرْيْكانْ اِنْتَرْناشونالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة نيكست جينيريشن </grapheme>
+    <alias>مَدْرَسَةِ نيكْسْتْ جينيرِيَشِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة هيلي </grapheme>
+    <alias>مَدْرَسَةِ هْيْلْيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة وستمنستر </grapheme>
+    <alias>مَدْرَسَةِ وَسْتْمِنِسْتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة ياس </grapheme>
+    <alias>مَدْرَسَةِ ياسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدفوعٍ </grapheme>
+    <alias>مَدْفوعٍ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدفون ومضغوط </grapheme>
+    <alias>مَدْفونْ وَمَضْغوطْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدهش لتأجير السيارات </grapheme>
+    <alias>مُدْهِشْ لِتَأْجيرِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدوين الطبي </grapheme>
+    <alias>مَدْوينَ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة ألعاب هيلي </grapheme>
+    <alias>مَدينَةِ أَلْعابِ هْيْلْيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة الدانة للملابس </grapheme>
+    <alias>مَدينَةِ الدانَةْ لِلْمَلابِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة الشيخ خليفة الطبية </grapheme>
+    <alias>مَدينَةِ الشَيْخِ خَليفَةَ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة الطفل دبي </grapheme>
+    <alias>مَدينَةِ الطِفْلِ دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة العين الطبي </grapheme>
+    <alias>مَدينَةِ الْعَيْنِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة النخبة لخدمات اعادة التدوير </grapheme>
+    <alias>مَدينَةِ النُخْبَةِ لِخِدْماتْ اِعادَةِ التَدْويرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة الهدايا </grapheme>
+    <alias>مَدينَةِ الْهَدايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة حتا لتجارة الالكترونيات </grapheme>
+    <alias>مَدينَةِ حَتا لِتِجارَةِ اَلْاِلِكْتُرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة دبي الطبية </grapheme>
+    <alias>مَدينَةِ دُبي اَلطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة زايد </grapheme>
+    <alias>مَدينَةِ زايِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة زايد الرياضية </grapheme>
+    <alias>مَدينَةِ زايِدِ الرِياضِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة زايد للتسوق </grapheme>
+    <alias>مَدينَةِ زايِدْ لِلتَسَوُقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة زايد للسيارات الجديدة والمستعملة </grapheme>
+    <alias>مَدينَةِ زايِدْ لِلسَياراتِ الْجَديدَةِ والْمُسْتَعْمَلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة عجمان الإعلامية </grapheme>
+    <alias>مَدينَةِ عَجْمانِ الْإِعْلامِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدينة كراتشي </grapheme>
+    <alias>مَدينَةِ كَراتْشِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مراد زاهي </grapheme>
+    <alias>مُرادْ زاهي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مراد عبدالله مراد للإلكترونيات </grapheme>
+    <alias>مُرادْ عَبْدالَلهْ مُرادْ لِلْإِلِكْتِرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مراكش </grapheme>
+    <alias>مَراكِشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرايا </grapheme>
+    <alias>مَرايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرة أخرى </grapheme>
+    <alias>مَرَةً أُخْرَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرةً أخرى </grapheme>
+    <alias>مَرَةً أُخْرَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرجان </grapheme>
+    <alias>مَرْجانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرجان اسفار للشقق الفندقية </grapheme>
+    <alias>مَرْجانْ اَسْفارْ لِلشُقَقْ اَلْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرجانة </grapheme>
+    <alias>مُرْجانَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرجعي </grapheme>
+    <alias>مَرْجَعي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرحبا </grapheme>
+    <alias>مَرْحَبا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرحبا ريزيدنس </grapheme>
+    <alias>مَرْحَبًا رْيْزيدَنْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرحبا لقطع غيار السيارات </grapheme>
+    <alias>مَرْحَبًا لِقِطَعِ غِيارِ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرحبا للسفريات </grapheme>
+    <alias>مَرْحَبًا لِلْسَفَرِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرحبا للشقق الفندقية </grapheme>
+    <alias>مَرْحَبًا لِلشُقَقْ اَلْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرحبتين لقطع غيار السيارات </grapheme>
+    <alias>مَرْحَبْتينْ لِقِطَعِ غِيارِ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مردف </grapheme>
+    <alias>مِرْدِفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مردف سيتي سنتر </grapheme>
+    <alias>مِرْدِفْ سيتي سَنْتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرسى عجمان </grapheme>
+    <alias>مَرْسَىْ عَجْمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرشد لقطع غيار السيارات </grapheme>
+    <alias>مَرْشَدْ لِقِطَعِ غِيارِ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات </grapheme>
+    <alias>مُرَطِباتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات أبوسيف </grapheme>
+    <alias>مُرَطِباتْ أَبوسيفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات الأحسن </grapheme>
+    <alias>مُرَطِباتْ اَلْأَحْسَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات الأمانة </grapheme>
+    <alias>مُرَطِباتْ اَلْأَمانَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات الاحسن </grapheme>
+    <alias>مُرَطِباتْ اَلْاَحْسَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات الايمان </grapheme>
+    <alias>مُرَطِباتْ اَلْايمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات التلة </grapheme>
+    <alias>مُرَطِباتْ اَلتَلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات الدانة </grapheme>
+    <alias>مُرَطِباتْ اَلدانَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات الراحة </grapheme>
+    <alias>مُرَطِباتْ اَلراحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات الرزان </grapheme>
+    <alias>مُرَطِباتْ اَلرَزانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات الزعاب </grapheme>
+    <alias>مُرَطِباتْ اَلزَعابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات الزعفرانة </grapheme>
+    <alias>مُرَطِباتْ اَلزَعْفِرانَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات السلع </grapheme>
+    <alias>مُرَطِباتْ اَلسِلَعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات الشامخة </grapheme>
+    <alias>مُرَطِباتْ اَلشامِخَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات الطريق الجديد </grapheme>
+    <alias>مُرَطِباتْ اَلطَريقِ الْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات العصر </grapheme>
+    <alias>مُرَطِباتْ اَلْعَصْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات الفتح </grapheme>
+    <alias>مُرَطِباتْ اَلْفَتْحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات الفنان </grapheme>
+    <alias>مُرَطِباتْ اَلْفَنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات الفين </grapheme>
+    <alias>مُرَطِباتْ اَلْفَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات النبراس </grapheme>
+    <alias>مُرَطِباتْ اَلنِبْراسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات تذكار </grapheme>
+    <alias>مُرَطِباتْ تِذْكارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات جنين </grapheme>
+    <alias>مُرَطِباتْ جِنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات جوس بالاس </grapheme>
+    <alias>مُرَطِباتْ جوسْ بالاسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات حنين </grapheme>
+    <alias>مُرَطِباتْ حَنْيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات دولفين </grapheme>
+    <alias>مُرَطِباتْ دولْفينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات رنوش </grapheme>
+    <alias>مُرَطِباتْ رَنوشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات رولا </grapheme>
+    <alias>مُرَطِباتْ رولا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات رويال تيست </grapheme>
+    <alias>مُرَطِباتْ رويالْ تَيْسْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات زهرة غياثي </grapheme>
+    <alias>مُرَطِباتْ زَهْرَةْ غَياثي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات سويت برجر سيلفر </grapheme>
+    <alias>مُرَطِباتْ سْويتْ بِرْجَرْ سيلْفَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات شاهين </grapheme>
+    <alias>مُرَطِباتْ شاهينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات صفصوف </grapheme>
+    <alias>مُرَطِباتْ صُفْصوفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات عالية </grapheme>
+    <alias>مُرَطِباتْ عالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات عبراء </grapheme>
+    <alias>مُرَطِباتْ عَبْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات عسكر </grapheme>
+    <alias>مُرَطِباتْ عَسْكَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات كوكتيل برجر </grapheme>
+    <alias>مُرَطِباتْ كوكْتيلْ بِرْجَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات مأرب </grapheme>
+    <alias>مُرَطِباتْ مَأْرِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات مبروك </grapheme>
+    <alias>مُرَطِباتْ مَبْروكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات مرحبا </grapheme>
+    <alias>مُرَطِباتْ مَرْحَبا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات مركة </grapheme>
+    <alias>مُرَطِباتْ مَرَكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات مهرة </grapheme>
+    <alias>مُرَطِباتْ مُهْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات هدهد </grapheme>
+    <alias>مُرَطِباتْ هُدْهُدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات ومشاوي أبوأفنان </grapheme>
+    <alias>مُرَطِباتْ وَمَشاوي أَبوأَفْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات ومشاوي سفينة بني ياس </grapheme>
+    <alias>مُرَطِباتْ وَمَشاوي سَفينَةِ بَنِيْ ياسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات ومشاوي مسافي </grapheme>
+    <alias>مُرَطِباتْ وَمَشاوي مُسافي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات ومطعم أبوهلال </grapheme>
+    <alias>مُرَطِباتْ وَمَطْعَمْ أَبوهْلالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرطبات برجر الاختيار </grapheme>
+    <alias>مُرَطِباتْ بِرْجَرْ اَلاخْتِيارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مركبتي </grapheme>
+    <alias>مَرْكَبَتي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مركز اتصال عونك مرور أبوظبي </grapheme>
+    <alias>مَرْكَزِ اتِصالْ عَوْنَكْ مُرورِ أَبوظَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مركز الذيد الصحي </grapheme>
+    <alias>مَرْكَزِ الذيدِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مركز الشاي </grapheme>
+    <alias>مَرْكَزْ اَلشايْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مركز شرطة ومرور عجمان </grapheme>
+    <alias>مَرْكَزِ شُرْطَةْ وَمُرورِ عَجْمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرمر </grapheme>
+    <alias>مَرْمَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرمر للتجميل والحناء </grapheme>
+    <alias>مَرْمَرْ لِلتَجْميلِ والْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرنة </grapheme>
+    <alias>مَرِنَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرواريد </grapheme>
+    <alias>مُرْواريدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مروان عباس للسيارات </grapheme>
+    <alias>مَرْوانْ عَباسْ لِلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مروج للشقق الفندقية أبوظبي </grapheme>
+    <alias>مُروجْ لِلشُقَقْ اَلْفُنْدُقِيَةِ أَبوظَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرور الرويس </grapheme>
+    <alias>مُرورِ الرُوَيْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرور الشارقة </grapheme>
+    <alias>مُرورِ الشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مروش </grapheme>
+    <alias>مَروشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مريديان </grapheme>
+    <alias>مِريدْيانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مرينوس للسجاد </grapheme>
+    <alias>مَرْيْنوسْ لِلْسِجادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزاجي </grapheme>
+    <alias>مَزاجْيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزارع أبقار العين </grapheme>
+    <alias>مَزارِعْ أَبْقارِ الْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزارع البستان </grapheme>
+    <alias>مَزارِعْ اَلْبُسْتانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزارع دواجن العين </grapheme>
+    <alias>مَزارِعْ دَواجِنِ الْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزايا للكمبيوتر </grapheme>
+    <alias>مَزايا لِلْكُمْبِيوتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزناس </grapheme>
+    <alias>مِزْناسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزنة للكمبيوتر </grapheme>
+    <alias>مَزْنَةْ لِلْكُمْبِيوتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزون للهندسة </grapheme>
+    <alias>مُزونْ لِلْهَنْدَسَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزيد الطبي </grapheme>
+    <alias>مَزِيَدْ اَلطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزيد مول </grapheme>
+    <alias>مَزْيَدْ مولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مزيرع الصحي </grapheme>
+    <alias>مُزْيَرِعِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مس إليجنت للتجميل </grapheme>
+    <alias>مِسْ إِلْيْجِنْتْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مس بريليانت للتجميل </grapheme>
+    <alias>مِسْ بْرْيْلْيانْتْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مس جالكسي للتجميل </grapheme>
+    <alias>مِسْ جالَكْسي لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مس دانتيل بوتيك </grapheme>
+    <alias>مِسْ دانْتيلْ بوتيكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مس موند للتجميل والحناء </grapheme>
+    <alias>مِسْ مونْدْ لِلتَجْميلِ والْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مساج تاي روز </grapheme>
+    <alias>مَساجْ تايْ روزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مساعدتك </grapheme>
+    <alias>مُساعَدَتُكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مساعدتَك </grapheme>
+    <alias>مُساعَدَتَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مساعدتِك </grapheme>
+    <alias>مُساعَدَتِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مساعِدتِك </grapheme>
+    <alias>مُساعِدَتِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسافي للطباعة </grapheme>
+    <alias>مَسافي لِلطِباعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسالا اند كو </grapheme>
+    <alias>مُسالَاَ انْدْ كو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مساندة </grapheme>
+    <alias>مُسانَدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسايا </grapheme>
+    <alias>مَسايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستحضرات تجميل ماك </grapheme>
+    <alias>مُسْتَحْضَراتِ تَجْميلْ ماكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستر برياني </grapheme>
+    <alias>مِسْتِرْ بْرَيانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستر بيكر </grapheme>
+    <alias>مِسْتِرْ بَيْكَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستر تيست </grapheme>
+    <alias>مِسْتِرْ تَيْسْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستر درين لخدمات لسحب المجاري والصرف الصحي </grapheme>
+    <alias>مِسْتِرْ دْرينْ لِخِدْماتْ لِسَحْبِ الْمَجاري والصَرْفِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستر ديناميتو </grapheme>
+    <alias>مِسْتِرْ دينامَيْتو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستر فطائر </grapheme>
+    <alias>مِسْتِرْ فَطائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستر فطيرة </grapheme>
+    <alias>مِسْتِرْ فَطيرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستر كراب </grapheme>
+    <alias>مِسْتِرْ كْرابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستر كيك </grapheme>
+    <alias>مِسْتِرْ كيكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى أبوظبي للصقور </grapheme>
+    <alias>مُسْتَشْفَىْ أَبوظَبِيْ لِلْصُقورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى أمينة </grapheme>
+    <alias>مُسْتَشْفَىْ أَمينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى ادم فيتال </grapheme>
+    <alias>مُسْتَشْفَىْ اَدَمْ فْيْتالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى استر </grapheme>
+    <alias>مُسْتَشْفَىْ اَسْتِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى ال مكتوم </grapheme>
+    <alias>مُسْتَشْفَىْ اَلْ مَكْتومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الأسنان الجامعي </grapheme>
+    <alias>مُسْتَشْفَىْ اَلْأَسْنانْ اَلْجامِعِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الأهلية </grapheme>
+    <alias>مُسْتَشْفَىْ الْأَهْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الإمارات </grapheme>
+    <alias>مُسْتَشْفَىْ الْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الإمارات التخصصي </grapheme>
+    <alias>مُسْتَشْفَىْ الْإِماراتْ اَلتَخَصُصي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الإمارات الدولي </grapheme>
+    <alias>مُسْتَشْفَىْ الْإِماراتْ اَلدَوْلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الامل </grapheme>
+    <alias>مُسْتَشْفَىْ الْاَمَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى البراحة </grapheme>
+    <alias>مُسْتَشْفَىْ الْبَراحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى البستان التخصصي </grapheme>
+    <alias>مُسْتَشْفَىْ اَلْبُسْتانْ اَلتَخَصُصي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الجامعة الشارقة </grapheme>
+    <alias>مُسْتَشْفَىْ الْجامِعَةْ الشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الذيد </grapheme>
+    <alias>مُسْتَشْفَىْ اَلْذِيْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الذيد الجديد </grapheme>
+    <alias>مُسْتَشْفَىْ اَلْذِيْدْ اَلْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الزهراء </grapheme>
+    <alias>مُسْتَشْفَىْ الزَهْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الشيخ خليفة </grapheme>
+    <alias>مُسْتَشْفَىْ الشَيْخْ خَليفَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى العناية الطبية التخصصي </grapheme>
+    <alias>مُسْتَشْفَىْ الْعِنايَةِ الطِبِيَةِ اَلتَخَصُصي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى العين </grapheme>
+    <alias>مُسْتَشْفَىْ الْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الغربية </grapheme>
+    <alias>مُسْتَشْفَىْ الْغَرْبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الفجيرة الجديد </grapheme>
+    <alias>مُسْتَشْفَىْ اَلْفُجَيْرَةْ اَلْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الكورنيش </grapheme>
+    <alias>مُسْتَشْفَىْ اَلْكورْنِيْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى الواحة </grapheme>
+    <alias>مُسْتَشْفَىْ الْواحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى امانة هيلث كير ميديكال اند ريهابليتيشن </grapheme>
+    <alias>مُسْتَشْفَىْ اَمانَةْ هيلْثْ كيرْ ميديكالْ اَنْدْ ريهابْلْيْتَيْشِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى ان ام سي </grapheme>
+    <alias>مُسْتَشْفَىْ اَنْ اَمْ سِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى ان ام سي التخصصي </grapheme>
+    <alias>مُسْتَشْفَىْ اِنْ اَمْ سي اَلتَخَصُصي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى ان ام سي رويال </grapheme>
+    <alias>مُسْتَشْفَىْ اِنْ اَمْ سي رويالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى ان ام سي رويال للنساء </grapheme>
+    <alias>مُسْتَشْفَىْ اِنْ اَمْ سي رويالْ لِلنِساءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى بارين </grapheme>
+    <alias>مُسْتَشْفَىْ بارينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى برايم </grapheme>
+    <alias>مُسْتَشْفَىْ بَرايِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى برجيل </grapheme>
+    <alias>مُسْتَشْفَىْ بَرْجيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى بلهول الاوروبي </grapheme>
+    <alias>مُسْتَشْفَىْ بُلْهولِ الْاوروبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى بلهول التخصصي </grapheme>
+    <alias>مُسْتَشْفَىْ بُلْهولْ اَلتَخَصُصي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى توام </grapheme>
+    <alias>مُسْتَشْفَىْ تَوامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى ثومبي </grapheme>
+    <alias>مُسْتَشْفَىْ ثْوْمْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى جزيرة دلما </grapheme>
+    <alias>مُسْتَشْفَىْ جَزيرَةِ دَلْما</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى حتا </grapheme>
+    <alias>مُسْتَشْفَىْ حَتا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى خورفكان </grapheme>
+    <alias>مُسْتَشْفَىْ خورْفَكانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى دار الشفاء </grapheme>
+    <alias>مُسْتَشْفَىْ دارِ الشِفاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى دبا الفجيرة الجديد </grapheme>
+    <alias>مُسْتَشْفَىْ دِبَاَ الْفُجَيْرَةْ اَلْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى دبي الجديد </grapheme>
+    <alias>مُسْتَشْفَىْ دُبي اَلْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى دبي للجمال </grapheme>
+    <alias>مُسْتَشْفَىْ دُبي لِلْجَمالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى دبي لندن التخصصي </grapheme>
+    <alias>مُسْتَشْفَىْ دُبي لَنْدَنْ اَلتَخَصُصي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى رأس الخيمة </grapheme>
+    <alias>مُسْتَشْفَىْ رَأْسِ الْخَيْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى راشد </grapheme>
+    <alias>مُسْتَشْفَىْ راشِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى ريم </grapheme>
+    <alias>مُسْتَشْفَىْ ريمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى زايد العسكري </grapheme>
+    <alias>مُسْتَشْفَىْ زايِدِ الْعَسْكَرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى زليخة </grapheme>
+    <alias>مُسْتَشْفَىْ زُلَيْخَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى سمايا </grapheme>
+    <alias>مُسْتَشْفَىْ سَمايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى سيدارز جبل علي الدولي </grapheme>
+    <alias>مُسْتَشْفَىْ سْيِدارْزْ جَبَلْ عَلي اَلدَوْلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى شعم </grapheme>
+    <alias>مُسْتَشْفَىْ شَعَمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى صقر </grapheme>
+    <alias>مُسْتَشْفَىْ صَقْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى عبدالله عمران للنساء والولادة </grapheme>
+    <alias>مُسْتَشْفَىْ عَبْدالْلَهَ عِمْرانْ لِلنِساءِ والْوِلادَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى فقيه الجامعي </grapheme>
+    <alias>مُسْتَشْفَىْ فَقيهْ اَلْجامِعِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى كلباء </grapheme>
+    <alias>مُسْتَشْفَىْ كَلْباءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى لايف كير </grapheme>
+    <alias>مُسْتَشْفَىْ لايْفْ كيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى لطيفة </grapheme>
+    <alias>مُسْتَشْفَىْ لَطيفَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى مسافي </grapheme>
+    <alias>مُسْتَشْفَىْ مَسافي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى مغربي للعيون </grapheme>
+    <alias>مُسْتَشْفَىْ مَغْرَبي لِلْعُيونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى مورفيلدز للعيون </grapheme>
+    <alias>مُسْتَشْفَىْ مورْفيلْدْزْ لِلْعُيونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى ميدكلينك الجوهرة </grapheme>
+    <alias>مُسْتَشْفَىْ مْيْدْكْلينِكَ الْجَوْهَرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى ميدكير </grapheme>
+    <alias>مُسْتَشْفَىْ ميدْكيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى ميديكلينك </grapheme>
+    <alias>مُسْتَشْفَىْ ميديكِلينِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى ميديور </grapheme>
+    <alias>مُسْتَشْفَىْ ميدْيورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى نيشن </grapheme>
+    <alias>مُسْتَشْفَىْ نَيْشَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى هيلث بوينت </grapheme>
+    <alias>مُسْتَشْفَىْ هيلْثْ بويْنْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى ويلكير </grapheme>
+    <alias>مُسْتَشْفَىْ ويلْكيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفى يونيفرسال </grapheme>
+    <alias>مُسْتَشْفَىْ يونيفِرْسالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستشفيات ميديكلينك </grapheme>
+    <alias>مُسْتَشْفَياتِ ميدْيْكْلينِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مستوصف الدكتور موبين </grapheme>
+    <alias>مُسْتَوْصِفْ اَلدُكْتورْ موبينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسجد الامام الحسين </grapheme>
+    <alias>مَسْجِدِ الْاِمامِ الْحُسَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسقط </grapheme>
+    <alias>مَسْقَطْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسكوف لندن </grapheme>
+    <alias>مَسْكوفْ لَنْدَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسلخ </grapheme>
+    <alias>مَسْلَخْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسلخ أبوظبي الآلي </grapheme>
+    <alias>مَسْلَخْ أَبوظَبِيْ اَلْآلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسلخ السلامات </grapheme>
+    <alias>مَسْلَخْ اَلسَلاماتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسلخ الشارقة </grapheme>
+    <alias>مَسْلَخِ الشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسلخ الظفرة </grapheme>
+    <alias>مَسْلَخْ اَلظَفْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسلخ اليحر </grapheme>
+    <alias>مَسْلَخْ اَلْيَحَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسلخ بني ياس </grapheme>
+    <alias>مَسْلَخْ بَنِيْ ياسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسلخ خورفكان </grapheme>
+    <alias>مَسْلَخْ خورْفَكانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسلخ مساكن </grapheme>
+    <alias>مَسْلَخْ مَساكِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مسمط بحة </grapheme>
+    <alias>مَسْمَطْ بَحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاريع بن موسى </grapheme>
+    <alias>مَشاريعْ بِنْ موسَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاريع غياثي للإلكترونيات </grapheme>
+    <alias>مَشاريعَ غَياثي لِلْإِلِكْتِرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاريع لامي </grapheme>
+    <alias>مَشاريعْ لامي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاريع مصبح أحمد </grapheme>
+    <alias>مَشاريعْ مُصْبِحْ أَحْمَدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاريع مصبح احمد سيف </grapheme>
+    <alias>مَشاريعْ مُصْبِحْ اَحْمَدْ سَيْفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاريع يورك ومسح الكميات </grapheme>
+    <alias>مَشاريعَ يورْكْ وَمَسَحِ الْكَمِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاكيك كباب </grapheme>
+    <alias>مَشاكيكْ كَبابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاوى </grapheme>
+    <alias>مَشاوِىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاوي </grapheme>
+    <alias>مَشاوي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاوي الدرر </grapheme>
+    <alias>مَشاوي اَلدُرَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاوي حلب </grapheme>
+    <alias>مَشاوي حَلَبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاوي زهرة إسطنبول </grapheme>
+    <alias>مَشاوي زَهْرَةْ إِسْطَنْبولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاوي زهرة العكاوي </grapheme>
+    <alias>مَشاوي زَهْرَةْ اَلْعَكاوي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاوي شيش كباب </grapheme>
+    <alias>مَشاوي شيشْ كَبابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاوي ومعجنات سيزر </grapheme>
+    <alias>مَشاوي وَمُعَجَناتْ سيزْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشاوي ومعجنات فولكانو لبنان </grapheme>
+    <alias>مَشاوي وَمُعَجَناتْ فولْكانو لُبْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشايخ للعبايات </grapheme>
+    <alias>مَشايِخِ لِلْعَباياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشتركًا </grapheme>
+    <alias>مُشْتَرِكًا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشتل ورسان </grapheme>
+    <alias>مَشْتَلْ وِرْسانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشرف مول </grapheme>
+    <alias>مِشْرِفُ مولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشرق برايفت بنك </grapheme>
+    <alias>مَشْرِقْ بْرايْفَتْ بَنْكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشغل </grapheme>
+    <alias>مَشْغَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشغل سامر للخياطة </grapheme>
+    <alias>مَشْغَلْ سامَرْ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشغل ستوب للأقمشة </grapheme>
+    <alias>مَشْغَلْ سْتوبْ لِلْأَقْمِشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشغل صوغات للملابس </grapheme>
+    <alias>مَشْغَلْ صوغاتْ لِلْمَلابِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشغل مشايخ للشيلة والعبايا </grapheme>
+    <alias>مَشْغَلْ مَشايِخِ لِلْشيلَةْ والْعَبايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشكاك غير </grapheme>
+    <alias>مِشْكاكْ غَيْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشموم للزهور </grapheme>
+    <alias>مَشْمومْ لِلْزُهورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشهد </grapheme>
+    <alias>مَشْهَدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشويات </grapheme>
+    <alias>مَشْوِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مشيرف </grapheme>
+    <alias>مُشْيَرِفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة </grapheme>
+    <alias>مَصْبَغَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة أبوأحمد للملابس </grapheme>
+    <alias>مَصْبَغَةْ أَبوأَحْمَدْ لِلْمَلابِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة أبوفهد </grapheme>
+    <alias>مَصْبَغَةْ أَبوفَهْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة إي آر </grapheme>
+    <alias>مَصْبَغَةْ إي آرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة احمد سجاد </grapheme>
+    <alias>مَصْبَغَةْ اَحْمَدْ سَجادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة الأمل </grapheme>
+    <alias>مَصْبَغَةْ اَلْأَمَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة البوم </grapheme>
+    <alias>مَصْبَغَةْ اَلْبومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة الرافدين </grapheme>
+    <alias>مَصْبَغَةْ اَلرافِدَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة الساحل </grapheme>
+    <alias>مَصْبَغَةْ اَلساحِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة الشوامخ </grapheme>
+    <alias>مَصْبَغَةْ اَلشَوامِخْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة القلعة الأوتوماتيكية </grapheme>
+    <alias>مَصْبَغَةْ اَلْقَلْعَةْ الْأوتوماتيكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة المنار </grapheme>
+    <alias>مَصْبَغَةْ اَلْمَنارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة الناموس </grapheme>
+    <alias>مَصْبَغَةْ اَلناموسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة ان اند اوت </grapheme>
+    <alias>مَصْبَغَةْ اِنْ اَنْدْ اَوْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة اورنج </grapheme>
+    <alias>مَصْبَغَةْ اورَنْجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة بلاك اند وايت للتنظيف </grapheme>
+    <alias>مَصْبَغَةْ بْلاكْ اَنْدْ وايِتْ لِلْتَنْظيفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة بيانكو </grapheme>
+    <alias>مَصْبَغَةْ بْيانْكو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة بينونة </grapheme>
+    <alias>مَصْبَغَةْ بَيْنونَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة جميرا </grapheme>
+    <alias>مَصْبَغَةْ جُمْيَرا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة حمدة </grapheme>
+    <alias>مَصْبَغَةْ حَمْدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة دوبي </grapheme>
+    <alias>مَصْبَغَةْ دَوْبَيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة رويال اكسبرس </grapheme>
+    <alias>مَصْبَغَةْ رويالْ اَكْسَبِرِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة زعيم الإمارات الاوتوماتيكية </grapheme>
+    <alias>مَصْبَغَةْ زَعيمُ الْإِماراتِ الْاوتوماتيكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة زهرة الشرق </grapheme>
+    <alias>مَصْبَغَةْ زَهْرَةْ اَلشَرْقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة سعيد الاتوماتيكية للملابس </grapheme>
+    <alias>مَصْبَغَةْ سَعيدْ اَلْاُتوماتيكِيَةْ لِلْمَلابَسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة سلوى </grapheme>
+    <alias>مَصْبَغَةْ سَلْوَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة كريستال </grapheme>
+    <alias>مَصْبَغَةْ كِريسْتالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة ميجا </grapheme>
+    <alias>مَصْبَغَةْ ميجا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة نايب </grapheme>
+    <alias>مَصْبَغَةْ نايِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصبغة ياسر </grapheme>
+    <alias>مَصْبَغَةْ ياسِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصر للطيران </grapheme>
+    <alias>مِصْرَ لِلطَيَرانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصرف </grapheme>
+    <alias>مُصْرِفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصرف أبوظبي الاسلامي </grapheme>
+    <alias>مَصْرِفْ أَبوظَبِيْ اَلْاِسْلامِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصرف الإمارات المركزي </grapheme>
+    <alias>مُصْرِفْ اَلْإِماراتِ الْمَرْكَزِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصرف الإمارات للتنمية </grapheme>
+    <alias>مَصْرِفْ اَلْإِماراتِ لِلتَنْمِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصرف عجمان </grapheme>
+    <alias>مَصْرِفْ عَجْمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصرف نور الاسلامي </grapheme>
+    <alias>مَصْرِفْ نورْ اَلْاِسْلامِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصطفوي للسجاد والستائر </grapheme>
+    <alias>مَصْطَفويْ لِلْسِجادْ والسَتائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصفوت الطبي </grapheme>
+    <alias>مَصْفوتِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع </grapheme>
+    <alias>مَصْنَعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع أبوظبي الوطني للسجاد </grapheme>
+    <alias>مَصْنَعْ أَبوظَبِيْ اَلْوَطَنِيْ لِلْسِجادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع أطلس للبلاستيك </grapheme>
+    <alias>مَصْنَعْ أَطْلَسْ لِلْبْلاسْتيكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الإمارات للاسمنت </grapheme>
+    <alias>مَصْنَعِ اَلْإِماراتِ لِلْاِسْمِنْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الانتصار للأثاث والديكور </grapheme>
+    <alias>مَصْنَعْ اَلانْتِصارْ لِلْأَثاثْ والدُيْكورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع البيت للالومنيوم </grapheme>
+    <alias>مَصْنَعْ اَلْبَيْتْ لِلْاَلومَنْيومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الثلاث نجوم للاسفنج </grapheme>
+    <alias>مَصْنَعْ اَلثَلاثْ نُجومْ لِلْاِسْفَنْجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الرحاب للعطور </grapheme>
+    <alias>مَصْنَعْ اَلرَحابْ لِلْعُطورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الريامي للأثاث </grapheme>
+    <alias>مَصْنَعْ اَلرَيامي لِلْأَثاثْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الزاد للتمور </grapheme>
+    <alias>مَصْنَعْ اَلزادْ لِلْتُمورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع السديرة للسماد </grapheme>
+    <alias>مَصْنَعْ اَلسِديرَةْ لِلسِمادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الطالب للألمنيوم </grapheme>
+    <alias>مَصْنَعْ اَلطالِبِ لِلْأَلُمِنْيومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع العين لزخرفة السيراميك </grapheme>
+    <alias>مَصْنَعْ اَلْعَيْنِ لْزَخْرَفَةِ السيراميكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع العين للأعلاف </grapheme>
+    <alias>مَصْنَعْ اَلْعَيْنِ لِلْأَعْلافْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الفجيرة للرخام والبلاط </grapheme>
+    <alias>مَصْنَعْ اَلْفُجَيْرَةْ لِلْرُخامْ والْبَلاطْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع الهاشمية للتمور </grapheme>
+    <alias>مَصْنَعْ اَلْهاشِمِيَةِ لِلْتُمورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع اليحر للأسمدة </grapheme>
+    <alias>مَصْنَعْ اَلْيَحَرْ لِلْأَسْمِدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع بو عبد بانافع للعطور </grapheme>
+    <alias>مَصْنَعْ بَوْ عَبْدِ بانافِعْ لِلْعُطورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع تامكو </grapheme>
+    <alias>مَصْنَعْ تامْكو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع تمور خت </grapheme>
+    <alias>مَصْنَعْ تُمورْ خَتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع تومسن </grapheme>
+    <alias>مَصْنَعْ تومْسِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع جبل علي للاسمنت </grapheme>
+    <alias>مَصْنَعْ جَبَلْ عَلي لِلْاِسْمَنْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع حناين للعبايا </grapheme>
+    <alias>مَصْنَعْ حَنايِنْ لِلْعَبايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع خلوري للطابوق </grapheme>
+    <alias>مَصْنَعْ خْلَوْري لِلْطابوقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع سيدار للديكور </grapheme>
+    <alias>مَصْنَعْ سيدارْ لِلْدْيْكورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع طابوق الإمارات </grapheme>
+    <alias>مَصْنَعْ طابوقِ الْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع طابوق رأس الخيمة </grapheme>
+    <alias>مَصْنَعْ طابوقْ رَأْسِ الْخَيْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع كوكو كرافت للشوكولاتة </grapheme>
+    <alias>مَصْنَعْ كوكو كْرافْتْ لِلْشوكولاتَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع ملك للأسفنج </grapheme>
+    <alias>مَصْنَعْ مَلَكْ لِلْأِسْفَنْجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع مياه زلال </grapheme>
+    <alias>مَصْنَعْ مِياهْ زُلالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع نايل للاسمنت </grapheme>
+    <alias>مَصْنَعْ نايِلْ لِلْاِسْمَنْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع نور أسدي للزجاج والالمنيوم </grapheme>
+    <alias>مَصْنَعْ نورْ أَسَدِيْ لِلْزُجاجِ والْاَلِمِنْيومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مصنع هوت باك للتغليف </grapheme>
+    <alias>مَصْنَعْ هوتْ باكْ لِلْتَغْليفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مضاوي </grapheme>
+    <alias>مُضاوي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطار أبوظبي </grapheme>
+    <alias>مَطارِ أَبوظَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطار الريف العسكري </grapheme>
+    <alias>مَطارِ الريفِ الْعَسْكَرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطار الشارقة </grapheme>
+    <alias>مَطارِ الشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطار دبي </grapheme>
+    <alias>مَطارِ دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطار رأس الخيمة </grapheme>
+    <alias>مَطارِ رَأْسِ الْخَيْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطار رأس الخيمة الدولي </grapheme>
+    <alias>مَطارِ رَأْسِ الْخَيْمَةِ الدُوَلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطارات دبي </grapheme>
+    <alias>مَطاراتْ دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطاعم زهرة القدس </grapheme>
+    <alias>مَطاعِمْ زَهْرَةْ اَلْقُدْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطاعم كاتش </grapheme>
+    <alias>مَطاعِمْ كاتْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطاعم وحلويات روميز </grapheme>
+    <alias>مَطاعِمْ وَحُلوياتْ رومْيْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ </grapheme>
+    <alias>مَطْبَخْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ أبوتركي </grapheme>
+    <alias>مَطْبَخْ أَبوتُرْكِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ أبوصبرين للولائم والأفراح </grapheme>
+    <alias>مَطْبَخْ أَبوصَبْرينْ لِلْوَلائِمْ والْأَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الإمارات رويال </grapheme>
+    <alias>مَطْبَخْ اَلْإِماراتِ رويالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الافراح الشعبي </grapheme>
+    <alias>مَطْبَخِ الْاَفْراحِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الاكرام </grapheme>
+    <alias>مَطْبَخْ اَلْاِكْرامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ البادية </grapheme>
+    <alias>مَطْبَخْ اَلْبادِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الجوهر الشعبي للأفراح </grapheme>
+    <alias>مَطْبَخِ الْجَوْهَرَ الشَعْبِيْ لِلْأَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الحدوري للافراح والمناسبات </grapheme>
+    <alias>مَطْبَخْ اَلْحَدورِيْ لِلْاَفْراحِ والْمُناسَباتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الحديقة </grapheme>
+    <alias>مَطْبَخْ اَلْحَديقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الرمس الشعبي </grapheme>
+    <alias>مَطْبَخِ الْرِمْسِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ السلام </grapheme>
+    <alias>مَطْبَخْ اَلسَلامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ السلطان للضيافة </grapheme>
+    <alias>مَطْبَخْ اَلسُلْطانْ لِلْضْيافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الشعب </grapheme>
+    <alias>مَطْبَخِ الشَعْبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الضيافة </grapheme>
+    <alias>مَطْبَخْ اَلضِيافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الضيافة الشعبي </grapheme>
+    <alias>مَطْبَخْ اَلضِيافَةْ اَلشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ العرائس </grapheme>
+    <alias>مَطْبَخِ الْعَرائِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الغرفة </grapheme>
+    <alias>مَطْبَخْ اَلْغُرْفَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ المرحباني </grapheme>
+    <alias>مُطْبِخِ الْمَرَحَبانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ المكلا </grapheme>
+    <alias>مَطْبَخْ اَلْمُكَلا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الممزر </grapheme>
+    <alias>مَطْبَخْ اَلْمُمْزِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ الهامور للأفراح </grapheme>
+    <alias>مَطْبَخْ اَلْهامورْ لِلْأَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ جبل عرفات </grapheme>
+    <alias>مَطْبَخْ جَبَلْ عَرَفاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ حاتم </grapheme>
+    <alias>مَطْبَخْ حاتِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ خالد حرية الشعبي </grapheme>
+    <alias>مَطْبَخْ خالِدُ حُرِيَةِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ خمير وجباب </grapheme>
+    <alias>مَطْبَخْ خَميرْ وَجْبابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ رملة زاخر الشعبي </grapheme>
+    <alias>مَطْبَخْ رَمَلَةْ زاخِرْ اَلشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ ضيوف الإمارات </grapheme>
+    <alias>مَطْبَخْ ضُيوفْ اَلْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ طازج بلاس </grapheme>
+    <alias>مَطْبَخْ طازِجْ بْلاسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ عوافي للافراح </grapheme>
+    <alias>مَطْبَخْ عَوافي لِلْاَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ كبابي </grapheme>
+    <alias>مَطْبَخْ كَبابي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ لبنة وزعتر </grapheme>
+    <alias>مَطْبَخْ لَبْنَةْ وَزَعْتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ مكة الشعبي </grapheme>
+    <alias>مَطْبَخْ مَكَةُ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ ومطعم رومانسية مندي </grapheme>
+    <alias>مَطْبَخْ وَمَطْعَمْ رومانْسِيَةِ مَنْدي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ ومطعم سوقطرة </grapheme>
+    <alias>مَطْبَخْ وَمَطْعَمْ سوقَطَرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ ومطعم كالسيوم تو للضيافة </grapheme>
+    <alias>مَطْبَخْ وَمَطْعَمْ كالْسْيومْ تُوْ لِلْضْيافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ ومطعم واحة أبوظبي </grapheme>
+    <alias>مَطْبَخْ وَمَطْعَمْ واحَةِ أَبوظَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ يدوه </grapheme>
+    <alias>مَطْبَخْ يَدوهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبخ يوم بيوم </grapheme>
+    <alias>مَطْبَخْ يَوْمْ بِيَوْمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبعة </grapheme>
+    <alias>مَطْبَعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبعة اكسبرس </grapheme>
+    <alias>مَطْبَعَةْ اِكْسْبْرِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبعة الأمازون </grapheme>
+    <alias>مَطْبَعَةْ اَلْأَمازونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبعة الإمارات </grapheme>
+    <alias>مَطْبَعَةْ اَلْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبعة البرج </grapheme>
+    <alias>مَطْبَعَةْ اَلْبُرْجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبعة الجزيرة </grapheme>
+    <alias>مَطْبَعَةْ اَلْجَزيرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبعة الحرية </grapheme>
+    <alias>مَطْبَعَةْ اَلْحُرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطبعة الخالدية </grapheme>
+    <alias>مَطْبَعَةْ اَلْخالِدِيَةْ</alias>
+  </lexeme>
+</lexicon>

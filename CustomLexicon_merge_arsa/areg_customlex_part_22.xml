@@ -1,0 +1,2008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="ar-SA">
+  <lexeme>
+    <grapheme> نادي الجزيرة للطيران </grapheme>
+    <alias>نادي اَلْجَزيرَةْ لِلطَيَرانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي الشارقة للفروسية والسباق </grapheme>
+    <alias>نادي الشارِقَةْ لِلْفُروسِيَةْ والسَباقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي الظفرة الرياضي والثقافي </grapheme>
+    <alias>نادي الظَفَرَةِ الرِياضِيْ والثَقافِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي العين للفروسية والرماية والجولف </grapheme>
+    <alias>نادي الْعَيْنِ لِلْفُروسِيَةِ والرِمايَةِ والْجولْفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي الفجيرة للتنس </grapheme>
+    <alias>نادي اَلْفُجَيْرَةْ لِلتِنِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي الفجيرة للرماية والفروسية </grapheme>
+    <alias>نادي اَلْفُجَيْرَةْ لِلرِمايَةِ والْفُروسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي النسائي للياقة البدنية والتدليك </grapheme>
+    <alias>نادي النَسائي لِلَياقَةِ الْبَدَنِيَةِ والتَدْليكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي النصر الرياضي </grapheme>
+    <alias>نادي اَلنَصْرْ اَلرِياضِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي بالرميثة </grapheme>
+    <alias>نادي بالْرُميثَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي براري الصحي للسيدات </grapheme>
+    <alias>نادي بَراري الصِحِيْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي تراث الإمارات </grapheme>
+    <alias>نادي تُراثِ الْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي توب مودرن لكمال الأجسام </grapheme>
+    <alias>نادي توبْ مودَرْنْ لِكَمالْ اَلْأَجْسامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي خور دبي للجولف واليخوت </grapheme>
+    <alias>نادي خورْ دُبي لِلْجولْفْ والْيَخوتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي خورفكان الرياضي الثقافي </grapheme>
+    <alias>نادي خورْفَكانْ اَلرِياضِيِ الثَقافِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي خورفكان للمعاقين </grapheme>
+    <alias>نادي خورْفَكانْ لِلْمُعاقينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي دبي لسباقات الهجن </grapheme>
+    <alias>نادي دُبي لِسْباقاتِ الْهَجِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي دبي للسيدات </grapheme>
+    <alias>نادي دُبي لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي دبي للشطرنج والثقافة </grapheme>
+    <alias>نادي دُبي لِلشِطْرَنْجِ والثَقافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي زعبيل للسيدات </grapheme>
+    <alias>نادي زَعْبيلْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي سيدات الشارقة </grapheme>
+    <alias>نادي سَيِداتْ اَلشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي سيدات كلباء </grapheme>
+    <alias>نادي سَيِداتْ كَلْباءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي شباب الاهلي لكرة القدم </grapheme>
+    <alias>نادي شَبابِ الْاَهْلِيْ لِكُرَةِ الْقَدَمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي عجمان للفروسية </grapheme>
+    <alias>نادي عَجْمانْ لِلْفُروسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي فتيات خورفكان </grapheme>
+    <alias>نادي فَتَياتْ خورْفَكانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي كروس فت اور </grapheme>
+    <alias>نادي كْروسْ فِتْ اَوَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي ليدرز كيدز </grapheme>
+    <alias>نادي ليدَرْزْ كْيْدْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي مدينة زايد للرماية </grapheme>
+    <alias>نادي مَدينَةِ زايِدْ لِلرِمايَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نادي مندرة للفروسية </grapheme>
+    <alias>نادي مَنْدَرَةْ لِلْفُروسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ناس للتأمين الصحي </grapheme>
+    <alias>ناسْ لِلتَأْمينِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ناصر أبوسرهد للمواصلات </grapheme>
+    <alias>ناصِرْ أَبوسَرَهْدْ لِلْمُواصَلاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ناصر الساير وشركاه </grapheme>
+    <alias>ناصِرِ السايِرْ وَشُرَكاهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ناصر لكهرباء السيارات </grapheme>
+    <alias>ناصِرِ لْكَهْرُباءِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ناصر للادوات الصحية </grapheme>
+    <alias>ناصِرِ لِلْاَدَواتِ الصِحِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نافكو </grapheme>
+    <alias>نافْكو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نافورة دبي </grapheme>
+    <alias>نافورَةِ دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ناندوس </grapheme>
+    <alias>نانْدوسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ناياب هاندي </grapheme>
+    <alias>نايابْ هانْدْيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نايانا </grapheme>
+    <alias>نايانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نايس اند كلين </grapheme>
+    <alias>نايِسْ اِنْدْ كَلينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نايس بودي للمساج </grapheme>
+    <alias>نايِسْ بودِيْ لِلْمَساجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نايل وبن حرمل هيدرو اكسبورت </grapheme>
+    <alias>نايِلْ وَبِنْ حَرْمَلْ هَيْدْرو اِكْسْبورَتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ناين ون كريب </grapheme>
+    <alias>نايِنْ وَنْ كْريبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نبراس للشاي </grapheme>
+    <alias>نِبْراسْ لِلْشايْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نت فليكس </grapheme>
+    <alias>نَتْ فْلْيْكْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نتالي </grapheme>
+    <alias>نَتالي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نتالي للحلويات </grapheme>
+    <alias>نَتالي لِلْحُلوياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نثري </grapheme>
+    <alias>نَثْرَيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نجاة </grapheme>
+    <alias>نَجاةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نجد لخدمات التوظيف </grapheme>
+    <alias>نَجِدْ لِخِدْماتْ اَلتَوْظيفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نجد للمندي </grapheme>
+    <alias>نَجْدْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نجران </grapheme>
+    <alias>نَجْرانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نجف </grapheme>
+    <alias>نَجَفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نجمة </grapheme>
+    <alias>نَجْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نجمة حيدر اباد </grapheme>
+    <alias>نَجْمَةَ حَيْدَرْ اَبادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نجمة كلباء </grapheme>
+    <alias>نَجْمَةْ كَلْباءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نجمة لاهور </grapheme>
+    <alias>نَجْمَةَ لاهورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نجود للتجميل </grapheme>
+    <alias>نْجودْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نجود للحلويات </grapheme>
+    <alias>نُجودْ لِلْحُلوياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نجوم الاطفال </grapheme>
+    <alias>نُجومِ الْاَطْفالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نجوم الخليج لقطع غيار السيارات </grapheme>
+    <alias>نُجومْ الْخَليجِ لِقِطْعِ غَيارِ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نجوم نوف </grapheme>
+    <alias>نُجومِ نوفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نجيب </grapheme>
+    <alias>نَجيبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نخيل مول </grapheme>
+    <alias>نَخيلْ مولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ندوة الثقافة والعلوم </grapheme>
+    <alias>نَدْوَةِ اَلثَقافَةِ والْعُلومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نديم بت للخياطة </grapheme>
+    <alias>نَديمْ بَتْ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نزوي لقطع غيار السيارات </grapheme>
+    <alias>نَزويْ لِقِطَعِ غِيارِ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نسايم </grapheme>
+    <alias>نَسايِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نستو هايبرماركت </grapheme>
+    <alias>نَسْتو هايُبَرْمارْكَتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نسرين لزيت السمسم والمواد الغذائية </grapheme>
+    <alias>نْسْرينَ لِزَيْتِ السُمْسُمْ والْمَوادِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نسناس للخضروات والفواكه </grapheme>
+    <alias>نِسْناسْ لَلْخُضَرَواتِ والْفَواكِهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نسيبة للخضروات والفواكه </grapheme>
+    <alias>نُسَيْبَةُ لِلْخُضَرَواتِ والْفَواكِهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نسيم </grapheme>
+    <alias>نَسيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نسيم لبنان للدوخة والمدواخ </grapheme>
+    <alias>نَسيمِ لُبْنانَ لِلْدوخَةْ والْمِدْواخْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نسيم للتكييف </grapheme>
+    <alias>نَسيمْ لِلْتَكْييفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نسيم للخياطة </grapheme>
+    <alias>نَسيمْ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نشكرك </grapheme>
+    <alias>نَشْكُرُكَ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نشكرُك </grapheme>
+    <alias>نَشْكُرُكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نشوان لتوريد الأيدي العاملة </grapheme>
+    <alias>نَشْوانْ لِتَوْريدِ الْأَيْدي الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نشوان للخياطة والتطريز </grapheme>
+    <alias>نَشْوانْ لِلْخِياطَةِ والتَطْريزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نشوان للسياحة </grapheme>
+    <alias>نَشْوانْ لِلسِياحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نشوان للطباعة </grapheme>
+    <alias>نَشْوانْ لِلطِباعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نصر </grapheme>
+    <alias>نَصْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نصرت </grapheme>
+    <alias>نَصْرَتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نصيب </grapheme>
+    <alias>نَصيبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات الأمين </grapheme>
+    <alias>نَظاراتْ اَلْأَمينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات الإمارات </grapheme>
+    <alias>نَظاراتْ اَلْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات البادية </grapheme>
+    <alias>نَظاراتْ اَلْبادِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات البديع </grapheme>
+    <alias>نَظاراتْ اَلْبَديعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات البركات </grapheme>
+    <alias>نَظاراتْ اَلْبَرَكاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات الحرم </grapheme>
+    <alias>نَظاراتْ اَلْحَرَمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات الحكيم </grapheme>
+    <alias>نَظاراتْ اَلْحَكيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات الساحل </grapheme>
+    <alias>نَظاراتْ اَلساحِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات الشارقة </grapheme>
+    <alias>نَظاراتْ اَلشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات العين </grapheme>
+    <alias>نَظاراتْ اَلْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات الكروان </grapheme>
+    <alias>نَظاراتْ اَلْكَرَوانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات المبزرة </grapheme>
+    <alias>نَظاراتْ اَلْمَبْزَرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات المجلس </grapheme>
+    <alias>نَظاراتْ اَلْمَجْلِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات المدينة </grapheme>
+    <alias>نَظاراتْ اَلْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات المسعود </grapheme>
+    <alias>نَظاراتْ اَلْمَسْعودْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات المها </grapheme>
+    <alias>نَظاراتْ اَلْمَها</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات النجاح </grapheme>
+    <alias>نَظاراتْ اَلنَجاحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات النور </grapheme>
+    <alias>نَظاراتْ اَلنورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات دلما </grapheme>
+    <alias>نَظاراتْ دِلْما</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات سمير </grapheme>
+    <alias>نَظاراتْ سَميرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات سينا </grapheme>
+    <alias>نَظاراتْ سينا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات عباس </grapheme>
+    <alias>نَظاراتْ عَباسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات كلاسيك </grapheme>
+    <alias>نَظاراتْ كْلاسيكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات نور القمر </grapheme>
+    <alias>نَظاراتْ نورْ اَلْقَمَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نظارات يتيم </grapheme>
+    <alias>نَظاراتْ يَتيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نعومي بيوتي سنتر </grapheme>
+    <alias>نْعَوْمي بيوْتِيْ سَنْتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نعومي للتجارة </grapheme>
+    <alias>نْعَوْمي لِلتِجارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نعيم </grapheme>
+    <alias>نَعيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نعيمة </grapheme>
+    <alias>نَعيمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نفرتيتي </grapheme>
+    <alias>نَفَرْتْيْتِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نفسهم </grapheme>
+    <alias>نَفْسِهَمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نفسهِم </grapheme>
+    <alias>نَفْسِهِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نفنوف للخياطة والتطريز </grapheme>
+    <alias>نُفْنوفْ لِلْخِياطَةِ والتَطْريزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نقاط بسمات </grapheme>
+    <alias>نِقاطْ بَسَماتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نقدر صبرك </grapheme>
+    <alias>نُقَدِرُ صَبْرَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نقدمها </grapheme>
+    <alias>نُقَدِمُها</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نقطة الاثاث </grapheme>
+    <alias>نُقْطَةِ الْاَثاثْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نقل اكسبرس </grapheme>
+    <alias>نَقْلَ اكْسِبْرَسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نقل الملكية </grapheme>
+    <alias>نَقْلِ الْمِلْكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نقل سيارات أجرة أبوظبي و العين </grapheme>
+    <alias>نَقْلِ سَياراتْ أُجْرَةَ أَبوظَبِيْ وِ الْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نقل طريحي الفراش لمواعيد المستشفيات </grapheme>
+    <alias>نَقْلِ طَرَيْحي الْفِراشِ لِمَواعيدِ الْمُسْتَشْفَياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نكست </grapheme>
+    <alias>نَكْسْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نكست كير للتمريض والرعاية الصحية </grapheme>
+    <alias>نِكْسْتْ كيرْ لِلْتَمْريضْ والرِعايَةِ الصِحِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نكهة بيروت </grapheme>
+    <alias>نَكْهَةْ بَيْروتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نمازي للخياطة </grapheme>
+    <alias>نَمازي لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نماستي </grapheme>
+    <alias>نُماسْتِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نمشي </grapheme>
+    <alias>نَمْشَيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نهال </grapheme>
+    <alias>نَهالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نهال للمجوهرات </grapheme>
+    <alias>نِهالْ لِلْمُجَوْهَراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نهر النيل للإلكترونيات </grapheme>
+    <alias>نَهْرِ النيلِ لِلْإِلِكْتِرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نوارة للتجميل </grapheme>
+    <alias>نَوارَةْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نواعم جولد للمجوهرات </grapheme>
+    <alias>نَواعِمْ جولْدْ لِلْمُجُوَهَراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نوافيكَ </grapheme>
+    <alias>نُوافيكَ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نوبل للتأهيل </grapheme>
+    <alias>نُوْبَلْ لِلتَأْهيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نودل هاوس </grapheme>
+    <alias>نَوْدْلْ هاوِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور احمد للإلكترونيات والمكيفات </grapheme>
+    <alias>نورْ اَحْمَدْ لِلْإِلِكْتِرونِياتْ والْمُكَيْفاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور الأفق للبصريات </grapheme>
+    <alias>نورْ اَلْأُفُقِ لِلْبَصَرِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور الأمل لجلب الأيدي العاملة </grapheme>
+    <alias>نورْ اَلْأَمَلِ لِجَلْبِ الْأَيْدي الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور الأهلية للصرافة </grapheme>
+    <alias>نورْ اَلْأَهْلِيَةِ لِلْصِرافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور الإمارات للخياطة والتطريز </grapheme>
+    <alias>نورْ اَلْإِماراتِ لِلْخِياطَةِ والتَطْريزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور الاسلام لتجارة الادوات الكهربائية والصحية </grapheme>
+    <alias>نورْ اَلْاِسْلامِ لِتِجارَةِ اَلْاَدَواتِ الْكَهْرُبائِيَةِ والصِحِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور البدر للمندي </grapheme>
+    <alias>نورْ اَلْبَدَرْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور البركة لتجارة اللحوم </grapheme>
+    <alias>نورْ اَلْبَرَكَةِ لِتِجارَةِ اَلُلحومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور البركة لقطع غيار السيارات </grapheme>
+    <alias>نورْ اَلْبَرَكَةِ لِقِطْعِ غِيارْ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور البوادي </grapheme>
+    <alias>نورْ اَلْبَوادي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور الحرمين لخياطة الملابس النسائية </grapheme>
+    <alias>نورْ اَلْحَرَمَيْنِ لِخْياطَةِ الْمَلابِسِ النِسائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور الشمس </grapheme>
+    <alias>نورْ اَلشَمْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور الفجر </grapheme>
+    <alias>نورْ اَلْفَجْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور الفجر لتجارة اجهزة الحاسوب والهواتف المتحركة </grapheme>
+    <alias>نورْ اَلْفَجْرِ لِتِجارَةِ اَجْهِزَةِ الْحاسوبِ والْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور الكوثر مول </grapheme>
+    <alias>نورْ اَلْكَوْثَرْ مولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور المندي </grapheme>
+    <alias>نورْ اَلْمَنْدي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور النجاح لقطع غيار السيارات </grapheme>
+    <alias>نورْ اَلنَجاحِ لِقِطَعِ غِيارِ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور الهدى </grapheme>
+    <alias>نورْ اَلْهُدَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور الهدى للطباعة والتصوير </grapheme>
+    <alias>نورْ اَلْهُدَىْ لِلطِباعَةِ والتَصْويرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور جبل المدينة </grapheme>
+    <alias>نورْ جَبَلْ اَلْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور خيبر </grapheme>
+    <alias>نورْ خَيْبَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور دبي الخيرية </grapheme>
+    <alias>نورْ دُبي اَلْخَيْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور زمزم للمندي </grapheme>
+    <alias>نورْ زَمْزَمْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور سويحان </grapheme>
+    <alias>نورْ سُويحانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور كابيتال </grapheme>
+    <alias>نورْ كابيتالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور لتوريد الايدي العاملة </grapheme>
+    <alias>نورْ لْتَوْريدِ الْاَيْدي الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نور مردف </grapheme>
+    <alias>نورْ مِرْدِفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نورا للتجارة والخياطة </grapheme>
+    <alias>نورا لِلتِجارَةِ والْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نورة حمدي للتجميل </grapheme>
+    <alias>نورَةْ حَمْدِيْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نورة لتجارة وطحن المواد الغذائية </grapheme>
+    <alias>نورَةْ لِتِجارَةِ وَطَحْنَ الْمَوادِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نورماندي للمأكولات البحرية </grapheme>
+    <alias>نورْمانْدي لِلْمَأْكولاتْ اَلْبَحْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نوشاتيل للحلويات والهدايا </grapheme>
+    <alias>نوشاتيلْ لِلْحُلوياتْ والْهَدايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نوف للخياطة والتطريز </grapheme>
+    <alias>نوفْ لِلْخِياطَةِ والتَطْريزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نوفا حلويات وكافيه </grapheme>
+    <alias>نوفا حُلوياتْ وَكافيهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نوفمبر </grapheme>
+    <alias>نوفَمْبِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نوفو سينما </grapheme>
+    <alias>نَوْفُوِ سينِما</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نوفوتيل ديرة سيتي سنتر </grapheme>
+    <alias>نَوْفوتيلْ دِيْرَةْ سيتي سَنْتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نولوس </grapheme>
+    <alias>نولوسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نون </grapheme>
+    <alias>نونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نون و كباب </grapheme>
+    <alias>نونْ وَ كَبابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيرفانا </grapheme>
+    <alias>نيرْفانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيرفانا للسفر والسياحة </grapheme>
+    <alias>نِيَرْفانا لِلسَفَرِ والسِياحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيستايل </grapheme>
+    <alias>نيسْتايِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيشن تاورز </grapheme>
+    <alias>نَيْشَنْ تاوَرْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيكست كير للتأمين </grapheme>
+    <alias>نيكْسْتْ كيرْ لِلتَأْمينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيكي بيتش ريزورت </grapheme>
+    <alias>نْيْكَيْ بْيْتْشْ رْيْزورْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيلز ستايل للتجميل </grapheme>
+    <alias>نَيْلْزْ سْتايِلْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيلز كير للتجميل </grapheme>
+    <alias>نَيْلْزْ كيرْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيلي بيوتي سنتر </grapheme>
+    <alias>نْيْلَيْ بيوْتِيْ سَنْتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نينجا للكمبيوتر </grapheme>
+    <alias>نْيْنْجا لِلْكُمْبِيوتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيها للخياطة </grapheme>
+    <alias>نيها لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيو البيك </grapheme>
+    <alias>نيوْ اَلْبَيْكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيو انجلاند للأطفال </grapheme>
+    <alias>نيوْ اَنْجْلانْدْ لِلْأَطْفالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيو جراند </grapheme>
+    <alias>نيوْ جْرانْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيو جولدن فورك </grapheme>
+    <alias>نيوْ جولْدْنْ فورْكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيو داي للتجميل </grapheme>
+    <alias>نيوْ دايْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيو سيتي مارت للإلكترونيات </grapheme>
+    <alias>نيوْ سيتي مارْتْ لِلْإِلِكْتِرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيو عنتر </grapheme>
+    <alias>نيوْ عَنْتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيو لوتس الطبي </grapheme>
+    <alias>نيوْ لَوْتَسِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيو لولو للدجاج المقلي </grapheme>
+    <alias>نيوْ لولو لِلْدَجاجِ الْمَقْلي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيو هاوس اوف تي </grapheme>
+    <alias>نيوْ هاوْسْ اُوْفْ تي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيو هورايزون للتدريب </grapheme>
+    <alias>نيوْ هورايْزونْ لِلتَدْريبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيورون للتأمين </grapheme>
+    <alias>نْيْوْرونَ لِلتَأْمينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيويورك سناكس </grapheme>
+    <alias>نْيْوْيورُكْ سْناكْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نيويورك لقطع غيار السيارات </grapheme>
+    <alias>نُيْوْيورْكَ لِقِطَعِ غِيارْ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نُجرِب </grapheme>
+    <alias>نُجَرِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نُحيطكم </grapheme>
+    <alias>نُحيطُكُمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> نُسْخَةٍ مِنْ فاتورَتِكَ </grapheme>
+    <alias>نُسْخَةٍ مِنْ فاتورَتِكَ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هابي برجر </grapheme>
+    <alias>هابي بِرْجَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هابي دايز </grapheme>
+    <alias>هابي دِايْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هابي فالي للمساج </grapheme>
+    <alias>هابي فالي لِلْمَساجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هابي كب </grapheme>
+    <alias>هابي كَبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هابي لرعاية الحيوانات الأليفة </grapheme>
+    <alias>هابي لِرِعايَةِ الْحَيَواناتِ الْأَليفَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هاتف متحرِك </grapheme>
+    <alias>هاتِفْ مُتَحَرِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هاتِفِك </grapheme>
+    <alias>هاتِفِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هاجرة للسفر </grapheme>
+    <alias>هاجِرَةْ لِلسَفَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هادف وشركاه </grapheme>
+    <alias>هادِفْ وَشُرَكاهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هادي اكسبرس للصرافة </grapheme>
+    <alias>هادي اِكْسِبَرِسْ لِلْصِرافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هارديز </grapheme>
+    <alias>هارْديزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هارلي ديفيدسون </grapheme>
+    <alias>هارْلِيْ دَيْفيدْسونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هاش ون </grapheme>
+    <alias>هاشْ وَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هافا حمام تركي </grapheme>
+    <alias>هافا حَمامْ تُرْكْيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هانكوك كوريان </grapheme>
+    <alias>هانْكوكْ كورْيانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هاواي برجر </grapheme>
+    <alias>هاوايْ بُرْجَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هاوس أوف دوساز </grapheme>
+    <alias>هاوِسْ أوفْ دُوْسازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هاوس اوف ستايل للتجميل </grapheme>
+    <alias>هاوِسْ اوفْ سْتايِلْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هاي بروست </grapheme>
+    <alias>هايْ بْروسْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هاي فلاور </grapheme>
+    <alias>هايْ فْلاوَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هاي فون تيليكوم </grapheme>
+    <alias>هايْ فونْ تَيْلِيْكومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هاي كواليتي لحمل السيارات </grapheme>
+    <alias>هايْ كُوالْيْتِيْ لِحَمْلِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هاي لايت </grapheme>
+    <alias>هايْ لايِتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هاي هوم للسيراميك </grapheme>
+    <alias>هايْ هومْ لِلسْيْراميكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هاي واي </grapheme>
+    <alias>هايْ وايْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هايبر رامز </grapheme>
+    <alias>هايْبَرْ رامِزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هايبرماركت أبراج التعاون </grapheme>
+    <alias>هايْبَرِمارْكِتْ أَبْراجْ اَلتَعاوُنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هايبرماركت اكسبرس غياثي </grapheme>
+    <alias>هايُبَرْمارْكِتْ اِكْسِبَرِسْ غَياثي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هايبرماركت بني ياس جراند </grapheme>
+    <alias>هايُبَرْمارْكِتْ بَنِيْ ياسْ جْرانْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هايبرماركت بي </grapheme>
+    <alias>هايُبَرِمارَكِتْ بي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هايبرماركت صن سيتي </grapheme>
+    <alias>هايُبَرِمارْكِتْ صَنْ سيتي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هايبرماركت كنز </grapheme>
+    <alias>هايُبَرِمارْكِتْ كَنْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هايبرماركت يونايتد </grapheme>
+    <alias>هايُبَرِمارْكِتْ يونايْتِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هبة </grapheme>
+    <alias>هِبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هدف الخليج للنقليات والمقاولات العامة </grapheme>
+    <alias>هَدَفْ اَلْخَليجِ لِلْنَقْلِياتْ والْمُقاوْلاتِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هدية حماد للمحاماة </grapheme>
+    <alias>هَدِيَةْ حَمادْ لِلْمُحاماةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هذا </grapheme>
+    <alias>هَذا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هذا الحساب </grapheme>
+    <alias>هَذا الْحِسابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هذا الحساب موقوف مؤقتًا </grapheme>
+    <alias>هَذا الْحِسابْ مَوْقوفٌ مُؤَقَتًا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هذا الذي </grapheme>
+    <alias>هَذا الَذي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هذه </grapheme>
+    <alias>هَذِهِ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هزارا </grapheme>
+    <alias>هَزارا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هزاع لخدمات الأفراح </grapheme>
+    <alias>هَزاعْ لِخِدْماتْ اَلْأَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هف اند بف برجر </grapheme>
+    <alias>هَفْ اَنْدْ بَفْ بُرْجَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هل تتصل لإيقاف حسابك مؤقتًا </grapheme>
+    <alias>هَلْ تَتَصِلُ لِإيقافِ حِسابِكْ مُؤَقَتًا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هل تتصل لتحصل على نسخة من فاتورتك </grapheme>
+    <alias>هَلْ تَتَصِلُ لِتَحْصُلَ عَلَىْ نُسْخَةٍ مِنْ فاتورَتِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هل تتصل للاستفسار عن حالة شكوتك </grapheme>
+    <alias>هَلْ تَتَصِلُ لِلْاِسْتِفْسارِ عَنْ حالَةِ شَكْوَتِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هل ترغب في </grapheme>
+    <alias>هَلْ تَرْغَبُ في</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هل تريد تجربة بطاقة فايف أخرى </grapheme>
+    <alias>هَلْ تُريدُ تَجْرِبَةَ بِطاقَةِ فايِفْ أُخْرَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هل لديك </grapheme>
+    <alias>هَلْ لَدَيْكَ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هلا الطبي </grapheme>
+    <alias>هَلا الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هلا ان للشقق الفندقية </grapheme>
+    <alias>هَلَاَ انْ لِلشُقَقْ اَلْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هلا غياثي للمفروشات </grapheme>
+    <alias>هَلا غَياثي لِلْمَفْروشاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هلا للسفر والسياحة </grapheme>
+    <alias>هَلا لِلسَفَرِ والسِياحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هلال العين </grapheme>
+    <alias>هِلالْ اَلْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هم يم </grapheme>
+    <alias>هَمْ يَمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> همبرجيني </grapheme>
+    <alias>هَمْبُرْجيني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> همس الحرير للأقمشة </grapheme>
+    <alias>هَمْسْ اَلْحَريرْ لِلْأَقْمِشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> همسات للإكسسوارات </grapheme>
+    <alias>هَمَساتْ لِلْإِكْسِسْواراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هنا للسفر </grapheme>
+    <alias>هَنا لِلسَفَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هنا وعافية </grapheme>
+    <alias>هَنا وَعافْيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هنادي للشيلة والعبايا </grapheme>
+    <alias>هَنادي لِلْشيلَةْ والْعَبايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هند العود للعطور </grapheme>
+    <alias>هِنْدْ اَلْعودِ لِلُعْطورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هندي دربار </grapheme>
+    <alias>هِنْدي دِرْبارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هني وعافية للمندي </grapheme>
+    <alias>هَني وَعافِيَةْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هو </grapheme>
+    <alias>هُوَ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هواء بيروت </grapheme>
+    <alias>هَواءْ بَيْروتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوت </grapheme>
+    <alias>هوتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوت بان برجر </grapheme>
+    <alias>هوتْ بانْ بِرْجَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوت بريدز </grapheme>
+    <alias>هوتْ بْرْيْدْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوت تي </grapheme>
+    <alias>هوتْ تي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوت سبوت </grapheme>
+    <alias>هوتْ سْبوتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوت شاي </grapheme>
+    <alias>هوتْ شايْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوت فيش </grapheme>
+    <alias>هوتْ فيشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوت كرك </grapheme>
+    <alias>هوتْ كَرَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوت كروس </grapheme>
+    <alias>هوتْ كْروسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوركان لعناية الرجال </grapheme>
+    <alias>هورُكانِ لَعُنايَةِ الرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوك لقطع غيار السيارات </grapheme>
+    <alias>هوكْ لِقِطَعِ غِيارِ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوكيد </grapheme>
+    <alias>هَوْكيدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوليداي بيتش ريزورت </grapheme>
+    <alias>هوليدايْ بْيْتْشْ رْيْزورْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوليداي مي للسياحة </grapheme>
+    <alias>هوليدايْ مَيْ لِلسِياحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوليوود ماجيك </grapheme>
+    <alias>هولْيُوودْ ماجيكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوم برجر </grapheme>
+    <alias>هومْ بِرْجَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوم بلازا للأثاث </grapheme>
+    <alias>هومْ بْلازا لِلْأَثاثْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوم بوكس </grapheme>
+    <alias>هومْ بوكْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوم بيكري </grapheme>
+    <alias>هومْ بَيْكَرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوم رويال هايبرماركت </grapheme>
+    <alias>هومْ رويالْ هايْبَرِمارْكَتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوم ستار لتصليح المكيفات </grapheme>
+    <alias>هومْ سْتارْ لِتَصْليحْ اَلْمُكَيْفاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوم ستايل بيكري للحلويات </grapheme>
+    <alias>هومْ سْتايِلْ بَيْكَرِيْ لِلْحُلوياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوم سنتر </grapheme>
+    <alias>هومْ سَنْتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوم فيتنس </grapheme>
+    <alias>هومْ فيتْنِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوم لاند </grapheme>
+    <alias>هومْ لانْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوم للعقارات </grapheme>
+    <alias>هومْ لِلْعَقاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوم ميد </grapheme>
+    <alias>هومْ ميدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هومز ار اس </grapheme>
+    <alias>هومْزْ اَرْ اَسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هونولولو للتجميل </grapheme>
+    <alias>هونولولو لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هوية إماراتية </grapheme>
+    <alias>هَوِيَةْ إِماراتِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هويتِك </grapheme>
+    <alias>هويَتِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هي </grapheme>
+    <alias>هِيَ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هي خدمة سهلة الاستخدام وسريعة وآمنة </grapheme>
+    <alias>هِيَ خِدْمَةْ سَهْلَةُ الاسْتِخْدامِ وَسَريعَةْ وَآمِنَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة أبوظبي للزراعة والسلامة الغذائية </grapheme>
+    <alias>هَيْئَةِ أَبوظَبِيْ لِلزِراعَةِ والسَلامَةِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة أبوظبي للسياحة والثقافة </grapheme>
+    <alias>هَيْئَةِ أَبوظَبِيْ لِلسِياحَةِ والثَقافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة الإمارات للمواصفات والمقاييس </grapheme>
+    <alias>هَيْئَةِ الْإِماراتِ لِلْمُواصَفاتِ والْمَقاييسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة الإنماء التجاري والسياحي الشارقة </grapheme>
+    <alias>هَيْئَةِ الْإِنْماءِ التِجارِيْ والسِياحِيِ الشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة الاعمال الخيرية </grapheme>
+    <alias>هَيْئَةِ الْاَعْمالِ الْخَيْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة الانماء التجاري </grapheme>
+    <alias>هَيْئَةِ الْاِنْماءِ التِجارِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة الاوراق المالية والسلع </grapheme>
+    <alias>هَيْئَةِ الْاَوْراقِ الْمالِيَةِ والسِلَعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة البيئة </grapheme>
+    <alias>هَيْئَةِ الْبيئَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة التأمين </grapheme>
+    <alias>هَيْئَةِ التَأْمينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة الشارقة للكتاب </grapheme>
+    <alias>هَيْئَةِ الشارِقَةْ لِلْكِتابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة الشارقة للوثائق </grapheme>
+    <alias>هَيْئَةِ الشارِقَةْ لِلْوَثائِقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة الصحة أبوظبي </grapheme>
+    <alias>هَيْئَةِ الصِحَةِ أَبوظَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة الصحة دبي </grapheme>
+    <alias>هَيْئَةِ الصِحَةْ دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة الطرق والمواصلات دبي </grapheme>
+    <alias>هَيْئَةِ الطُرُقِ والْمُواصَلاتِ دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة الفجيرة للثقافة </grapheme>
+    <alias>هَيْئَةْ اَلْفُجَيْرَةْ لِلثَقافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة المنطقة الحرة بالفجيرة </grapheme>
+    <alias>هَيْئَةِ الْمِنْطَقَةِ الْحُرَةِ بِالْفُجَيْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة تنمية المجتمع </grapheme>
+    <alias>هَيْئَةِ تَنْمِيَةِ الْمُجْتَمَعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة دبي للثقافة والفنون </grapheme>
+    <alias>هَيْئَةِ دُبي لِلثَقافَةِ والْفُنونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة رأس الخيمة للإستثمار </grapheme>
+    <alias>هَيْئَةِ رَأْسِ الْخَيْمَةِ لِلْإِسْتِثْمارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة رأس الخيمة للسياحة </grapheme>
+    <alias>هَيْئَةِ رَأْسِ الْخَيْمَةِ لِلسِياحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة رأس الخيمة للمواصلات </grapheme>
+    <alias>هَيْئَةِ رَأْسِ الْخَيْمَةِ لِلْمُواصَلاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة طرق ومواصلات الشارقة </grapheme>
+    <alias>هَيْئَةِ طُرُقْ وَمُواصَلاتِ الشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة كهرباء ومياه الشارقة </grapheme>
+    <alias>هَيْئَةِ كَهْرُباءْ وَمِياهِ الشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة كهرباء ومياه الفجيرة </grapheme>
+    <alias>هَيْئَةِ كَهْرُباءْ وَمِياهْ اَلْفُجَيْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة كهرباء ومياه خورفكان </grapheme>
+    <alias>هَيْئَةِ كَهْرُباءْ وَمِياهْ خورْفَكانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة كهرباء ومياه دبي </grapheme>
+    <alias>هَيْئَةِ كَهْرُباءِ وَمِياهِ دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة كهرباء ومياه رأس الخيمة </grapheme>
+    <alias>هَيْئَةِ كَهْرُباءْ وَمِياهْ رَأْسِ الْخَيْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة كهرباء ومياه عجمان </grapheme>
+    <alias>هَيْئَةِ كَهْرُباءْ وَمِياهْ عَجْمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة كهرباء ومياه كلباء </grapheme>
+    <alias>هَيْئَةِ كَهْرُباءْ وَمِياهْ كَلْباءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة كهرباء ومياه مصفوت </grapheme>
+    <alias>هَيْئَةِ كَهْرُباءْ وَمِياهْ مَصْفوتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة مطار الشارقة </grapheme>
+    <alias>هَيْئَةْ مَطارِ الشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيئة مكتوم الخيرية </grapheme>
+    <alias>هَيْئَةِ مَكْتومْ اَلْخَيْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيتاشي </grapheme>
+    <alias>هيتاشِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيثم لخدمات الترجمة </grapheme>
+    <alias>هَيْثَمْ لِخِدْماتْ اَلتَرْجَمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيثم للطباعة </grapheme>
+    <alias>هَيْثَمْ لِلطِباعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هير فورس للرجال </grapheme>
+    <alias>هيرْ فَوْرْسْ لِلرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هير لوفي </grapheme>
+    <alias>هيرْ لوفْيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيرمس باريس بوتيك </grapheme>
+    <alias>هيرْمِسْ باريسْ بَوْتيكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيرو برجر </grapheme>
+    <alias>هيرو بِرْجَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلتون العين </grapheme>
+    <alias>هَيْلْتونْ الْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلتون دبي كريك </grapheme>
+    <alias>هَيْلْتونْ دُبي كْريكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلتون رأس الخيمة </grapheme>
+    <alias>هَيْلْتونْ رَأْسِ الْخَيْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلث </grapheme>
+    <alias>هيلْثْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلث بلس </grapheme>
+    <alias>هيلْثْ بْلَسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلث بلس للاخصاب </grapheme>
+    <alias>هيلْثْ بْلَسْ لِلاخْصابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلث كويست لخدمات التموين </grapheme>
+    <alias>هيلْثْ كويْسْتْ لِخِدْماتْ اَلتَمْوينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلث لاين الطبي </grapheme>
+    <alias>هيلْثْ لايْنْ اَلطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلث لتعبئة المياه المعدنية </grapheme>
+    <alias>هيلْثْ لِتَعْبِئَةِ الْمِياهِ الْمَعْدِنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلث ميديكال سنتر </grapheme>
+    <alias>هيلْثْ ميديكالْ سَنْتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلث واي الطبي </grapheme>
+    <alias>هيلْثْ وايْ اَلطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلثي آند دايت </grapheme>
+    <alias>هيلْثِيْ آنْدْ دايِتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلثي اند دايت </grapheme>
+    <alias>هيلْثِيْ اَنْدْ دايِتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلثي بايت </grapheme>
+    <alias>هيلْثِيْ بايِتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلثي جرين </grapheme>
+    <alias>هيلْثِيْ جْرينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلثي ستيشن </grapheme>
+    <alias>هيلْثِيْ سْتَيْشِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلثي سناك </grapheme>
+    <alias>هْيْلْثِيْ سْناكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلثي هيلث للرشاقة </grapheme>
+    <alias>هيلْثِيْ هيلْثْ لِلْرَشاقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلثي واي </grapheme>
+    <alias>هيلْثِيْ وايْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلي للعقارات </grapheme>
+    <alias>هيلَيْ لِلْعَقاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيلي مول </grapheme>
+    <alias>هْيْلْيْ مولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيوليت باكارد </grapheme>
+    <alias>هيوْليتْ باكارْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هيَ </grapheme>
+    <alias>هِيَ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هَل تريدني أَن أتابع </grapheme>
+    <alias>هَلْ تُرْيْدُنِيْ أَنْ أُتابِعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هُوَ </grapheme>
+    <alias>هُوَ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> هِيَ </grapheme>
+    <alias>هِيَ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> و حلويات بيتس </grapheme>
+    <alias>وَ حُلوياتْ بَيْتْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> و يمكنك </grapheme>
+    <alias>وَ يُمْكِنُكَ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وإِرسالِه </grapheme>
+    <alias>وْإِرْسالِهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واتساب </grapheme>
+    <alias>وُاتْسابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واتش جاليرى </grapheme>
+    <alias>واتْشْ جالِيَرِىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واثقة </grapheme>
+    <alias>واثِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واحة الأسماك </grapheme>
+    <alias>واحَةِ الْأَسْماكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واحة الخليج للتوظيف </grapheme>
+    <alias>واحَةِ الْخَليجِ لِلتَوْظيفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واحة الخير لقطع غيار السيارات </grapheme>
+    <alias>واحَةِ الْخَيْرِ لِقِطَعِ غِيارِ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واحة الذيد للسياحة </grapheme>
+    <alias>واحَةِ الذيدْ لِلسِياحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واحة الزاوية للاستثمار والتطوير العقاري </grapheme>
+    <alias>واحَةِ الزاوِيَةِ لِلْاِسْتِثْمارِ والتَطْويرِ الْعَقاري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واحة العين </grapheme>
+    <alias>واحَةِ الْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واحة القطارة لخدمات توريد العمال </grapheme>
+    <alias>واحَةِ الْقَطارَةِ لِخِدْماتْ تَوْريدُ الْعُمالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واحة النخيل للسياحة </grapheme>
+    <alias>واحَةِ اَلنَخيلْ لِلسِياحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واحة الوثبة </grapheme>
+    <alias>واحَةِ الْوَثْبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واحة الوثبة للنقليات </grapheme>
+    <alias>واحَةِ الْوَثْبَةِ لِلْنَقْلِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واحة حتا </grapheme>
+    <alias>واحَةْ حَتا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واحة كلباء للتخفيضات </grapheme>
+    <alias>واحَةِ كَلْبَاْءْ لِلْتَخْفيضاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واحة نعمة </grapheme>
+    <alias>واحَةْ نِعْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واحد فلافل </grapheme>
+    <alias>واحِدْ فَلافِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واحده </grapheme>
+    <alias>واحِدَهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واحدٍ </grapheme>
+    <alias>واحِدٍ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وادي ادفنتشرز </grapheme>
+    <alias>وادي اَدْفَنْتْشِرْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وادي الحلو العامة </grapheme>
+    <alias>وادي الْحُلْوِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وادي العرايش </grapheme>
+    <alias>وادي الْعَرايِشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وادي النور </grapheme>
+    <alias>وادي النورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وادي النيل </grapheme>
+    <alias>وادي النيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وادي الواحة </grapheme>
+    <alias>وادي الْواحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وادي جنان </grapheme>
+    <alias>وادي جِنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وادي حتا لتجارة الالكترونيات </grapheme>
+    <alias>وادي حَتا لِتِجارَةِ اَلْاِلِكْتُرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وادي حضرموت </grapheme>
+    <alias>وادي حَضَرَمَوْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وادي حيدر اباد </grapheme>
+    <alias>وادي حَيْدَرْ اَبادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وادي خور خوير </grapheme>
+    <alias>وادي خورْ خُوْيَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وادي دوعن للمندي والمظبي </grapheme>
+    <alias>وادي دَوْعَنْ لِلْمَنْدِيْ والْمَظْبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وادي ريدان للمندي </grapheme>
+    <alias>وادي ريدانْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وادي مي </grapheme>
+    <alias>وادي مَيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واشنطن للملابس الجاهزة </grapheme>
+    <alias>واشُنْطَنْ لِلْمَلابِسِ الْجاهِزَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واصل لخدمات التوصيل </grapheme>
+    <alias>واصَلْ لِخِدْماتْ اَلتَوْصيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واصل للسياحة </grapheme>
+    <alias>واصَلْ لِلسِياحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واصل للوساطة العقارية </grapheme>
+    <alias>واصَلْ لِلِوْساطَةِ الْعَقارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واعداداتك </grapheme>
+    <alias>وَاِعْداداتِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وافي جورميه </grapheme>
+    <alias>وافي جَوْرْميهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وافي للتسوق </grapheme>
+    <alias>وافي لِلتَسَوُقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واقا </grapheme>
+    <alias>واقا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> والإحتفاظ بنفس الرقم </grapheme>
+    <alias>والْإِحْتِفاظْ بِنَفْسِ الرَقْمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> والتوطين </grapheme>
+    <alias>والْتَوِطينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> والحناء </grapheme>
+    <alias>والْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> والدفع باستخدام </grapheme>
+    <alias>والدَفْعْ باسْتِخْدامِ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> والدورف أستوريا </grapheme>
+    <alias>والْدُوْرْفْ أْسْتورَيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> والزهور </grapheme>
+    <alias>والْزُهورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> والس لغسيل وتلميع السيارات </grapheme>
+    <alias>والَسْ لِغَسيلِ وَتْلَميعِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> والشامل </grapheme>
+    <alias>والْشامِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> والليزر </grapheme>
+    <alias>والْلَيْزَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> والمحاولة </grapheme>
+    <alias>والْمُحاوَلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وان </grapheme>
+    <alias>وانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واو </grapheme>
+    <alias>واوْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واو برجر </grapheme>
+    <alias>واوْ بِرْجَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واو للحلويات </grapheme>
+    <alias>واوْ لِلْحُلوياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واوان مصل </grapheme>
+    <alias>واوانْ مَصِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واي </grapheme>
+    <alias>وايْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واي فاي </grapheme>
+    <alias>وايْ فايْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واي فاي الامارات من اتصالات </grapheme>
+    <alias>وايْ فايْ اَلْاِماراتِ مِنْ اِتِصالاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وايت ألمنيوم قسم المطابخ </grapheme>
+    <alias>وايِتْ أَلِمِنْيومْ قِسْمِ الْمَطابِخْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وايت ألمنيوم للسحب </grapheme>
+    <alias>وايِتْ أَلِمِنْيومْ لِلْسَحْبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وايت برجر </grapheme>
+    <alias>وايِتْ بِرْجَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وايت ساندز للسياحة والسفر </grapheme>
+    <alias>وايِتْ سانْدْزْ لِلسِياحَةِ والسَفَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وايدكس الإمارات للعناية السمعية </grapheme>
+    <alias>وايْدْكَسِ الْإِماراتِ لِلْعِنايَةِ السَمْعِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وايز جوب سنتر لاصلاح السيارات </grapheme>
+    <alias>وايِزْ جوبْ سَنْتَرْ لِاِصْلاحِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وايلد وادي لخدمات التوصيل </grapheme>
+    <alias>وايِلْدْ وادي لِخِدْماتْ اَلتَوْصيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وايْ فايْ </grapheme>
+    <alias>وايْ فايْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وبكل ثقة وأمان </grapheme>
+    <alias>وَبِكُلِ ثِقَةٍ وَأَمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وتسجيلات الذكرى </grapheme>
+    <alias>وَتَسْجيلاتِ الذِكْرَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وتسجيلات النورين الاسلامية </grapheme>
+    <alias>وَتَسْجيلاتِ النورينَ الْاِسْلامِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وجه آدم </grapheme>
+    <alias>وَجْهِ آدَمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وجهات جزيرة ياس الترفيهية </grapheme>
+    <alias>وِجْهاتِ جَزيرَةِ ياسْ اَلتَرْفيهِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وحالة الشكوى الآن هي </grapheme>
+    <alias>وَحالَةَ الشَكْوَىْ الْآنْ هِيَ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وحلويات اسامة </grapheme>
+    <alias>وَحُلوياتْ اُسامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وحلويات الطبيعة </grapheme>
+    <alias>وَحُلوياتِ الطَبيعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وحلويات جحا </grapheme>
+    <alias>وَحُلْوْياتْ جُحا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وحلويات حنون فراس </grapheme>
+    <alias>وَحُلوياتْ حَنونِ فِراسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وحلويات روابينا </grapheme>
+    <alias>وَحُلوياتْ رَوابينا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وحلويات سانجام </grapheme>
+    <alias>وَحُلوياتْ سانْجامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وحلويات سلورة </grapheme>
+    <alias>وَحُلوياتْ سَلورَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وحلويات عزيزية </grapheme>
+    <alias>وَحُلوياتْ عَزيزِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وحلويات قيصر </grapheme>
+    <alias>وَحُلوياتْ قَيْصَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وحلويات نيرالا </grapheme>
+    <alias>وَحُلوياتْ نيرالا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وحيدة </grapheme>
+    <alias>وَحيدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وديان اليمن للمندي </grapheme>
+    <alias>وِدْيانِ اَلْيَمَنْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وردان للخياطة </grapheme>
+    <alias>وَرْدانْ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> وردة وشمعة لتجارة الزهور </grapheme>
+    <alias>وَرْدَةْ وَشَمْعَةْ لِتِجارَةِ اَلزُهورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورسان للقرطاسية </grapheme>
+    <alias>وَرْسانْ لِلْقِرْطاسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورسان للمندي </grapheme>
+    <alias>وَرْسانْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة أبطال السرعة للسيارات </grapheme>
+    <alias>وَرْشَةِ أَبْطالِ السُرْعَةِ لِلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة اسراء لصيانة المكيفات </grapheme>
+    <alias>وَرْشَةِ اِسْرَاْءْ لِصِيانَةِ الْمُكَيْفاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة الأسطورة لصيانة السيارات </grapheme>
+    <alias>وَرْشَةِ الْأُسْطورَةِ لِصِيانَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة الاصدقاء </grapheme>
+    <alias>وَرْشَةِ الْاَصْدِقاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة الاعتماد للالمنيوم </grapheme>
+    <alias>وَرْشَةِ الاعْتِمادِ لِلالْمِنْيومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة التسامح لتصليح السيارات </grapheme>
+    <alias>وَرْشَةِ التَسامُحِ لِتَصْليحْ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة التقدم لتصليح السيارات </grapheme>
+    <alias>وَرْشَةِ التَقَدُمِ لِتَصْليحْ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة التقي لتصليح كهرباء ومكيفات السيارات </grapheme>
+    <alias>وَرْشَةِ التَقي لِتَصْليحْ كَهْرُباءْ وَمُكَيْفاتِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة الجبل الأزرق لتصليح السيارات </grapheme>
+    <alias>وَرْشَةِ الْجَبَلِ الْأَزْرَقِ لِتَصْليحْ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة الحلو </grapheme>
+    <alias>وَرْشَةِ الْحُلْوْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة الحميدي للحدادة </grapheme>
+    <alias>وَرْشَةِ الْحُمَيْدِيُ لِلَحِدادَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة الدبلوماسي لصيانة السيارات </grapheme>
+    <alias>وَرْشَةِ الدِبْلوماسِيُ لِصِيانَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة الرويس لتصليح المكيفات </grapheme>
+    <alias>وَرْشَةِ الرَوْيَسْ لِتَصْليحْ اَلْمُكَيْفاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة السميح لتصليح السيارات </grapheme>
+    <alias>وَرْشَةِ السَميحْ لِتَصْليحْ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة السويد الميكانيكية </grapheme>
+    <alias>وَرْشَةِ السُوْيَدِ الْميكانيكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة العماد الميكانيكية </grapheme>
+    <alias>وَرْشَةِ الْعَمادِ الْميكانيكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة العين للزجاج </grapheme>
+    <alias>وَرْشَةِ الْعَيْنِ لِلْزُجاجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة الغانم للحدادة </grapheme>
+    <alias>وَرْشَةِ الْغانِمْ لِلْحِدادَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة الكابري لصيانة السيارات </grapheme>
+    <alias>وَرْشَةِ الْكابِرِيْ لِصِيانَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة الكورنيش لتصليح السيارات </grapheme>
+    <alias>وَرْشَةِ اَلْكورْنِيْشْ لِتَصْليحْ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة المستقبل لتصليح المكيفات والثلاجات </grapheme>
+    <alias>وَرْشَةِ الْمُسْتَقْبَلِ لِتَصْليحْ اَلْمُكَيْفاتْ والثَلاجاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة المهند لتصليح السيارات </grapheme>
+    <alias>وَرْشَةِ الْمُهَنَدْ لِتَصْليحْ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة الناقل الاول لصيانة السيارات </grapheme>
+    <alias>وَرْشَةِ الناقِلِ الْاَوَلِ لِصِيانَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة النسيم لتصليح السيارات </grapheme>
+    <alias>وَرْشَةِ النَسيمِ لِتَصْليحْ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة باتريوت لاصلاح السيارات </grapheme>
+    <alias>وَرْشَةِ باتْرْيوتْ لِاِصْلاحِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة تركيا لصيانة السيارات </grapheme>
+    <alias>وَرْشَةِ تُرْكْيا لِصِيانَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة جبروت لاعمال الحدادة واللحام </grapheme>
+    <alias>وَرْشَةِ جَبَروتْ لِاَعْمالِ الْحَدادَةْ والَلحامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة جون لصيانة السيارات </grapheme>
+    <alias>وَرْشَةِ جونْ لِصِيانَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة جون لميزان السيارات </grapheme>
+    <alias>وَرْشَةِ جونْ لِميزانِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة حدادة ومحطة البديع </grapheme>
+    <alias>وَرْشَةِ حَدادَةْ وَمَحَطَةِ الْبَديعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة حكومة دبي </grapheme>
+    <alias>وَرْشَةِ حُكومَةِ دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة دبي للاطارات </grapheme>
+    <alias>وَرْشَةِ دُبي لِلْاِطاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة راشد سيف لتصليح المكيفات </grapheme>
+    <alias>وَرْشَةِ راشِدْ سَيْفْ لِتَصْليحْ اَلْمُكَيْفاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة ريماين باكس لتصليح السيارات </grapheme>
+    <alias>وَرْشَةِ ريمايْنْ باكْسْ لِتَصْليحْ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة زهرة الطائف لصيانة السيارات </grapheme>
+    <alias>وَرْشَةِ زَهْرَةْ اَلطائِفِ لِصِيانَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ورشة شمس العالم عبد الجليل </grapheme>
+    <alias>وَرْشَةِ شَمْسِ الْعالِمِ عَبْدِ الْجَليلْ</alias>
+  </lexeme>
+</lexicon>

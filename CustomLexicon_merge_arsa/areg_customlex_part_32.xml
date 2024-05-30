@@ -1,0 +1,2008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="ar-SA">
+  <lexeme>
+    <grapheme> صيدلية نور الشفاء </grapheme>
+    <alias>صَيْدَلِيَةْ نورْ الشِفاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية نور القوع </grapheme>
+    <alias>صَيْدَلِيَةْ نورْ الْقوعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية وادي الزيتون </grapheme>
+    <alias>صَيْدَلِيَةْ وادي الزَيْتونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية أرض الحكيم </grapheme>
+    <alias>صَيْدَلِيَةْ أَرْضْ الْحَكيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الجزيرة </grapheme>
+    <alias>صَيْدَلِيَةْ الْجَزيرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الجودة </grapheme>
+    <alias>صَيْدَلِيَةْ الْجَوْدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الحياة الجديدة </grapheme>
+    <alias>صَيْدَلِيَةْ الْحَياةْ الْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الخلود </grapheme>
+    <alias>صَيْدَلِيَةْ الْخُلودْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية رامادا </grapheme>
+    <alias>صَيْدَلِيَةْ رامادا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ضريبة القيمة المضافة </grapheme>
+    <alias>ضَريبَةِ الْقيمَةِ الْمُضافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ضريبة القيمة المُضافة </grapheme>
+    <alias>ضَريبَةِ الْقيمَةِ الْمُضافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ضفاف النيل </grapheme>
+    <alias>ضِفافِ النيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ضمانات الخليج </grapheme>
+    <alias>ضَماناتْ الْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ضوء الشمس للإلكترونيات </grapheme>
+    <alias>ضَوْءِ الشَمْسِ لِلْإِلِكْتْرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ضوء الصباح للخياطة النسائية </grapheme>
+    <alias>ضَوْءِ الصَباحِ لِلْخِياطَةِ النِسائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ضوء القمر </grapheme>
+    <alias>ضَوْءِ الْقَمَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ضوء القمر الجديد </grapheme>
+    <alias>ضَوْءِ الْقَمَرْ اَلْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ضياء الدين للخياطة </grapheme>
+    <alias>ضِياءُ الدينِ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ضيافة الافغان </grapheme>
+    <alias>ضِيافَةِ الْاَفْغانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ضيافة الشام سوبر ماركت ومحمصة </grapheme>
+    <alias>ضِيافَةِ الشامْ سوبَرْ مارْكَتْ وَمَحْمَصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ضيوف الإمارات </grapheme>
+    <alias>ضُيوفِ الْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طاجين وطنجية المغربي </grapheme>
+    <alias>طاجينْ وَطَنْجِيَةِ الْمَغْرِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طارش عتيق القبيسي لتوزيع الغاز </grapheme>
+    <alias>طارِشْ عَتيقِ الْقُبَيْسي لِتَوْزيعِ الْغازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طارق السركال محامون ومستشارون قانونيون </grapheme>
+    <alias>طارِقِ السِرْكالْ مُحامونْ وَمُسْتَشارونْ قانونِيونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طارق بن زياد العالمية للطباعة والتجهيزات المكتبية </grapheme>
+    <alias>طارِقُ بِنْ زِيادِ الْعالَمِيَةِ لِلطِباعَةِ والتَجْهيزاتِ الْمَكْتَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طازج اليوم </grapheme>
+    <alias>طازِجِ الْيَوْمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طب الأسنان التخصصي </grapheme>
+    <alias>طِبِ الْأَسْنانْ اَلتَخَصُصي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طب الأسنان الصحي </grapheme>
+    <alias>طِبِ الْأَسْنانْ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طباخ الجماهير </grapheme>
+    <alias>طَباخِ الْجَماهيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طبلية المصرية </grapheme>
+    <alias>طَبْلِيَةِ الْمِصْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طربوش الشام </grapheme>
+    <alias>طُرْبوشِ الشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طريق المستقبل لاستقدام الايدي العاملة </grapheme>
+    <alias>طَريقِ الْمُسْتَقْبَلِ لِاِسْتِقْدامِ الْاَيْدي الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طشة للمأكولات المصرية </grapheme>
+    <alias>طَشَةْ لِلْمَأْكولاتِ الْمِصْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طعام الخليج </grapheme>
+    <alias>طَعامِ الْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طلب الانتقال </grapheme>
+    <alias>طَلَبَ الِانْتِقالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طموح للرعاية الصحية </grapheme>
+    <alias>طُموحِ لِلرِعايَةِ الصِحِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طنة ورنة لتجارة الهواتف المتحركة </grapheme>
+    <alias>طَنَةْ وَرَنَةْ لِتِجارَةِ اَلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طوارئ الطرق وادارة النفايات رأس الخيمة </grapheme>
+    <alias>طَوارِئَ الطُرُقْ وَاِدارَةِ النِفاياتِ رَأْسِ الْخَيْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طوارئ الغاز الطبيعي </grapheme>
+    <alias>طَوارِئَ الْغازِ الطَبيعِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طواش الخليج للخياطة </grapheme>
+    <alias>طَواشِ الْخَليجِ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طوروس للمواد الغذائية </grapheme>
+    <alias>طوروسْ لِلْمَوادِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طوق الياسمين لتجارة الزهور </grapheme>
+    <alias>طَوْقُ الْياسَمينَ لِتِجارَةِ الزُهورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طوق الياسمين لخدمات التنظيف </grapheme>
+    <alias>طَوْقُ الْياسِمينَ لِخِدْماتِ التَنْظيفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طيب الإمارات للعطور </grapheme>
+    <alias>طيبُ الْإِماراتِ لِلْعُطورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طير النورس للشيلة والعبايا </grapheme>
+    <alias>طَيْرَ النَوْرَسْ لِلْشَيْلَةْ والْعَبايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طيران الشرق الأوسط </grapheme>
+    <alias>طَيَرانِ الشَرْقِ الْأَوْسَطْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طيران الصين الجنوبي </grapheme>
+    <alias>طَيَرانِ الصينِ الْجَنوبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طيران الكويت </grapheme>
+    <alias>طَيَرانِ الْكُوَيْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طيران المغرب </grapheme>
+    <alias>طَيَرانِ الْمَغْرِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> طيران اوكرانيا الدولي </grapheme>
+    <alias>طَيَرانْ اوكْرانْيا الدَوْلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> ظبي ون للخدمات الاستثمارية </grapheme>
+    <alias>ظَبْيْ وَنْ لِلْخِدْماتِ الاسْتِثْمارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عائشة لزينة وتنجيد وتلميع السيارات </grapheme>
+    <alias>عائِشَةْ لِزينَةِ وَتَنْجيدِ وَتَلْميعِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عابرة الصحراء للنقليات العامة وحمل ونقل السيارات </grapheme>
+    <alias>عابِرَةِ الصَحْرَاْءْ لِلْنَقَلِياتِ الْعامَةِ وَحَمْلِ وَنَقْلِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عادل الجنيبي للمحاماة والاستشارات القانونية </grapheme>
+    <alias>عادِلْ اَلْجُنَيْبي لِلْمُحاماةِ والاسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عادل المهيري لتأجير السيارات </grapheme>
+    <alias>عادِلْ اَلْمُهْيَري لِتَأْجيرِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عارف لتجارة الملابس الجاهزة والاقمشة </grapheme>
+    <alias>عارِفْ لِتِجارَةِ الْمَلابِسِ الْجاهِزَةِ والْاَقْمِشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عاشق لتجارة قطع غيار السيارات المستعملة </grapheme>
+    <alias>عاشِقْ لِتِجارَةِ قِطَعِ غِيارِ السَياراتْ اَلْمُسْتَعْمَلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عالم الألعاب للإلكترونيات </grapheme>
+    <alias>عالَمُ الْأَلْعابِ لِلْإِلِكْتِرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عالم الألعاب للتجارة </grapheme>
+    <alias>عالَمُ الْأَلْعابِ لِلتِجارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عالم الأواني لتجارة الأدوات المنزلية </grapheme>
+    <alias>عالَمُ الْأَوانِيْ لِتِجارَةِ الْأَدَواتِ الْمَنْزِلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عالم الاتصالات </grapheme>
+    <alias>عالَمُ الاتِصالاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عالم البحار </grapheme>
+    <alias>عالَمُ الْبِحارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عالم البيتزا </grapheme>
+    <alias>عالَمُ الْبيتْزا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عالم الحياة للتجهيزات الطبية </grapheme>
+    <alias>عالَمُ الْحَياةْ لِلْتَجْهيزاتِ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عالم السندباد لتجارة ألعاب الأطفال </grapheme>
+    <alias>عالَمْ اَلسِنْدِبادْ لِتِجارَةِ أَلْعابِ الْأَطْفالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عالم الصيادين للبنادق الهوائية ولوازم الرحلات </grapheme>
+    <alias>عالَمْ اَلصَيادينْ لِلْبَنادِقِ الْهَوائِيَةِ وَلَوازِمِ الرِحْلاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عالم القفز لتأجير الألعاب الترفيهية </grapheme>
+    <alias>عالَمْ اَلْقَفْزِ لِتَأْجيرِ الْأَلْعابِ التَرْفيهِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عالم المستقبل للرياضة </grapheme>
+    <alias>عالَمْ الْمُسْتَقْبَلِ لِلرِياضَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عالم الموبايل </grapheme>
+    <alias>عالَمْ الْموبايِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عالم الهواتف المتحركة </grapheme>
+    <alias>عالَمْ اَلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عالم المنال للنقليات العامة </grapheme>
+    <alias>عالَمْ الْمَنالِ لْلنَقَلِياتِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عالية للشقق الفندقية </grapheme>
+    <alias>عالِيَةْ لِلشُقَقْ الْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عامر لصيانة المكيفات </grapheme>
+    <alias>عامِرْ لِصِيانَةِ الْمُكَيِفاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عايدة للخياطة النسائية </grapheme>
+    <alias>عايِدَةْ لِلْخِياطَةِ النِسائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عباس خادم لتجارة قطع غيار السيارات المستعملة </grapheme>
+    <alias>عَباسْ خادِمْ لِتِجارَةِ قِطَعِ غِيارِ السَياراتْ اَلْمُسْتَعْمَلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبد الجبار </grapheme>
+    <alias>عَبْدِ الْجَبارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبد الله الختال وزايد للتجارة العامة </grapheme>
+    <alias>عَبْدَ الَلهْ الْخَتالْ وَزايِدْ لِلتِجارَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبد الله سعيد </grapheme>
+    <alias>عَبْدُ الَلهْ سَعيدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالباسط لتجارة الأدوات الكهربائية </grapheme>
+    <alias>عَبْدًالْباسِطِ لِتِجارَةِ اَلْأَدَواتِ الْكَهْرُبائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالرحمن الزرعوني للسياحة والسفر </grapheme>
+    <alias>عَبْدالْرَحْمَنِ الزَرَعونِيْ لِلسِياحَةِ والسَفَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالرحمن العامري للمحاماة والاستشارات القانونية </grapheme>
+    <alias>عَبْدالْرَحْمَنِ الْعامِرِيْ لِلْمُحاماةِ والاسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالستار لتجارة الادوات الصحية والكهربائية </grapheme>
+    <alias>عَبْدالْسَتارِ لِتِجارَةِ الْاَدَواتِ الصِحِيَةِ والْكَهْرَبائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالسلام المدني لتجارة الأقمشة والخياطة </grapheme>
+    <alias>عَبْدالْسَلامِ الْمَدَنِيْ لِتِجارَةِ اَلْأَقْمِشَةِ والْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالشكور لقطع غيار السيارات </grapheme>
+    <alias>عَبْدِالْشَكورِ لِقِطَعِ غِيارِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالصمد القرشي للعطور </grapheme>
+    <alias>عَبْدالْصَمَدِ الْقُرَشْيْ لِلْعُطورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالغني الطبي </grapheme>
+    <alias>عَبْدالْغَنِيِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالكريم إبراهيم خرم للهواتف المتحركة </grapheme>
+    <alias>عَبْدِالْكَريمْ إِبْراهيمْ خَرَمْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالكريم محمد الهرمودي لتجارة الاواني المنزلية </grapheme>
+    <alias>عَبْدِالْكَريمْ مُحَمَدِ الْهُرْمودِيْ لِتِجارَةِ اَلْاَوانْيِ الْمَنْزِلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالكريم محمد لتأجير السيارات </grapheme>
+    <alias>عَبْدِالْكَريمْ مُحَمَدْ لِتَأْجيرِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبداللطيف للمواد الغذائية </grapheme>
+    <alias>عَبْدِالَلطيفْ لِلْمَوادِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالله </grapheme>
+    <alias>عَبْدالَلهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالله الغرير للتعليم </grapheme>
+    <alias>عَبْدالَلهْ اَلْغُريرْ لِلتَعْليمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالله بن ناصر للتعليم الأساسي </grapheme>
+    <alias>عَبْدالَلهْ بِنْ ناصِرِ لِلتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالله حسين خنجي للتجارة </grapheme>
+    <alias>عَبْدالَلهْ حُسَيْنْ خَنْجَيْ لِلتِجارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالله سعيد لتصليح الاطارات </grapheme>
+    <alias>عَبْدالَلهْ سَعيدْ لِتَصْليحْ اَلْاِطاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالله سلطان لتجارة الأدوات الكهربائية </grapheme>
+    <alias>عَبْدالَلهْ سُلْطانْ لِتِجارَةِ الْأَدَواتِ الْكَهْرُبائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالله عبدالخالق للتجارة </grapheme>
+    <alias>عَبْدالَلهْ عَبْدالْخالِقِ لِلتِجارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالله عقيل طاهر للمحاماة </grapheme>
+    <alias>عَبْدالَلهْ عَقيلْ طاهِرْ لِلْمُحاماةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالله فايد للمجوهرات </grapheme>
+    <alias>عَبْدالَلهْ فايِدْ لِلْمُجَوْهَراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالله محمد ابراهيم للتجارة </grapheme>
+    <alias>عَبْدالَلهْ مُحَمَدْ اِبْراهيمْ لِلتِجارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبدالله محمد ابراهيم للتجارة العامة </grapheme>
+    <alias>عَبْدالَلهْ مُحَمَدْ اِبْراهيمْ لِلتِجارَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبر الإمارات لاعمال تنظيف المباني </grapheme>
+    <alias>عَبْرْ اَلْإِماراتِ لِاَعْمالِ تَنْظيفِ الْمَباني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبر الإمارات للاستشارات الهندسية </grapheme>
+    <alias>عَبْرْ اَلْإِماراتِ لِلِاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبر البحار لتوريد العمال </grapheme>
+    <alias>عَبْرْ الْبِحارِ لِتَوْريدِ الْعُمالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبر المحيطات للسفريات </grapheme>
+    <alias>عَبْرْ الْمُحيطاتِ لِلْسَفَرِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبيد الحلو لتحفيظ القران الكريم </grapheme>
+    <alias>عُبَيْدْ اَلْحُلْوْ لِتَحْفيظِ الْقُرْاَنِ الْكَريمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبيد الخصيبة </grapheme>
+    <alias>عُبَيْدِ الْخِصيبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبيد قمبر لتصليح المكيفات </grapheme>
+    <alias>عُبَيْدْ قَمْبَرْ لِتَصْليحِ الْمُكْيْفاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبيد للتجارة العامة والتوزيع </grapheme>
+    <alias>عُبَيْدْ لِلتِجارَةِ الْعامَةِ والتَوْزيعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبير الدهماني للمحاماة والاستشارات القانونية </grapheme>
+    <alias>عَبيرُ الدَهُمانِيْ لِلْمُحاماةِ والاسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عبير لتجارة مواد البناء </grapheme>
+    <alias>عَبيرْ لِتِجارَةِ مَوادَ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عجمان الاستشاري </grapheme>
+    <alias>عَجْمانِ الاسْتِشارِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عجمان الطبي </grapheme>
+    <alias>عَجْمانِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عجمان لقطع غيار السيارات المستعملة </grapheme>
+    <alias>عَجْمانْ لِقِطَعِ غِيارِ السَياراتِ الْمُسْتَعْمَلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عجمان للنظافة العامة </grapheme>
+    <alias>عَجْمانْ لِلنَظافَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عجيب لتأجير السيارات </grapheme>
+    <alias>عَجيبْ لِتَأْجيرِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عذاري لتحلية مياه الشرب </grapheme>
+    <alias>عَذاري لِتَحَلِيَةِ مِياهِ الشُرْبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عرفة الطبي </grapheme>
+    <alias>عَرَفَةَ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عرفة للميزان الإلكتروني وتبديل الإطارات </grapheme>
+    <alias>عَرَفَةْ لِلْميزانِ الْإِلِكْتُرونِيْ وَتْبْديلِ الْإِطاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عرمان لصيانة المباني </grapheme>
+    <alias>عَرْمانْ لِصِيانَةِ الْمَباني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عروس البحر لخدمات التنظيف </grapheme>
+    <alias>عَروسْ الْبَحْرِ لِخِدْماتِ التَنْظيفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عروس الخليج للذهب والمجوهرات </grapheme>
+    <alias>عَروسْ الْخَليجِ لِلْذَهَبْ والْمُجَوْهَراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عروس الريف للتجميل النسائي </grapheme>
+    <alias>عَروسِ الريفِ لِلتَجْميلِ النَسائي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عروس الصحراء للسيدات </grapheme>
+    <alias>عَروسِ الصَحْرَاِءْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عروس العين للتجميل </grapheme>
+    <alias>عَروسِ الْعَيْنْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عروس الفريج للخياطة والتطريز </grapheme>
+    <alias>عَروسِ الْفَريجْ لِلْخِياطَةِ والتَطْريزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عروس بندر للكباب الخاص </grapheme>
+    <alias>عَروسْ بَنْدَرْ لِلْكَبابِ الْخاصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عروسة الإمارات للخياطة </grapheme>
+    <alias>عَروسَةِ الْإِماراتِ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عروضك الخاصة </grapheme>
+    <alias>عُروضَكَ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عسل الإمارات </grapheme>
+    <alias>عَسَلَ الْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عسل الامارات </grapheme>
+    <alias>عَسَلَ الْاِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عسل الظنحاني </grapheme>
+    <alias>عَسَلَ الظَنْحاني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عش البلبل للخياطة </grapheme>
+    <alias>عُشُ الْبُلْبُلُ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عشتار الطبي </grapheme>
+    <alias>عِشْتارِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عصائر النجمة </grapheme>
+    <alias>عَصائِرَ النَجْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عصائر فاكهة الشام </grapheme>
+    <alias>عَصائِرَ فاكِهَةِ الشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عصائر كرز الشام </grapheme>
+    <alias>عَصائِرَ كَرَزِ الشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عصام للهواتف المتحركة </grapheme>
+    <alias>عِصامْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عصر الجوال للهواتف المتحركة </grapheme>
+    <alias>عَصْرِ الْجَوالِ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عصفور الحديقة </grapheme>
+    <alias>عُصْفورِ الْحَديقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عصمت الاوروبي للتجميل </grapheme>
+    <alias>عَصْمَتِ الْاوروبِيْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عطارد لتأجير السيارات </grapheme>
+    <alias>عُطارِدْ لِتَأْجيرِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عطر الشام </grapheme>
+    <alias>عِطْرِ الشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عطورات الحرمين </grapheme>
+    <alias>عُطوراتِ الْحَرَمَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عفيف الطبي </grapheme>
+    <alias>عَفيفُ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عقار لخدمات تنسيق الحدائق والزراعة </grapheme>
+    <alias>عَقارْ لِخِدْماتْ تَنْسيقْ الْحَدائِقِ والزِراعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> علاء الدين للهواتف المتحركة </grapheme>
+    <alias>عَلاءُ الدينْ لِلْهَواتِفَ اَلْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> علامة الحدود العالمية لتجارة قطع غيار السيارات </grapheme>
+    <alias>عَلامَةِ الْحُدودِ الْعالَمِيَةِ لِتِجارَةِ قِطَعِ غِيارِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> على الباقات </grapheme>
+    <alias>عَلَىْ الْباقاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> على الحطب </grapheme>
+    <alias>عَلَىْ الْحَطَبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> على الحطب للمعجنات والفطائر </grapheme>
+    <alias>عَلَىْ الْحَطَبِ لِلُمْعَجَناتْ والْفَطائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> على الفور </grapheme>
+    <alias>عَلَىْ الْفَوْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> على المساعدة </grapheme>
+    <alias>عَلَىْ الْمُساعَدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> على كيفك للتجارة العامة </grapheme>
+    <alias>عَلَىْ كَيْفَكْ لِلتِجارَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> على كيفك لنقل الأثاث </grapheme>
+    <alias>عَلَىْ كَيْفَكْ لِنَقْلِ الْأَثاثْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> علي الجلاف للملبوسات الخليجية </grapheme>
+    <alias>عَلي اَلْجَلافْ لِلْمَلْبوساتِ الْخَليجِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> علي الصلاني للمحاماة والاستشارات القانونية </grapheme>
+    <alias>عَلي اَلصَلاني لِلْمُحاماةِ والْاِسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> علي النعيمي لتأجير السيارات </grapheme>
+    <alias>عَلي النُعَيْمِيْ لِتَأْجيرِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> علي حبيب ومشاركوه للمحاماة والاستشارات القانونية </grapheme>
+    <alias>عَلي حَبيبْ وَمُشارِكوهْ لِلْمُحاماةِ والْاِسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> علي حسن الجاوي للحلويات </grapheme>
+    <alias>عَلي حَسَنُ الْجاوي لِلْحُلوياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> علي ظاهر لخدمات قطر السيارات </grapheme>
+    <alias>عَلي ظاهِرْ لِخِدْماتْ قَطْرَ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> علي وأولاده مركز خدمة البورش </grapheme>
+    <alias>عَلي وَأَوْلادُهُ مَرْكَزْ خِدْمَةْ الْبُوْرْشَ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> علي العتيبة للكهرباء </grapheme>
+    <alias>عَلي الْعُتَيْبَةْ لِلْكَهْرُباءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عمر الخيام </grapheme>
+    <alias>عُمَرَ الْخَيامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عمر الشامسي لتجارة مواد الغذائية </grapheme>
+    <alias>عُمَرَ الشامِسِيْ لِتِجارَةِ مَوادِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عمر المشتاق لتصليح السيارات </grapheme>
+    <alias>عُمَرَ الْمُشْتاقْ لِتَصْليحْ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عمر الخيام الجديد </grapheme>
+    <alias>عُمَرْ الْخِيامْ الْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عمريتا الطبي </grapheme>
+    <alias>عَمْريتا الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عن طريق زيارة أقرب مركز اتصالات مع المستندات المطلوبة </grapheme>
+    <alias>عَنْ طَريقِ زِيارَةِ أَقْرَبِ مَرْكَزِ اِتِصالاتْ مَعَ الْمُسْتَنَداتِ الْمَطْلوبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عنايتي لخدمات الصحة المنزلية </grapheme>
+    <alias>عِنايَتي لِخِدْماتْ اَلصِحَةِ الْمَنْزِلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عنود الديرة لخياطة الملابس النسائية </grapheme>
+    <alias>عَنودِ الديرَةْ لِخِياطَةِ الْمَلابِسِ النِسائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عوافي لتجارة الهواتف المتحركة </grapheme>
+    <alias>عَوافي لِتِجارَةِ الْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عوافي للخياطة الرجالية </grapheme>
+    <alias>عَوافي لِلْخِياطَةِ الرِجالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عوافي للمياه المعدنية </grapheme>
+    <alias>عَوافي لِلْمِياهِ الْمَعْدِنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عوافي للوجبات السريعة </grapheme>
+    <alias>عَوافي لِلَوْجَباتِ السَريعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عود المطينة الطبي </grapheme>
+    <alias>عودْ اَلْمُطينَةِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عود ميثاء للأثاث المستعمل </grapheme>
+    <alias>عودْ مَيْثَاْءْ لِلْأَثاثِ الْمُسْتَعْمِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عود ميلانو للتجارة العامة </grapheme>
+    <alias>عودْ ميلانو لِلتِجارَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عوض القبيسي للعطور </grapheme>
+    <alias>عَوَضِ الْقُبَيْسي لِلْعُطورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادات بريق الماسة </grapheme>
+    <alias>عِياداتِ بَريقِ الْماسَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادات نوفوميد التخصصية </grapheme>
+    <alias>عِياداتِ نوفوميدْ الْتَخَصُصِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة أبوظبي لطب الأسنان </grapheme>
+    <alias>عِيادَةْ أَبوظَبِيْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ألبا سمايل لطب الأسنان </grapheme>
+    <alias>عِيادَةْ أَلْبا سْمايِلْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ابتسامة المشاهير لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اِبْتِسامَةِ الْمَشاهيرْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ابتسامة دبي لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اِبْتِسامَةِ دُبي لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ابراهيم كلداري للامراض الجلدية والتناسلية </grapheme>
+    <alias>عِيادَةْ اِبْراهيمْ كِلْدارِيْ لِلْاَمْراضِ الْجِلْدِيَةِ والتَناسُلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ابصار لجراحة العيون </grapheme>
+    <alias>عِيادَةْ اَبْصارْ لِجْراحَةِ الْعُيونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة اتحاد الخليج البيطرية </grapheme>
+    <alias>عِيادَةْ اِتِحادِ الْخَليجِ الْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة اروى لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَرْوَىْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة اصدقاء الحيوانات البيطرية </grapheme>
+    <alias>عِيادَةْ اَصْدِقاءِ الْحَيَواناتِ الْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة اضطرابات النوم التخصصية </grapheme>
+    <alias>عِيادَةْ اِضْطِراباتْ الْنَوْمِ التَخَصُصِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الأريج لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلْأَريجْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الإمارات الطبية </grapheme>
+    <alias>عِيادَةْ اَلْإِماراتِ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الإمارات لأمراض القلب </grapheme>
+    <alias>عِيادَةْ اَلْإِماراتِ لِأَمْراضِ الْقَلْبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الإمارات لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلْإِماراتْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الابتسامة المتألقة للأسنان </grapheme>
+    <alias>عِيادَةْ الْاِبْتِسامَةْ الْمُتَأَلِقَةْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الابتسامة للأسنان </grapheme>
+    <alias>عِيادَةْ الْاِبْتِسامَةْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الاخلاص التخصصية </grapheme>
+    <alias>عِيادَةْ اَلْاِخْلاصِ التَخَصُصِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة البا سمايل لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلْبا سْمايِلْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة البراء لامراض المفاصل والعظام </grapheme>
+    <alias>عِيادَةْ اَلْبَرَاْءْ لِاَمْراضِ الْمَفاصِلِ والْعِظامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة البسمة لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلْبَسْمَةْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الجزيرة الخاصة </grapheme>
+    <alias>عِيادَةِ الْجَزيرَةِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الجوهرة للأسنان </grapheme>
+    <alias>عِيادَةِ الْجَوْهَرَةْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الحسان لطب الأسنان </grapheme>
+    <alias>عِيادَةَ الْحَسانْ لَطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الحلفي الاستشارية لجراحة الاطفال </grapheme>
+    <alias>عِيادَةْ اَلْحَلْفْيِ الِاسْتِشارِيَةِ لِجْراحَةِ الْاَطْفالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الحنان لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلْحَنانْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الختم البيطرية </grapheme>
+    <alias>عِيادَةْ اَلْخِتْمِ الْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الخليج للأسنان </grapheme>
+    <alias>عِيادَةْ الْخَليجِ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدار للأمراض الجلدية </grapheme>
+    <alias>عِيادَةْ اَلدارِ لِلْأَمْراضِ الْجِلْدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدرة لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلدُرَةْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور إبراهيم عبارة للأمراض الجلدية والتناسلية </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ إِبْراهيمْ عَبارَةْ لِلْأَمْراضِ الْجِلْدِيَةُ والتَناسُلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور امل القدره التخصصية </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورَ اَمَلْ اَلْقِدْرَهْ الْتَخَصُصِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور انور العطاري </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ اَنْوَرْ الْعَطاري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور اياد جبور التخصصية للعيون </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ اِيادْ جَبورْ الْتَخَصُصِيَةِ لِلْعُيونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور بسام الطبية </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ بَسامْ الْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور تيجاني شايب الطبية </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ تيجاني شايِبِ الْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور جاك لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ جاكْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور خالد النعيمي التخصصية </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ خالِدْ الْنُعَيْمِيْ الْتَخَصُصِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور راضي الحلو للأذن والانف والحنجرة </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ راضي الْحُلْوِ لِلْأُذُنِ والْاَنْفْ والْحَنْجَرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور زهير سكافي الطبية </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ زُهيرْ سْكافي الْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور سنان لطب العيون </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ سِنانْ لِطِبِ الْعُيونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور شريف التخصصية لطب الاطفال </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ شَريفِ الْتَخَصُصِيَةِ لِطِبِ الْاَطْفالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور صلاح الربيعي للأمراض الجلدية والتناسلية </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ صَلاحْ الرَبيعِيْ لِلْأَمْراضِ الْجِلْدِيَةْ والتَناسُلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور عبدالوهاب محمد الهاملي لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ عَبْدِالْوَهابْ مُحَمَدْ الْهامِلِيْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور علي الحرجان للطب النفسي </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ عَلي اَلْحَرْجانَ لِلطِبِ النَفْسْيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور عيد الباطنية التخصصية </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ عيدْ اَلْباطِنِيَةِ الْتَخَصُصِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور غسان نعيم التخصصية لامراض الاطفال </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ غَسانْ نَعيمْ اَلتَخَصُصِيَةِ لِاَمْراضِ الْاَطْفالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور فؤاد عبده للامراض النفسية </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ فُؤادْ عَبْدُهْ لِلْاَمْراضِ الْنَفْسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور فادي الشافي لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ فادي الشافي لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور مايكل لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ مايْكِلْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور مجدي اسكندر للعلاج الطبيعي والتأهيل </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ مَجْدْيْ اسْكَنْدَرْ لِلْعِلاجِ الطَبيعِيْ وَاَلْتَأْهيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور محمد عماد لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ مُحَمَدْ عِمادْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور معين جنبلاط الطبي </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ مُعينْ جُنْبُلاطِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور مهند لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ مُهَنَدْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور نادر صعب للجراحة التجميلية </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ نادِرْ صَعَبْ لِلْجِراحَةِ التَجْميلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور ياسر سيف لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورْ ياسِرْ سَيْفْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة جمانة لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورَةْ جُمانَةْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة رنا حسين التخصصية </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورَةْ رَنا حُسَيْنِ التَخَصُصِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة سميحة عبدالله لطفي </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورَةْ سَميحَةْ عَبْدالَلهْ لُطْفِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة سيمين الطبية </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورَةْ سْيْمينْ الْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة غزل ماهري التخصصية </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورَةْ غَزَلْ ماهِرْيْ التَخَصُصِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة مانجولا لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورَةْ مانْجولا لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة مديحة الحداد </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورَةْ مَديحَةْ الْحَدادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة منى الجزيري للأسنان </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورَةْ مُنَىْ الْجِزيرِيْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة ميسون القيسي </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورَةْ ميسونِ الْقَيْسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة هالة فضلي للأمراض الجلدية والليزر </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورَةْ هالَةْ فَضْلَيْ لِلْأَمْراضِ الْجِلْدِيَةِ والَليْزَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدليل لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلدَليلْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الديرة لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلديرَةْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الديوان التخصصية للأسنان </grapheme>
+    <alias>عِيادَةْ اَلديوانْ الْتَخَصُصِيَةِ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الرحبة للطب وجراحة الأسنان </grapheme>
+    <alias>عِيادَةْ اَلرَحْبَةْ لِلْطِبِ وِجْراحَةِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الرقة التخصصية لتقويم الأسنان </grapheme>
+    <alias>عِيادَةْ اَلرِقَةِ الْتَخَصُصِيَةِ لِتَقْويمِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الرهيف الطبية </grapheme>
+    <alias>عِيادَةْ اَلرَهيفِ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الروضة البيطرية </grapheme>
+    <alias>عِيادَةْ الروضَةْ الْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الرويس التخصصية للأسنان </grapheme>
+    <alias>عِيادَةْ اَلرُوْيَسِ الْتَخَصُصِيَةِ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الريف لتقويم وطب الأسنان </grapheme>
+    <alias>عِيادَةِ الريفْ لِتَقْويمِ وَطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الريف لطب وتجميل الأسنان </grapheme>
+    <alias>عِيادَةِ الريفْ لِطِبِ وَتَجْميلِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة السرور لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلسُرورِ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة السعادة التخصصية </grapheme>
+    <alias>عِيادَةْ اَلسَعادَةِ الْتَخَصُصِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة السلامة الطبية </grapheme>
+    <alias>عِيادَةَ السَلامَةِ الْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة السلطان الطبية </grapheme>
+    <alias>عِيادَةْ اَلسُلْطانْ الْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة السلمة البيطرية </grapheme>
+    <alias>عِيادَةْ اَلسَلَمَةْ الْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الضياء الطبية </grapheme>
+    <alias>عِيادَةِ الضَياءِ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الضيافة لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلضِيافَةِ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الطموح للطب العام </grapheme>
+    <alias>عِيادَةْ اَلطُموحْ لِلطِبِ الْعامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الظيت الخاصة </grapheme>
+    <alias>عِيادَةْ اَلظيتِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة العطار لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلْعَطارْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة العناية لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلْعِنايَةِ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة العودة للمسالك البولية </grapheme>
+    <alias>عِيادَةْ اَلْعَوْدَةِ لِلْمَسالِكِ الْبَوْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة العين الجديدة للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْعَيْنِ الْجَديدَةِ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة العين العالمية للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْعَيْنِ الْعالَمِيَةِ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة العيون العصرية </grapheme>
+    <alias>عِيادَةْ اَلْعُيونِ الْعَصْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الفائز الطبية </grapheme>
+    <alias>عِيادَةْ اَلْفائِزِ الْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة القوام الرشيق الجلدية </grapheme>
+    <alias>عِيادَةْ اَلْقَوامِ الرَشيقَ الْجِلْدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الكرامة الطبية </grapheme>
+    <alias>عِيادَةْ اَلْكَرامَةِ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الكمال الطبية </grapheme>
+    <alias>عِيادَةْ اَلْكَمالِ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الكناري البيطرية </grapheme>
+    <alias>عِيادَةَ الْكَناري الْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة اللؤلؤ الطبية </grapheme>
+    <alias>عِيادَةْ اَلُلؤْلُؤِ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة اللؤلؤة الالمانية لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلُلؤْلُؤَةِ الْاَلْمانِيَةِ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة اللمسة الشافية لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلَلمْسَةِ الشافِيَةْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة اللولو للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْلُوْلو لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الليسيلي البيطرية </grapheme>
+    <alias>عِيادَةْ اَلْليْسيلِيْ الْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة المالكي لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلْمالِكِيْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الملاك لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلْمَلاكْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الميعاد الجلدية </grapheme>
+    <alias>عِيادَةْ اَلْميعادِ الْجِلْدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة النجمة لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلنَجْمَةِ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة النصر الطبية للأسنان </grapheme>
+    <alias>عِيادَةْ اَلنَصْرِ الطِبِيَةِ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة النور للأسنان </grapheme>
+    <alias>عِيادَةَ النورْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة النورس لطب الأسنان </grapheme>
+    <alias>عِيادَةَ النَوْرَسْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة النيلين الطبية </grapheme>
+    <alias>عِيادَةْ اَلنيلَيْنَ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الهدى الطبية </grapheme>
+    <alias>عِيادَةْ اَلْهُدَىْ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الهلال لطب الأسنان </grapheme>
+    <alias>عِيادَةَ الْهِلالِ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الواحة الطبية </grapheme>
+    <alias>عِيادَةْ اَلْواحَةِ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الوصل الطبية </grapheme>
+    <alias>عِيادَةْ اَلْوَصْلِ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الياقوت لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَلْياقوتْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة امانة التخصصية </grapheme>
+    <alias>عِيادَةْ اَمانَةِ التَخَصُصِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة انفينيتي للطب العام </grapheme>
+    <alias>عِيادَةْ اِنْفينَيْتِيْ لِلطِبِ الْعامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة اي سمايل لطب الأسنان </grapheme>
+    <alias>عِيادَةْ اَيْ سْمايِلْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة اي في اي ميدل ايست للخصوبة </grapheme>
+    <alias>عِيادَةْ اَيْ في اَيْ ميدِلْ ايسْتْ لِلْخُصوبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة برلين لطب الأسنان </grapheme>
+    <alias>عِيادَةْ بِرْلينْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة بسمة اللؤلؤ للأسنان </grapheme>
+    <alias>عِيادَةْ بَسْمَةِ الُلؤْلُؤْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة بشيرة الطبية التخصصية </grapheme>
+    <alias>عِيادَةْ بَشيرَةِ الطِبِيَةِ التَخَصُصِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة بلدية الشارقة </grapheme>
+    <alias>عِيادَةْ بَلَدِيَةِ الشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة تاج لطب الأسنان </grapheme>
+    <alias>عِيادَةِ تاجْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة جمال </grapheme>
+    <alias>عِيادَةِ جَمالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة جنيف للعناية الجلدية </grapheme>
+    <alias>عِيادَةْ جِنَيْفْ لِلْعِنايَةِ الْجِلْدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة جهاد الطبية العالمية </grapheme>
+    <alias>عِيادَةْ جِهادِ الطِبِيَةِ الْعالَمِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة حكيم لطب الأسنان </grapheme>
+    <alias>عِيادَةْ حَكيمْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة خيبر الطبية </grapheme>
+    <alias>عِيادَةْ خَيْبَرِ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة دانة الامارات للنساء والأطفال </grapheme>
+    <alias>عِيادَةْ دانَةِ الْاِماراتِ لِلنِساءِ والْأَطْفالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة درية كمال الطبية </grapheme>
+    <alias>عِيادَةْ دُرِيَةْ كَمالِ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة دكتور ابراهيم محجوب لطب الأسنان </grapheme>
+    <alias>عِيادَةْ دُكْتورْ اِبْراهيمْ مَحْجوبْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة دكتور رياض دياب العمصي </grapheme>
+    <alias>عِيادَةْ دُكْتورْ رِياضْ دَيابِ الْعُمْصْيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة دكتور هيثم سلمان صالح للجراحة التجميلية </grapheme>
+    <alias>عِيادَةْ دُكْتورْ هَيْثَمْ سَلْمانْ صالِحْ لِلْجِراحَةِ التَجْميلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة دلتا الطبية </grapheme>
+    <alias>عِيادَةْ دَلْتا الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة دينا لطب أسنان الأطفال </grapheme>
+    <alias>عِيادَةْ دينا لِطِبِ أَسْنانِ الْأَطْفالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة رعد القيسي التخصصية </grapheme>
+    <alias>عِيادَةْ رَعْدْ الْقَيْسِيْ التَخَصُصِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة رولا رعد الأعظمي لطب الأسنان </grapheme>
+    <alias>عِيادَةْ رولا رَعْدْ الْأَعْظُمِيْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة زياد لطب الأسنان </grapheme>
+    <alias>عِيادَةْ زِيادْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة زين التخصصية </grapheme>
+    <alias>عِيادَةْ زَيْنِ التَخَصُصِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ساسان التخصصية للعيون </grapheme>
+    <alias>عِيادَةْ ساسانْ الْتَخَصُصِيَةِ لِلْعُيونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة سنسايا لطب الأسنان </grapheme>
+    <alias>عِيادَةْ سِنْسايا لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة شرطة الشارقة </grapheme>
+    <alias>عِيادَةِ شُرْطَةِ الشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة شرطة العين </grapheme>
+    <alias>عِيادَةْ شُرْطَةِ الْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ضياء حسن مهدي اخصائي الأمراض الجلدية والتناسلية </grapheme>
+    <alias>عِيادَةْ ضِياءْ حَسَنْ مَهْدي اَخِصائِيِ الْأَمْراضِ الْجِلْدِيَةِ والتَناسُلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة طوني نصار للجراحة التجميلية </grapheme>
+    <alias>عِيادَةْ طْوْنَيْ نَصارْ لِلْجِراحَةِ التَجْميلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة عائشة القطامي للأمراض الجلدية </grapheme>
+    <alias>عِيادَةْ عائِشَةْ الْقَطامي لِلْأَمْراضِ الْجِلْدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة عبدالرحمن موسى الطبية </grapheme>
+    <alias>عِيادَةْ عَبْدالْرَحْمَنْ موسَىْ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة غالب خلايلي لطب الأطفال </grapheme>
+    <alias>عِيادَةْ غالِبْ خَلايِلِيْ لِطِبِ الْأَطْفالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة فيرمونت لطب الأسنان </grapheme>
+    <alias>عِيادَةْ فيرْمونْتْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة فينيسيا لطب الأسنان </grapheme>
+    <alias>عِيادَةْ فْيْنْيْسِيا لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة كادي الملكية </grapheme>
+    <alias>عِيادَةْ كادي الْمَلَكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة كادي الملكية للجلدية والليزر </grapheme>
+    <alias>عِيادَةْ كادي الْمَلَكِيَةْ لِلْجْلْدِيَةْ والْلَيْزَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة كاليفورنيا لطب الأسنان </grapheme>
+    <alias>عِيادَةْ كاليفورْنِيا لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة كريستال لطب الأسنان </grapheme>
+    <alias>عِيادَةْ كِريسْتالِ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة كمال العاني الطبية </grapheme>
+    <alias>عِيادَةْ كَمالِ الْعانْيْ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة لا مير لطب الأسنان </grapheme>
+    <alias>عَيادَةْ لا مَيْرْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة لوميير الجلدية </grapheme>
+    <alias>عِيادَةْ لَوْمْيْيَرْ الْجِلْدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ماجد للامراض الجلدية والتناسلية </grapheme>
+    <alias>عِيادَةْ ماجِدْ لِلْاَمْراضِ الْجِلْدِيَةِ والتَناسُلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ماجستيك لطب الأسنان </grapheme>
+    <alias>عِيادَةْ ماجَسْتيكْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ماربل لطب الأسنان </grapheme>
+    <alias>عِيادَةْ مارْبِلْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة مارينا لطب الأسنان </grapheme>
+    <alias>عِيادَةْ مارينا لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ماهر لطب الأسنان </grapheme>
+    <alias>عِيادَةْ ماهِرْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ماي سمايل لطب الأسنان </grapheme>
+    <alias>عِيادَةْ مايْ سْمايِلْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة محبوبي لطب الأسنان </grapheme>
+    <alias>عِيادَةْ مَحْبوبِيْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة محمد المحمود الاستشارية لجراحة العظام والعمود الفقري </grapheme>
+    <alias>عِيادَةْ مُحَمَدِ الْمَحْمودِ الِاسْتِشارِيَةِ لِجْراحَةِ الْعِظامِ والْعَمودِ الْفِقْرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة مريم الطبية </grapheme>
+    <alias>عِيادَةْ مَرْيَمَ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة مريم لطب الأسنان </grapheme>
+    <alias>عِيادَةْ مَرْيَمَ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة مملكة الجمال </grapheme>
+    <alias>عِيادَةْ مَمْلَكَةِ الْجَمالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة منخول لطب الأسنان </grapheme>
+    <alias>عِيادَةْ مَنْخولْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ميركاتو للطب العائلي </grapheme>
+    <alias>عِيادَةْ ميرْكاتو لِلطِبِ الْعائِلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة مينال الطبية </grapheme>
+    <alias>عِيادَةْ مينالِ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ند الشبا البيطرية </grapheme>
+    <alias>عِيادَةْ نَدِ الشِبَاَ الْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة نريمان ناصر لطب الأسنان </grapheme>
+    <alias>عِيادَةْ نَريمانْ ناصِرْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة نور الوصل </grapheme>
+    <alias>عِيادَةْ نورِ الْوَصْلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة نور كشمير الطبية </grapheme>
+    <alias>عِيادَةْ نورْ كَشْميرِ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة نيويورك لطب الأسنان </grapheme>
+    <alias>عِيادَةْ نَيويورْكْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة هابي سمايل لطب الأسنان </grapheme>
+    <alias>عِيادَةْ هابي سْمايِلْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة هانوفر لطب الأسنان </grapheme>
+    <alias>عِيادَةْ هانوفَرْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة هيركلينك الجلدية للعناية بالشعر </grapheme>
+    <alias>عِيادَةْ هيرِكْلينِكْ اَلْجِلْدْيَةْ لِلْعْنايَةِ بِالْشَعَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة هيركلينكن الجلدية للعناية بالشعر </grapheme>
+    <alias>عِيادَةْ هيرِكْلينِكْنْ اَلْجِلْدْيَةْ لِلْعْنايَةِ بِالْشَعَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة واحة الحيوانات البيطرية </grapheme>
+    <alias>عِيادَةْ واحَةِ الْحَيَواناتْ اَلْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة واحة العين للأسنان </grapheme>
+    <alias>عِيادَةْ واحَةِ الْعَيْنْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة وايت فيلد لطب الأسنان </grapheme>
+    <alias>عِيادَةْ وايِتْ فَيْلْدْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة وزير ستان </grapheme>
+    <alias>عِيادَةَ وَزيرُ سْتانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الجوارح البيطرية </grapheme>
+    <alias>عِيادَةْ الْجَوارِحِ الْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور محمد علي النونو </grapheme>
+    <alias>عِيادَةِ اْلْدُكْتورْ مُحَمَدْ عَلِيْ اْلْنونو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة رخاء الكيلاني </grapheme>
+    <alias>عِيادَةْ اَلدُكْتورَةْ رَخاءِ الْكيلاني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة سارة الطبية </grapheme>
+    <alias>عِيادَةْ سارَةْ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة طيبة لطب الأسنان </grapheme>
+    <alias>عِيادَةْ طَيْبَةْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ليبرتي لطب الأسنان </grapheme>
+    <alias>عِيادَةْ ليبِرْتْيْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيسى الانصاري للصرافة </grapheme>
+    <alias>عيسَىْ اَلْاَنْصارِيْ لِلْصِرافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيسى صالح القرق الخيرية </grapheme>
+    <alias>عيسَىْ صالِحْ اَلْقَرَقِ الْخَيْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيسى شريف </grapheme>
+    <alias>عيسَىْ شَريفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عين الخليج </grapheme>
+    <alias>عَيْنِ الْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عين الشمس </grapheme>
+    <alias>عَيْنِ الشَمْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيون الخليج للبصريات </grapheme>
+    <alias>عُيونِ الْخَليجِ لِلْبَصَرِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيون الدار </grapheme>
+    <alias>عُيونِ الدارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيون المها للسفريات </grapheme>
+    <alias>عُيونِ الْمَها لِلْسَفَرِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيون المها للنظارات </grapheme>
+    <alias>عُيونِ الْمَها لِلْنَظاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيون الشام </grapheme>
+    <alias>عِيونَ الشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غاز الغرب للتوزيع </grapheme>
+    <alias>غازِ الْغَرْبْ لِلتَوْزيعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غاز المدينة </grapheme>
+    <alias>غازِ الْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غازي لتجارة معدات الحلاقة </grapheme>
+    <alias>غازي لِتِجارَةِ مُعِداتِ الْحِلاقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غدير البيداء لتحلية المياه </grapheme>
+    <alias>غَديرِ الْبَيْدَاْءْ لِتَحْلْيَةِ الْمِياهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غذاء الملكة للعسل </grapheme>
+    <alias>غِذاءِ الْمَلِكَةِ لِلْعَسَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غرشوب لتجارة لوازم التدخين والتبغ </grapheme>
+    <alias>غُرْشوبْ لِتِجارَةِ لَوازِمِ التَدْخينِ والتَبْغْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غرفة تجارة وصناعة أم القيوين </grapheme>
+    <alias>غُرْفَةْ تِجارَةْ وَصِناعَةْ أُمْ الْقيوَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غرفة تجارة وصناعة رأس الخيمة </grapheme>
+    <alias>غُرْفَةْ تِجارَةْ وَصِناعَةِ رَأْسِ الْخَيْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غرناطة لخياطة الملابس النسائية </grapheme>
+    <alias>غِرْناطَةْ لِخْياطَةِ الْمَلابِسِ النِسائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غزال البوادي للهواتف المتحركة </grapheme>
+    <alias>غَزالُ الْبَوادي لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غزال الصحراء للنقل البري </grapheme>
+    <alias>غَزالُ الصَحْرَاِءْ لِلنَقْلِ الْبَرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غزال الصحراء لمواد البناء </grapheme>
+    <alias>غَزالُ الصَحْرَاِءْ لِمَوادِ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غلفا للمياه المعدنية </grapheme>
+    <alias>غَلْفا لِلْمِياهِ الْمَعْدِنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غناتي للأزياء الخليجية </grapheme>
+    <alias>غِناتِيْ لِلْأَزِياءِ الْخَليجِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غنتوت الخليج للنقل البري العام </grapheme>
+    <alias>غُنْتوتِ الْخَليجِ لِلنَقْلِ الْبَرِيْ الْعامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غنتوت الملكي </grapheme>
+    <alias>غُنْتوتِ الْمَلَكِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غنتوت للاجهزة الكهربائية </grapheme>
+    <alias>غُنْتوتْ لِلْاَجْهِزَةِ الْكَهْرُبائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غنتوت للمقاولات الكهربائية </grapheme>
+    <alias>غُنْتوتْ لِلْمُقاوَلاتِ الْكَهْرُبائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غنتوت للنقل والمقاولات العامة </grapheme>
+    <alias>غُنْتوتْ لِلنَقْلِ والْمُقاوَلاتِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غنتوت للهواتف المتحركة </grapheme>
+    <alias>غُنْتوتْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غواني للأزياء الخليجية للرجال </grapheme>
+    <alias>غَواني لِلَأَزِياءِ الْخَليجِيَةِ لِلرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غياثي الأهلي الطبي </grapheme>
+    <alias>غَياثي الْأَهْلِيِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاتورة الهاتف الثابت </grapheme>
+    <alias>فاتورَةِ الْهاتِفِ الثابِتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاتورة الهاتف المتحرك </grapheme>
+    <alias>فاتورَةِ اَلْهاتِفِ الْمُتَحَرِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاخرة للهواتف المتحركة </grapheme>
+    <alias>فاخِرَةْ لِلْهَواتِفَ اَلْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فارس البحار لطبخ السمك </grapheme>
+    <alias>فارِسِ الْبِحارْ لِطَبْخِ السَمَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فارس الخليج لتجارة الأدوية والادوات البيطرية </grapheme>
+    <alias>فارِسِ الْخَليجِ لِتِجارَةِ الْأَدْوِيَةِ والْاَدَواتِ الْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاروق لبيع وتصليح الهواتف المتحركة </grapheme>
+    <alias>فاروقُ لِبَيْعِ وَتَصْليحْ اَلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فازا لتجارة الادوات الصحية </grapheme>
+    <alias>فازا لِتِجارَةِ الْاَدَواتِ الصِحِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاس للأزياء المغربية </grapheme>
+    <alias>فاسْ لِلَأَزِياءِ الْمَغْرِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاس للحمام المغربي والمساج </grapheme>
+    <alias>فاسْ لِلْحَمامِ الْمَغْرِبِيْ والْمَساجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاست رن لتخليص المعاملات </grapheme>
+    <alias>فاسْتْ رَنَ لِتَخْليصِ الْمُعامَلاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاست لاين للحاسب الألي </grapheme>
+    <alias>فاسْتْ لايْنْ لِلْحاسِبِ الْأَلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاست لخدمة السيارات </grapheme>
+    <alias>فاسْتْ لِخِدْمَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاشن للهواتف المتحركة والكمبيوتر </grapheme>
+    <alias>فاشِنْ لِلْهَواتِفِ الْمُتَحَرِكَةْ والْكُمْبِيوتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاطمة الموسى للمحاماة والاستشارات القانونية </grapheme>
+    <alias>فاطِمَةْ الْموسَىْ لِلْمُحاماةِ والاسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فال الخير </grapheme>
+    <alias>فالِ الْخَيْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فالكون ستار لاستقدام الايدي العاملة والسياحة </grapheme>
+    <alias>فالْكونْ سْتارْ لِاِسْتِقْدامِ الْاَيْدي الْعامِلَةِ والسِياحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فالكون لمكافحة الحشرات والخدمات الزراعية </grapheme>
+    <alias>فالْكونْ لِمُكافَحَةِ الْحَشَراتِ والْخِدْماتِ الزِراعِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فايز لبيع الهدايا </grapheme>
+    <alias>فايِزْ لِبَيْعِ الْهَدايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فايف جايز برجر </grapheme>
+    <alias>فايِفْ جايْزْ بِرْجَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فايف جي للهواتف المتحركة </grapheme>
+    <alias>فايْفْ جي لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فايف ون فايف للهواتف المتحركة </grapheme>
+    <alias>فايِفْ وَنْ فايِفْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فت بلاس البيطري </grapheme>
+    <alias>فَتْ بْلاسِ الْبَيْطَرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فتافيت الشام </grapheme>
+    <alias>فَتافيتِ الشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فتوح الخير </grapheme>
+    <alias>فُتوحِ الْخَيْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فتيات الفجيرة </grapheme>
+    <alias>فَتَياتِ الْفُجَيْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فتيات ام القيوين </grapheme>
+    <alias>فَتَياتِ اُمِ الْقيوينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فتيات رأس الخيمة </grapheme>
+    <alias>فَتَياتْ رَأْسِ الْخَيْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فحام الدولية للمنتجات الخشبية </grapheme>
+    <alias>فَحامِ الدَوْلِيَةْ لِلْمُنْتَجاتِ الْخَشَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فحام دورز لتجارة مواد البناء </grapheme>
+    <alias>فَحامْ دورْزْ لِتِجارَةِ مَوادِ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فخر الامارات لتجارة العطور </grapheme>
+    <alias>فَخْرِ الْاِماراتِ لِتِجارَةِ الْعُطورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فخر الدار للضيافة </grapheme>
+    <alias>فَخْرِ الدارِ لِلْضِيافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فخر الشعب للمواد الغذائية </grapheme>
+    <alias>فَخَرِ الشَعْبِ لِلْمَوادِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فخر العرب للخياطة وتجارة الاقمشة </grapheme>
+    <alias>فَخْرِ الْعَرَبْ لِلْخِياطَةِ وَتِجارَةِ الْاَقْمِشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فراس للاستشارات الهندسية </grapheme>
+    <alias>فِراسْ لِلِاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فراشة لخدمات تنظيف المباني والمساكن </grapheme>
+    <alias>فَراشَةْ لِخِدْماتِ تَنْظيفِ الْمَباني والْمَساكِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرايكو العالمية </grapheme>
+    <alias>فَرايْكو الْعالَمِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرحات الدار لشوي الاسماك </grapheme>
+    <alias>فَرَحاتِ الدارِ لِشويِ الْاَسْماكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرحانة للمواد الغذائية </grapheme>
+    <alias>فَرْحانَةْ لِلْمَوادَ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فردوس للمقاولات العامة </grapheme>
+    <alias>فِرْدَوْسْ لِلْمُقاوَلاتِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرسان الامارات لزينة السيارات </grapheme>
+    <alias>فُرْسانِ الْاِماراتِ لِزينَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرسان الخليج لاستقدام الأيدي العاملة </grapheme>
+    <alias>فُرْسانِ الْخَليجِ لِاِسْتِقْدامِ الْأَيْدي الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرسان الخليج لاستقدام الايدي العاملة </grapheme>
+    <alias>فُرْسانِ الْخَليجِ لِاِسْتِقْدامِ الْاَيْدي الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرسان المدينة لقطع غيار السيارات </grapheme>
+    <alias>فُرْسانِ الْمَدينَةِ لِقِطَعِ غِيارِ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرست كلاس لخياطة الملابس الرجالية </grapheme>
+    <alias>فِرْسْتْ كْلاسْ لِخِياطَةِ الْمَلابِسِ اَلرِجالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرن معجنات الشامي </grapheme>
+    <alias>فُرْنُ مُعْجَناتْ الْشامي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرنسا ستايل لتجميل السيدات </grapheme>
+    <alias>فَرَنْسا سْتايِلْ لِتَجْميلِ السَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فروتس كريستال لبيع العصائر الطازجة </grapheme>
+    <alias>فْروتْسْ كْريسْتالْ لِبَيْعِ الْعَصائِرِ الطازِجَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فري ستايل لادارة تشغيل الملاعب </grapheme>
+    <alias>فْري سْتايِلْ لِاِدارَةِ تَشْغيلِ الْمَلاعِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فريج البستكية </grapheme>
+    <alias>فِريجِ الْبَسْتَكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فريج الخور </grapheme>
+    <alias>فِريجِ الْخورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فريج الطوار </grapheme>
+    <alias>فِريجِ الطَوارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فريج العين الشعبي </grapheme>
+    <alias>فِريجِ الْعَيْنِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فريجنا للاكلات الشعبية </grapheme>
+    <alias>فِرْيْجِنا لِلْاَكَلاتِ الشَعْبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فريش كبس للعصائر والوجبات الخفيفة </grapheme>
+    <alias>فْريشْ كَبْسْ لِلْعَصائِرِ والْوَجَباتِ الْخَفيفَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر الفرن الدمشقي </grapheme>
+    <alias>فَطائِرْ اَلْفُرْنِ الدِمَشْقِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر المذاق اللبناني </grapheme>
+    <alias>فَطائِرْ اَلْمَذاقِ الُلبْنانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر بلاد الشام </grapheme>
+    <alias>فَطائِرْ بِلادِ الشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر دانة الخليج </grapheme>
+    <alias>فَطائِرْ دانَةِ الْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر درة الخليج </grapheme>
+    <alias>فَطائِرْ دُرَةِ الْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر ظل الياسمين </grapheme>
+    <alias>فَطائِرْ ظَلَ الْياسِمينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر عش البلبل </grapheme>
+    <alias>فَطائِرْ عُشُ الْبُلْبُلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر ومحاشي الواحة </grapheme>
+    <alias>فَطائِرْ وَمَحاشي الْواحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر الأميرة </grapheme>
+    <alias>فَطائِرْ الْأَمْيِرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر ميركاتو </grapheme>
+    <alias>فَطائِرْ مْيْرْكاتو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطاطري الحسين </grapheme>
+    <alias>فَطاطِرِيِ الْحُسَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطاطري العريش </grapheme>
+    <alias>فَطاطْرِيِ الْعَريشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطاير سما الخليج </grapheme>
+    <alias>فَطايِرْ سَما الْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فكتوريا ستار للشيلة والعبايا </grapheme>
+    <alias>فِكْتورْيا سْتارْ لِلْشَيْلَةْ والْعَبايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل التمني </grapheme>
+    <alias>فَلافِلِ التَمَنِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل الرابية الخضراء </grapheme>
+    <alias>فَلافِلْ اَلرابِيَةِ الْخَضْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل المزرعة </grapheme>
+    <alias>فَلافِلِ الْمَزْرَعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل طربوش الباشا </grapheme>
+    <alias>فَلافِلْ طُرْبوشِ الْباشا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل وفول السوباط </grapheme>
+    <alias>فَلافِلْ وَفولِ السُوْباطْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلج المعلا الصحي </grapheme>
+    <alias>فَلَجَ الْمُعِلا الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلورا كريك للشقق الفندقية </grapheme>
+    <alias>فْلورا كْريكْ لِلشُقَقِ الْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلوريدا للرعاية المنزلية </grapheme>
+    <alias>فْلوريدا لِلرِعايَةِ الْمَنْزِلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلورين لتجارة قطع غيار السيارات </grapheme>
+    <alias>فْلورينْ لِتِجارَةِ قِطَعِ غِيارِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلير لتجميل السيدات </grapheme>
+    <alias>فْليرْ لِتَجْميلِ السَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فن الاناقة للسيدات </grapheme>
+    <alias>فَنُ الْاَناقَةِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فن التصميم للأصباغ ومواد الديكور </grapheme>
+    <alias>فَنُ التَصْميمْ لِلْأَصْباغِ وَمَوادِ الدْيْكورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فناتك الشعبي </grapheme>
+    <alias>فَناتَكَ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فنار الخليج للعقارات </grapheme>
+    <alias>فَنارِ الْخَليجِ لِلْعَقاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فنان الكرك </grapheme>
+    <alias>فَنانِ الْكَرَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق أرجان المها روتانا </grapheme>
+    <alias>فُنْدُقْ أَرْجانِ الْمَها رُوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق اس اتش </grapheme>
+    <alias>فُنْدُقِ اسْ اَتْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق العنوان دبي مول </grapheme>
+    <alias>فُنْدُقْ اَلْعُنْوانِ دُبي مولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق اليت بيبلوس البرشاء </grapheme>
+    <alias>فُنْدُقْ اِلِيْتْ بْيْبْلوسِ الْبَرْشاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق انانتارا نخلة جميرا </grapheme>
+    <alias>فُنْدُقِ اِنانْتارا نَخْلَةِ جُمْيَرا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ايبيس ستايلز دراجون مارت </grapheme>
+    <alias>فُنْدُقَ ايْبيسْ سْتايْلْزْ دْراجونْ مارْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق برود واي </grapheme>
+    <alias>فُنْدُقْ بُرودْ وايْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جيت واي </grapheme>
+    <alias>فُنْدُقْ جَيْتْ وايْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق دبل تري هيلتون </grapheme>
+    <alias>فُنْدُقْ دَبْلِ تْري هيلْتونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق دبي بالم </grapheme>
+    <alias>فُنْدُقْ دُبي بالْمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رافلز دبي </grapheme>
+    <alias>فُنْدُقِ رافْلْزْ دُبَيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رين تري رولا </grapheme>
+    <alias>فُنْدُقْ رَيْنْ تْري رولا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رينور للشقق الفندقية </grapheme>
+    <alias>فُنْدُقْ رْيْنورْ لِلشُقَقِ الْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سمانا الرفاعة </grapheme>
+    <alias>فُنْدُقْ سَمانا الرَفاعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سنترو البرشا روتانا </grapheme>
+    <alias>فُنْدُقْ سَنْتْرو الْبَرْشا رْوْتانا</alias>
+  </lexeme>
+</lexicon>
