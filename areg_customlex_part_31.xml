@@ -1,0 +1,2008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="ar-SA">
+  <lexeme>
+    <grapheme> شرطة مسافي الشامل </grapheme>
+    <alias>شُرْطَةْ مُسافي الشامِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شرطة ميناء الفجيرة </grapheme>
+    <alias>شُرْطَةْ ميناءِ الْفُجَيْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شرطة ند الشبا </grapheme>
+    <alias>شُرْطَةْ نَدِ الشِبا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شرطة وادي الحلو </grapheme>
+    <alias>شُرْطَةْ وادي الْحُلْوْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شرطة ومرور أم القيوين </grapheme>
+    <alias>شُرْطَةِ وَمُرورِ أُمْ الْقيوَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شرطة ومرور عجمان </grapheme>
+    <alias>شُرْطَةِ وَمُرورِ عَجْمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة أبكس التجارية </grapheme>
+    <alias>شَرِكَةْ أَبِكْسْ الْتِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة أبوظبي الوطنية للتأمين </grapheme>
+    <alias>شَرِكَةِ أَبوظَبِيْ اَلْوَطَنِيَةِ لِلتَأْمينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة أبوظبي الوطنية للتكافل </grapheme>
+    <alias>شَرِكَةِ أَبوظَبِيْ الْوَطَنِيَةِ لِلتَكافُلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة أبوظبي لخدمات الصرف الصحي </grapheme>
+    <alias>شَرِكَةْ أَبوظَبِيْ لِخِدْماتِ الصَرْفِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة أحجار الشام للزخرفة المعمارية </grapheme>
+    <alias>شَرِكَةِ أَحْجارَ الشامِ لِلزَخْرَفَةِ الْمِعْمارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة أسمنت رأس الخيمة </grapheme>
+    <alias>شَرِكَةِ أَسْمَنْتْ رَأْسِ الْخَيْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة أكرم واخوانه التجارية </grapheme>
+    <alias>شَرِكَةْ أَكْرَمْ وَاَخْوانِهِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة ابراهيم لتجارة السكراب </grapheme>
+    <alias>شَرِكَةْ اِبْراهيمْ لِتِجارَةِ السِكْرابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة ابراهيم لتجارة السيارات المستعملة وقطع غيارها </grapheme>
+    <alias>شَرِكَةْ اِبْراهيمْ لِتِجارَةِ اَلسَياراتِ الْمُسْتَعْمَلَةِ وَقِطَعِ غِيارِها</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة احمد كلش التجارية </grapheme>
+    <alias>شَرِكَةْ اَحْمَدْ كَلَشْ الْتِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة ادنوك البحرية </grapheme>
+    <alias>شَرِكَةْ اَدْنوكْ الْبَحْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة اراد للتطوير العقاري </grapheme>
+    <alias>شَرِكَةْ اَرادْ لِلتَطْويرِ الْعَقاري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة ارض الاطفال التجارية </grapheme>
+    <alias>شَرِكَةْ اَرْضِ الْاَطْفالِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة ارمال للاغذية الصحية </grapheme>
+    <alias>شَرِكَةْ اَرْمالْ لِلْاَغْذِيَةِ الصِحِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة اسطنبول لتجارة المواد الغذائية </grapheme>
+    <alias>شَرِكَةْ اِسْطَنْبولْ لِتِجارَةِ الْمَوادِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة اسمنت الاتحاد </grapheme>
+    <alias>شَرِكَةِ اِسْمَنْتِ الاتِحادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة افروز للتجارة العامة </grapheme>
+    <alias>شَرِكَةْ اَفْروزْ لِلتِجارَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الأذكياء التجارية </grapheme>
+    <alias>شَرِكَةْ اَلْأَذْكِياءِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الإمارات للمنتجات البترولية </grapheme>
+    <alias>شَرِكَةْ اَلْإِماراتِ لِلْمُنْتَجاتِ الْبِتْرولِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الاتحاد للمعلومات الائتمانية </grapheme>
+    <alias>شَرِكَةْ اَلاتِحادْ لِلْمَعْلوماتِ الْاِئْتِمانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الاجيال للإلكترونيات </grapheme>
+    <alias>شَرِكَةِ الْاَجْيالْ لِلْإِلِكْتِرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الاسكافي التجارية </grapheme>
+    <alias>شَرِكَةْ اَلْاِسْكافِيْ الْتِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الاضاءة الكهربائية </grapheme>
+    <alias>شَرِكَةْ اَلْاِضاءَةِ الْكَهْرُبائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الاعتماد للمواد الغذائية واللحوم </grapheme>
+    <alias>شَرِكَةْ اَلِاعْتِمادْ لِلْمَوادِ الْغِذائِيَةِ والَلحومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الانشاءات البترولية الوطنية </grapheme>
+    <alias>شَرِكَةْ اَلْاِنْشاءاتْ الْبِتْرولِيَةِ الْوَطَنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الانصاري للخدمات المالية </grapheme>
+    <alias>شَرِكَةْ اَلْاَنْصارِيْ لِلْخِدْماتِ الْمالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الاهلي للتجارة العامة </grapheme>
+    <alias>شَرِكَةْ اَلْاَهْلِيْ لِلتِجارَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة البحيرة لاكنور لمنتجات الألبان </grapheme>
+    <alias>شَرِكَةْ اَلْبُحَيْرَةْ لاكْنورْ لِمُنْتَجاتِ الْأَلْبانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة البلاط والطابوق الوطنية </grapheme>
+    <alias>شَرِكَةْ اَلْبَلاطِ والطابوقِ الْوَطَنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة التأمين الأردنية </grapheme>
+    <alias>شَرِكَةْ اَلتَأْمينِ الْأُرْدُنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة التأمين الايرانية </grapheme>
+    <alias>شَرِكَةْ اَلتَأْمينِ الْايرانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة التأمين العربية السعودية المحدودة </grapheme>
+    <alias>شَرِكَةِ التَأْمينِ الْعَرَبِيَةْ اَلسُعودِيَةِ الْمَحْدودَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة التامين المتحدة </grapheme>
+    <alias>شَرِكَةْ اَلتَاْمينِ الْمُتَحِدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة التطوير والاستثمار السياحي تي دي اي سي </grapheme>
+    <alias>شَرِكَةْ اَلتَطْويرِ والاسْتِثْمارِ السِياحِيْ تي دي اَيْ سي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة التماني للبلاط والرخام والأدوات الصحية </grapheme>
+    <alias>شَرِكَةْ اَلتَماني لِلْبَلاطِ والرُخامِ والْأَدَواتِ الصِحِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة التواصل السريع لبيع قطع غيار السيارات </grapheme>
+    <alias>شَرِكَةْ اَلتَواصُلِ السَريعِ لِبَيْعِ قِطَعِ غِيارِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة التوزيعات الممتازة </grapheme>
+    <alias>شَرِكَةْ اَلتَوْزيعاتِ الْمُمْتازَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الجاسم لصناعة البلاط والرخام ومواد البناء </grapheme>
+    <alias>شَرِكَةْ اَلْجاسِمْ لِصِناعَةِ الْبَلاطِ والرُخامْ وَمَوادِ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الجرافات البحرية الوطنية </grapheme>
+    <alias>شَرِكَةْ اَلْجَرافاتِ الْبَحْرِيَةِ الْوَطَنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الجوزاء لمواد البناء </grapheme>
+    <alias>شَرِكَةْ اَلْجَوْزَاْءْ لِمَوادْ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الحاج لتجارة الاسماك </grapheme>
+    <alias>شَرِكَةْ اَلْحاجْ لِتِجارَةِ الْاَسْماكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الحفر الوطنية </grapheme>
+    <alias>شَرِكَةْ اَلْحَفْرِ الْوَطَنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الحمراء للاستشارات الهندسية </grapheme>
+    <alias>شَرِكَةِ الْحَمْرَاِءْ لِلاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الحموي لتجارة قطع غيار السيارات </grapheme>
+    <alias>شَرِكَةْ اَلْحَمويْ لِتِجارَةِ قِطَعِ غِيارِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الخشب لمواد البناء </grapheme>
+    <alias>شَرِكَةْ اَلْخَشَبْ لِمَوادِ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الخليج للغاز الصناعي </grapheme>
+    <alias>شَرِكَةْ اَلْخَليجِ لِلْغازِ الصِناعِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الخليج للقوالب الخرسانية الجاهزة </grapheme>
+    <alias>شَرِكَةْ اَلْخَليجِ لِلْقَوالِبَ الْخَرَسانِيَةِ الْجاهِزَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الخليج للنقليات </grapheme>
+    <alias>شَرِكَةِ الْخَليجِ لِلْنَقْلِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الخليج للساعات </grapheme>
+    <alias>شَرِكَةْ الْخَليجِ لِلْساعاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الخيط الأصفر لأدوات الخياطة </grapheme>
+    <alias>شَرِكَةْ اَلْخَيْطِ الْأَصْفَرِ لِأَدَواتِ الْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الديوان للاستثمار العقاري </grapheme>
+    <alias>شَرِكَةْ اَلديوانْ لِلْاِسْتِثْمارِ الْعَقاري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الرشد الزراعية </grapheme>
+    <alias>شَرِكَةْ اَلرُشْدِ الزِراعِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الرصاصي التجارية </grapheme>
+    <alias>شَرِكَةْ اَلرَصاصي التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الزرعوني عبر الإمارات للمقاولات العامة </grapheme>
+    <alias>شَرِكَةْ اَلزَرَعونِيْ عَبْرْ اَلْإِماراتِ لِلْمُقاوَلاتِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الزعيم لتجارة لوازم التدخين </grapheme>
+    <alias>شَرِكَةْ اَلزَعيمِ لِتِجارَةِ لَوازِمِ التَدْخينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الساحل العقارية </grapheme>
+    <alias>شَرِكَةْ اَلساحِلِ الْعَقارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الساحل الغربي لخدمات التنظيف والبيئة </grapheme>
+    <alias>شَرِكَةْ اَلساحِلِ الْغَرْبِيْ لِخِدْماتِ التَنْظيفِ والْبيئَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الساحل للتجارة العامة </grapheme>
+    <alias>شَرِكَةِ الساحِلْ لِلتِجارَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة السراجي لمواد البناء </grapheme>
+    <alias>شَرِكَةْ اَلسَراجي لِمَوادِ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة السكون للتجارة العامة </grapheme>
+    <alias>شَرِكَةِ السُكونِ لِلتِجارَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة السمكة الذهبية </grapheme>
+    <alias>شَرِكَةْ اَلسَمَكَةِ الذَهَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الشارقة القابضة </grapheme>
+    <alias>شَرِكَةْ اَلشارِقَةِ الْقابِضَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الشاطئ الذهبي للاقمشة </grapheme>
+    <alias>شَرِكَةِ اَلشاطِئِ الذَهَبِيْ لِلْاَقْمِشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الشرفاء لخدمات التأمين </grapheme>
+    <alias>شَرِكَةْ اَلشُرَفَاِءْ لِخِدْماتِ التَأْمينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الشرق الاوسط للقرطاسية </grapheme>
+    <alias>شَرِكَةْ اَلشَرْقِ الْاَوْسَطِ لِلْقُرْطاسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الشمالي والوارث التجارية </grapheme>
+    <alias>شَرِكَةْ اَلشَمالِيْ والْوارِثِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الصبوح لتجارة مواد البناء </grapheme>
+    <alias>شَرِكَةْ اَلصَبوحْ لِتِجارَةِ مَوادِ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الصحراء للنقليات العامة و التخليص </grapheme>
+    <alias>شَرِكَةِ اَلصَحْرَاِءْ لِلْنَقْلِياتِ الْعامَةِ وَ التَخْليصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الصقر الوطنية للتأمين </grapheme>
+    <alias>شَرِكَةْ اَلصَقْرِ الْوَطَنِيَةِ لِلتَأْمينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الطموح </grapheme>
+    <alias>شَرِكَةِ الْطُموحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة العامري للتجارة ومواد البناء </grapheme>
+    <alias>شَرِكَةْ اَلْعامِرِيْ لِلتِجارَةِ وَمَوادِ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة العقد الفريد للعقارات </grapheme>
+    <alias>شَرِكَةْ اَلْعِقْدِ الْفَريدِ لِلْعَقاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة العلمين للمواد الغذائية </grapheme>
+    <alias>شَرِكَةْ اَلْعَلَمَيْنِ لِلْمَوادِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة العمارة الفنية للمقاولات العامة </grapheme>
+    <alias>شَرِكَةْ اَلْعِمارَةِ الْفَنِيَةِ لِلْمُقاوَلاتِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة العهد للمقاولات والصيانة العامة </grapheme>
+    <alias>شَرِكَةِ الْعَهْدِ لِلْمُقاوَلاتِ والصِيانَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة العين للتوزيع </grapheme>
+    <alias>شَرِكَةِ الْعَيْنِ لِلتَوْزيعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الغول لبيع وتوزيع الغاز </grapheme>
+    <alias>شَرِكَةْ اَلْغولْ لِبَيْعِ وَتَوْزيعِ الْغازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الغول للمعدات الكهربائية </grapheme>
+    <alias>شَرِكَةْ اَلْغولْ لِلْمُعِداتِ الْكَهْرُبائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الفجيرة العقارية </grapheme>
+    <alias>شَرِكَةْ اَلْفُجَيْرَةْ الْعَقارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الفجيرة الوطنية للتأمين </grapheme>
+    <alias>شَرِكَةْ اَلْفُجَيْرَةْ الْوَطَنِيَةِ لِلتَأْمينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الفوار لتوزيع المياه المعدنية الطبيعية </grapheme>
+    <alias>شَرِكَةْ اَلْفَوارْ لِتَوْزيعِ الْمِياهِ الْمَعْدِنِيَةِ الطَبيعِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الفوزان لتجارة الاطارات </grapheme>
+    <alias>شَرِكَةْ اَلْفوزانْ لِتِجارَةِ الْاِطاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الفين الحديثة التجارية </grapheme>
+    <alias>شَرِكَةْ اَلْفَيْنْ الْحَديثَةِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة القادة التجارية </grapheme>
+    <alias>شَرِكَةْ اَلْقادَةِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة القبائل التجارية </grapheme>
+    <alias>شَرِكَةْ اَلْقَبائِلَ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة القدس العربية لتجارة المعدات </grapheme>
+    <alias>شَرِكَةْ اَلْقُدْسِ الْعَرَبِيَةْ لِتِجارَةِ الْمُعِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة القمر الساطع لتجارة قطع غيار السيارات </grapheme>
+    <alias>شَرِكَةْ اَلْقَمَرِ الساطِعْ لِتِجارَةِ قِطَعِ غِيارِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الكاشف للتجارة الفنية </grapheme>
+    <alias>شَرِكَةْ اَلْكاشِفْ لِلْتِجارَةِ الْفَنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة المأمون لتجارة الاطارات </grapheme>
+    <alias>شَرِكَةِ الْمَأَمونْ لِتِجارَةِ الْاِطاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة المتحدة الألكترونية </grapheme>
+    <alias>شَرِكَةْ اَلْمُتَحِدَةِ الْأِلِكْتُرونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة المحور للهندسة والمقاولات العامة </grapheme>
+    <alias>شَرِكَةْ اَلْمِحْوَرْ لِلْهَنْدَسَةِ والْمُقاوَلاتِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة المختار للتنظيفات العامة </grapheme>
+    <alias>شَرِكَةْ اَلْمُخْتارْ لِلتَنَظيفاتِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة المدينة لتجارة قطع غيار السيارات الجديدة </grapheme>
+    <alias>شَرِكَةْ اَلْمَدينَةْ لِتِجارَةِ قِطَعِ غِيارِ السَياراتْ الْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة المرفأ للطاقة </grapheme>
+    <alias>شَرِكَةِ الْمَرْفِأْ لِلطاقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة المروان للمقاولات العامة </grapheme>
+    <alias>شَرِكَةْ اَلْمَرْوانْ لِلْمُقاوَلاتِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة المشاريع العامة </grapheme>
+    <alias>شَرِكَةْ اَلْمَشاريعِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة المعماري الصناعية </grapheme>
+    <alias>شَرِكَةْ اَلْمِعْمارِيِ الصِناعِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة المفرق الجديد للخيام </grapheme>
+    <alias>شَرِكَةِ الْمَفْرَقِ الْجَديدِ لِلْخْيامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة المكتبة التجارية </grapheme>
+    <alias>شَرِكَةْ اَلْمَكْتَبَةِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الملاحة العربية المتحدة </grapheme>
+    <alias>شَرِكَةْ اَلْمِلاحَةِ الْعَرَبِيَةِ الْمُتَحِدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة المندوس الدولية </grapheme>
+    <alias>شَرِكَةْ اَلْمَنْدوسِ الدُوْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة المنيوم ومفروشات العين </grapheme>
+    <alias>شَرِكَةْ اَلُمِنْيومْ وَمَفْروشاتِ الْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة المواد الزراعية </grapheme>
+    <alias>شَرِكَةْ اَلْمَوادِ الزِراعِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة المواد الصحية </grapheme>
+    <alias>شَرِكَةِ الْمَوادِ الصِحِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الموارد للمقاولات العامة </grapheme>
+    <alias>شَرِكَةِ الْمَوارِدِ لِلْمُقاوَلاتِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة النادود للمعدات الزراعية </grapheme>
+    <alias>شَرِكَةْ اَلنادودْ لِلْمُعِداتِ الزِراعِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة النجمة الوطنية للتجارة والاستيراد </grapheme>
+    <alias>شَرِكَةْ اَلنَجْمَةِ الْوَطَنِيَةِ لِلتِجارَةِ والْاِسْتيرادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الهاشمي الالكترونية </grapheme>
+    <alias>شَرِكَةْ اَلْهاشِمِيْ الْاِلِكْتُرونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الوثبة لمقاولات البناء </grapheme>
+    <alias>شَرِكَةْ اَلْوَثْبَةِ لِمُقاوَلاتِ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الوسام لتجارة الأدوات المكتبية </grapheme>
+    <alias>شَرِكَةْ اَلْوِسامْ لِتِجارَةِ الْأَدَواتِ الْمَكْتَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة امبا لتجارة مواد البناء </grapheme>
+    <alias>شَرِكَةْ اِمْبا لِتِجارَةِ مَوادِ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة امبا لتجارة ومقاولات الأصباغ </grapheme>
+    <alias>شَرِكَةْ اِمْبا لِتِجارَةِ وَمُقاوَلاتِ الْأَصْباغْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة اموال للوساطة المالية </grapheme>
+    <alias>شَرِكَةْ اَمْوالْ لِلْوَساطَةِ الْمالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة باسكو الدولية </grapheme>
+    <alias>شَرِكَةْ باسْكو الدُوْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة بالحصا الدولية </grapheme>
+    <alias>شَرِكَةْ بالْحَصا الْدُوْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة بحر عمان لتجارة الاواني المنزلية </grapheme>
+    <alias>شَرِكَةْ بَحْرْ عُمانْ لِتِجارَةِ اَلْاَواني الْمَنْزِلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة برج القمة للأصباغ والديكور </grapheme>
+    <alias>شَرِكَةْ بُرْجِ الْقِمَةِ لِلْأَصْباغِ والدُيْكورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة بن عويضة للتجارة العامة </grapheme>
+    <alias>شَرِكَةْ بِنْ عُوَيْضَةْ لِلتِجارَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة بن مطر القبيسي للتجهيزات الفنية </grapheme>
+    <alias>شَرِكَةْ بِنْ مَطَرْ اَلْقُبَيْسي لِلْتَجْهيزاتِ الْفَنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة بيت الكهرباء </grapheme>
+    <alias>شَرِكَةْ بَيْتِ الْكَهْرُباءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة بيستاش التجارية </grapheme>
+    <alias>شَرِكَةْ بيسْتاشِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة تسري للتجارة العامة </grapheme>
+    <alias>شَرِكَةْ تَسْرِيْ لِلتِجارَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة تمرة لتجارة وتسويق منتجات التمور </grapheme>
+    <alias>شَرِكَةْ تَمْرَةْ لِتِجارَةِ وَتَسْويقِ مُنْتَجاتِ التَمورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة جبل حفيت لمواد البناء </grapheme>
+    <alias>شَرِكَةْ جَبَلْ حَفيتْ لِمَوادِ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة جبل شيراز لاطارات وزينة السيارات </grapheme>
+    <alias>شَرِكَةْ جَبَلْ شيرازْ لِاِطاراتْ وَزينَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة جلفار لتجارة المواد الغذائية </grapheme>
+    <alias>شَرِكَةْ جِلْفارْ لِتِجارَةِ اَلْمَوادِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة جيما للمياه المعدنية </grapheme>
+    <alias>شَرِكَةْ جيما لِلْمِياهِ الْمَعْدِنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة حقيقت واخوانه للتجارة العامة </grapheme>
+    <alias>شَرِكَةْ حَقَيْقَتْ وَاَخْوانِهِ لِلتِجارَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة حلقة الوصل لقطع غيار السيارات </grapheme>
+    <alias>شَرِكَةْ حَلْقَةِ الْوَصْلِ لِقِطَعِ غِيارِ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة خالد الحمادي لقطع غيار السيارات </grapheme>
+    <alias>شَرِكَةِ خالِدْ الْحَمادي لِقِطَعِ غِيارِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة خدمة لإدارة المرافق </grapheme>
+    <alias>شَرِكَةِ خِدْمَةْ لِإِدارَةِ الْمَرافِقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة دار خنجي للملابس الرجالية </grapheme>
+    <alias>شَرِكَةْ دارْ خَنْجَيْ لِلْمَلابِسِ الرِجالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة دانوب للعقارات </grapheme>
+    <alias>شَرِكَةِ دانوبْ لِلْعَقاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة دبي الاسلامية للتأمين وإعادة التأمين </grapheme>
+    <alias>شَرِكَةْ دُبي اَلْاِسْلامِيَةِ لِلتَأْمينِ وَإِعادَةِ التَأْمينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة دبي الوطنية للتأمين </grapheme>
+    <alias>شَرِكَةْ دُبي الْوَطَنِيَةِ لِلتَأْمينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة دبي للنقليات </grapheme>
+    <alias>شَرِكَةِ دُبي لِلْنَقْلِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة دو للاتصالات </grapheme>
+    <alias>شَرِكَةِ دُوْ لِلاتِصالاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة ديفكون للشحن والتخليص </grapheme>
+    <alias>شَرِكَةْ ديفْكونْ لِلْشَحْنِ والتَخْليصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة رأس الخيمة العقارية </grapheme>
+    <alias>شَرِكَةْ رَأْسِ الْخَيْمَةِ الْعَقارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة رويال آند سن أليانس للتأمين الشرق الاوسط </grapheme>
+    <alias>شَرِكَةِ رويالْ آنْدْ سَنْ أَلْيانْسْ لِلْتَأْمينْ الْشَرْقِ الْاَوْسَطْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة زبير للمقاولات الكهربائية والصحية </grapheme>
+    <alias>شَرِكَةْ زُبيرْ لِلْمُقاوَلاتِ الْكَهْرُبائِيَةِ والصِحِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة زجاج جارديان الدولية للزجاج العائم المحدودة </grapheme>
+    <alias>شَرِكَةْ زُجاجْ جارْدِيانْ الْدَوْلِيَةِ لِلْزُجاجِ الْعائِمِ الْمَحْدودَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة سامر التجارية </grapheme>
+    <alias>شَرِكَةْ سامِرِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة شمس وبحر للتجارة وللحوالات المالية </grapheme>
+    <alias>شَرِكَةْ شَمْسْ وَبَحْرْ لِلْتِجارَةِ وَلِلْحِوالاتِ الْمالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة شمسان التجارية </grapheme>
+    <alias>شَرِكَةْ شَمْسانِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة شموس العقارية </grapheme>
+    <alias>شَرِكَةْ شُموسِ الْعَقارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة شير أحمد لتجارة مواد البناء </grapheme>
+    <alias>شَرِكَةْ شيرْ أَحْمَدْ لِتِجارَةِ مَوادِ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة شيراز للأعشاب الطبيعية </grapheme>
+    <alias>شَرِكَةْ شيرازْ لِلْأَعْشابِ الطَبيعِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة صلاح الدين لتجارة الاطارات </grapheme>
+    <alias>شَرِكَةْ صَلاحِ الدينْ لِتِجارَةِ الْاِطاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة عارف للمواد الغذائية </grapheme>
+    <alias>شَرِكَةِ عارِفْ لِلْمَوادِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة عالم البحار الدولية التجارية </grapheme>
+    <alias>شَرِكَةْ عالَمْ الْبِحارْ الْدَوْلِيَةِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة عبدالوهاب النويلة التجارية </grapheme>
+    <alias>شَرِكَةْ عَبْدالْوَهابِ النُوَيَلَةْ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة عسل الملوك </grapheme>
+    <alias>شَرِكَةْ عَسَلَ الْمُلوكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة علي حيدري التجارية </grapheme>
+    <alias>شَرِكَةْ عَلي حَيْدَري التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة عمار للتنظيف </grapheme>
+    <alias>شَرِكَةِ عَمارْ لِلتَنْظيفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة عمان الكهربائية </grapheme>
+    <alias>شَرِكَةْ عُمانَ الْكَهْرُبائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة عوازل الدولية </grapheme>
+    <alias>شَرِكَةْ عَوازِلِ الدَوْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة غاز الإمارات </grapheme>
+    <alias>شَرِكَةْ غازِ الْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة غلام شاه الباكستاني </grapheme>
+    <alias>شَرِكَةْ غُلامْ شاهْ الْباكِسْتانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة فال للبترول المحدودة </grapheme>
+    <alias>شَرِكَةِ فالْ لِلْبِتْرولِ الْمَحْدودَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة فاونديشن لإدارة العقارات </grapheme>
+    <alias>شَرِكَةْ فاوَنْدَيْشِنْ لِإِدارَةِ الْعَقاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة كاريون لقطع غيار السيارات </grapheme>
+    <alias>شَرِكَةِ كارْيونَ لِقِطَعِ غِيارِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة كريستال للتجهيزات المكتبية </grapheme>
+    <alias>شَرِكَةْ كِريسْتالِ لِلْتَجْهيزاتِ الْمَكْتَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة كوزموبلاست الصناعية </grapheme>
+    <alias>شَرِكَةْ كوزْموبْلاسْتِ الصِناعِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة كونكورد التجارية </grapheme>
+    <alias>شَرِكَةْ كونْكورِدِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة لاحج لتوزيع الغاز </grapheme>
+    <alias>شَرِكَةْ لاحِجْ لِتَوْزيعِ الْغازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة مارينا للمياه المعدنية </grapheme>
+    <alias>شَرِكَةِ مارينا لِلْمِياهِ الْمَعْدِنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة مجمع التعاون التجاري </grapheme>
+    <alias>شَرِكَةْ مُجَمَعِ التَعاوُنِ التِجارِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة مجموعة الشارقة </grapheme>
+    <alias>شَرِكَةْ مَجْموعَةِ الشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة محمد القامة لتجارة السيراميك </grapheme>
+    <alias>شَرِكَةْ مُحَمَدِ الْقامَةِ لِتِجارَةِ اَلسيراميكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة محمد المنصوري للتخليص والخدمات </grapheme>
+    <alias>شَرِكَةْ مُحَمَدِ الْمَنْصورِيْ لِلْتَخْليصِ والْخِدْماتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة محمد حمود الشايع </grapheme>
+    <alias>شَرِكَةْ مُحَمَدْ حُمودِ الشايِعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة محمد طاهر محمد اسلم لتجارة الاجهزة الالكترونية والكهربائية </grapheme>
+    <alias>شَرِكَةْ مُحَمَدْ طاهِرْ مُحَمَدْ اَسْلَمْ لِتِجارَةِ اَلْاَجْهِزَةِ الْاِلِكْتُرونِيَةِ والْكَهْرَبائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة محمد عبدالرحمن البحر </grapheme>
+    <alias>شَرِكَةْ مُحَمَدْ عَبْدالْرَحْمَنِ الْبَحْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة محمد فروخ التجارية </grapheme>
+    <alias>شَرِكَةْ مُحَمَدْ فَروخِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة محمد يوسف للادوات الكهربائية والالكترونية </grapheme>
+    <alias>شَرِكَةِ مُحَمَدْ يوسُفْ لِلْاَدَواتِ الْكَهْرُبائِيَةِ والْاِلِكْتْرونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة مصانع الأصباغ الوطنية </grapheme>
+    <alias>شَرِكَةْ مَصانِعِ الْأَصْباغِ الْوَطَنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة مواعين التجارية </grapheme>
+    <alias>شَرِكَةْ مُواعينْ الْتِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة موزان التجارية </grapheme>
+    <alias>شَرِكَةْ موزانِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة موضة المنزل للمفروشات </grapheme>
+    <alias>شَرِكَةْ موضَةِ الْمَنْزِلْ لِلْمَفْروشاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة ميكانو لمواد البناء </grapheme>
+    <alias>شَرِكَةْ ميكانو لِمَوادِ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة ميناء الفجر العقارية </grapheme>
+    <alias>شَرِكَةْ ميناءِ الْفَجْرِ الْعَقارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة نادي الظفرة للألعاب الرياضية </grapheme>
+    <alias>شَرِكَةْ نادي الظَفَرَةْ لِلْأَلْعابِ الرِياضِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة ناس للخدمات الادارية </grapheme>
+    <alias>شَرِكَةْ ناسْ لِلْخِدْماتِ الْاِدارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة ناصر خوري لتجارة المواد الغذائية </grapheme>
+    <alias>شَرِكَةْ ناصِرْ خورِيْ لِتِجارَةِ اَلْمَوادِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة ناصر محمد البداح للمقاولات العامة </grapheme>
+    <alias>شَرِكَةْ ناصِرْ مُحَمَدِ الْبَداحْ لِلْمُقاوَلاتِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة نزيه حمد التجارية </grapheme>
+    <alias>شَرِكَةْ نَزيهْ حَمَدْ الْتِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة نسمة الخليج للتجارة </grapheme>
+    <alias>شَرِكَةْ نِسْمَةِ الْخَليجِ لِلتِجارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة نهضة المصرية لتجارة المواد الغذائية </grapheme>
+    <alias>شَرِكَةْ نَهْضَةِ الْمِصْرِيَةِ لِتِجارَةِ اَلْمَوادِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة هاي لاين للتجارة العامة </grapheme>
+    <alias>شَرِكَةْ هايْ لايْنْ لِلتِجارَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة هرمود التجارية </grapheme>
+    <alias>شَرِكَةْ هِرْمودِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة هوم لاين للديكور </grapheme>
+    <alias>شَرِكَةِ هومْ لايْنْ لِلدْيْكورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة وادي المسك لبيع قطع غيار السيارات </grapheme>
+    <alias>شَرِكَةْ وادي الْمِسْكِ لِبَيْعِ قِطَعِ غِيارِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة وسيم لمواد البناء </grapheme>
+    <alias>شَرِكَةْ وَسيمْ لِمَوادِ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة وصل العقارية </grapheme>
+    <alias>شَرِكَةِ وَصْلَ الْعَقارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة يتيم لتكييف الهواء </grapheme>
+    <alias>شَرِكَةْ يَتيمْ لِتَكْييفِ الْهَواءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة يوسف النظامي التجارية </grapheme>
+    <alias>شَرِكَةْ يوسُفَ النِظامِيِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة يونيفرسال التجارية </grapheme>
+    <alias>شَرِكَةْ يونيفَرْسالِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة اركان لمواد البناء </grapheme>
+    <alias>شَرِكَةْ اَرْكانْ لْمَوادِ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الأبرار للأدوات الصحية </grapheme>
+    <alias>شَرِكَةِ الْأَبْرارِ لِلْأَدَواتِ الصِحِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الإمارات للمياه المعدنية </grapheme>
+    <alias>شَرِكَةْ اَلْإِماراتِ لِلْمِياهِ الْمَعْدِنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الإمارات للمعلومات الائتمانية </grapheme>
+    <alias>شَرِكَةْ الْإَماراتِ لِلْمَعْلوماتِ الِائْتَمانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة الفواكه الطازجة إم إس للتجارة العامة </grapheme>
+    <alias>شَرِكَةْ الْفَواكِهْ الْطازِجَةْ إَمْ إَسْ لِلْتِجارَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة المطاحن الكبرى للدقيق والعلف </grapheme>
+    <alias>شَرِكَةْ الْمَطاحِنْ اَلْكُبْرَىْ لِلْدَقيقْ والْعَلَفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة ركن الامير لتجارة اللحوم </grapheme>
+    <alias>شَرِكَةْ رُكْنْ الْاَميرْ لِتِجارَةِ الُلحومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شركة سري الدين للتجارة </grapheme>
+    <alias>شَرِكَةْ سِرْيْ الْدينَ لِلْتِجارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شروق الشمس لطباعة و تصوير المستندات </grapheme>
+    <alias>شُروقِ الشَمْسِ لِطِباعَةِ وْ تَصْويرِ الْمُسْتَنَداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شروق الصباح الطبي </grapheme>
+    <alias>شُروقِ الصَباحِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شرية لخياطة وتطريز الملابس النسائية </grapheme>
+    <alias>شَرِيَةْ لِخْياطَةِ وَتَطَريزِ الْمَلابِسِ الْنِسائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شريعة الهيلي </grapheme>
+    <alias>شَريعَةِ الْهْيْلَيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شط العرب للمواد الزراعية </grapheme>
+    <alias>شَطِ الْعَرَبِ لِلْمَوادِ الزِراعِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شعاع للأوراق المالية </grapheme>
+    <alias>شُعاعْ لِلْأَوْراقِ الْمالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شعم الطبي </grapheme>
+    <alias>شَعَمَ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شعم لتجارة المفروشات </grapheme>
+    <alias>شَعَمْ لِتِجارَةِ الْمَفْروشاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شعم للتعليم الاساسي والثانوي للبنين </grapheme>
+    <alias>شَعَمْ لِلتَعْليمِ الْاَساسِيْ والثانَوِيْ لِلْبَنينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شفاء الإمارات للرعاية الصحية المنزلية </grapheme>
+    <alias>شِفاءَ الْإِماراتِ لِلرِعايَةِ الْصِحِيَةِ الْمَنْزِلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شفاء الجزيرة الطبي </grapheme>
+    <alias>شِفاءَ الْجَزيرَةِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شفاء الحياة للتجارة العامة </grapheme>
+    <alias>شِفاءَ الْحَياةْ لِلتِجارَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شفشاون للأكلات المغربية </grapheme>
+    <alias>شِفْشاوُنِ لِلْأَكَلاتِ الْمَغْرِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شفيق فارس داغر للصناعة والتجارة </grapheme>
+    <alias>شَفيقْ فارِسْ داغِرْ لِلْصِناعَةِ والتِجارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمس الإمارات للخدمات </grapheme>
+    <alias>شَمْسْ الْإِماراتِ لِلْخِدْماتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمس الاصيل </grapheme>
+    <alias>شَمْسِ الْاَصيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمس البحر </grapheme>
+    <alias>شَمْسِ الْبَحْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمس البرشاء </grapheme>
+    <alias>شَمْسِ الْبَرْشاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمس البوادي لصيانة المباني </grapheme>
+    <alias>شَمْسْ الْبَوادي لِصِيانَةِ الْمَباني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمس الخور </grapheme>
+    <alias>شَمْسِ الْخورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمس الرحمانية </grapheme>
+    <alias>شَمْسِ الرَحْمانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمس الريف لشوي الاسماك </grapheme>
+    <alias>شَمْسْ الريفِ لَشويِ الْاَسْماكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمس الشام </grapheme>
+    <alias>شَمْسِ الشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمس العروسة للتجميل </grapheme>
+    <alias>شَمْسِ الْعَروسَةْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمس المدينة </grapheme>
+    <alias>شَمْسِ الْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمس المدينة لتصليح الادوات الكهربائية والمكيفات </grapheme>
+    <alias>شَمْسْ الْمَدينَةِ لِتَصْليحِ الْاَدَواتِ الْكَهْرُبائِيَةِ والْمُكَيِفاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمس النور </grapheme>
+    <alias>شَمْسِ النورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمس نعمة التجارية </grapheme>
+    <alias>شَمْسْ نِعْمَةْ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمسان لقطع غيار السيارات و الشاحنات </grapheme>
+    <alias>شَمْسانِ لِقِطَعِ غِيارِ السَياراتِ وَ الشاحِناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمسة للادوات الكهربائية </grapheme>
+    <alias>شَمْسَةْ لِلْاَدَواتِ الْكَهْرُبائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمسة سالم للإلكترونيات </grapheme>
+    <alias>شَمْسَةْ سالِمْ لِلْإِلِكْتِرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمسة للادوات الالكترونية </grapheme>
+    <alias>شَمْسَةْ لِلْاَدْواتْ الالِكْتُرونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شمل الصحي </grapheme>
+    <alias>شَمْلَ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شهاب للمحاماة والاستشارات القانونية </grapheme>
+    <alias>شِهابْ لِلْمُحاماةِ والاسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شهب الصحراء </grapheme>
+    <alias>شُهُبَ الصَحْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شهد الملكة للحلويات </grapheme>
+    <alias>شَهِدْ الْمَلِكَةْ لِلْحُلوياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شهرزاد لخدمات الافراح </grapheme>
+    <alias>شَهْرَزادْ لِخِدْماتِ الْاَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شواطئ المكلا </grapheme>
+    <alias>شَواطِئِ الْمُكَلا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شواية البحر </grapheme>
+    <alias>شَوايَةِ الْبَحْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شوكة الصحي </grapheme>
+    <alias>شَوْكَةِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شوكولا لاديراخ السويسرية </grapheme>
+    <alias>شوكولا لاديراخِ السُويسْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شيخ الجبل </grapheme>
+    <alias>شَيْخُ الْجَبَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شيخ لفحص السيارات بالكمبيوتر </grapheme>
+    <alias>شَيْخْ لِفَحْصِ السَياراتِ بِالْكُمْبِيوتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شيخة العرب </grapheme>
+    <alias>شَيْخَةَ الْعَرَبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شيخة لخياطة أزياء السيدات </grapheme>
+    <alias>شَيْخَةْ لِخِياطَةِ أَزْياءْ الْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شيخة للمأكولات السريعة </grapheme>
+    <alias>شَيْخَةْ لِلْمْأَكولاتِ السَريعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شيراز الإيراني </grapheme>
+    <alias>شيرازِ الْإيرانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شيراز الشعبي </grapheme>
+    <alias>شيرازِ الشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شيزان المدينة </grapheme>
+    <alias>شَيْزانِ الْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شيكاغو للدجاج المقلي </grapheme>
+    <alias>شيكاغو لِلْدَجاجِ الْمَقْلي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شيلسي لتجارة الاطارات والرنجات وزينة السيارات </grapheme>
+    <alias>شْيْلْسِيْ لِتِجارَةِ اَلْاِطاراتْ والرِنْجاتْ وَزينَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> شيماء للطباعة وتصوير المستندات </grapheme>
+    <alias>شَيْمَاْءْ لِلطِباعَةِ وَتَصْويرِ الْمُسْتَنَداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صاج الضيعة </grapheme>
+    <alias>صاجِ الضيعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صاج الضيعة اللبناني </grapheme>
+    <alias>صاجِ الضيعَةِ الُلبْنانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صاج واي للمأكولات اللبنانية </grapheme>
+    <alias>صاجْ وايْ لِلْمَأْكولاتِ الُلبْنانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة أعراس ظفير الخليجية </grapheme>
+    <alias>صالَةُ أَعْراسْ ظُفيرِ الْخَليجِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة اعراس المشرف </grapheme>
+    <alias>صالَةْ اَعْراسِ الْمِشْرِفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة افراح دبا الحصن </grapheme>
+    <alias>صالَةْ اَفْراحْ دِبا الْحِصْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة البوم للأفراح </grapheme>
+    <alias>صالَةِ الْبومِ لِلْأَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة البوم للافراح </grapheme>
+    <alias>صالَةْ الْبومْ لِلْاَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة الجواهر للأفراح </grapheme>
+    <alias>صالَةِ الْجَواهِرْ لِلْأَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة الجواهر للافراح </grapheme>
+    <alias>صالَةْ الْجَواهِرْ لِلْاَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة الرشاقة </grapheme>
+    <alias>صالَةْ الْرَشاقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة الرشاقة الرياضية </grapheme>
+    <alias>صالَةْ الْرَشاقَةْ اَلرِياضِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة الكورنيش للأفراح </grapheme>
+    <alias>صالَةُ الكورْنِيْشْ لِلْأَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة المزهر الرياضية </grapheme>
+    <alias>صالَةُ الْمُزْهِرِ الرِياضِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة عبيد الحلو للحفلات </grapheme>
+    <alias>صالَةُ عُبَيْدْ الْحُلْوِ لِلْحَفَلاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة نشوان لكمال الأجسام </grapheme>
+    <alias>صالَةُ نَشْوانَ لِكَمالِ الْأَجْسامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالح الشواف التجارية </grapheme>
+    <alias>صالِحْ اَلشَوافِ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالح شامس للمحاماة والاستشارات القانونية </grapheme>
+    <alias>صالِحْ شامِسْ لِلْمُحاماةِ والاسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ألوان الابداع للسيدات </grapheme>
+    <alias>صالونْ أَلْوانِ الْاِبْداعِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون أميرة الحسن للسيدات </grapheme>
+    <alias>صالونْ أَمْيْرَةْ الْحَسَنْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الاستجمام المغربي </grapheme>
+    <alias>صالونْ اَلْاِسْتِجْمامْ الْمَغْرِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الاصابع السحرية للسيدات </grapheme>
+    <alias>صالونْ اَلْاَصابِعِ السِحْرِيَةْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الاظافر الوردية للسيدات </grapheme>
+    <alias>صالونْ اَلْاَظافِرِ الْوَرْدِيَةِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الاميرة الجميلة </grapheme>
+    <alias>صالونْ اَلْاَمْيِرَةْ الْجَميلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الجمال البسيط للسيدات </grapheme>
+    <alias>صالونْ اَلْجَمالْ الْبَسيطْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الجمال البيروتي للسيدات </grapheme>
+    <alias>صالونْ اَلْجَمالْ الْبيروتِيْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الجمال الطبيعي للسيدات </grapheme>
+    <alias>صالونْ اَلْجَمالِ الطَبيعِيْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الجوهرة السمراء </grapheme>
+    <alias>صالونْ اَلْجَوْهَرَةْ السَمْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الجوهرة الماسية لتجميل السيدات </grapheme>
+    <alias>صالونْ اَلْجَوْهَرَةْ الْماسِيَةْ لِتَجْميلْ اَلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الحياة الجميلة </grapheme>
+    <alias>صالونْ اَلْحَياةْ الْجَميلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الرجل المهم للحلاقة </grapheme>
+    <alias>صالونْ اَلرَجُلِ الْمُهِمْ لِلْحِلاقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الرموش الماسية للسيدات </grapheme>
+    <alias>صالونْ اَلرَموشِ الْماسِيَةْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الزهرة الندية للتجميل </grapheme>
+    <alias>صالونْ اَلزَهَرَةِ النَدِيَةْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون السلطان الشامي للرجال </grapheme>
+    <alias>صالونْ اَلسُلْطانْ الْشامي لِلرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون السيدة الجميلة للسيدات </grapheme>
+    <alias>صالونْ اَلسَيِدَةْ الْجَميلَةِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الطفل الانيق </grapheme>
+    <alias>صالونْ اَلطِفْلِ الْاَنيقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون القمة للسيدات </grapheme>
+    <alias>صالونِ الْقِمَةِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اللمسة الجمالية </grapheme>
+    <alias>صالونْ اَلَلمْسَةِ الْجَمالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اللمسة الذهبية </grapheme>
+    <alias>صالونْ اَلَلمْسَةِ الذَهَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اللمسة السحرية للسيدات </grapheme>
+    <alias>صالونْ اَلَلمْسَةِ السِحْرِيَةِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اللمسة المغربية للسيدات </grapheme>
+    <alias>صالونْ اَلَلمْسَةِ الْمَغْرِبِيَةِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اللولو للتجميل </grapheme>
+    <alias>صالونَ الْلولو لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون المظهر الطيب للسيدات </grapheme>
+    <alias>صالونْ اَلْمَظْهَرِ الطَيِبِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون النساء الوردي </grapheme>
+    <alias>صالونْ اَلنِساءِ الْوَرْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الياقوت الأبيض للرجال </grapheme>
+    <alias>صالونْ اَلْياقوتِ الْأَبْيَضِ لِلرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الياقوت الملكي </grapheme>
+    <alias>صالونْ اَلْياقوتِ الْمَلَكِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الياقوت الملكي للحلاقة </grapheme>
+    <alias>صالونْ اَلْياقوتِ الْمَلَكِيْ لِلْحِلاقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اماسي الشرق للسيدات </grapheme>
+    <alias>صالونْ اَماسي الشَرْقِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اميرة الشهباء للسيدات </grapheme>
+    <alias>صالونْ اَمْيْرَةْ الشَهْبَاْءْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اولالا للتجميل </grapheme>
+    <alias>صالونْ اولالا لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ايفي الاخضر للسيدات </grapheme>
+    <alias>صالونْ اْيْفِيِ الْاَخْضَرِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون براعم الاطفال </grapheme>
+    <alias>صالونْ بَراعِمِ الْاَطْفالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بسام للعناية الشخصية للرجال </grapheme>
+    <alias>صالونْ بَسامْ لِلْعِنايَةِ الشَخْصِيَةِ لِلرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بنت الملوك للتجميل </grapheme>
+    <alias>صالونْ بِنْتْ الْمُلوكْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بون بون للسيدات </grapheme>
+    <alias>صالونْ بونْ بونْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بيت الجمال للسيدات </grapheme>
+    <alias>صالونْ بَيْتِ الْجَمالِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بيت اليازية للحناء والتجميل </grapheme>
+    <alias>صالونْ بَيْتِ الْيازْيَةْ لِلْحِناءْ والتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بيست فيل لتجميل السيدات </grapheme>
+    <alias>صالونْ بَيْسْتْ فيلْ لِتَجْميلِ السَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون تيبس وليبس للجمال </grapheme>
+    <alias>صالونْ تيبْسْ وَليبْسْ لِلْجَمالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جار القمر للسيدات </grapheme>
+    <alias>صالونْ جارْ الْقَمَرِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جمال الروح للحلاقة </grapheme>
+    <alias>صالونْ جَمالِ الروحِ لِلْحِلاقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جمال الكون للسيدات </grapheme>
+    <alias>صالونْ جَمالِ الْكَوْنِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جويل الذهبي للسيدات </grapheme>
+    <alias>صالونْ جُوْيَلِ الذَهَبِيْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون حديقة الورود للسيدات </grapheme>
+    <alias>صالونْ حَديقَةْ الْوُرودِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون حريم السلطان </grapheme>
+    <alias>صالونْ حَريمِ السُلْطانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون حور العين للسيدات </grapheme>
+    <alias>صالونْ حورِ الْعَيْنِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون حورية البحر للسيدات </grapheme>
+    <alias>صالونْ حورِيَةِ الْبَحْرِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون دانة الخور للسيدات </grapheme>
+    <alias>صالونْ دانَةِ الْخورْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون دانة اليازية </grapheme>
+    <alias>صالونْ دانَةْ الْيازْيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون دلع الديرة </grapheme>
+    <alias>صالونْ دَلَعَ الديرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ذا بيوتي زون </grapheme>
+    <alias>صالونْ ذا بيوْتِيْ زونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ذا لوفت فيفث أفينيو للسيدات </grapheme>
+    <alias>صالونْ ذا لوفْتْ فيفْثْ أَفينْيو لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون رحاب الخليج للسيدات </grapheme>
+    <alias>صالونْ رِحابُ الْخَليجِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ريم </grapheme>
+    <alias>صالونْ ريمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ريم البوادي للسيدات </grapheme>
+    <alias>صالونْ ريمْ الْبَوادي لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون زهرة البتول لتجميل السيدات </grapheme>
+    <alias>صالونْ زَهْرَةْ الْبَتولْ لِتَجْميلْ اَلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون زهرة البنفسج للتجميل </grapheme>
+    <alias>صالونْ زَهْرَةْ الْبَنَفْسَجْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون زهرة الحديقة للسيدات </grapheme>
+    <alias>صالونْ زَهْرَةْ الْحَديقَةْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون زهرة الخليج للسيدات </grapheme>
+    <alias>صالونْ زَهْرَةْ الْخَليجِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون زهرة الريحان للسيدات </grapheme>
+    <alias>صالونْ زَهْرَةْ الريحانِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون زهرة الندى للسيدات </grapheme>
+    <alias>صالونْ زَهْرَةْ الْنَدَىْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون زوري بيوتي لاونج النسائي </grapheme>
+    <alias>صالونْ زورْيْ بيوْتي لاوْنْجْ الْنِسائي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سلطانة للحناء وتجميل السيدات </grapheme>
+    <alias>صالونْ سُلْطانَةْ لِلْحِناءْ وَتَجْميلِ السَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سيدتي الجميلة </grapheme>
+    <alias>صالونْ سَيِدَتي الْجَميلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سيدتي المتميزة للسيدات </grapheme>
+    <alias>صالونْ سَيِدَتي الْمُتَمَيِزَةْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون شهر العسل </grapheme>
+    <alias>صالونْ شَهْرِ الْعَسَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ضوء الصباح للتجميل </grapheme>
+    <alias>صالونْ ضَوْءِ الصَباحْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ضوء القمر </grapheme>
+    <alias>صالونْ ضَوْءِ الْقَمَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عبير الشرق للسيدات </grapheme>
+    <alias>صالونْ عَبيرْ الْشَرْقِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عبير المسك للحناء </grapheme>
+    <alias>صالونْ عَبيرْ الْمِسْكْ لِلْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عروس الخليج للتجميل </grapheme>
+    <alias>صالونْ عَروسْ الْخَليجِ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عروس الفريج للسيدات </grapheme>
+    <alias>صالونْ عَروسْ الْفِريجْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عروسة الشمال للسيدات </grapheme>
+    <alias>صالونْ عَروسَةِ الشَمالِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عنوان الجمال للسيدات </grapheme>
+    <alias>صالونْ عُنْوانِ الْجَمالْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عيون الشهامة للسيدات </grapheme>
+    <alias>صالونْ عُيونِ الشَهامَةْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عيون المها للسيدات </grapheme>
+    <alias>صالونْ عُيونِ الْمَها لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون غزال الخليج لتجميل السيدات </grapheme>
+    <alias>صالونْ غَزالْ الْخَليجِ لِتَجْميلْ اَلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون غزال الخور للاطفال </grapheme>
+    <alias>صالونْ غَزالِ الْخورْ لِلْاَطْفالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون غلا الريم للسيدات </grapheme>
+    <alias>صالونْ غَلا الريمْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون فايف ستار الحديث </grapheme>
+    <alias>صالونْ فايِفْ سْتارْ اَلْحَديثْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون فتاة الخليج للسيدات </grapheme>
+    <alias>صالونْ فَتاةْ الْخَليجِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون فن الاظافر للسيدات </grapheme>
+    <alias>صالونْ فَنُ الْاَظافِرْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون قصر الأميرات للسيدات </grapheme>
+    <alias>صالونْ قَصْرِ الْأَميراتْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون قصر الجمال للسيدات </grapheme>
+    <alias>صالونْ قَصْرْ الْجَمالِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون قصر الجوهرة للسيدات </grapheme>
+    <alias>صالونْ قَصْرْ الْجَوْهَرَةْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون قصر الحنا للسيدات </grapheme>
+    <alias>صالونْ قَصْرِ الْحِنا لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون قصر العروس </grapheme>
+    <alias>صالونْ قَصْرْ الْعَروسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون قصر النواعم للسيدات </grapheme>
+    <alias>صالونْ قَصْرْ الْنَواعِمْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون قصر علاء الدين للاطفال </grapheme>
+    <alias>صالونْ قَصْرِ عَلاءْ الْدينِ لِلْاَطْفالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون قطر الندى </grapheme>
+    <alias>صالونْ قَطْرِ النَدَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون كاندي نيلز لتجميل للسيدات </grapheme>
+    <alias>صالونْ كانْدْيْ نَيْلْزْ لِتَجْميلِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون كليمانس لتجميل السيدات </grapheme>
+    <alias>صالونْ كْلْيْمانْسْ لِتَجْميلِ السَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لؤلؤة الجمال للسيدات </grapheme>
+    <alias>صالونْ لُؤْلُؤَةَ الْجَمالِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لؤلؤة الشام للرجال </grapheme>
+    <alias>صالونْ لُؤْلُؤَةِ الشامْ لِلرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لاروزا للسيدات </grapheme>
+    <alias>صالونْ لاروزا لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لاليك للتجميل والحناء </grapheme>
+    <alias>صالونْ لاليكْ لِلتَجْميلِ والْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ماسة الخليج </grapheme>
+    <alias>صالونْ ماسَةْ الْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مكسار العروس </grapheme>
+    <alias>صالونْ مِكْسارِ الْعَروسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مهرة العين </grapheme>
+    <alias>صالونْ مُهَرَةِ الْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نجم المرفا للسيدات </grapheme>
+    <alias>صالونْ نَجْمُ الْمَرْفَاْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نجمة حلا الشام للتجميل </grapheme>
+    <alias>صالونْ نَجْمَةِ حَلا الشامْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نجوم المقام للسيدات </grapheme>
+    <alias>صالونْ نُجومِ الْمَقامِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون همس الحراير للسيدات </grapheme>
+    <alias>صالونْ هَمْسْ الْحَرايِرْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون هيري بيري للسيدات </grapheme>
+    <alias>صالونْ هَيْرْيْ بَيْرْيْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون واحة الاميرة للتجميل </grapheme>
+    <alias>صالونْ واحَةِ الْاَمْيِرَةْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون وجه القمر </grapheme>
+    <alias>صالونْ وَجْهِ الْقَمَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون وحمام باب الحارة للرجال </grapheme>
+    <alias>صالونْ وَحَمامْ بابِ الْحارَةِ لِلرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون وردة البنفسج </grapheme>
+    <alias>صالونْ وَرْدَةِ الْبَنَفْسَجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون وفاء المراسم للسيدات </grapheme>
+    <alias>صالونْ وَفاءْ الْمَراسِمْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ياسمين الشام للسيدات </grapheme>
+    <alias>صالونْ ياسْمينْ الْشامِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ياقوت السرور للرجال </grapheme>
+    <alias>صالونْ ياقوتْ الْسُرورْ لِلرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ابلز </grapheme>
+    <alias>صالونْ اَبِلْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون العناية السحرية للتجميل </grapheme>
+    <alias>صالونْ اَلْعِنايَةِ السِحْرِيَةِ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون النظرة الجديدة للتجميل </grapheme>
+    <alias>صالونْ اَلنَظْرَةِ الْجَديدَةِ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الونيس لتجميل السيدات </grapheme>
+    <alias>صالونْ اَلْوَنيسْ لِتَجْميلْ السَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون حور الخليج للسيدات </grapheme>
+    <alias>صالونْ حورِ الْخَليجِ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون روزا للسيدات </grapheme>
+    <alias>صالونْ روزا لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ريم اليحر للسيدات </grapheme>
+    <alias>صالونْ ريمْ الْيَحَرْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سامبا للسيدات </grapheme>
+    <alias>صالونْ سامْبا لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سكاي للسيدات </grapheme>
+    <alias>صالونْ سْكايْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عروسة النيل للتجميل </grapheme>
+    <alias>صالونْ عَروسَةِ النيلْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون يوسن للسيدات </grapheme>
+    <alias>صالونْ يَوْسَنْ لِلسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صباح النور الطبي </grapheme>
+    <alias>صَباحَ النورِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صح النوم </grapheme>
+    <alias>صِحَ النَوْمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صحار الدولية لتجارة اللحوم </grapheme>
+    <alias>صَحارْ الدَوْلِيَةْ لِتِجارَةِ الُلحومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صحة الاسرة </grapheme>
+    <alias>صِحَةِ الْاُسْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صحيفة الرؤية </grapheme>
+    <alias>صَحيفَةْ الْرُؤْيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صخر البحر </grapheme>
+    <alias>صَخْرْ الْبَحْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صخرة الروشة </grapheme>
+    <alias>صَخْرَةَ الروشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صرافة عين الفايضة </grapheme>
+    <alias>صَرافَةْ عَيْنِ الْفايْضَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صفاء لتجارة مواد البناء </grapheme>
+    <alias>صَفَاِءْ لِتِجارَةِ مَوادِ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صفد للهواتف المتحركة </grapheme>
+    <alias>صَفَدْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صقر الجزيرة للنقل البري العام </grapheme>
+    <alias>صَقْرْ الْجَزيرَةِ لِلنَقْلِ الْبَرِيِ الْعامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صقر الجزيرة للهواتف المتحركة </grapheme>
+    <alias>صَقْرْ الْجَزيرَةِ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صقر المنامة </grapheme>
+    <alias>صَقْرِ الْمَنامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صقر حوران للهواتف المتحركة </grapheme>
+    <alias>صَقْرْ حورانَ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صقور الإمارات لخياطة الملابس الرجالية </grapheme>
+    <alias>صُقورِ الْإِماراتِ لِخِياطَةِ الْمَلابِسِ اَلرِجالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صلة الإمارات للهواتف المتحركة </grapheme>
+    <alias>صِلَةْ الْإِماراتِ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صمد العراقي </grapheme>
+    <alias>صَمَدَ الْعِراقِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صناعات الإمارات للزي الموحد </grapheme>
+    <alias>صِناعاتْ الْإِماراتِ لِلْزْيِ الْمُوَحَدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صندوق الألعاب للاطفال </grapheme>
+    <alias>صُنْدوقْ الْأَلْعابِ لِلْاَطْفالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صندوق الافكار </grapheme>
+    <alias>صُنْدوقِ الْاَفْكارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صندوق خليفة لتطوير المشاريع </grapheme>
+    <alias>صُنْدوقْ خَليفَةْ لِتَطْويرِ الْمَشاريعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صنعاء للمنتجات اليمنية </grapheme>
+    <alias>صَنْعَاْءْ لِلْمُنْتَجاتِ الْيَمَنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صوت الإمارات لتجارة الهواتف المتحركة وزينة السيارات </grapheme>
+    <alias>صَوْتِ الْإِماراتِ لِتِجارَةِ اَلْهَواتِفِ الْمُتَحَرِكَةْ وَزينَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صياد الخليج لتجارة ادوات الصيد </grapheme>
+    <alias>صَيادِ الْخَليجِ لِتِجارَةِ اَدَواتِ الصَيْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صياد الخير </grapheme>
+    <alias>صَيادِ الْخَيْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية أبي الفداء </grapheme>
+    <alias>صَيْدَلِيَةْ أَبي الْفِداءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية ابن سينا الحديثة </grapheme>
+    <alias>صَيْدَلِيَةْ اِبْنُ سينا الْحَديثَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية ابن سينا الكبرى </grapheme>
+    <alias>صَيْدَلِيَةْ اِبْنُ سينا الْكُبْرَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية ابن سينا المركزية </grapheme>
+    <alias>صَيْدَلِيَةْ اِبْنُ سينا الْمَرْكَزِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الألفية </grapheme>
+    <alias>صَيْدَلِيَةْ الْأَلْفِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الأهلية </grapheme>
+    <alias>صَيْدَلِيَةْ الْأَهْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الأهلية الكبرى </grapheme>
+    <alias>صَيْدَلِيَةْ اَلْأَهْلِيَةِ الْكُبْرَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الافلاج </grapheme>
+    <alias>صَيْدَلِيَةِ الْاَفْلاجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الاهرام </grapheme>
+    <alias>صَيْدَلِيَةِ اْلْاَهْرامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية البرج الجديد </grapheme>
+    <alias>صَيْدَلِيَةْ اَلْبُرْجْ الْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية البيت العربي الكبرى </grapheme>
+    <alias>صَيْدَلِيَةْ اَلْبَيْتِ الْعَرَبِيِ الْكُبْرَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الحكمة </grapheme>
+    <alias>صَيْدَلِيَةْ الْحِكْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الحياة الذهبية </grapheme>
+    <alias>صَيْدَلِيَةْ اَلْحَياةْ الذَهَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الخليج </grapheme>
+    <alias>صَيْدَلِيَةْ الْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الخوانيج </grapheme>
+    <alias>صَيْدَلِيَةْ الْخَوانيجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الدرع البيطرية </grapheme>
+    <alias>صَيْدَلِيَةْ اَلدِرْعِ الْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الرعاية الصحية </grapheme>
+    <alias>صَيْدَلِيَةْ اَلرِعايَةِ الصِحِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الرقة الحديثة </grapheme>
+    <alias>صَيْدَلِيَةْ اَلرِقَةِ الْحَديثَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الرمس الجديدة </grapheme>
+    <alias>صَيْدَلِيَةْ اَلرِمْسِ الْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الشروق </grapheme>
+    <alias>صَيْدَلِيَةْ اَلشُروقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الشعبية </grapheme>
+    <alias>صَيْدَلِيَةْ اَلشَعْبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الشفاء </grapheme>
+    <alias>صَيْدَلِيَةْ اَلشِفاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الشموع الجديدة </grapheme>
+    <alias>صَيْدَلِيَةْ اَلشِموعِ الْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الشهاب </grapheme>
+    <alias>صَيْدَلِيَةْ اَلشَهابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الشوامخ </grapheme>
+    <alias>صَيْدَلِيَةْ اَلشَوامِخْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الصحة والجمال </grapheme>
+    <alias>صَيْدَلِيَةْ اَلصِحَةِ والْجَمالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الصفاء </grapheme>
+    <alias>صَيْدَلِيَةْ اَلصَفاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الصفوة البيطرية </grapheme>
+    <alias>صَيْدَلِيَةْ اَلصَفْوَةِ الْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الصلاح البيطرية </grapheme>
+    <alias>صَيْدَلِيَةْ الصَلاحِ اَلْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الضمان </grapheme>
+    <alias>صَيْدَلِيَةْ اَلضَمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الضمان الجديدة </grapheme>
+    <alias>صَيْدَلِيَةْ اَلضَمانْ اَلْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الضيافة </grapheme>
+    <alias>صَيْدَلِيَةْ اَلضِيافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الفتح </grapheme>
+    <alias>صَيْدَلِيَةْ اَلْفَتْحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية الكندي الجديدة </grapheme>
+    <alias>صَيْدَلِيَةْ اَلْكِنْدْيِ الْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية المرفأ الاهلية </grapheme>
+    <alias>صَيْدَلِيَةْ اَلْمَرْفَأِ الْاَهْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية المطايا البيطرية </grapheme>
+    <alias>صَيْدَلِيَةْ اَلْمَطايا الْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية باب الحكمة </grapheme>
+    <alias>صَيْدَلِيَةْ بابِ الْحِكْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية بن موسى الجديدة </grapheme>
+    <alias>صَيْدَلِيَةِ بِنْ موسَىْ الْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية بيت المقدس </grapheme>
+    <alias>صَيْدَلِيَةْ بَيْتِ الْمَقْدِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية بين الجسرين </grapheme>
+    <alias>صَيْدَلِيَةْ بَيْنَ الْجِسْرينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية تبارك الجديدة </grapheme>
+    <alias>صَيْدَلِيَةْ تَبارَكْ الْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية جبل النور </grapheme>
+    <alias>صَيْدَلِيَةْ جَبَلِ النورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية جسر الكرامة </grapheme>
+    <alias>صَيْدَلِيَةْ جِسْرِ الْكَرامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية جمعية الصفا </grapheme>
+    <alias>صَيْدَلِيَةْ جَمْعِيَةِ الصَفا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية حكمت العين </grapheme>
+    <alias>صَيْدَلِيَةْ حِكْمَتِ الْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية خالد بن الوليد </grapheme>
+    <alias>صَيْدَلِيَةْ خالِدِ بِنِ الْوَليدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية خط الحياة </grapheme>
+    <alias>صَيْدَلِيَةْ خَطِ الْحَياةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية دار الحكمة </grapheme>
+    <alias>صَيْدَلِيَةِ دارِ الْحِكْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية دار الشفاء الحديث </grapheme>
+    <alias>صَيْدَلِيَةْ دارِ الشِفاءِ الْحَديثْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية دار الفرح </grapheme>
+    <alias>صَيْدَلِيَةْ دارْ الْفَرَحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية دعاء الجديدة </grapheme>
+    <alias>صَيْدَلِيَةْ دُعاءْ الْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية دلتا الحديثة </grapheme>
+    <alias>صَيْدَلِيَةِ دِلْتا الْحَديثَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية دلتا الذيد </grapheme>
+    <alias>صَيْدَلِيَةِ دِلْتا الذيدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية ركن الرقة </grapheme>
+    <alias>صَيْدَلِيَةْ رُكْنْ الرِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية زهرة الربيع </grapheme>
+    <alias>صَيْدَلِيَةْ زَهْرَةْ الرَبيعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية سر الدواء </grapheme>
+    <alias>صَيْدَلِيَةْ سِرُ الدَواءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية سماء الشامخة </grapheme>
+    <alias>صَيْدَلِيَةْ سَماءِ الشامِخَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية صحة الإمارات لجراحة اليوم الواحد </grapheme>
+    <alias>صَيْدَلِيَةْ صِحَةِ الْإِماراتِ لِجْراحَةِ الْيَوْمَ الْواحِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية عالية الجديدة </grapheme>
+    <alias>صَيْدَلِيَةْ عالِيَةْ الْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية عروس البحر </grapheme>
+    <alias>صَيْدَلِيَةْ عَروسْ الْبَحْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية عمريتا الجديدة </grapheme>
+    <alias>صَيْدَلِيَةْ عَمْريتا الْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية فارس الخليج البيطرية </grapheme>
+    <alias>صَيْدَلِيَةْ فارِسْ الْخَليجِ الْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية كلباء الجديدة </grapheme>
+    <alias>صَيْدَلِيَةْ كَلْباءِ الْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية لاند مارك الفلاح </grapheme>
+    <alias>صَيْدَلِيَةْ لانْدْ مارْكِ الْفَلاحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية لاندمارك بلازا </grapheme>
+    <alias>صَيْدَلِيَةْ لانْدْمارْكْ بْلازا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية مكة الحديثة </grapheme>
+    <alias>صَيْدَلِيَةْ مَكَةْ الْحَديثَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية مكة الكبرى </grapheme>
+    <alias>صَيْدَلِيَةْ مَكَةْ الْكُبْرَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية مكة المركزية </grapheme>
+    <alias>صَيْدَلِيَةْ مَكَةْ الْمَرْكَزِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صيدلية ميزان الطبيعة </grapheme>
+    <alias>صَيْدَلِيَةْ ميزانِ الطَبيعَةْ</alias>
+  </lexeme>
+</lexicon>

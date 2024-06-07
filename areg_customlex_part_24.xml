@@ -1,0 +1,2008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="ar-SA">
+  <lexeme>
+    <grapheme> الابتسامة الملكية لطب الأسنان </grapheme>
+    <alias>اَلِابْتِسامَةِ الْمَلَكِيَةُ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاتحاد الصحي </grapheme>
+    <alias>اَلاتِحادِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاتحاد الطبي </grapheme>
+    <alias>اَلاتِحادِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاتحاد لأعمال الألمنيوم </grapheme>
+    <alias>اَلاتِحادِ لِأَعْمالِ الْأَلِمِنْيومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاتحاد للتشخيص الطبي </grapheme>
+    <alias>اَلاتِحادِ لِلتَشْخيصِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاتحاد لمكافحة الحشرات </grapheme>
+    <alias>اَلاتِحادِ لِمُكافَحَةِ الْحَشَراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاتحاد النسائي العام </grapheme>
+    <alias>اَلاتِحادَ اَلْنِسائِيَ الْعامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاتصال الوطني </grapheme>
+    <alias>اَلاتِصالِ الْوَطَنِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاتقان للاستشارات الهندسية </grapheme>
+    <alias>اَلاتْقانْ لِلْاِسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاجازة السعيدة </grapheme>
+    <alias>اَلْاَجازَةِ السَعيدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاجنحة الذهبية لمكافحة الحشرات </grapheme>
+    <alias>اَلْاَجْنِحَةِ الذَهَبِيَةِ لِمُكافَحَةِ الْحَشَراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاحرار لتحلية المياه </grapheme>
+    <alias>اَلْاَحْرارِ لَتْحَلِيَةِ الْمِياهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاحرار لتعبئة وتوزيع المياه </grapheme>
+    <alias>اَلْاَحْرارِ لِتَعُبِئَةْ وَتَوْزيعِ الْمِياهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاحسن لتجارة الاقفال ونسخ المفاتيح </grapheme>
+    <alias>اَلْاَحْسَنِ لِتِجارَةْ اَلْاَقْفالْ وَنَسْخِ الْمَفاتيحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاختيار الاول لنقل الركاب بالحافلات </grapheme>
+    <alias>اَلِاخْتِيارْ الْاَوَلْ لِنَقْلْ الرُكابْ بِالْحافِلاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاختيار الجوي للسفر والسياحة </grapheme>
+    <alias>اَلاخْتِيارُ الْجَوِيْ لِلسَفَرِ والسِياحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاختيار للمرطبات و المشاوي </grapheme>
+    <alias>اَلاخْتِيارْ لِلْمُرُطِباتِ وَ الْمَشاوي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاخصائيين الطبي </grapheme>
+    <alias>اَلْاَخِصائَيينَ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاخطبوط لشوي الاسماك </grapheme>
+    <alias>اَلاخْطَبوطُ لَشويِ الْاَسْماكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاخوان لتجارة الاجهزة الالكترونية والكهربائية </grapheme>
+    <alias>اَلْاِخْوانِ لِتِجارَةْ اَلْاَجْهِزَةِ الْاِلِكْتُرونِيَةِ والْكَهْرَبائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاخوان لتجارة مواد البناء </grapheme>
+    <alias>اَلْاِخْوانِ لِتِجارَةِ مَوادِ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الادارة العامة لتوزيع الغاز الطبيعي </grapheme>
+    <alias>اَلْاِدارَةِ الْعامَةِ لِتَوْزيعِ الْغازِ الطَبيعِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاردن لطب الأسنان </grapheme>
+    <alias>اَلْاُرْدُنْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الارقم بن ابي الارقم لتحفيظ القران الكريم </grapheme>
+    <alias>اَلْاَرْقَمْ بِنْ اَبي الارْقَمْ لِتَحْفيظِ الْقُرْاَنِ الْكَريمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الازياء الفنية للخياطة </grapheme>
+    <alias>اَلْاَزْياءِ الْفَنِيَةِ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاستقامة لتحفيظ القرآن </grapheme>
+    <alias>اَلْاِسْتِقامَةْ لِتَحْفيظِ الْقُرْآنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاستوديو الحديث </grapheme>
+    <alias>اْلْاُسْتودِيو الْحَديثْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاسطورة للاستشارات الهندسية </grapheme>
+    <alias>اَلْاُسْطورَةْ لِلاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاشتراكُ في الخدمات </grapheme>
+    <alias>اَلِاشْتْراكُ في الْخِدْماتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاصالة لخياطة الملبوسات الخليجية </grapheme>
+    <alias>اَلْاَصالَةْ لْخِياطَةِ الْمَلْبوساتِ الْخَليجِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاصدقاء لجلب الايدي العاملة </grapheme>
+    <alias>اَلْاَصْدِقَاِءْ لِجَلْبِ الْاَيْدي الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاصيل لتجارة الملابس الجاهزة </grapheme>
+    <alias>اَلْاَصيلِ لِتِجارَةِ اَلْمَلابِسِ الْجاهِزَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاصيل للمقاولات الالمنيوم والزجاج </grapheme>
+    <alias>اَلْاَصيلِ لِلْمُقاوَلاتِ الْاَلِمِنْيومْ والزُجاجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاطباء العرب التخصصي </grapheme>
+    <alias>اَلْاَطِباءِ الْعَرَبْ اَلتَخَصُصي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاطلالة المشرقة للتجميل </grapheme>
+    <alias>اَلْاِطْلالَةِ الْمُشْرِقَةْ لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاعتماد التجاري </grapheme>
+    <alias>اَلاعْتِمادِ التِجارِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاعتماد لتصليح الأجهزة الإلكترونية </grapheme>
+    <alias>اَلاعْتِمادِ لْتَصْليحِ اَلْأَجْهِزَةِ الْإِلِكْتُرونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الافراح الحديثة للشوكولا والزهور </grapheme>
+    <alias>اَلْاَفْراحِ الْحَديثَةِ لِلْشوكولا والْزُهورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الافضل للملابس الجاهزة </grapheme>
+    <alias>اَلْاَفْضَلِ لِلْمَلابِسِ الْجاهِزَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الالمانية لقطع غيار السيارات </grapheme>
+    <alias>اَلْاَلْمانِيَةْ لِقِطَعِ غِيارْ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الامارات السبع للهواتف المتحركة </grapheme>
+    <alias>اَلْاِماراتْ السَبْعْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الامبراطور للخراطة الهندسية </grapheme>
+    <alias>اَلْاِمْبِراطورْ لِلْخِراطَةِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الامبراطور للكمبيوتر </grapheme>
+    <alias>اَلْاِمْبِراطورْ لِلْكُمْبِيوتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الامل الطبي </grapheme>
+    <alias>اَلْاَمَلِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الامل لسحب المجاري </grapheme>
+    <alias>اَلْاَمَلِ لِسَحْبِ الْمَجاري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الامل للإلكترونيات </grapheme>
+    <alias>اَلْاَمَلِ لِلِإْلْكْتُرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الامواج لتجارة العطور </grapheme>
+    <alias>اَلْاَمْواجْ لِتِجارَةْ الْعُطورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الامواج لتجارة الهواتف والكمبيوتر </grapheme>
+    <alias>اَلْاَمْواجْ لِتِجارَةِ اَلْهَواتِفِ والْكُمْبِيوتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الامواج لخدمات الموارد البشرية </grapheme>
+    <alias>اَلْاَمْواجْ لِخِدْماتِ الْمَوارِدِ الْبَشَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الامواج للخدمات العامة </grapheme>
+    <alias>اَلْاَمْواجْ لِلْخِدْماتِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الامومة الطبي </grapheme>
+    <alias>اَلْاُمومَةِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الامير للاطارات </grapheme>
+    <alias>اَلْاَميرْ لِلْاِطاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الامير لنسخ المفاتيح </grapheme>
+    <alias>اَلْاَميرْ لِنَسْخِ الْمَفاتيحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاميرة لتجارة الاقمشة </grapheme>
+    <alias>اَلْاَمْيِرَةْ لِتِجارَةْ الْاَقْمِشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاميرة هيا بنت الحسين الثقافي الإسلامي </grapheme>
+    <alias>اَلْاَمْيِرَةْ هَيا بِنْتَ الْحُسَيْنِ الثَقافِيِ الْإِسْلامِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الامين الطبي </grapheme>
+    <alias>اَلْاَمينُ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الامين لتجارة مواد البناء </grapheme>
+    <alias>اَلْاَمينْ لِتِجارَةِ مَوادْ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الانامل الطبي </grapheme>
+    <alias>اَلْاَنامِلِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الانامل للاستشارات الهندسية </grapheme>
+    <alias>اَلْاَنامِلْ لِلاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الانجاز السريع لقطر المركبات </grapheme>
+    <alias>اَلْاِنْجازِ السَريعِ لِقَطَرِ الْمَرْكَباتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاندلس الطبي </grapheme>
+    <alias>اَلْاَنْدَلُسِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاندلس لتصليح ونسخ المفاتيح </grapheme>
+    <alias>اَلْاَنْدَلُسِ لِتَصْليحِ وَنَسْخِ الْمَفاتيحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاندلس لخدمات الأيدي العاملة </grapheme>
+    <alias>اَلْاَنْدَلُسِ لِخِدْماتِ اَلْأَيْدي الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاندلس لصيانة السيارات </grapheme>
+    <alias>اَلْاَنْدَلُسِ لِصِيانَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاندلس للهواتف المتحركة </grapheme>
+    <alias>اَلْاَنْدَلُسِ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاندلس لمواد البناء </grapheme>
+    <alias>اَلْاَنْدَلُسِ لِمَوادَ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاندلس لخدمات الافراح </grapheme>
+    <alias>اَلْاَنْدَلُسْ لْخِدْماتِ الْاَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الانصاري للصرافة </grapheme>
+    <alias>اَلْاَنْصارِيْ لِلْصِرافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الانصاري للمجوهرات </grapheme>
+    <alias>اَلْاَنْصارِيْ لِلْمُجَوَهَراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الانفال للسياحة </grapheme>
+    <alias>اَلْاَنْفالِ لِلسِياحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الانقاذ لاصلاح المكيفات </grapheme>
+    <alias>اَلْاِنْقاذِ لِاِصْلاحِ الْمُكَيْفاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الانماء الهندسية للمقاولات العامة </grapheme>
+    <alias>اَلْاِنْماءِ الْهَنْدَسِيَةِ لِلْمُقاوَلاتِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الانيس لتجارة مواد البناء </grapheme>
+    <alias>اَلانيسْ لِتِجارَةِ مَوادْ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاهالي الطبي </grapheme>
+    <alias>اَلْاَهالي الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاهلية الطبي </grapheme>
+    <alias>اَلْاَهْلِيَةِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاهلية لتجارة اللحوم </grapheme>
+    <alias>اَلْاَهْلِيَةْ لِتِجارَةِ الُلحومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاوائل لخياطة الملابس الرجالية </grapheme>
+    <alias>اَلْاَوائِلْ لْخِياطَةِ الْمَلابِسِ الرَجالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاوائل لطب الأسنان </grapheme>
+    <alias>اَلْاَوائِلْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاوائل للرياضة </grapheme>
+    <alias>اَلْاَوائِلْ لِلرِياضَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاوائل للكتابة والتصوير </grapheme>
+    <alias>اَلْاَوائِلْ لِلْكِتابَةِ والتَصْويرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاوركيد للهدايا </grapheme>
+    <alias>اَلْاورْكيدْ لِلِهَدايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الاوروبية للعطور </grapheme>
+    <alias>اَلْاوروبِيَةِ لِلُعْطورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الايمان الطبي </grapheme>
+    <alias>اَلْايمانِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الايمان للقرطاسية </grapheme>
+    <alias>اَلْايمانْ لِلْقِرْطاسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الباب المغربي للخياطة والتطريز </grapheme>
+    <alias>اَلْبابْ الْمَغْرِبِيْ لِلْخِياطَةْ والتَطْريزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الباحث للأيدي العاملة </grapheme>
+    <alias>اَلْباحِثْ لِلُأَيْدي الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البادي للمحاماة والاستشارات القانونية </grapheme>
+    <alias>اَلْبادي لِلْمُحاماةْ والاسْتِشاراتْ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البادية للخيام وبيوت الشعر </grapheme>
+    <alias>اَلْبادِيَةِ لِلْخِيامْ وَبُيوتِ الشِعْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البارز لتجارة الحاسوب </grapheme>
+    <alias>اَلْبارِزْ لِتِجارَةْ اَلْحاسوبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البارز للهواتف المتحركة </grapheme>
+    <alias>اَلْبارِزْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الباري للطباعة وتصوير المستندات </grapheme>
+    <alias>اَلْباري لِلطِباعَةِ وَتَصْويرِ الْمُسْتَنَداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البازركان للبن والمكسرات </grapheme>
+    <alias>اَلْبازِرْكانْ لِلْبُنِ والْمُكَسَراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الباسل لتجارة مستحضرات التجميل </grapheme>
+    <alias>اَلْباسِلْ لِتِجارَةْ مُسْتَحْضَراتِ التَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الباشا لتجارة الادوية البيطرية </grapheme>
+    <alias>اَلْباشا لِتِجارَةْ اَلْاَدْوِيَةِ الْبَيْطُرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الباشا لتجارة السيارات المستعملة </grapheme>
+    <alias>اَلْباشا لِتِجارَةِ اَلسَياراتِ الْمُسْتَعْمَلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الباشق للأنظمة الأمنية </grapheme>
+    <alias>اَلْباشِقْ لِلْأَنْظِمَةِ الْأَمْنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الباص العجيب للسياحة </grapheme>
+    <alias>اَلْباصِ الْعَجيبْ لِلسِياحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البانوش للمأكولات البحرية </grapheme>
+    <alias>اَلْبانوشْ لِلْمَأْكولاتِ الْبَحْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الباهية الصحي </grapheme>
+    <alias>اَلْباهِيَةِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البتراء للعناية الطبية </grapheme>
+    <alias>اَلْبَتْرَاِءْ لِلْعِنايَةِ الطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البحري لشوي الاسماك </grapheme>
+    <alias>اَلْبَحْرِيْ لَشويِ الْاَسْماكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البحري للاستشارات الهندسية و التصميم الداخلي </grapheme>
+    <alias>اَلْبَحْرِيْ لِلاسْتِشاراتِ الْهَنْدَسِيَةِ وَ التَصْميمِ الداخِلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البحرين لبيع وشراء الأثاث المستعمل </grapheme>
+    <alias>اَلْبَحْرَيْنْ لِبَيْعِ وَشِراءِ الْأَثاثِ الْمُسْتَعْمَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البحرين للالمنيوم </grapheme>
+    <alias>اَلْبَحْرَيْنْ لِلْاَلْمِنِيومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البحيرة الحمراء للهواتف المتحركة </grapheme>
+    <alias>اَلْبُحَيْرَةِ الْحَمْرَاِءْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البحيرة الطبي </grapheme>
+    <alias>اَلْبُحَيْرَةِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البحيرة لتعليم قيادة السيارات </grapheme>
+    <alias>اَلْبُحَيْرَةْ لِتَعْليمِ قِيادَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البحيرة للشقق الفندقية </grapheme>
+    <alias>اَلْبُحَيْرَةْ لِلشُقَقْ اَلْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البداد العالمية </grapheme>
+    <alias>اَلْبَدادِ الْعالَمِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البداير لتجارة الدراجات النارية </grapheme>
+    <alias>اَلْبَدايِرْ لِتِجارَةِ الدَراجاتِ النارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البدر الطبي </grapheme>
+    <alias>اَلْبَدْرِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البدر للطباعة وتخليص المعاملات </grapheme>
+    <alias>اَلْبَدَرْ لِلطِباعَةِ وَتْخَليصِ الْمُعامَلاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البدر الجديد لقطع غيار السيارات </grapheme>
+    <alias>اَلْبَدْرْ الْجَديدْ لْقِطَعْ غِيارْ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البدوي لتجارة السكراب </grapheme>
+    <alias>اَلْبَدَوِيْ لِتِجارَةْ اَلسِكْرابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البدية الصحي </grapheme>
+    <alias>اَلْبَدِيَةْ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البديع للنظارات </grapheme>
+    <alias>اَلْبَديعِ لِلْنَظاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البر والبحر لتجارة الاواني المنزلية </grapheme>
+    <alias>اَلْبَرِ والْبَحْرْ لِتِجارَةْ اَلْاَوانِيِ الْمَنْزِلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البراءة لاستقدام اليد العاملة </grapheme>
+    <alias>اَلْبَراءَةِ لِاِسْتِقْدامِ الْيَدِ الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البراجيل التراثية للاستشارات الهندسية </grapheme>
+    <alias>اَلْبَراجيلِ التُراثِيَةِ لِلاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البراجيل لغسيل السيارات </grapheme>
+    <alias>اَلْبَراجيلْ لِغَسيلِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البراشي لخياطة وتطريز العبايا </grapheme>
+    <alias>اَلْبَراشي لْخِياطَةِ وَتَطَريزْ الْعَبايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البراق لتأجير السيارات </grapheme>
+    <alias>اَلْبُراقْ لِتَأْجيرِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البراق للنقليات العامة </grapheme>
+    <alias>اَلْبُراقْ لِلْنَقْلِياتِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البرج الطبي </grapheme>
+    <alias>اَلْبُرْجِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البرج لتجارة المواد المنزلية </grapheme>
+    <alias>اَلْبُرْجِ لِتِجارَةْ اَلْمَوادِ الْمَنْزِلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البرج للاستشارات الهندسية </grapheme>
+    <alias>اَلْبُرْجِ لِلاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البرج للهواتف المتحركة </grapheme>
+    <alias>اَلْبُرْجِ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البرزة للحلويات </grapheme>
+    <alias>اَلْبَرْزَةْ لِلْحَلَوِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البرستيج للهواتف المتحركة </grapheme>
+    <alias>اَلْبِرْسْتيجْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البرشاء الصحي </grapheme>
+    <alias>اَلْبَرْشاءِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البرشاء للشقق الفندقية </grapheme>
+    <alias>اَلْبَرْشَاْءْ لِلشُقَقْ الْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البرفيسور السامرائي </grapheme>
+    <alias>اَلْبْرُفيسورِ السامِرائِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البرق للكمبيوتر </grapheme>
+    <alias>اَلْبَرْقْ لِلْكُمْبِيوتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البركان الذهبي كافيه </grapheme>
+    <alias>اَلْبُرْكانْ الذَهَبِيْ كافَيْهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البركة لتجارة الهواتف المتحركة </grapheme>
+    <alias>اَلْبَرَكَةْ لِتِجارَةْ اَلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البركة للمشاوي </grapheme>
+    <alias>اَلْبَرَكَةِ لِلْمَشاوي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البرنس للهواتف المتحركة </grapheme>
+    <alias>اَلْبْرِنْسْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البرواز لوسطاء التأمين </grapheme>
+    <alias>اَلْبُرُوازْ لِوَسَطاءِ التَأْمينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البروج للأوراق المالية </grapheme>
+    <alias>اَلْبُروجِ لِلْأَوْراقِ الْمالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البريد الالكتروني </grapheme>
+    <alias>اَلْبَريدِ الْاِلِكْتْرونِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البريق لزينة السيارات وعمل المفاتيح </grapheme>
+    <alias>اَلْبَريقْ لَزينَةِ السَياراتِ وَعَمَلِ الْمَفاتيحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البريمي للهواتف المتحركة </grapheme>
+    <alias>اَلْبْرَيْمي لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البساطة لتجارة مواد البناء </grapheme>
+    <alias>اَلْبَساطَةْ لِتِجارَةِ مَوادْ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البسام للخزانات </grapheme>
+    <alias>اَلْبَسامْ لِلَخَزاناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البسامي للنقل العام </grapheme>
+    <alias>اَلْبَسامي لِلنَقْلِ الْعامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البستان الاحمر لخياطة الملابس النسائية </grapheme>
+    <alias>اَلْبُسْتانْ الْاَحْمَرْ لْخِياطَةِ الْمَلابِسِ النِسائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البستان الطبي </grapheme>
+    <alias>اَلْبُسْتانْ اَلطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البستان لاستقدام الأيدي العاملة </grapheme>
+    <alias>اَلْبُسْتانْ لِاِسْتِقْدامِ الْأَيْدي الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البستان لتجارة مواد البناء </grapheme>
+    <alias>اَلْبُسْتانْ لِتِجارَةِ مَوادْ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البستان لزينة السيارات </grapheme>
+    <alias>اَلْبُسْتانْ لَزينَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البستان للدجاج المقلي </grapheme>
+    <alias>اَلْبُسْتانْ لِلْدَجاجِ الْمَقْلي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البستان للسفر والسياحة والشحن </grapheme>
+    <alias>اَلْبُسْتانْ لِلسَفَرِ والسِياحَةِ والشَحَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البستان للشقق الفندقية </grapheme>
+    <alias>اَلْبُسْتانْ لِلشُقَقْ اَلْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البستان للملبوسات الخليجية </grapheme>
+    <alias>اَلْبُسْتانْ لِلْمَلْبوساتِ الْخَليجِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البسمة العالمية لتنظيف المباني </grapheme>
+    <alias>اَلْبَسْمَةِ الْعالَمِيَةِ لِتَنْظيفِ الْمَباني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البسمة لتنظيف السجاد </grapheme>
+    <alias>اَلْبَسْمَةِ لِتَنْظيفِ السَجادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البسمة لمواد البناء </grapheme>
+    <alias>اَلْبَسْمَةِ لِمَوادَ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البشارة الطبي </grapheme>
+    <alias>اَلْبِشارَةِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البشارة لتوريد الايدي العاملة </grapheme>
+    <alias>اَلْبِشارَةِ لْتَوْريدِ الْاَيْدي الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البشر للشقق الفندقية </grapheme>
+    <alias>اَلْبِشْرِ لِلشُقَقْ اَلْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البشرى لتجارة الأثاث المستعمل </grapheme>
+    <alias>اَلْبُشْرَىْ لِتِجارَةْ اَلْأَثاثِ الْمُسْتَعْمِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البشرى للبصريات </grapheme>
+    <alias>اَلْبُشْرَىْ لِلْبَصَرِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البصريات الكبرى </grapheme>
+    <alias>اَلْبَصَرِياتِ الْكُبْرَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البطحاء للمواد الغذائية </grapheme>
+    <alias>اَلْبَطْحَاْءْ لِلْمَوادِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البطريق لقطع غيار السيارات </grapheme>
+    <alias>اَلْبَطْريقْ لِقِطَعِ غِيارْ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البطل للأقمشة والملابس الجاهزة </grapheme>
+    <alias>اَلْبَطَلْ لِلْأَقْمِشَةِ والْمَلابِسِ الْجاهِزَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البقالة الشعبية </grapheme>
+    <alias>اَلْبِقالَةُ الشَعْبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البلسم الشافي الطبي </grapheme>
+    <alias>اَلْبَلْسَمِ الشافي الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البلسم الطبي </grapheme>
+    <alias>اَلْبَلْسَمِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البلسم لطب الأسنان </grapheme>
+    <alias>اَلْبَلْسَمْ لِطِبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البناء للمقاولات العامة </grapheme>
+    <alias>اَلْبِنَاِءْ لِلْمُقاوَلاتِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البندر للمأكولات الشعبية </grapheme>
+    <alias>اَلْبَنْدَرْ لِلْمْأَكولاتِ الشَعْبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البنفسج لبطاقات الافراح </grapheme>
+    <alias>اَلْبَنَفْسَجْ لْبِطاقاتِ الْاَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البنك الأهلي الكويتي </grapheme>
+    <alias>اَلْبَنْكْ الْأَهْلِيِ الْكُوَيْتي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البنك الاهلي المصري </grapheme>
+    <alias>اَلْبَنْكْ الْاَهْلِيِ الْمِصْرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البنك البريطاني للشرق الاوسط </grapheme>
+    <alias>اَلْبَنْكْ الْبِريطانِيْ لِلشَرْقِ الْاَوْسَطْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البنك التجاري الدولي </grapheme>
+    <alias>اَلْبَنْكْ الْتِجارِيِ الدُوَلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البنك الشعبي المركزي </grapheme>
+    <alias>اَلْبَنْكْ الشَعْبِيِ الْمَرْكَزِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البنك العربي الأفريقي الدولي </grapheme>
+    <alias>اَلْبَنْكْ الْعَرَبِيْ اَلْأِفْريقِيِ الدُوَلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البنك العربي المتحد </grapheme>
+    <alias>اَلْبَنْكْ الْعَرَبِيْ اَلْمُتَحِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البنك الوطني العماني </grapheme>
+    <alias>اَلْبَنْكْ الْوَطَنِيِ الْعُماني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البهجة المنيرة للشيلة والعبايا </grapheme>
+    <alias>اَلْبَهْجَةَ الْمُنيرَةْ لِلْشِيْلَةْ والْعَبايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البوابة الاتحادية للمركبات مركبتي </grapheme>
+    <alias>اَلْبَوابَةِ الاتِحادِيَةِ لِلْمَرْكَباتْ مَرْكَبْتِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البوادي الطبي </grapheme>
+    <alias>اَلْبَوادي الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البوادي لبيع لوازم الرحلات </grapheme>
+    <alias>اَلْبَوادي لِبَيْعِ لَوازِمِ الرِحْلاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البواسل للهواتف المتحركة </grapheme>
+    <alias>اَلْبَواسِلْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيادر للعقارات </grapheme>
+    <alias>اَلْبَيادِرْ لِلْعَقاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيان لتجارة التحف والهدايا </grapheme>
+    <alias>اَلْبَيانْ لِتِجارَةِ اَلتُحَفِ والْهَدايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيان لتجارة معدات المطابخ والمطاعم </grapheme>
+    <alias>اَلْبَيانْ لِتِجارَةِ مُعِداتِ الْمَطابِخِ والْمَطاعِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيان لتجارة معدات وتجهيزات المطاعم </grapheme>
+    <alias>اَلْبَيانْ لِتِجارَةِ مُعِداتِ وَتَجْهيزاتِ الْمَطاعِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيان لتخليص المعاملات </grapheme>
+    <alias>اَلْبَيانْ لَتْخَليصِ الْمُعامَلاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيان لتنقية وتصفية المياه </grapheme>
+    <alias>اَلْبَيانْ لِتَنْقِيَةِ وَتَصْفِيَةِ الْمِياهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيان للحج والعمرة </grapheme>
+    <alias>اَلْبَيانْ لِلْحَجِ والْعُمْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيان للمرطبات </grapheme>
+    <alias>اَلْبَيانْ لِلْمَرُطِباتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت الأخضر التجاري </grapheme>
+    <alias>اَلْبَيْتِ الْأَخْضَرِ التِجارِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت الابيض للمفروشات </grapheme>
+    <alias>اَلْبَيْتِ الْاَبْيَضِ لِلْمَفْروشاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت الاخضر العالمية للتجارة </grapheme>
+    <alias>اَلْبَيْتِ الْاَخْضَرِ الْعالَمِيَةِ لِلتِجارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت الاخضر للمساج </grapheme>
+    <alias>اَلْبَيْتِ الْاَخْضَرِ لِلْمَساجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت الالماني للحمامات والمطابخ </grapheme>
+    <alias>اَلْبَيْتِ الْاَلْمانِيْ لِلْحَماماتِ والْمَطابِخْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت البراق لخدمات التنظيف </grapheme>
+    <alias>اَلْبَيْتِ الْبَراقْ لِخِدْماتِ التَنْظيفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت التايلندي للمساج </grapheme>
+    <alias>اَلْبَيْتِ التايْلَنْدِيْ لِلْمَساجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت الجديد للملابس الرسمية </grapheme>
+    <alias>اَلْبَيْتِ الْجَديدِ لِلْمَلابِسِ الرَسْمِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت الحديث للاستشارات الهندسية </grapheme>
+    <alias>اَلْبَيْتْ الْحَديثِ لِلاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت السعيد للتنجيد </grapheme>
+    <alias>اَلْبَيْتْ الْسَعيدْ لِلْتَنْجيدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت السوري لتجارة المواد الغذائية </grapheme>
+    <alias>اَلْبَيْتْ الْسورِيْ لِتِجارَةِ اَلْمَوادِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت السوري للفطائر </grapheme>
+    <alias>اَلْبَيْتِ الْسورِيْ لِلْفَطائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت الشامي لتجارة الزهور </grapheme>
+    <alias>اَلْبَيْتِ الشامي لِتِجارَةِ اَلزُهورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت الشامي للمواد الغذائية </grapheme>
+    <alias>اَلْبَيْتِ الشامي لِلْمَوادِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت الشرقي للزخرفة </grapheme>
+    <alias>اَلْبَيْتِ الشَرْقِيْ لِلزَخْرَفَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت العربي للأثاث و الديكور </grapheme>
+    <alias>اَلْبَيْتِ الْعَرَبِيْ لِلَأَثاثْ وَ الدُيْكورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت العيناوي للديكور </grapheme>
+    <alias>اَلْبَيْتِ الْعيناوِيْ لِلْدِيَكورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت الفاخر لتجارة لوازم التدخين </grapheme>
+    <alias>اَلْبَيْتِ الْفاخِرْ لِتِجارَةِ لَوازِمِ التَدْخينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت القطري لخياطة البراقع </grapheme>
+    <alias>اَلْبَيْتِ الْقَطَرِيْ لِخِياطَةِ الْبَراقِعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت المضيء لإدارة العقارات </grapheme>
+    <alias>اَلْبَيْتِ الْمُضيءْ لِإِدارَةِ الْعَقاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت المغربي للحلويات </grapheme>
+    <alias>اَلْبَيْتِ الْمَغْرِبِيْ لِلْحُلوياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت النجدي للاكلات الشعبية </grapheme>
+    <alias>اَلْبَيْتِ النَجْدْيْ لِلاكَلاتِ الشَعْبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت متوحد لتحفيظ القران الكريم </grapheme>
+    <alias>اَلْبَيْتِ مْتَوْحِدْ لِتَحْفيظِ الْقُرْاَنِ الْكَريمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيت الجميل للعقارات </grapheme>
+    <alias>اَلْبَيْتْ الْجَميلْ لِلْعَقاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيرق الماسي لنقل الركاب بالحافلات </grapheme>
+    <alias>اَلْبَيْرَقِ الْماسي لِنَقْلِ الرُكابِ بِالْحافِلاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> البيرق للسياحة </grapheme>
+    <alias>اَلْبَيْرَقْ لِلسِياحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التأمين الأردنية </grapheme>
+    <alias>اَلتَأْمينِ الْأُرْدُنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التأهيل الخاص </grapheme>
+    <alias>اَلتَأْهيلِ الْخاصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التاج الذهبي لصناعة الإسفنج </grapheme>
+    <alias>اَلتاجِ الذَهَبِيْ لِصِناعَةِ الْإِسْفِنْجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التاج الذهبي للدجاج المقلي </grapheme>
+    <alias>اَلتاجِ الذَهَبِيْ لِلْدَجاجِ الْمَقْلي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التاج الذهبي للهواتف المتحركة </grapheme>
+    <alias>اَلتاجِ الذَهَبِيْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التاج الملكي للمفروشات </grapheme>
+    <alias>اَلتاجِ الْمَلَكِيْ لِلْمَفْروشاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التاج الملكي للوجبات الصحية </grapheme>
+    <alias>اَلتاجِ الْمَلَكِيْ لِلْوَجَباتِ الصِحِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التاج لتجارة خزانات المياه </grapheme>
+    <alias>اَلتاجْ لِتِجارَةِ خَزاناتِ الْمِياهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التاج للخياطة الرجالية </grapheme>
+    <alias>اَلتاجْ لِلْخِياطَةِ الرِجالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التاج للشحن البحري </grapheme>
+    <alias>اَلتاجْ لِلْشَحْنِ الْبَحْرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التبت لتجارة لوازم الخياطة </grapheme>
+    <alias>اَلتِبَتْ لِتِجارَةِ لَوازِمِ الْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التجميل الطبي العالمي </grapheme>
+    <alias>اَلتَجْميلِ الطِبِيِ الْعالَمِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التجهيزات المتحدة لمواد البناء </grapheme>
+    <alias>اَلتَجْهيزاتِ الْمُتَحِدَةِ لِمَوادَ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التجوال للهواتف المتحركة </grapheme>
+    <alias>اَلتِجْوالْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التداوي الطبي </grapheme>
+    <alias>اَلتَداوي الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التدخل السريع </grapheme>
+    <alias>اَلتَدَخُلِ السَريعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التدليك التايلندي للمساج </grapheme>
+    <alias>اَلتَدْليكِ التايْلَنْدِيْ لِلْمَساجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الترا الطبي </grapheme>
+    <alias>اَلْتْرا الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الترا كير الطبي </grapheme>
+    <alias>اَلْتْرا كيرِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التراث العمراني للاستشارات الهندسية </grapheme>
+    <alias>اَلتُراثِ الْعُمْرانِيْ لِلِاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التراث للخياطة الرجالية </grapheme>
+    <alias>اَلتُراثِ لِلْخِياطَةِ الرِجالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التسالي لبيع ألعاب الاطفال الالكترونية </grapheme>
+    <alias>اَلتَسالي لِبَيْعِ أَلْعابِ الْاَطْفالِ الْاِلِكْتُرونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التضامن للتجارة العامة </grapheme>
+    <alias>اَلتَضامُنِ لِلتِجارَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التطريز والخياطة الحديثة </grapheme>
+    <alias>اَلتَطْريزْ والْخِياطَةِ الْحَديثَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التطوير لخياطة الملابس الرجالية والاقمشة </grapheme>
+    <alias>اَلتَطْويرِ لْخِياطَةِ الْمَلابِسِ الرِجالِيَةْ والْاَقْمِشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التعافي الطبي </grapheme>
+    <alias>اَلتَعافي الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التعاون لخدمات توصيل الطلبات </grapheme>
+    <alias>اَلتَعاوُنِ لِخِدْماتِ تَوْصيلِ الطَلَباتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التعليم المبكر </grapheme>
+    <alias>اَلتَعْليمِ الْمُبَكِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التعمير للاستشارات الهندسية </grapheme>
+    <alias>اَلتَعْميرْ لِلاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التقدم لجلب الأيدي العاملة </grapheme>
+    <alias>اَلتَقَدُمِ لِجَلْبِ الْأَيْدي الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التقدير بلازا </grapheme>
+    <alias>اَلتَقْديرْ بْلازا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التقليدية لتصليح وصيانة السيارات </grapheme>
+    <alias>اَلتَقْليدِيَةِ لِتَصْليحْ وَصِيانَةِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التقنيات الهندسية لمكافحة الحشرات </grapheme>
+    <alias>اَلتِقْنِياتْ الْهَنْدَسِيَةْ لِمُكافَحَةِ الْحَشَراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التقوى لتجارة وتصليح الأدوات الكهربائية </grapheme>
+    <alias>اَلتَقْوَىْ لِتِجارَةِ وَتَصْليحِ الْأَدَواتِ الْكَهْرُبائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التكنولوجيا اليابانية لتصليح السيارات </grapheme>
+    <alias>اَلتِكْنولوجِيا الْيابانِيَةِ لِتَصْليحِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التلة الفضية </grapheme>
+    <alias>اَلتَلَةِ الْفِضِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التمام لتجارة الهواتف المتحركة والإلكترونيات </grapheme>
+    <alias>اَلتَمامْ لِتِجارَةِ اَلْهَواتِفِ الْمُتَحَرِكَةِ والْإِلِكْتُرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التمام لتصليح الأجهزة الإلكترونية </grapheme>
+    <alias>اَلتَمامْ لِتَصْليحِ اَلْأَجْهِزَةَ الْإِلِكْتْرونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التمساح لمكافحة الحشرات </grapheme>
+    <alias>اَلتِمْساحِ لِمُكافَحَةِ الْحَشَراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التمور الملكية </grapheme>
+    <alias>اَلتُمورِ الْمَلَكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التميز للرعاية الطبية والصحية المنزلية </grapheme>
+    <alias>اَلتَمَيُزَ لِلرِعايَةِ الطِبِيَةِ والصِحِيَةِ الْمَنْزِلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التميز للغات العالمية </grapheme>
+    <alias>اَلتَمَيُزْ لِلُغاتِ الْعالَمِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التميز للقرطاسية والادوات المكتبية </grapheme>
+    <alias>اَلتَمَيُزْ لِلْقُرْطاسِيَةِ والْاَدَواتِ الْمَكْتَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التميز للمحاماة والاستشارات القانونية </grapheme>
+    <alias>اَلتَمَيُزْ لِلْمُحاماةِ والاسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التميمي للمحاماة والاستشارات القانونية </grapheme>
+    <alias>اَلتَميمِيْ لِلْمُحاماةِ والاسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التنظير الطبي التشخيصي العالمي </grapheme>
+    <alias>اَلتَنْظيرِ الطِبِيِ التَشْخيصِيِ الْعالَمِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التنمية الملكية لأعمال الغاز </grapheme>
+    <alias>اَلتَنْمِيَةِ الْمَلَكِيَةِ لِأَعْمالِ الْغازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التنور الشامي </grapheme>
+    <alias>اَلتَنورِ الشامي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التواصل لاعمال الالمنيوم </grapheme>
+    <alias>اَلتَواصُلِ لِاَعْمالِ الْاَلِمِنْيومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التواصل للهواتف المتحركة </grapheme>
+    <alias>اَلتَواصُلِ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التوت الأزرق </grapheme>
+    <alias>اَلتوتْ الْأَزْرَقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التوت البري للعصائر </grapheme>
+    <alias>اَلتوتِ الْبَرِيْ لِلْعَصائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التوجيه الاسري </grapheme>
+    <alias>اَلتَوْجيهِ الْاُسَرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التوفيق التجارية </grapheme>
+    <alias>اَلتَوْفيقْ التِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> التوفيق للهواتف المتحركة </grapheme>
+    <alias>اَلتَوْفيقْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الثريا لطب وزراعة الأسنان </grapheme>
+    <alias>اَلثُرَيا لِطِبِ وَزِراعَةِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الثريا للخدمات العامة </grapheme>
+    <alias>اَلثُرِيا لِلْخِدْماتِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الثقة لتوريد العمالة </grapheme>
+    <alias>اَلثِقَةْ لِتَوْريدِ الْعَمالَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الثلج الابيض للملابس </grapheme>
+    <alias>اَلثَلْجِ الْاَبْيَضِ لِلْمَلابِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الثوب الابيض الجديد للخياطة </grapheme>
+    <alias>اَلثَوْبْ الْاَبْيَضِ الْجَديدْ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الثوب الابيض للخياطة </grapheme>
+    <alias>اَلثَوْبْ الْاَبْيَضِ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الثوب الاميري للخياطة الرجالية </grapheme>
+    <alias>اَلثَوْبْ الْاَميرِيْ لِلْخِياطَةْ الرِجالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الثوب الخاص للخياطة الرجالية </grapheme>
+    <alias>اَلثَوْبْ الْخاصْ لِلْخِياطَةِ الرِجالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الثوب الرفيع للخياطة الرجالية </grapheme>
+    <alias>اَلثَوْبْ الرَفيعِ لِلْخِياطَةِ الرِجالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الثوب الوسيم للخياطة </grapheme>
+    <alias>اَلثَوْبْ الْوَسيمْ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الثوب الوطني للخياطة </grapheme>
+    <alias>اَلثَوْبْ الْوَطَنِيْ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجامعة الأمريكية </grapheme>
+    <alias>اَلْجامِعَةِ الْأَمْريكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجامعة الجديد للأسنان </grapheme>
+    <alias>اَلْجامِعَةِ الْجَديدْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجامعة الطبي التخصصي </grapheme>
+    <alias>اَلْجامِعَةِ الطِبِيْ التَخَصُصي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجامعة القاسمية </grapheme>
+    <alias>اَلْجامِعَةِ الْقاسِمِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجامعة الكندية </grapheme>
+    <alias>اَلْجامِعَةِ الْكَنَدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجاهلي للتعليم المستمر المتكامل </grapheme>
+    <alias>اَلْجاهِلِيْ لِلتَعْليمِ الْمُسْتَمِرِ الْمُتَكامِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجبل للالكترونيات والهواتف المتحركة </grapheme>
+    <alias>اَلْجَبَلِ لِلِالكْتْرونِياتِ والْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجبلي للخضروات والفواكه </grapheme>
+    <alias>اَلْجَبَلِيْ لِلْخُضَرَواتِ والْفَواكِهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجرائم الإلكترونية </grapheme>
+    <alias>اَلْجَرائِمْ اَلِإْلِكْتْرونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجراح للنقليات العامة وقطر السيارات </grapheme>
+    <alias>اَلْجَراحْ لِلْنَقْلِياتِ الْعامَةِ وَقَطْرِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجرف الصحي </grapheme>
+    <alias>اَلْجَرْفِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجرناس لتوزيع الغاز </grapheme>
+    <alias>اَلْجِرْناسْ لِتَوْزيعِ الْغازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجرنين لمعدات صيد الأسماك والرياضة </grapheme>
+    <alias>اَلْجِرْنينْ لِمُعِداتِ صَيْدِ الْأَسْماكِ والرِياضَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجزائر لتجارة السيارات المستعملة وقطع الغيار </grapheme>
+    <alias>اَلْجَزائِرِ لِتِجارَةِ السَياراتِ الْمُسْتَعْمَلَةِ وَقِطَعِ الْغَيارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجزعة لتجارة الادوات الكهربائية والصحية </grapheme>
+    <alias>اَلْجَزَعَةْ لِتِجارَةِ الْاَدَواتِ الْكَهْرُبائِيَةِ والصِحِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجزيرة الحمراء الصحي </grapheme>
+    <alias>اَلْجَزيرَةُ الْحَمْراءِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجزيرة الحمراء للخضروات والفواكه </grapheme>
+    <alias>اَلْجَزيرَةِ الْحَمْرَاِءْ لِلْخُضَرَواتِ والْفَواكِهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجزيرة الصحي </grapheme>
+    <alias>اَلْجَزيرَةِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجزيرة لاستقدام الايدي العاملة </grapheme>
+    <alias>اَلْجَزيرَةْ لِاِسْتِقْدامِ الْاَيْدي الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجزيرة لاعمال الديكور والاصباغ </grapheme>
+    <alias>اَلْجَزيرَةْ لِاَعْمالِ الدْيْكورْ والْاَصْباغْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجزيرة لتأجير السيارات </grapheme>
+    <alias>اَلْجَزيرَةْ لِتَأْجيرِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجزيرة لتجارة الهواتف المتحركة </grapheme>
+    <alias>اَلْجَزيرَةْ لِتِجارَةِ الْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجزيرة لتحلية المياه </grapheme>
+    <alias>اَلْجَزيرَةْ لِتَحْلِيَةِ الْمِياهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجزيرة لخدمات الأفراح </grapheme>
+    <alias>اَلْجَزيرَةْ لِخِدْماتِ الْأَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجزيرة لخدمات التنظيف وصيانة المباني </grapheme>
+    <alias>اَلْجَزيرَةْ لِخِدْماتِ التَنْظيفِ وَصِيانَةْ الْمَباني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجزيرة للاستشارات الهندسية </grapheme>
+    <alias>اَلْجَزيرَةْ لِلاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجزيرة للمفروشات الحديثة </grapheme>
+    <alias>اَلْجَزيرَةْ لِلْمَفْروشاتِ الْحَديثَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجزيرة للمقاولات العامة </grapheme>
+    <alias>اَلْجَزيرَةِ لِلْمُقاوَلاتِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجزيرة لنسخ المفاتيح </grapheme>
+    <alias>اَلْجَزيرِةْ لِنَسْخِ الْمَفاتيحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجسر لقطر السيارات </grapheme>
+    <alias>اَلْجِسْرِ لِقَطْرِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجسمي العقارية </grapheme>
+    <alias>اَلْجَسْمْيِ الْعَقارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجسمي للهواتف المتحركة </grapheme>
+    <alias>اَلْجَسْمْيْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجسور لمواد البناء </grapheme>
+    <alias>اَلْجُسورِ لِمَوادْ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجلابية المغربية لتجارة الملابس الجاهزة </grapheme>
+    <alias>اَلْجَلابِيَةِ الْمَغْرِبِيَةِ لِتِجارَةِ اَلْمَلابِسِ الْجاهِزَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجلاف لتوريد الايدي العاملة </grapheme>
+    <alias>اَلْجَلافْ لِتَوْريدِ الْاَيْدي الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجلال لصناعات المفاتيح الكهربائية </grapheme>
+    <alias>اَلْجَلالْ لِصِناعاتِ الْمَفاتيحِ الْكَهْرُبائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجليلة لثقافة الطفل </grapheme>
+    <alias>اَلْجَليلَةْ لِثَقافَةِ الطِفْلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجمال الطبي التخصصي </grapheme>
+    <alias>اَلْجَمالِ الطِبِيْ التَخَصُصي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجمال المخملي للتجميل </grapheme>
+    <alias>اَلْجَمالِ الْمُخْمَلي لِلتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجمال للهواتف المتحركة </grapheme>
+    <alias>اَلْجَمالِ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجمل لتأجير السيارات </grapheme>
+    <alias>اَلْجَمَلْ لِتَأْجيرِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجمهور المميز لتجارة قطع غيار السيارات </grapheme>
+    <alias>اَلْجُمْهورِ الْمُمَيَزِ لِتِجارَةِ قِطْعِ غِيارْ اَلسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجميرا لتجارة مواد البناء </grapheme>
+    <alias>اَلْجُميرا لِتِجارَةِ مَوادَ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجندي لتجارة المواد الغذائية </grapheme>
+    <alias>اَلْجِنْدِيْ لِتِجارَةِ اَلْمَوادْ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجندي لطهي الاسماك </grapheme>
+    <alias>اَلْجِنْدِيْ لَطْهَيِ الْاَسْماكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجهات الاربع للنقل الخاص للركاب بالحافلات </grapheme>
+    <alias>اَلْجِهاتِ الْاَرْبَعِ لِلنَقْلِ اَلْخاصْ لِلْرُكابْ بِالْحافِلاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجواد العربي للهواتف المتحركة </grapheme>
+    <alias>اَلْجَوادِ الْعَرَبِيْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجواد للطباعة وتخليص المعاملات </grapheme>
+    <alias>اَلْجَوادِ لِلطِباعَةِ وَتَخْليصِ الْمُعامَلاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجوال الذهبي للهواتف المتحركة </grapheme>
+    <alias>اَلْجَوالِ الذَهَبِيْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجوال الفضي للهواتف المتحركة </grapheme>
+    <alias>اَلْجَوالِ الْفِضِيْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجوال الملكي للهواتف المتحركة </grapheme>
+    <alias>اَلْجَوالِ الْمَلَكِيْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجوال للهواتف المتحركة </grapheme>
+    <alias>اَلْجَوالِ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجواهر للاستشارات الهندسية </grapheme>
+    <alias>اَلْجَواهِرْ لِلاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجود للاستشارات الهندسية </grapheme>
+    <alias>اَلْجودْ لِلاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجودة لاستقدام الأيدي العاملة </grapheme>
+    <alias>اَلْجَوْدَةِ لِاسْتِقْدامِ الْأَيْدي الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجوزاء لمواد البناء </grapheme>
+    <alias>اَلْجَوْزَاْءْ لِمَوادْ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجوهرة الطبي </grapheme>
+    <alias>اَلْجَوْهَرَةِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجوهرة للرشاقة واللياقة البدنية </grapheme>
+    <alias>اَلْجَوْهَرَةْ لِلْرَشاقَةِ والْلياقَةِ الْبَدَنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجير الصحي </grapheme>
+    <alias>اَلْجيرِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجيل الثالث للهواتف المتحركة </grapheme>
+    <alias>اَلْجيلِ الثالِثِ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الجيمي للمواد الكهربائية </grapheme>
+    <alias>اَلْجْيْمْيْ لِلْمَوادِ الْكَهْرُبائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحاتم لتجارة مستحضرات التجميل </grapheme>
+    <alias>اَلْحاتِمْ لِتِجارَةِ مُسْتَحْضَراتِ التَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحاجب لمواد البناء </grapheme>
+    <alias>اَلْحاجِبْ لْمَوادِ البِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحارة لتجارة الشيلة والعبايا </grapheme>
+    <alias>اَلْحارَةْ لِتِجارَةِ الشيلَةْ والْعَبايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحباري للترجمة القانونية والكتابة </grapheme>
+    <alias>اَلْحَباري لِلتَرْجَمَةِ الْقانونِيَةِ والْكِتابَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحباري للهواتف المتحركة </grapheme>
+    <alias>اَلْحَباري لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحبتور لحجوزات الفنادق </grapheme>
+    <alias>اَلْحَبْتورْ لِحُجوزاتِ الْفَنادِقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحجاز للهواتف المتحركة </grapheme>
+    <alias>اَلْحَجازْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحجامة للطب البديل </grapheme>
+    <alias>اَلْحِجامَةِ لِلْطِبِ الْبَديلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحجر الابيض للاسترخاء والتدليك </grapheme>
+    <alias>اَلْحَجَرِ الْاَبْيَضِ لِلْاِسْتِرْخاءِ والتَدْليكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحد الأقصى </grapheme>
+    <alias>اَلْحَدِ الْأَقْصَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحداد للتجارة العامة وتوزيع الغاز </grapheme>
+    <alias>اَلْحَدادِ لِلتِجارَةِ الْعامَةِ وَتَوْزيعِ الْغازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحديبة الطبي </grapheme>
+    <alias>اَلْحُديبَةِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحذاء الذهبي </grapheme>
+    <alias>اَلْحِذاءِ الذَهَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحراصي للحلوى العمانية </grapheme>
+    <alias>اَلْحَراصي لِلْحَلْوَىْ الْعُمانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحريري للهواتف المتحركة </grapheme>
+    <alias>اَلْحَريرِيْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحزام الاخضر </grapheme>
+    <alias>اَلْحِزامُ الْاَخْضَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحزام الأخضر الفني لميزان السيارات </grapheme>
+    <alias>اَلْحِزامْ الْأَخْضَرْ الْفَني لْميزانِ اَلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحساب الرئيسي </grapheme>
+    <alias>اَلْحِسابِ الرَئيسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحسناء المغربية للخياطة والتطريز </grapheme>
+    <alias>اَلْحَسْناءِ الْمَغْرِبِيَةِ لِلْخِياطَةِ والتَطْريزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحسنة للمواد الغذائية </grapheme>
+    <alias>اَلْحَسَنَةْ لِلْمَوادِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحسوني لبيع الخضروات والفواكه </grapheme>
+    <alias>اَلْحَسونِيْ لِبَيْعِ الْخُضْرَواتِ والْفَواكِهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحصن الطبي </grapheme>
+    <alias>اَلْحِصْنُ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحصن الطبي لجراحة اليوم الواحد </grapheme>
+    <alias>اَلْحِصْنُ الطِبِيْ لِجْراحَةِ الْيَوْمِ الْواحِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحصن للاستشارات الهندسية </grapheme>
+    <alias>اَلْحِصْنْ لِلاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحظيرة للدواجن الطازجة ومنتجاتها </grapheme>
+    <alias>اَلْحَظيرَةْ لِلدَواجِنِ الطازِجَةْ وَمُنْتَجاتِها</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحفية لصون البيئة الجبلية </grapheme>
+    <alias>اَلْحَفِيَةْ لِصونِ الْبيئَةِ الْجَبَلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحفيتي لبيع وتصليح الاطارات </grapheme>
+    <alias>اَلْحَفيتي لِبَيْعِ وَتَصْليحِ الْاِطاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحكمة الطبي </grapheme>
+    <alias>اَلْحِكْمَةِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحكمة الطبي التخصصي </grapheme>
+    <alias>اَلْحِكْمَةِ الطِبِيْ اَلتَخَصُصي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحكمة الطبي للتأهيل والعلاج الطبيعي </grapheme>
+    <alias>اَلْحِكْمَةِ الطِبِيْ لِلْتَأْهيلِ والْعِلاجِ الطَبيعِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحل لنسخ الخرائط والرسومات </grapheme>
+    <alias>اَلْحَلْ لِنَسْخِ الْخَرائِطِ والرُسوماتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحلاة الصحي </grapheme>
+    <alias>اَلْحَلاةْ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحلبي للتبريد والمعدات المطبخية </grapheme>
+    <alias>اَلْحَلَبِيْ لِلْتَبْريدْ والْمُعَداتِ الْمَطْبَخِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحلم الذهبي للهواتف المتحركة </grapheme>
+    <alias>اَلْحُلْمِ الذَهَبِيْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحليمة الطبي </grapheme>
+    <alias>اَلْحَليمَةِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحمادي </grapheme>
+    <alias>اَلْحَمادي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحمداني للحلويات المغربية </grapheme>
+    <alias>اَلْحَمْدانِيْ لِلْحُلوياتِ الْمَغْرِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحمدانية للملابس الرجالية </grapheme>
+    <alias>اَلْحَمْدانِيَةْ لِلْمَلابِسِ الرِجالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحمرانية الصحي </grapheme>
+    <alias>اَلْحَمْرانِيَةِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحمرية الصحي </grapheme>
+    <alias>اَلْحَمَرِيَةِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحمرية لشفط المجاري </grapheme>
+    <alias>اَلْحَمْرِيَةْ لِشَفْطِ الْمَجاري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحموي لتجارة المواد الغذائية </grapheme>
+    <alias>اَلْحَمَوْيْ لِتِجارَةِ اَلْمَوادِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحميدية الصحي </grapheme>
+    <alias>اَلْحَميدِيَةِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحنان لذوي الإعاقة </grapheme>
+    <alias>اَلْحَنانْ لِذَوي الْإِعاقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحنطوبي لبيع الغاز </grapheme>
+    <alias>اَلْحُنْطوبِيْ لِبَيْعِ الْغازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحنطوبي للمحاماة والاستشارات القانونية </grapheme>
+    <alias>اَلْحُنْطوبِيْ لِلْمُحاماةْ والاسْتِشاراتُ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحواج للأقمشة والخياطة الرجالية </grapheme>
+    <alias>اَلْحَواجْ لِلْأَقْمِشَةِ والْخِياطَةِ الرِجالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحوادث البحرية </grapheme>
+    <alias>اَلْحَوادِثِ الْبَحْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحوار للاستشارات الهندسية </grapheme>
+    <alias>اَلْحِوارِ لِلاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحواس الخمس لتجارة الالات الموسيقية </grapheme>
+    <alias>اَلْحَواسِ الْخَمْسِ لِتِجارَةِ اَلْاَلاتِ الْموسيقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحوت لتجارة المواد الغذائية </grapheme>
+    <alias>اَلْحوتْ لِتِجارَةِ اَلْمَوادِ الْغِذائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحوراني للجير الاوتوماتيك </grapheme>
+    <alias>اَلْحورانِيْ لِلْجيرْ الْاوتوماتِيْكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحويلات لبيع الدشات ومستلزماتها </grapheme>
+    <alias>اَلْحُوَيْلاتْ لِبَيْعِ الدِشاتْ وَمُسْتَلْزَماتِها</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحويلات لتصليح الراديو </grapheme>
+    <alias>اَلْحُوَيْلاتْ لِتَصْليحِ الرادَيو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحويلات لمواد البناء </grapheme>
+    <alias>اَلْحُوَيْلاتْ لِمَوادَ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحياة الطبي </grapheme>
+    <alias>اَلْحَياةْ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحيرة لتجارة الهواتف المتحركة </grapheme>
+    <alias>اَلْحَيْرَةْ لِتِجارَةِ اَلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الحيرة للتعليم الثانوي </grapheme>
+    <alias>اَلْحَيْرَةِ لِلتَعْليمِ الثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخاجة الطبي </grapheme>
+    <alias>اَلْخاجَةِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخال لصيانة السيارات والسكراب </grapheme>
+    <alias>اَلْخالْ لِصِيانَةِ السَياراتِ والسِكْرابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخالدية لتوريد الايدي العاملة </grapheme>
+    <alias>اَلْخالِدِيَةْ لِتَوْريدِ الْاَيْدي الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخالدية مول </grapheme>
+    <alias>اَلْخالِدِيَةْ مولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخبرات الفنية لتصليح الكهرباء والمكيفات </grapheme>
+    <alias>اَلْخِبْراتِ الْفَنِيَةِ لِتَصْليحْ اَلْكَهْرُباءِ والْمُكْيْفاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخبرة لتوريد العمالة </grapheme>
+    <alias>اَلْخِبْرَةْ لِتَوْريدِ الْعَمالَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخبير لتنظيف المباني ومكافحة الحشرات </grapheme>
+    <alias>اَلْخَبيرْ لِتَنْظيفِ الْمَباني وَمُكافَحَةِ الْحَشَراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخبيزي لصيانة الدراجات النارية والمائية </grapheme>
+    <alias>اَلْخُبَيْزي لِصِيانَةِ الدَراجاتِ النارِيَةِ والْمائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الختام لخياطة الملابس الرجالية والاقمشة </grapheme>
+    <alias>اَلْخِتامِ لِخْياطَةِ الْمَلابِسِ الرِجالِيَةْ والْاَقْمِشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الختم لتأجير السيارات </grapheme>
+    <alias>اَلْخِتْمِ لِتَأْجيرِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الختم للخياطة الرجالية </grapheme>
+    <alias>اَلْخِتْمَ لِلْخِياطَةَ الْرِجالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخزائن المبتكرة للتجارة </grapheme>
+    <alias>اَلْخَزائِنِ الْمُبْتَكَرَةْ لِلتِجارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخزام الطبي </grapheme>
+    <alias>اَلْخُزامِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخزان الصحي </grapheme>
+    <alias>اَلْخَزانِ الصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخزرجي للمحاماة والاستشارات القانونية </grapheme>
+    <alias>اَلْخَزْرَجِيْ لِلْمُحاماةْ والاسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخزف لتجارة الأدوات الصحية </grapheme>
+    <alias>اَلْخَزَفْ لِتِجارَةِ اَلْأَدَواتِ الصِحِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخزنة الدولية للمحاماة والاستشارات القانونية </grapheme>
+    <alias>اَلْخَزَنَةِ الدُوَلِيَةِ لِلْمُحاماةْ والاسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخزنة لخياطة العبايات وتطريزها </grapheme>
+    <alias>اَلْخَزْنَةْ لْخِياطَةِ الْعَباياتْ وَتَطَريزِها</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخضرا للادوات الكهربائية والالكترونية </grapheme>
+    <alias>اَلْخِضْرا لِلْاَدَواتِ الْكَهْرُبائِيَةِ وِالِالكْتْرونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخط الأحمر لتأجير السيارات </grapheme>
+    <alias>اَلْخَطِ الْأَحْمَرِ لِتَأْجيرِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخط الساخن للاتصالات </grapheme>
+    <alias>اَلْخَطِ الساخِنِ لِلاتِصالاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخط الساخن للهواتف المتحركة </grapheme>
+    <alias>اَلْخَطِ الساخِنِ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخط السريع لقطر السيارات </grapheme>
+    <alias>اَلْخَطِ السَريعِ لْقَطْرِ السَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخط الفضي للهواتف المتحركة </grapheme>
+    <alias>اَلْخَطِ الْفِضِيْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخط الملكي لتجارة الهواتف المتحركة </grapheme>
+    <alias>اَلْخَطْ الْمَلَكي لِتِجارَةِ الْهَواتِفْ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخطوة لخدمات توظيف وتوريد العمالة </grapheme>
+    <alias>اَلْخُطْوَةْ لِخِدْماتِ تَوْظيفِ وَتَوْريدِ الْعَمالَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخطوط الجوية الاثيوبية </grapheme>
+    <alias>اَلْخُطوطِ الْجَوِيَةِ الْاَثْيوبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخطوط الجوية الاذربيجانية </grapheme>
+    <alias>اَلْخُطوطِ الْجَوِيَةِ الْاَذَرَبيجانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخطوط الجوية الايطالية </grapheme>
+    <alias>اَلْخُطوطِ الْجَوِيَةِ الْاْيْطالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخطوط الجوية الباكستانية </grapheme>
+    <alias>اَلْخُطوطِ الْجَوِيَةِ الْباكِسْتانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخطوط الجوية البريطانية </grapheme>
+    <alias>اَلْخُطوطِ الْجَوِيَةِ الْبِريطانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخطوط الجوية التايلاندية </grapheme>
+    <alias>اَلْخُطوطِ الْجَوِيَةِ التايْلانْدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخطوط الجوية التركية </grapheme>
+    <alias>اَلْخُطوطِ الْجَوِيَةِ التُرْكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخطوط الجوية السعودية </grapheme>
+    <alias>اَلْخُطوطِ الْجَوِيَةِ السُعودِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخطوط الجوية السودانية </grapheme>
+    <alias>اَلْخُطوطِ الْجَوِيَةِ السودانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخطوط الجوية العراقية </grapheme>
+    <alias>اَلْخُطوطِ الْجَوِيَةِ الْعِراقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخطوط الجوية الفرنسية </grapheme>
+    <alias>اَلْخُطوطِ الْجَوِيَةِ الْفَرَنْسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخطوط الجوية القطرية </grapheme>
+    <alias>اَلْخُطوطِ الْجَوِيَةِ الْقَطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخطوط الجوية الملكية الهولندية </grapheme>
+    <alias>اَلْخُطوطِ الْجَوِيَةِ الْمَلَكِيَةْ الْهولَنْدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخطوط الجوية اليمنية </grapheme>
+    <alias>اَلْخُطوطِ الْجَوِيَةِ الْيَمَنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخطوط الملكية الأردنية </grapheme>
+    <alias>اَلْخُطوطِ الْمَلَكِيَةْ الْأُرْدُنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخطيب الطبي </grapheme>
+    <alias>اَلْخَطيبُ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخفايف الذهبية </grapheme>
+    <alias>اَلْخَفايِفِ الذَهَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخلايلة الطبي </grapheme>
+    <alias>اَلْخَلايِلَةِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخلوج للأزياء النسائية </grapheme>
+    <alias>اَلْخُلوجْ لِلَأَزِياءِ النِسائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخليبية الصحي </grapheme>
+    <alias>اَلْخُلَيْبِيَةِ الْصِحِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخليج الأول الطبي </grapheme>
+    <alias>اَلْخَليجِ الْأَوَلِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخليج الاول للصرافة </grapheme>
+    <alias>اَلْخَليجِ الْاَوَلِ لِلْصِرافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخليج التشخيصي </grapheme>
+    <alias>اَلْخَليجِ التَشْخيصِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخليج الدولي للاورام </grapheme>
+    <alias>اَلْخَليجِ الدَوْلِيْ لِلْاَوْرامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخليج الطبي </grapheme>
+    <alias>اَلْخَليجِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخليج الطبي الجديد </grapheme>
+    <alias>اَلْخَليجِ الطِبِيْ اَلْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخليج العربي دكتورة مريم العوبد </grapheme>
+    <alias>اَلْخَليجِ الْعَرَبِيْ دُكْتورَةْ مَرْيَمَ الْعَوْبَدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخليج لتجارة السكراب المعادن </grapheme>
+    <alias>اَلْخَليجِ لِتِجارَةِ اَلسِكْرابِ الْمَعادِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخليج للتدريب الفني والسلامة </grapheme>
+    <alias>اَلْخَليجِ لِلتَدْريبِ الْفَنِيْ والسَلامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخليج للصناعات البلاستيكية </grapheme>
+    <alias>اَلْخَليجِ لِلصِناعاتِ الْبْلاسْتيكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخليج للصناعات الدوائية جلفار </grapheme>
+    <alias>اَلْخَليجِ لِلصِناعاتِ الدَوائِيَةِ جِلْفارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخليج للنقل البري </grapheme>
+    <alias>اَلْخَليجِ لِلنَقْلِ الْبَرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخليج لمعدات النظافة </grapheme>
+    <alias>اَلْخَليجِ لِمُعِداتِ النَظافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخليج للضيافة </grapheme>
+    <alias>اَلْخَليجْ لِلْضِيافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخماسية لبيع مواد البناء </grapheme>
+    <alias>اَلْخُماسِيَةِ لِبَيْعِ مَوادْ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخواهر لتجارة المواد الكيماوية </grapheme>
+    <alias>اَلْخَواهِرْ لِتِجارَةِ اَلْمَوادِ الْكيماوِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخور لتجارة الهواتف المتحركة </grapheme>
+    <alias>اَلْخورْ لِتِجارَةِ اَلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخور لسحب المجاري </grapheme>
+    <alias>اَلْخورْ لِسَحْبِ الْمَجاري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخياط الشاكر لازياء السيدات </grapheme>
+    <alias>اَلْخَياطْ الشاكِرْ لِاِزْياءِ السَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخياط العربي الاصيل </grapheme>
+    <alias>اَلْخَياطْ الْعَرَبِيِ الْاَصيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخياط العربي الزعيم للرجال </grapheme>
+    <alias>اَلْخَياطُ الْعَرَبِيِ الزَعيمِ لِلرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخياط العربي الممتاز للرجال </grapheme>
+    <alias>اَلْخَياطْ الْعَرَبِيِ الْمُمْتازِ لِلرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخياط العربي المميز للرجال </grapheme>
+    <alias>اَلْخَياطْ الْعَرَبِيِ الْمُمَيَزِ لِلرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخياط الملكي الخاص للرجال </grapheme>
+    <alias>اَلْخَياطْ الْمَلَكِيْ اَلْخاصْ لِلرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخياط الممتاز لخياطة الملابس النسائية </grapheme>
+    <alias>اَلْخَياطْ الْمُمْتازِ لِخْياطَةِ الْمَلابِسِ الْنِسائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخياط الوطني </grapheme>
+    <alias>اَلْخَياطْ الْوَطَنِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخياط انوار الحق </grapheme>
+    <alias>اَلْخَياطْ اَنْوارْ الْحَقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخياط زين ألعابدين </grapheme>
+    <alias>اَلْخَياطْ زَيْنِ أْلْعابِدينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخياط عيناوي الحديث </grapheme>
+    <alias>اَلْخَياطْ عَيْناوِيِ الْحَديثْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخياط الممتاز </grapheme>
+    <alias>اَلْخَياطْ الْمُمْتازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخياط محبوب علي الحديث </grapheme>
+    <alias>اَلْخَياطْ مَحْبوبْ عَلي الْحَديثْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخيال للهواتف المتحركة </grapheme>
+    <alias>اَلْخَيالِ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخيام للطباعة وتصوير المستندات </grapheme>
+    <alias>اَلْخَيامِ لِلطِباعَةِ وَتَصْويرِ الْمُسْتَنَداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخيط الأبيض لخياطة الملابس الرجالية وبيع الأقمشة </grapheme>
+    <alias>اَلْخَيْطْ الْأَبْيَضْ لِخْياطَةِ الْمَلابِسِ الْرِجالِيَةْ وَبِيْعِ الْأَقْمِشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخيط الابيض للملابس والخياطة </grapheme>
+    <alias>اَلْخَيْطِ الْاَبْيَضِ لِلْمَلابِسِ والْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخيط الرصاصي للخياطة النسائية </grapheme>
+    <alias>اَلْخَيْطِ الرَصاصي لِلْخِياطَةِ الْنِسائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخيط الوردي للخياطة والتطريز </grapheme>
+    <alias>اَلْخَيْطِ الْوَرْدِيْ لِلْخِياطَةْ والتَطْريزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الخيمة الماسية لخدمات الافراح </grapheme>
+    <alias>اَلْخَيْمَةِ الْماسِيَةْ لِخِدْماتِ الْاَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الدار لاستقدام الايدي العاملة </grapheme>
+    <alias>اَلدارِ لِاسْتِقْدامِ الْاَيْدي الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الدار للشقق الفندقية </grapheme>
+    <alias>اَلدارْ لِلشُقَقِ الْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الدانة الطبي </grapheme>
+    <alias>اَلدانَةِ الطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الدانة الطبي التخصصي </grapheme>
+    <alias>اَلدانَةِ الطِبِيْ اَلتَخَصُصي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الدانة العربية للاستشارات الهندسية </grapheme>
+    <alias>اَلدانَةْ الْعَرَبِيَةْ لِلاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الدانة لتوريد العمالة </grapheme>
+    <alias>اَلدانَةْ لِتَوْريدِ الْعَمالَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الدانة لخدمات الأفراح </grapheme>
+    <alias>اَلدانَةْ لْخِدْماتَ الْأَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الدانوب للتجارة العامة </grapheme>
+    <alias>اَلدانوبْ لِلتِجارَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الدباغ لتجارة اللحوم و الجلود </grapheme>
+    <alias>اَلدَباغْ لِتِجارَةِ اَلُلحومْ وَ الْجِلودْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الدبلوماسي لنسخ المفاتيح </grapheme>
+    <alias>اَلدِبْلوماسِيْ لِنَسْخِ الْمَفاتيحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> الدجاج التركي </grapheme>
+    <alias>اَلدَجاجِ التُرْكِيْ</alias>
+  </lexeme>
+</lexicon>
