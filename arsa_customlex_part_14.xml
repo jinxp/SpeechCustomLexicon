@@ -1,0 +1,1808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="ar-SA">
+  <lexeme>
+    <grapheme> عمان الطبي </grapheme>
+    <alias>عَمانَ الْطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عمان لقطع غيار السيارات </grapheme>
+    <alias>عَمانِ لِقِطَعِ غِيارِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عمان ناشونال للإلكترونيات </grapheme>
+    <alias>عُمانْ ناشونالْ لِلْإِلِكْتِرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عمر كريش </grapheme>
+    <alias>عُمَرْ كْرَيْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عمليات شرطة دبي </grapheme>
+    <alias>عَمَلِياتْ شُرْطَةْ دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عمير بن يوسف واولاده </grapheme>
+    <alias>عُميرْ بِنْ يوسُفْ وَاَوْلادُهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عميلنا العزيز </grapheme>
+    <alias>عَمْيْلُنا الْعَزيزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عميلنا العزيز، لقد تواصلت مع خدمة عملاء الأفراد </grapheme>
+    <alias>عَمِيِلُنا الْعَزيزْ، لَقَدْ تَواصَلْتَ مَعَ خِدْمَةِ عُمَلَاَءْ الْأَفْرادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عن شيئ اخر </grapheme>
+    <alias>عَنْ شيئٍ اَخِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عن طريق تسجيل الدخول إلى تطبيق </grapheme>
+    <alias>عَنْ طَريقِ تَسْجيلْ اَلْدُخولِ إِلَىْ تَطْبيقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عن طريقي </grapheme>
+    <alias>عِنْ طَريقي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عن هويتك </grapheme>
+    <alias>عَنْ هُوْيَتِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عنب بيروت </grapheme>
+    <alias>عِنَبْ بَيْروتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عنب وتوت للعصائر </grapheme>
+    <alias>عِنَبْ وُتْوُتْ لِلْعَصائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عواودة لقطع غيار السيارات </grapheme>
+    <alias>عَواوِدَةْ لِقِطَعِ غِيارِ اَلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عويس لتقويم الأسنان </grapheme>
+    <alias>عُوَيْسْ لِتَقْويمِ اَلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادات أمبر </grapheme>
+    <alias>عِياداتِ أَمْبَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة آبل </grapheme>
+    <alias>عِيادَةْ آبَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة أفضل ابتسامة للأسنان </grapheme>
+    <alias>عِيادَةْ أَفْضَلْ اِبْتِسامَةْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة أنسام للأسنان </grapheme>
+    <alias>عِيادَةْ أَنْسامْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة إنفينيتي للأسنان </grapheme>
+    <alias>عِيادَةْ إِنْفينَيْتِيْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ابتسامة جميرا </grapheme>
+    <alias>عِيادَةْ اِبْتِسامَةِ جُمْيَرا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ابولونيا للأسنان </grapheme>
+    <alias>عِيادَةْ اَبولونَيا لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة اجمل بسمة للأسنان </grapheme>
+    <alias>عِيادَةْ اَجْمَلِ بَسْمَةْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ادفانسد للعيون </grapheme>
+    <alias>عِيادَةْ اَدْفانْسِدْ لِلْعُيونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة اريا </grapheme>
+    <alias>عِيادَةْ اَرْيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ازهار للأسنان </grapheme>
+    <alias>عِيادَةْ اَزْهارْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة اسثتيك للجلدية </grapheme>
+    <alias>عِيادَةْ اِسْثِتيكْ لِلْجِلْدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة اكسبرس غياثي </grapheme>
+    <alias>عِيادَةْ اَكْسْبْرِسْ غَياثي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الأندلس للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْأَنْدَلُسِ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الإمارات للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْإِماراتِ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الإمارات للعيون </grapheme>
+    <alias>عِيادَةْ اَلْإِماراتِ لِلْعُيونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الاصداف للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْاَصْدافْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الاطباء </grapheme>
+    <alias>عِيادَةْ اَلْاَطِباءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة البحري للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْبَحْرِيْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة البدع </grapheme>
+    <alias>عِيادَةِ الْبِدَعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة البدية </grapheme>
+    <alias>عِيادَةْ اَلْبَدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة البرج للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْبُرْجِ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة البشاير للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْبَشايِرْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة البشير </grapheme>
+    <alias>عِيادَةْ اَلْبَشيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الجازبير </grapheme>
+    <alias>عِيادَةْ اَلْجازْبيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الجامعة للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْجامِعَةِ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الجزيرة العربية </grapheme>
+    <alias>عِيادَةْ اَلْجَزيرَةِ الْعَرَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الجندي لتقويم الأسنان </grapheme>
+    <alias>عِيادَةْ اَلْجِنْدِيْ لِتَقْويمِ اَلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الحجار للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْحَجارْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الحكمة للطب النفسي </grapheme>
+    <alias>عِيادَةْ اَلْحِكْمَةِ لِلْطِبِ الْنَفْسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور تبريزي للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورْ تَبْريزِيْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور جوي للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورْ جويْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور حسن محمد فائق </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورْ حَسَنْ مُحَمَدْ فائِقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور صالح محمد صالح </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورْ صالْحْ مُحَمَدْ صالِحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور طارق صالح </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورْ طارَقْ صالِحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور طاهر حسن خليل </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورْ طاهِرْ حَسَنْ خَليلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور عبدالله سمرين </grapheme>
+    <alias>عِيادَةَ الْدُكْتورُ عَبْدالْلَهْ سْمَرينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور عبدالله عزام لطب الأطفال </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورْ عَبْدالَلْهْ عَزامْ لِطِبِ الْأَطْفالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور عزام العبدالرزاق </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورْ عَزامْ اَلْعَبْدِالْرَزاقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور علي التكمجي </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورْ عَلي اَلْتُكْمَجِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور فايز حداد </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورْ فايِزْ حَدادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور محمد الزبيدي </grapheme>
+    <alias>عِيادَةَ الْدُكْتورُ مُحَمَدِ الْزُبَيْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور محمود مرسي للانف والاذن والحنجرة </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورْ مَحْمودْ مُرْسي لِلْاَنْفْ والْاُذُنْ والْحُنْجُرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور موراني لتقويم الأسنان </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورْ مورانِيْ لِتَقْويمِ اَلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور موراني للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورْ مورانِيْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور موسى السلوادي للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورْ موسَىْ الْسِلْوادِيْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور نعمت عبدالمنعم للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورْ نَعْمَتْ عَبْدالْمُنْعِمْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور ولاء فخر </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورْ وَلَاْءْ فَخَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتور يوسف حلمي خزام </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورْ يوسِفْ حِلْمي خُزامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة أمينة الأميري </grapheme>
+    <alias>عِيادَةَ الْدُكْتورَةْ أَمينَةْ اَلْأَمَيْري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة إم كيه أمينة </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورَةْ إِمْ كيهْ أَمينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة اليسار خوري </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورَةْ اَلْيَسارْ خُوْرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة جميلة </grapheme>
+    <alias>عِيادَةَ الْدُكْتورَةْ جَميلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة رادانا </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورَةْ رادانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة روزان حميداني للامراض الجلدية والتجميل </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورَةْ روزانْ حُمَيْدانِيْ لِلْاَمْراضِ الْجِلْدِيَةُ والْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة سامية خضر الطبية </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورَةْ سامِيَةْ خَضْرْ اَلْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة فاطمة أبوشوك </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورَةْ فاطِمَةْ أَبُوْشوكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة لمى للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورَةْ لَمَىْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة وفاء شلبي </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورَةْ وَفَاْءْ شَلَبْيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الدكتورة يمينة دهيمي </grapheme>
+    <alias>عِيادَةْ اَلْدُكْتورَةْ يَمينَةْ دُهَيْمي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الرحمة </grapheme>
+    <alias>عِيادَةْ اَلْرَحْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الرمس </grapheme>
+    <alias>عِيادَةْ اَلْرَمْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الزوراء </grapheme>
+    <alias>عِيادَةْ اَلْزَوْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الساحل الشرقي </grapheme>
+    <alias>عِيادَةْ اَلْساحِلِ الْشَرْقِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة السعادة الطبية </grapheme>
+    <alias>عِيادَةْ اَلْسَعادَةِ الْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة السلام </grapheme>
+    <alias>عِيادَةَ الْسَلامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة السلامة </grapheme>
+    <alias>عِيادَةَ الْسَلامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة السلوى </grapheme>
+    <alias>عِيادَةَ الْسَلْوَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الشام للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْشامْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الشرطة </grapheme>
+    <alias>عِيادَةْ اَلْشُرْطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الشرق والغرب </grapheme>
+    <alias>عِيادَةْ اَلْشَرْقِ والْغَرْبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الشروق للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْشُروقِ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الشفاء </grapheme>
+    <alias>عِيادَةْ اَلْشِفاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الشفاء الجديدة </grapheme>
+    <alias>عِيادَةْ اَلْشِفَاْءَ الْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الشفاء الطبية </grapheme>
+    <alias>عِيادَةْ اَلْشِفَاْءَ الْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الصباح الطبية </grapheme>
+    <alias>عِيادَةِ الْصَباحِ الْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الصديق </grapheme>
+    <alias>عِيادَةَ الْصِديقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الصراف التخصصية </grapheme>
+    <alias>عِيادَةْ اَلْصَرافِ الْتَخَصُصِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الصفاء </grapheme>
+    <alias>عِيادَةْ الْصَفاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الصفوة التخصصية للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْصَفْوَةِ الْتَخَصُصِيَةِ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الطب النفسي </grapheme>
+    <alias>عِيادَةَ الْطِبِ الْنَفْسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الظاهري </grapheme>
+    <alias>عِيادَةْ اَلْظاهِرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الظفرة التخصصية للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْظَفْرَةِ الْتَخَصُصِيَةِ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الظفرة الحديثة </grapheme>
+    <alias>عِيادَةْ اَلْظَفْرَةِ الْحَديثَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة العائلة </grapheme>
+    <alias>عِيادَةَ الْعائِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة العبرة </grapheme>
+    <alias>عِيادَةْ اَلْعَبَرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة العناية التخصصية البيطرية </grapheme>
+    <alias>عِيادَةْ اَلْعِنايَةِ الْتَخَصُصِيَةِ اَلْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة العناية الطبية </grapheme>
+    <alias>عِيادَةَ الْعِنايَةِ الْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة العهد </grapheme>
+    <alias>عِيادَةْ اَلْعَهْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة العين الطبية الجديدة </grapheme>
+    <alias>عِيادَةْ اَلْعَيْنِ الْطِبِيَةِ الْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الفارابي </grapheme>
+    <alias>عِيادَةْ اَلْفارابِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الفارابي الطبية </grapheme>
+    <alias>عِيادَةْ اَلْفارابِيْ اَلْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الفرحان </grapheme>
+    <alias>عِيادَةْ اَلْفَرَحانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة اللسيلي </grapheme>
+    <alias>عِيادَةْ اَلْلُسَيْلي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الماسة للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْماسَةِ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة المحيصنة </grapheme>
+    <alias>عِيادَةْ اَلْمُحَيْصِنَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة المدينة </grapheme>
+    <alias>عِيادَةِ اَلْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة المستقبل للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْمُسْتَقْبَلِ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة المعيريض </grapheme>
+    <alias>عِيادَةْ اَلْمَعْيْريضْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة المنارة للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْمَنارَةْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة المنال للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْمَنالْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة المنصور الطبية </grapheme>
+    <alias>عِيادَةْ اَلْمَنْصورِ الْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة المها البيطرية </grapheme>
+    <alias>عِيادَةْ اَلْمَهَاَ الْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة المهدي الطبية </grapheme>
+    <alias>عِيادَةْ اَلْمَهْدِيِ الْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة النخيل للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْنَخيلْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة النور </grapheme>
+    <alias>عِيادَةَ الْنورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الهاشمي </grapheme>
+    <alias>عِيادَةْ اَلْهاشِمِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الهدى للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْهُدَىْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الوحدة للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْوَحْدَةِ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الوديع للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْوَديعْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الوفاء للأسنان </grapheme>
+    <alias>عِيادَةْ اَلْوَفَاَءْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الوقن </grapheme>
+    <alias>عِيادَةْ اَلْوَقَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة امير الدين </grapheme>
+    <alias>عِيادَةْ اَميرُ الْدينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة اي كير </grapheme>
+    <alias>عِيادَةَ اَيْ كيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ايستمان للأسنان </grapheme>
+    <alias>عِيادَةْ ايسْتْمانْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة باربرا للأسنان </grapheme>
+    <alias>عِيادَةَ بارْبْرا لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة برايت للأسنان </grapheme>
+    <alias>عِيادَةْ بْرايِتْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة برجيل </grapheme>
+    <alias>عِيادَةْ بَرْجيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة بلوم للتجميل والليزر </grapheme>
+    <alias>عِيادَةْ بْلومْ لِلْتَجْميلْ والْلَيْزَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة بورن هول </grapheme>
+    <alias>عِيادَةْ بورْنْ هولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة بومباي </grapheme>
+    <alias>عِيادَةْ بومْبايْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة بيتر الفونسو نيتو للأسنان </grapheme>
+    <alias>عِيادَةْ بْيْتَرْ اَلْفونْسو نيتو لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة بينونة للأسنان </grapheme>
+    <alias>عِيادَةْ بَيْنونَةْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ثومبي ايليت </grapheme>
+    <alias>عِيادَةْ ثُوْمْبِيْ ايليتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة جيسي </grapheme>
+    <alias>عِيادَةْ جَيْسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة حبيب </grapheme>
+    <alias>عِيادَةْ حَبيبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة حيدر اباد </grapheme>
+    <alias>عِيادَةْ حَيْدَرْ اَبادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة حيدر اباد الجديدة </grapheme>
+    <alias>عِيادَةْ حَيْدَرْ اَبادْ اَلْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة خزام </grapheme>
+    <alias>عِيادَةْ خُزامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة دار السلام للأسنان </grapheme>
+    <alias>عِيادَةْ دارْ اَلْسَلامْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة دافنشي للأسنان </grapheme>
+    <alias>عِيادَةْ دافِنْشْيْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة دانة البيطرية </grapheme>
+    <alias>عِيادَةِ دانَةْ الْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة دايموند سمايل للأسنان </grapheme>
+    <alias>عِيادَةْ دايَمونْدْ سْمايِلْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة دبي لندن </grapheme>
+    <alias>عِيادَةَ دُبي لَنْدَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة دكتور إقبال </grapheme>
+    <alias>عِيادَةْ دُكْتورْ إِقْبالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة دكتور ديليب للجلدية والليزر </grapheme>
+    <alias>عِيادَةْ دُكْتورُ دَيْليبْ لِلْجِلْدِيَةِ والْلَيْزَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة دكتور شافي لتقويم الأسنان </grapheme>
+    <alias>عِيادَةْ دُكْتورْ شافي لِتَقْويمْ اَلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة دنت كير </grapheme>
+    <alias>عِيادَةْ دِنْتْ كَيْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ديرما ارت </grapheme>
+    <alias>عِيادَةَ ديرْمَاَ ارَتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ديرماليز </grapheme>
+    <alias>عِيادَةْ ديرْمالَيْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة رضا سوداجر </grapheme>
+    <alias>عِيادَةْ رِضا سوداجَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة روسو للأسنان </grapheme>
+    <alias>عِيادَةْ روسو لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة رويال سيرج </grapheme>
+    <alias>عِيادَةْ رويالْ سَيْرْجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة رويال كراون للأسنان </grapheme>
+    <alias>عِيادَةْ رويالْ كْراوْنْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ريتاج للأسنان </grapheme>
+    <alias>عِيادَةْ ريتاجْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة زينا للأسنان </grapheme>
+    <alias>عِيادَةْ زينا لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة سارة للأسنان </grapheme>
+    <alias>عِيادَةْ سارَةْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ساسيل الطبية </grapheme>
+    <alias>عِيادَةْ ساسيلِ الْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة سبيتار </grapheme>
+    <alias>عِيادَةْ سْبيتارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ستايل سمايل أدفانسد </grapheme>
+    <alias>عِيادَةْ سْتايِلْ سْمايِلْ أَدْفانْسْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة سكن انستيتيوت للامراض الجلدية </grapheme>
+    <alias>عِيادَةْ سْكِنْ اِنِسْتيتْيوتْ لِلْاَمْراضِ الْجِلْدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة سمايل لطب الأسنان </grapheme>
+    <alias>عِيادَةَ سْمايِلْ لَطَبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة سنو للأسنان </grapheme>
+    <alias>عِيادَةْ سْنُوْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة سيتي فيت البيطرية </grapheme>
+    <alias>عِيادَةْ سيتي فيتْ اَلْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة سيجنتشر </grapheme>
+    <alias>عِيادَةْ سْيْجْنَتْشِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة سيلكور الطبية </grapheme>
+    <alias>عِيادَةْ سْيْلْكورْ الْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة شاهين الطبية </grapheme>
+    <alias>عِيادَةْ شاهينْ اَلْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة شرطة أبوظبي </grapheme>
+    <alias>عِيادَةِ شُرْطَةِ أَبوظَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة شرطة دبي </grapheme>
+    <alias>عِيادَةِ شُرْطَةْ دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة صلاح الدين التخصصية </grapheme>
+    <alias>عِيادَةْ صَلاحِ الْدينِ الْتَخَصُصِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة طفلي </grapheme>
+    <alias>عِيادَةْ طِفْلي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة طهران </grapheme>
+    <alias>عِيادَةْ طَهْرانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة عادل مطاوع </grapheme>
+    <alias>عِيادَةْ عادِلْ مُطاوِعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة عاطف للأسنان </grapheme>
+    <alias>عِيادَةْ عاطِفْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة عايدة الطبية </grapheme>
+    <alias>عِيادَةَ عايِدَةْ الْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة عباس حسين للأسنان </grapheme>
+    <alias>عِيادَةْ عَباسْ حُسَيْنْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة عبدالرحمن شهابي </grapheme>
+    <alias>عِيادَةْ عَبْدالْرَحْمَنْ شِهابي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة عصمت للأسنان </grapheme>
+    <alias>عِيادَةْ عِصْمَتْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة عقيل </grapheme>
+    <alias>عِيادَةَ عُقيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة علي الطبية </grapheme>
+    <alias>عِيادَةِ عَلي اَلْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة فاطمة للأسنان </grapheme>
+    <alias>عِيادَةْ فاطِمَةْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة فينيل </grapheme>
+    <alias>عِيادَةْ فْيْنيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة كايا للعناية بالبشرة </grapheme>
+    <alias>عِيادَةْ كايا لِلْعِنايَةِ بِالْبَشْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة كريبا للأسنان </grapheme>
+    <alias>عِيادَةْ كْرْيْبا لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة كلباء البيطرية </grapheme>
+    <alias>عِيادَةْ كَلْبَاْءَ الْبَيْطَرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة كوزميديكس للجلدية والليزر </grapheme>
+    <alias>عِيادَةْ كوزْميديكْسْ لِلْجِلْدِيَةْ والْلَيْزَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة لافي </grapheme>
+    <alias>عِيادَةْ لافي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة لندن الملكية للأسنان </grapheme>
+    <alias>عِيادَةْ لَنْدَنْ اَلْمَلَكِيَةْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ماي فير </grapheme>
+    <alias>عِيادَةْ مايْ فيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة مترو </grapheme>
+    <alias>عِيادَةْ مَتْرو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة مترو للأسنان </grapheme>
+    <alias>عِيادَةْ مِتْرو لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة محمد وسيم لطب الاسنان </grapheme>
+    <alias>عِيادَةْ مُحَمَدْ وَسيمْ لَطَبِ الْاَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة محمود حقي للعيون </grapheme>
+    <alias>عِيادَةْ مَحْمودْ حَقي لِلْعُيونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة مربح </grapheme>
+    <alias>عِيادَةْ مِرْبِحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة مرتضى </grapheme>
+    <alias>عِيادَةْ مُرْتَضَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة مكة الطبي </grapheme>
+    <alias>عِيادَةَ مَكَةْ اْلْطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة مناعي </grapheme>
+    <alias>عِيادَةْ مُناعي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ميد ارت للجراحة </grapheme>
+    <alias>عِيادَةْ ميدْ اَرْتْ لِلْجِراحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ميونخ للأسنان </grapheme>
+    <alias>عِيادَةْ مْيَوْنِخْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ناصر </grapheme>
+    <alias>عِيادَةْ ناصِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة ندى عبدالكريم حمزة للأمراض النسائية </grapheme>
+    <alias>عِيادَةْ نَدَىْ عَبْدالْكَريمْ حَمْزَةْ لِلْأَمْراضِ الْنِسائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة نوفا </grapheme>
+    <alias>عِيادَةْ نوفا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة نيويورك لطب الاسنان </grapheme>
+    <alias>عِيادَةْ نَيْوْيورْكْ لِطَبِ الْاَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة هاي كلاس للأسنان </grapheme>
+    <alias>عِيادَةْ هايْ كْلاسْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة هلا للأسنان </grapheme>
+    <alias>عِيادَةْ هَلا لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة هلال كلباء الطبية </grapheme>
+    <alias>عِيادَةْ هِلالْ كَلْبَاِءْ الْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة هنادي </grapheme>
+    <alias>عِيادَةْ هَنادي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيدان للمندي </grapheme>
+    <alias>عيدانْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيسى الشامسي لادارة الشركات </grapheme>
+    <alias>عيسَىْ الْشامِسِيْ لِاِدارَةِ الْشَرِكاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيسى لتأجير السيارات </grapheme>
+    <alias>عيسَىْ لِتَأْجيرِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيش ولحم </grapheme>
+    <alias>عَيْشْ وَلَحْمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيش وملح </grapheme>
+    <alias>عَيْشْ وَمَلْحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيشة أول </grapheme>
+    <alias>عيشَةْ أَوَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عين الفايضة </grapheme>
+    <alias>عَيْنِ الْفايِضَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عين دارة </grapheme>
+    <alias>عَيْنِ دارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عين دبي </grapheme>
+    <alias>عَيْنِ دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عين عذاري </grapheme>
+    <alias>عَيْنْ عَذاري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيون الخليج للخياطة </grapheme>
+    <alias>عُيونِ الْخَليجْ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيون فون </grapheme>
+    <alias>عُيونْ فونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عَمِيلُنَا الْعَزِيزْ </grapheme>
+    <alias>عَميلُنا الْعَزيزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عَمِيِلُنَا العَزيزْ، لَقَدْ تَواصَلْتَ مَع خِدْمَة عُمَلاء الأفراد </grapheme>
+    <alias>عَمِيِلُنا الْعَزيزْ، لَقَدْ تَواصَلْتَ مَعَ خِدْمَةِ عُمَلَاَءْ الْأَفْرادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عَنْ خدمة </grapheme>
+    <alias>عَنْ خِدْمَةِ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عَنْ خِدْمَةِ </grapheme>
+    <alias>عَنْ خِدْمَةِ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غرفة تجارة وصناعة أبوظبي </grapheme>
+    <alias>غُرْفَةْ تِجارَةْ وَصِناعَةِ أَبوظَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غرفة تجارة وصناعة الشارقة </grapheme>
+    <alias>غُرْفَةْ تِجارَةْ وَصِناعَةِ الْشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غرفة تجارة وصناعة الفجيرة </grapheme>
+    <alias>غُرْفَةْ تِجارَةْ وَصِناعَةِ اَلْفُجَيْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غرفة تجارة وصناعة دبي </grapheme>
+    <alias>غُرْفَةْ تِجارَةْ وَصِناعَةِ دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غرفة تجارة وصناعة عجمان </grapheme>
+    <alias>غُرْفَةْ تِجارَةْ وَصِناعَةِ عَجْمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غرناطة للتطريز </grapheme>
+    <alias>غِرْناطَةْ لِلْتَطْريزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غرنوج لتطريز وخياطة الملابس النسائية والاقمشة </grapheme>
+    <alias>غُرْنوجْ لِتَطْريزْ وِخْياطَةِ الْمَلابِسِ الْنِسائِيَةِ والْاَقْمِشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غسان عبود للسيارات المستعملة </grapheme>
+    <alias>غَسانْ عَبودْ لِلْسَياراتِ اَلْمُسْتَعْمَلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غسان للديكور </grapheme>
+    <alias>غَسانْ لِلْدْيْكورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غلام رسول للإلكترونيات </grapheme>
+    <alias>غُلامْ رَسولْ لِلْإِلِكْتِرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غليلة للخضروات والفواكه </grapheme>
+    <alias>غْليلَةْ لِلْخُضَرَواتِ والْفَواكِهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غنتوت لتأجير السيارات </grapheme>
+    <alias>غُنْتوتْ لِتَأْجيرِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غنيم جميل للطباعة </grapheme>
+    <alias>غُنَيْمْ جَميلْ لِلْطِباعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غواني لتجارة العبايات والشيلة </grapheme>
+    <alias>غَواني لِتِجارَةِ اَلْعَباياتْ والْشَيْلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غواني للأزياء الخليجية للنساء </grapheme>
+    <alias>غَواني لِلَأَزِيَاِءْ الْخَليجِيَةِ لِلْنِساءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غياث للولائم </grapheme>
+    <alias>غَياثْ لِلْوَلائِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غير شامل الضريبة </grapheme>
+    <alias>غَيْرِ شامِلٍ اَلْضَريبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غير شاملة </grapheme>
+    <alias>غَيْرِ شامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غير متطابقة </grapheme>
+    <alias>غَيْرِ مُتَطابِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غيوم المدينة لقطع غيار السيارات </grapheme>
+    <alias>غُيومِ الْمَدينَةِ لِقِطَعِ غِيارِ اَلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غَيْر مُتَطَابِقَة </grapheme>
+    <alias>غَيْرِ مُتَطابِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> غَيْرِ صَحيح </grapheme>
+    <alias>غَيْرِ صَحيحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فارابي هت </grapheme>
+    <alias>فارابي هَتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فارس للتجارة العامة </grapheme>
+    <alias>فارِسْ لِلْتِجارَةِ الْعامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاست تراك للخدمات </grapheme>
+    <alias>فاسْتْ تْراكْ لِلْخِدْماتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاست جوس </grapheme>
+    <alias>فاسْتْ جوسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاست كار لتنجيد وزينة السيارات </grapheme>
+    <alias>فاسْتْ كارْ لِتَنْجيدْ وَزينَةِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاست كير لخدمات التنظيف </grapheme>
+    <alias>فاسْتْ كيرْ لِخِدْماتْ اَلْتَنْظيفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاست لاين لخدمات التنظيف </grapheme>
+    <alias>فاسْتْ لايْنْ لِخِدْماتْ اَلْتَنْظيفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاست لتأجير السيارات </grapheme>
+    <alias>فاسْتْ لِتَأْجيرِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاست للخدمات </grapheme>
+    <alias>فاسْتْ لِلْخِدْماتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاست للخدمات تسهيل </grapheme>
+    <alias>فاسْتْ لِلْخِدْماتْ تَسْهيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاطمة بنت مبارك </grapheme>
+    <alias>فاطِمَةْ بِنْتْ مُبارَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاطمة لتجارة الإلكترونيات </grapheme>
+    <alias>فاطِمَةْ لِتِجارَةِ اَلْإِلِكْتِرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاطمة للتجميل والحناء </grapheme>
+    <alias>فاطِمَةْ لِلْتَجْميلِ والْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاطمة هايبرماركت </grapheme>
+    <alias>فاطِمَةْ هايْبَرْمارْكَتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاكهتي للخضروات والفواكه </grapheme>
+    <alias>فاكَهَتي لِلْخُضَرَواتِ والْفَواكِهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فالكون باك </grapheme>
+    <alias>فالْكونْ باكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فالكون حتا </grapheme>
+    <alias>فالْكونْ حَتا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فالكون سنتر </grapheme>
+    <alias>فالْكونْ سَنْتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاميلي مارت </grapheme>
+    <alias>فامْيْلي مارْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فان ساندويتشز </grapheme>
+    <alias>فانْ سانْدْويتْشِزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فان شاورما </grapheme>
+    <alias>فانْ شاوَرَما</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فانتوم لتأجير السيارات </grapheme>
+    <alias>فانْتومْ لِتَأْجيرِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فانسي للخياطة </grapheme>
+    <alias>فانْسِيْ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فانيليا للتجميل </grapheme>
+    <alias>فانْيْلْيا لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فايف جي </grapheme>
+    <alias>فايْفْ جِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فايف ستارز للحناء والتجميل </grapheme>
+    <alias>فايِفْ سْتارْزْ لِلْحِنَاْءْ والْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاين فود </grapheme>
+    <alias>فايْنْ فودْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاين فير لتجارة الملابس الجاهزة </grapheme>
+    <alias>فايْنْ فيرْ لِتِجارَةِ اَلْمَلابِسِ الْجاهِزَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاين كير </grapheme>
+    <alias>فايْنْ كيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاين للسفر </grapheme>
+    <alias>فايْنْ لِلْسَفَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فاينانشل كيوب </grapheme>
+    <alias>فايْنانْشَلْ كْيوبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فايند سولت برجر </grapheme>
+    <alias>فايْنْدْ سولْتْ بِرْجَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فتة كوارع </grapheme>
+    <alias>فَتَةْ كَوارِعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فتنست للسيدات </grapheme>
+    <alias>فِتْنِسْتْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فتون للخياطة والتطريز </grapheme>
+    <alias>فُتونْ لِلْخِياطَةِ والْتَطْريزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فتيات عجمان </grapheme>
+    <alias>فَتَياتْ عَجْمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فتيات مربح الفجيرة </grapheme>
+    <alias>فَتَياتْ مُرْبِحْ اَلْفُجَيْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فحص المركبات </grapheme>
+    <alias>فَحْصْ اَلْمَرْكَباتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فراري للخياطة </grapheme>
+    <alias>فِراري لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرانس جاليري </grapheme>
+    <alias>فْرانْسْ جاليرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرايز باسكت </grapheme>
+    <alias>فْرايِزْ باسْكَتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرحات الاصلي </grapheme>
+    <alias>فَرَحاتْ اَلْاَصْلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرحان للتجارة </grapheme>
+    <alias>فَرْحانْ لِلْتِجارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فردوس لقطع غيار السيارات </grapheme>
+    <alias>فِرْدَوْسْ لِقِطَعِ غِيارِ اَلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرسان حيفا لتأجير السيارات </grapheme>
+    <alias>فُرْسانْ حيفا لِتَأْجيرِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرسان دبي </grapheme>
+    <alias>فُرْسانْ دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرش درنك للعصائر </grapheme>
+    <alias>فْرَشْ دْرِنْكْ لِلْعَصائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرن وعجينة </grapheme>
+    <alias>فُرْنْ وَعَجينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فرنشيز نيل سبا </grapheme>
+    <alias>فْرَنْشيزْ نَيْلْ سْبُا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فروتس للعصائر الطازجة والمشروبات الساخنة </grapheme>
+    <alias>فْروتْسْ لِلْعَصائِرِ الْطازِجَةْ والْمَشْروباتِ الْساخِنَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فروتس ملكي للعصائر </grapheme>
+    <alias>فْروتْسْ مَلَكي لِلْعَصائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فروتس منعش للعصائر </grapheme>
+    <alias>فْروتْسْ مُنْعِشْ لِلْعَصائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فروتي آند سويت </grapheme>
+    <alias>فْروتِيْ آنْدْ سْوْيْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فروتي للمرطبات </grapheme>
+    <alias>فْروتِيْ لِلْمُرَطِباتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فروتيسكا للعصائر </grapheme>
+    <alias>فْروتيسْكا لِلْعَصائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فروج الشام </grapheme>
+    <alias>فَروجِ الْشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فروج فواز </grapheme>
+    <alias>فَروجْ فَوازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فريج اشحفان </grapheme>
+    <alias>فِريجْ اِشْحِفانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فريج صويلح للمأكولات الكويتية </grapheme>
+    <alias>فِريجْ صويْلِحْ لِلْمَأْكولاتْ اَلْكُوَيْتِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فريدوني للتجارة </grapheme>
+    <alias>فْرْيِدوني لِلْتِجارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فريز ايس كريم </grapheme>
+    <alias>فِريزْ اَيَسْ كْريمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فريز بلانيت لتحضير الحلويات </grapheme>
+    <alias>فْريزْ بْلانيتْ لِتَحْضيرِ الْحُلْوَياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فريسيا للتجميل </grapheme>
+    <alias>فْرْيْسْيا لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فريسيا للزهور </grapheme>
+    <alias>فْرْيْسْيا لِلْزُهورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فريش اند لايت </grapheme>
+    <alias>فْريشْ اَنْدْ لايِتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فريش فروتي للعصائر </grapheme>
+    <alias>فْريشْ فْروتي لِلْعَصائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فزاع للخياطة </grapheme>
+    <alias>فَزاعْ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فش هت </grapheme>
+    <alias>فِشْ هَتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فصل خدمة </grapheme>
+    <alias>فَصْلْ خِدْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر إجديح </grapheme>
+    <alias>فَطائِرْ إِجْدَيْحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر الاصالة </grapheme>
+    <alias>فَطائِرْ اَلْاَصالَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر الخليج </grapheme>
+    <alias>فَطائِرْ الْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر الخليج العربي </grapheme>
+    <alias>فَطائِرْ الْخَليجْ اَلْعَرَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر الدار </grapheme>
+    <alias>فَطائِرْ اَلْدارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر السعادة </grapheme>
+    <alias>فَطائِرْ اَلْسَعادَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر السلطان </grapheme>
+    <alias>فَطائِرْ اَلْسُلْطانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر الشوامخ </grapheme>
+    <alias>فَطائِرْ اَلْشَوامِخْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر الطبيعة </grapheme>
+    <alias>فَطائِرْ اَلْطَبيعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر الطيور </grapheme>
+    <alias>فَطائِرِ الْطُيورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر العافية </grapheme>
+    <alias>فَطائِرْ اَلْعافْيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر المحروسة </grapheme>
+    <alias>فَطائِرْ اَلْمَحْروسَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر المصرية للمأكولات </grapheme>
+    <alias>فَطائِرْ اَلْمِصْرِيَةِ لِلْمَأْكولاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر باستري </grapheme>
+    <alias>فَطائِرْ باسْتْرْيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر تنور زمان </grapheme>
+    <alias>فَطائِرْ تَنورْ زَمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر تيستي كريسبي </grapheme>
+    <alias>فَطائِرْ تيسْتْيْ كْرَيْسْبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر جبن زعتر </grapheme>
+    <alias>فَطائِرْ جُبْنْ زَعْتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر حكاية </grapheme>
+    <alias>فَطائِرْ حِكايَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر خزام </grapheme>
+    <alias>فَطائِرْ خُزامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر خيرات الشام </grapheme>
+    <alias>فَطائِرْ خيراتِ الْشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر زهرة الوادي </grapheme>
+    <alias>فَطائِرْ زَهْرَةَ الْوادي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر سعاد </grapheme>
+    <alias>فَطائِرْ سُعادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر فالكم طيب </grapheme>
+    <alias>فَطائِرْ فالْكُمْ طَيِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر قشطة وعسل </grapheme>
+    <alias>فَطائِرْ قِشْطَةْ وَعَسَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر قصر السلطان </grapheme>
+    <alias>فَطائِرْ قَصْرْ اَلْسُلْطانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطائر نبع الشام </grapheme>
+    <alias>فَطائِرْ نَبْعَ الْشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطاطري الاهرامات </grapheme>
+    <alias>فَطاطِرِيِ الْاَهْراماتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطاير الاجيال </grapheme>
+    <alias>فَطايِرْ اَلْاَجْيالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطاير البحيرة </grapheme>
+    <alias>فَطايِرْ اَلْبُحَيْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطاير الطبيعة </grapheme>
+    <alias>فَطايِرْ اَلْطَبيعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطاير الممتاز </grapheme>
+    <alias>فَطايِرْ اَلْمُمْتازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطاير الوادي </grapheme>
+    <alias>فَطايِرْ اَلْوادي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطاير تلال الشام </grapheme>
+    <alias>فَطايِرْ تِلالِ الْشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطاير ستيشن </grapheme>
+    <alias>فَطايِرْ سْتَيْشِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطاير على الطاير </grapheme>
+    <alias>فَطايِرْ عَلَىْ الْطايِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطاير على ذوقك </grapheme>
+    <alias>فَطايِرْ عَلَىْ ذَوْقَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطاير على كيفك </grapheme>
+    <alias>فَطايِرْ عَلَىْ كَيْفَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطاير ليوا </grapheme>
+    <alias>فَطايِرْ ليوا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فطاير نعيم </grapheme>
+    <alias>فَطايِرْ نَعيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فقيه الطبي </grapheme>
+    <alias>فَقيهْ اَلْطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فكتوريا للأزياء والقفطان </grapheme>
+    <alias>فِكْتورْيا لِلْأَزِيَاْءْ والْقَفْطانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فل اوبشن موتورز </grapheme>
+    <alias>فُلْ اوبْشَنْ موتورْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلاش ديجيتال استوديو </grapheme>
+    <alias>فْلاشْ ديجيتالْ اِسْتودُيو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل أبونعيم </grapheme>
+    <alias>فَلافِلْ أَبونَعيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل التلة </grapheme>
+    <alias>فَلافِلْ اَلْتَلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل الزعيم </grapheme>
+    <alias>فَلافِلْ اَلْزَعيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل الزهرة </grapheme>
+    <alias>فَلافِلْ اَلْزَهْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل الشحرور </grapheme>
+    <alias>فَلافِلْ اَلْشُحْرورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل العمدة </grapheme>
+    <alias>فَلافِلْ اَلْعُمْدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل العميد </grapheme>
+    <alias>فَلافِلْ اَلْعَميدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل الكومودور </grapheme>
+    <alias>فَلافِلْ اَلْكومودورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل النيل </grapheme>
+    <alias>فَلافِلْ اَلْنيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل جحا </grapheme>
+    <alias>فَلافِلْ جُحا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل حسام </grapheme>
+    <alias>فَلافِلْ حُسامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل خليفة </grapheme>
+    <alias>فَلافِلْ خَليفَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل رمضان </grapheme>
+    <alias>فَلافِلْ رَمَضانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل سلطان دبي </grapheme>
+    <alias>فَلافِلْ سُلْطانْ دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل عبدون </grapheme>
+    <alias>فَلافِلْ عَبْدونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل على كيفك </grapheme>
+    <alias>فَلافِلْ عَلَىْ كَيْفَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل فاكتوري </grapheme>
+    <alias>فَلافِلْ فاكْتوري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل فريحة </grapheme>
+    <alias>فَلافِلْ فْرَيْحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل لوكيشن </grapheme>
+    <alias>فَلافِلْ لوكَيْشِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلافل وحمص </grapheme>
+    <alias>فَلافِلْ وَحُمُصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلامنجو للزهور </grapheme>
+    <alias>فَلامِنْجو لِلْزُهورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلامينجو للشقق الفندقية </grapheme>
+    <alias>فْلامينْجو لِلْشُقَقْ اَلْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلة للوجبات الخفيفة والعصائر </grapheme>
+    <alias>فَلَةْ لِلَوْجَباتِ الْخَفيفَةِ والْعَصائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلفر فليك </grapheme>
+    <alias>فْلَفُرْ فْليكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلفر فليك للعصائر </grapheme>
+    <alias>فْلِفَرْ فْليكْ لِلْعَصائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلفلة تايم </grapheme>
+    <alias>فِلْفِلَةْ تايِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلكس للسفر والسياحة </grapheme>
+    <alias>فْلْكْسْ لِلْسَفَرِ والْسِياحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلل كورال بوتيك </grapheme>
+    <alias>فَلَلْ كورالْ بوتيكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلورا بارك للشقق الفندقية </grapheme>
+    <alias>فْلورا بارْكْ لِلْشُقَقْ اَلْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلورا للشقق الفندقية </grapheme>
+    <alias>فْلورا لِلْشُقَقْ اَلْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلوريدا لتجارة الاحذية والملابس الرجالية </grapheme>
+    <alias>فْلوريدا لِتِجارَةِ اَلْاَحْذِيَةِ والْمَلابِسِ اَلْرِجالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فلوريدا لتركيب الشعر </grapheme>
+    <alias>فْلوريدا لِتَرْكيبِ الْشَعْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فليكس اكسبريس </grapheme>
+    <alias>فْلَيْكْسْ اِكْسِبْريسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فليم آند بيك </grapheme>
+    <alias>فْليمْ آنْدْ بيكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فن سيتي </grapheme>
+    <alias>فَنْ سيتي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فنادق روتانا </grapheme>
+    <alias>فَنادِقِ رْوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فنتاستك للشيل و العبايا </grapheme>
+    <alias>فَنْتاسْتِكْ لِلْشَيَلْ وَ الْعَبايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق أتلانتس النخلة </grapheme>
+    <alias>فُنْدُقْ أَتْلانْتِسْ اَلْنَخْلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق أرابيان بارك </grapheme>
+    <alias>فُنْدُقْ أَرِابَيانْ بارْكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق أرابيان كورت يارد </grapheme>
+    <alias>فُنْدُقْ أَرِابَيانْ كُوْرْتْ يارِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق أرجان مدينة دبي للاعلام </grapheme>
+    <alias>فُنْدُقْ أَرْجانْ مَدينَةِ دُبي لِلْاِعْلامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق أرمادا </grapheme>
+    <alias>فُنْدُقِ أَرْمادا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق أرماني </grapheme>
+    <alias>فُنْدُقْ أَرْماني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق أسيانا </grapheme>
+    <alias>فُنْدُقْ أَسْيانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق أفاري دبي </grapheme>
+    <alias>فُنْدُقْ أَفاري دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق أفريكانا </grapheme>
+    <alias>فُنْدُقْ أَفْريكانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق أفينيو </grapheme>
+    <alias>فُنْدُقْ أَفْيْنْيو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق أمواج روتانا </grapheme>
+    <alias>فُنْدُقْ أَمْواجُ رْوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق أنداز كابيتال جيت </grapheme>
+    <alias>فُنْدُقْ أَنْدازْ كابيتِالْ جَيْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق أوربان خوري </grapheme>
+    <alias>فُنْدُقْ أورْبانْ خوري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق أيلا </grapheme>
+    <alias>فُنْدُقْ أِيْلا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق إنتركونتيننتال </grapheme>
+    <alias>فُنْدُقْ إِنْتَرْكونْتينِنْتالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق إيوان </grapheme>
+    <alias>فُنْدُقْ إيوانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ابجر جراند </grapheme>
+    <alias>فُنْدُقْ اَبْجَرْ جْرانْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ابراج الإمارات </grapheme>
+    <alias>فُنْدُقْ اَبْراجْ اَلْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ابراج السراب </grapheme>
+    <alias>فُنْدُقْ اَبْراجْ اَلْسَرابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ابروتيل ميرامار </grapheme>
+    <alias>فُنْدُقْ اِبْروتيلْ ميرامارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق اتانا </grapheme>
+    <alias>فُنْدُقْ اَتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ادميرال بلازا </grapheme>
+    <alias>فُنْدُقْ اَدْميرالْ بَلازا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق اربيلا </grapheme>
+    <alias>فُنْدُقْ اَرَبيلا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ارجان روتانا </grapheme>
+    <alias>فُنْدُقْ اَرْجانْ رْوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق اريانا </grapheme>
+    <alias>فُنْدُقْ اَرْيانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق استوريا </grapheme>
+    <alias>فُنْدُقْ اِسْتورْيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق افاري </grapheme>
+    <alias>فُنْدُقْ اَفاري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق افاني ديرة </grapheme>
+    <alias>فُنْدُقْ اَفاني دِيْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق اكاسيا </grapheme>
+    <alias>فُنْدُقْ اَكاسِيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الإمارات </grapheme>
+    <alias>فُنْدُقْ اَلْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الإمارات بلازا </grapheme>
+    <alias>فُنْدُقْ اَلْإِماراتْ بْلازا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الامواج </grapheme>
+    <alias>فُنْدُقْ اَلْاَمْواجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق البستان </grapheme>
+    <alias>فُنْدُقْ اَلْبُسْتانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق البندر روتانا </grapheme>
+    <alias>فُنْدُقْ اَلْبَنْدَرْ رْوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق البيت </grapheme>
+    <alias>فُنْدُقِ الْبَيْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الجزيرة </grapheme>
+    <alias>فُنْدُقِ الْجَزيرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الجوهرة جاردنز </grapheme>
+    <alias>فُنْدُقْ اَلْجَوْهَرَةْ جارْدِنْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الحبتور </grapheme>
+    <alias>فُنْدُقْ اَلْحَبْتورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الحمراء </grapheme>
+    <alias>فُنْدُقْ اَلْحَمْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الخالدية بالاس ريحان </grapheme>
+    <alias>فُنْدُقْ اَلْخالِدِيَةْ بالاسْ ريحانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الخليج </grapheme>
+    <alias>فُنْدُقْ اَلْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الخليج بالاس </grapheme>
+    <alias>فُنْدُقْ اَلْخَليجْ بالاسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الخليج بلازا </grapheme>
+    <alias>فُنْدُقْ اَلْخَليجْ بْلازا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الخليج جراند </grapheme>
+    <alias>فُنْدُقْ اَلْخَليجِ جْرانْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الدار </grapheme>
+    <alias>فُنْدُقْ اَلْدارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الدبلومات </grapheme>
+    <alias>فُنْدُقْ اَلْدُبْلوماتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الديار دانة </grapheme>
+    <alias>فُنْدُقْ اَلْدِيارْ دانَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الديار كابيتال </grapheme>
+    <alias>فُنْدُقْ اَلْدِيارْ كابيتالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الرابية </grapheme>
+    <alias>فُنْدُقِ الْرابْيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الريان </grapheme>
+    <alias>فُنْدُقْ اَلْرَيانْ</alias>
+  </lexeme>
+</lexicon>

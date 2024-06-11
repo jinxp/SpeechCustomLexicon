@@ -1,0 +1,1808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="ar-SA">
+  <lexeme>
+    <grapheme> مطر لبيع قطع غيار السيارات </grapheme>
+    <alias>مَطَرْ لِبَيْعِ قِطَعِ غِيارِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم آمنة العرب </grapheme>
+    <alias>مَطْعَمْ آمِنَةِ الْعَرَبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبراج الإمارات </grapheme>
+    <alias>مَطْعَمْ أَبْراجِ الْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبطال الرياضة </grapheme>
+    <alias>مَطْعَمْ أَبْطالِ الْرِياضَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبورامي الدمياطي </grapheme>
+    <alias>مَطْعَمْ أَبورامي الْدُمْياطِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبوطافش للمأكولات البحرية </grapheme>
+    <alias>مَطْعَمْ أَبوطافِشْ لِلْمَأْكولاتِ الْبَحْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أبوهاشم للسمك المشوي والمقلي </grapheme>
+    <alias>مَطْعَمْ أَبوهاشِمْ لِلْسَمَكِ الْمَشويْ والْمَقْلي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أرض الحضارة للمندي والمظبي </grapheme>
+    <alias>مَطْعَمْ أَرْضِ الْحَضارَةِ لِلْمَنْدِيْ والْمَظْبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أرض المأكولات </grapheme>
+    <alias>مَطْعَمْ أَرْضِ الْمَأْكولاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أريان الأفغاني </grapheme>
+    <alias>مَطْعَمْ أَرْيانِ الْأَفْغانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أسماك زايد الأمور </grapheme>
+    <alias>مَطْعَمْ أَسْماكِ زايِدِ الْأَمورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم أطايب الأطلال </grapheme>
+    <alias>مَطْعَمْ أَطايِبِ الْأَطْلالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اجداد الزمن الاول </grapheme>
+    <alias>مَطْعَمْ اِجْدادِ الْزَمَنِ الْاَوَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ارض المندي </grapheme>
+    <alias>مَطْعَمْ اَرْضِ الْمَنْدي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم استاذي الخاص </grapheme>
+    <alias>مَطْعَمْ اُسْتاذي الْخاصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم استراحة الإمارات </grapheme>
+    <alias>مَطْعَمْ اِسْتِراحَةَ الْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم استراحة الستينات </grapheme>
+    <alias>مَطْعَمْ اِسْتِراحَةَ الْسِتيناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم استراحة المدينة </grapheme>
+    <alias>مَطْعَمْ اِسْتِراحَةَ الْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اسرار الطبيعة </grapheme>
+    <alias>مَطْعَمْ اَسْرارِ الْطَبيعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اسلام الباكستاني </grapheme>
+    <alias>مَطْعَمْ اِسْلامُ الْباكِسْتانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اسماك الحرية </grapheme>
+    <alias>مَطْعَمْ اَسْماكِ الْحُرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اسماك الخليج للمأكولات البحرية </grapheme>
+    <alias>مَطْعَمْ اَسْماكِ الْخَليجِ لِلْمَأْكولاتِ الْبَحْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اسماك السلطان </grapheme>
+    <alias>مَطْعَمْ اَسْماكِ الْسُلْطانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اضواء الشرق </grapheme>
+    <alias>مَطْعَمْ اَضْوَاِءْ الْشَرْقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اكواريوم للمأكولات البحرية </grapheme>
+    <alias>مَطْعَمْ اَكْوارِيَوْمِ لِلْمَأْكولاتِ الْبَحْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الأفراح الذهبية </grapheme>
+    <alias>مَطْعَمْ اَلْأَفْراحِ الْذَهَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الاتحاد الجديد </grapheme>
+    <alias>مَطْعَمْ اَلْاِتِحادِ الْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الاصابع الذهبية </grapheme>
+    <alias>مَطْعَمْ اَلْاَصابِعِ الْذَهَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الاصايل الشعبي </grapheme>
+    <alias>مَطْعَمْ اَلْاَصايِلِ الْشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الاصدقاء الشعبي </grapheme>
+    <alias>مَطْعَمْ اَلْاَصْدِقَاِءْ الْشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البحار للمأكولات البحرية </grapheme>
+    <alias>مَطْعَمْ اَلْبَحارْ لِلَمَأْكولاتِ الْبَحْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البحر الاحمر </grapheme>
+    <alias>مَطْعَمْ اَلْبَحْرِ الْاَحْمَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البرزة الضيافة </grapheme>
+    <alias>مَطْعَمْ اَلْبَرَزَةِ الْضِيافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البرنس الأمور </grapheme>
+    <alias>مَطْعَمْ اَلْبْرِنْسَ الْأَمورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البستكية للكباب الخاص </grapheme>
+    <alias>مَطْعَمْ اَلْبِسْتَكِيَةْ لِلْكَبابِ الْخاصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البطاطا المشوية </grapheme>
+    <alias>مَطْعَمْ اَلْبَطاطا الْمَشْوِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البوفيه الكبير </grapheme>
+    <alias>مَطْعَمْ اَلْبوفيهِ الْكَبيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيت الاخضر النباتي </grapheme>
+    <alias>مَطْعَمْ اَلْبَيْتِ الْاَخْضَرِ الْنَباتِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيت البغدادي </grapheme>
+    <alias>مَطْعَمْ اَلْبَيْتِ الْبَغْدادِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيت الحلبي </grapheme>
+    <alias>مَطْعَمْ اَلْبَيْتِ الْحَلَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيت الدمشقي </grapheme>
+    <alias>مَطْعَمْ اَلْبَيْتِ الْدِمَشْقِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيت السعودي للمندي والمظبي </grapheme>
+    <alias>مَطْعَمْ اَلْبَيْتِ الْسُعودِيْ لِلْمَنْدِيْ والْمَظْبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيت السوداني </grapheme>
+    <alias>مَطْعَمْ اَلْبَيْتِ الْسودانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيت السوري </grapheme>
+    <alias>مَطْعَمْ اَلْبَيْتِ الْسورِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيت الشامي </grapheme>
+    <alias>مَطْعَمْ اَلْبَيْتِ الْشامي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيت الصنعاني للمندي والمظبي والأكلات الشعبية </grapheme>
+    <alias>مَطْعَمْ اَلْبَيْتِ الْصِنُعاني لِلْمَنْدِيْ والْمَظْبي والْأَكَلاتِ الْشَعْبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيت العتيق </grapheme>
+    <alias>مَطْعَمْ اَلْبَيْتِ الْعَتيقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيت العربي </grapheme>
+    <alias>مَطْعَمْ اَلْبَيْتِ الْعَرَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيت القديم </grapheme>
+    <alias>مَطْعَمْ اَلْبَيْتِ الْقَديمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيت اللبناني </grapheme>
+    <alias>مَطْعَمْ اَلْبَيْتِ الُلْبْنانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيت المصري </grapheme>
+    <alias>مَطْعَمْ اَلْبَيْتِ الْمِصْرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيت الملكي </grapheme>
+    <alias>مَطْعَمْ اَلْبَيْتِ الْمَلَكِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيت الهندي </grapheme>
+    <alias>مَطْعَمْ اَلْبَيْتِ الْهِنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيت الهندي للبرياني </grapheme>
+    <alias>مَطْعَمْ اَلْبَيْتِ الْهِنْدِيْ لِلْبِرِياني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيت اليمني </grapheme>
+    <alias>مَطْعَمْ اَلْبَيْتِ الْيَمَنِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم البيتزا الايطالية </grapheme>
+    <alias>مَطْعَمْ اَلْبْيْتْزا الايْطالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم التاج الذهبي </grapheme>
+    <alias>مَطْعَمْ اَلْتاجِ الْذَهَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم التلال الذهبية </grapheme>
+    <alias>مَطْعَمْ اَلْتِلالِ الْذَهَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم التنور البغدادي </grapheme>
+    <alias>مَطْعَمْ اَلْتَنورِ الْبَغْدادِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم التنور العراقي </grapheme>
+    <alias>مَطْعَمْ اَلْتَنورِ الْعِراقِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجزيرة الحمراء </grapheme>
+    <alias>مَطْعَمْ اَلْجَزيرَةْ الْحَمْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجزيرة للمندي </grapheme>
+    <alias>مَطْعَمْ اَلْجَزيرَةْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجلسة الشعبي </grapheme>
+    <alias>مَطْعَمْ اَلْجَلْسَةِ الْشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الجمال المغربي </grapheme>
+    <alias>مَطْعَمْ اَلْجَمالْ الْمَغْرِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الحارة الشامية </grapheme>
+    <alias>مَطْعَمْ اَلْحارَةِ الْشامِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الحارة المصرية </grapheme>
+    <alias>مَطْعَمْ اَلْحارَةِ الْمِصْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الحداق للمأكولات البحرية </grapheme>
+    <alias>مَطْعَمْ اَلْحَداقْ لِلْمَأْكولاتِ الْبَحْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الحريف للمندي والماكولات الشعبية </grapheme>
+    <alias>مَطْعَمْ اَلْحَريفْ لِلْمَنْدِيْ والْمَاْكولاتِ الْشَعْبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الحصن التراثي </grapheme>
+    <alias>مَطْعَمْ اَلْحِصْنُ الْتُراثِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الحصير للمأكولات الإماراتية </grapheme>
+    <alias>مَطْعَمْ اَلْحَصيرْ لِلْمَأْكولاتِ الْإِماراتِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الحلم السعيد </grapheme>
+    <alias>مَطْعَمْ اَلْحُلْمِ الْسَعيدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الخيمة الحلبية </grapheme>
+    <alias>مَطْعَمْ اَلْخَيْمَةِ الْحَلَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الدجاج الجنوبي </grapheme>
+    <alias>مَطْعَمْ اَلْدَجاجِ الْجَنوبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الدجاج السريع </grapheme>
+    <alias>مَطْعَمْ اَلْدَجاجِ الْسَريعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الدجاج الطائر للوجبات السريعة </grapheme>
+    <alias>مَطْعَمْ اَلْدَجاجِ الْطائِرِ لِلْوَجَباتِ الْسَريعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الدجاج المقلي السريع </grapheme>
+    <alias>مَطْعَمْ اَلْدَجاجِ الْمُقْلي الْسَريعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الدجاج المميز </grapheme>
+    <alias>مَطْعَمْ اَلْدَجاجِ الْمُمَيَزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الديك السريع </grapheme>
+    <alias>مَطْعَمْ اَلْديكِ الْسَريعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الراشدية جبل النور </grapheme>
+    <alias>مَطْعَمْ اَلْراشِدِيَةْ جَبَلِ الْنورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الرسام للكباب الخاص </grapheme>
+    <alias>مَطْعَمْ اَلْرَسامْ لِلْكَبابِ الْخاصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الركن الأفغاني للأرز البخاري </grapheme>
+    <alias>مَطْعَمْ اَلْرُكْنِ الْأَفْغانِيْ لِلْأَرُزِ الْبُخارِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الركن الإيطالي </grapheme>
+    <alias>مَطْعَمْ اَلْرُكْنِ الْإْيْطالِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الركن التندوري </grapheme>
+    <alias>مَطْعَمْ اَلْرُكْنِ الْتُنْدورِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الركن الشامي </grapheme>
+    <alias>مَطْعَمْ اَلْرُكْنِ الْشامي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الركن الشرقي </grapheme>
+    <alias>مَطْعَمْ اَلْرُكْنِ الْشَرْقِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الركن العربي للمندي </grapheme>
+    <alias>مَطْعَمْ اَلْرُكْنِ الْعَرَبِيْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الركن اللبناني </grapheme>
+    <alias>مَطْعَمْ اَلْرُكْنِ الُلْبْنانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الركن اليماني </grapheme>
+    <alias>مَطْعَمْ اَلْرُكْنِ الْيَماني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الرميلة الشعبي </grapheme>
+    <alias>مَطْعَمْ اَلْرُمَيْلَةِ الْشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الريف اللبناني </grapheme>
+    <alias>مَطْعَمْ اَلْريفِ الُلْبْنانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الزهرة البيضاء </grapheme>
+    <alias>مَطْعَمْ اَلْزَهَرَةِ الْبَيْضاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السمك الطازج </grapheme>
+    <alias>مَطْعَمْ اَلْسَمَكِ الْطازِجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السمكة الشهية </grapheme>
+    <alias>مَطْعَمْ اَلْسَمَكَةِ الْشَهِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم السمكة المشوية </grapheme>
+    <alias>مَطْعَمْ اَلْسَمَكَةِ الْمَشْوِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشطائر الذهبية </grapheme>
+    <alias>مَطْعَمْ اَلْشَطائِرِ الْذَهَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشعاع الجديد </grapheme>
+    <alias>مَطْعَمْ اَلْشُعاعُ الْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشفق الاحمر </grapheme>
+    <alias>مَطْعَمْ اَلْشَفَقِ الْاَحْمَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشوكة الذهبية </grapheme>
+    <alias>مَطْعَمْ اَلْشَوْكَةِ الْذَهَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشويب </grapheme>
+    <alias>مَطْعَمَ الْشُوْيَبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الشيف الشامي </grapheme>
+    <alias>مَطْعَمْ اَلْشيفِ الْشامي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الصحن الملكي </grapheme>
+    <alias>مَطْعَمْ اَلْصَحَنِ الْمَلَكِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الصقر الفضي </grapheme>
+    <alias>مَطْعَمْ اَلْصَقْرْ الْفِضِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الصيرم للمأكولات البحرية </grapheme>
+    <alias>مَطْعَمْ اَلْصَيْرُمْ لِلْمَأْكولاتِ الْبَحْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الضيعة اللبنانية </grapheme>
+    <alias>مَطْعَمْ اَلْضيعَةِ الُلْبْنانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الطاحونة الحمراء </grapheme>
+    <alias>مَطْعَمْ اَلْطاحونَةُ الْحَمْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الطاحونة الذهبية </grapheme>
+    <alias>مَطْعَمْ اَلْطاحونَةُ الْذَهَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الطاولة الحمراء </grapheme>
+    <alias>مَطْعَمْ اَلْطاوِلَةِ الْحَمْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الطاووس الإيراني </grapheme>
+    <alias>مَطْعَمْ اَلْطاووسِ الْإيرانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الطبخ اليمني </grapheme>
+    <alias>مَطْعَمْ اَلْطَبْخِ الْيَمَنِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الطبق الحجازي الراقي </grapheme>
+    <alias>مَطْعَمْ اَلْطَبَقِ الْحَجازي الْراقي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الطبق الحجازي للمأكولات السعودية </grapheme>
+    <alias>مَطْعَمْ اَلْطَبَقِ الْحِجازي لِلْمَأَكولاتِ الْسُعودِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الطبق الذهبي </grapheme>
+    <alias>مَطْعَمْ اَلْطَبَقِ الْذَهَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الطبق الساخن </grapheme>
+    <alias>مَطْعَمْ اَلْطَبَقِ الْساخِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الطبق الهندي </grapheme>
+    <alias>مَطْعَمْ اَلْطَبَقِ الْهِنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العافية المغربي </grapheme>
+    <alias>مَطْعَمْ اَلْعافِيَةْ الْمَغْرِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العباسي الجديد </grapheme>
+    <alias>مَطْعَمْ اَلْعَباسِيِ الْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم العنوان المغربي </grapheme>
+    <alias>مَطْعَمْ اَلْعُنْوانِ الْمَغْرِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفروج الشامي </grapheme>
+    <alias>مَطْعَمْ اَلْفُروجِ الْشامي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفيحاء الحديث </grapheme>
+    <alias>مَطْعَمْ اَلْفَيْحَاِءْ الْحَديثْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم القبطان البحري </grapheme>
+    <alias>مَطْعَمْ اَلْقِبْطانِ الْبَحْرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم القرش الابيض </grapheme>
+    <alias>مَطْعَمْ اَلْقِرْشِ الْاَبْيَضْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم القرش للمأكولات البحرية </grapheme>
+    <alias>مَطْعَمْ اَلْقِرْشِ لِلْمَأْكولاتِ الْبَحْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم القرية اللبنانية </grapheme>
+    <alias>مَطْعَمْ اَلْقَرْيَةِ الُلْبْنانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم القصر الافغاني للارز البخاري </grapheme>
+    <alias>مَطْعَمْ اَلْقَصْرِ الْاَفْغانِيْ لِلارُزِ الْبُخارِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم القصر الصيني </grapheme>
+    <alias>مَطْعَمْ اَلْقَصْرِ الْصينِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم القلعة الشامية </grapheme>
+    <alias>مَطْعَمْ اَلْقَلْعَةُ الْشامِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم القلعة اللبنانية </grapheme>
+    <alias>مَطْعَمْ اَلْقَلْعَةُ الُلْبْنانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكباب الأفغاني </grapheme>
+    <alias>مَطْعَمْ اَلْكَبابِ الْأَفْغانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكباب الأفغاني الخاص </grapheme>
+    <alias>مَطْعَمْ اَلْكَبابِ الْأَفْغانِيْ اَلْخاصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكباب الافغاني الجديد </grapheme>
+    <alias>مَطْعَمْ اَلْكَبابِ الْاَفْغانِيِ الْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكباب الافغاني الممتاز </grapheme>
+    <alias>مَطْعَمْ اَلْكَبابِ الْاَفْغانِيِ الْمُمْتازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكباب الايراني </grapheme>
+    <alias>مَطْعَمْ اَلْكَبابِ الْايرانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكباب البلدي </grapheme>
+    <alias>مَطْعَمْ اَلْكَبابِ الْبَلَدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكباب البوسني </grapheme>
+    <alias>مَطْعَمْ اَلْكَبابِ الْبوسْنِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكباب الخصوصي </grapheme>
+    <alias>مَطْعَمْ اَلْكَبابِ الْخُصوصِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكباب السوري </grapheme>
+    <alias>مَطْعَمْ اَلْكَبابِ الْسورِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكباب العراقي </grapheme>
+    <alias>مَطْعَمْ اَلْكَبابِ الْعِراقِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكباب الوطني </grapheme>
+    <alias>مَطْعَمْ اَلْكَبابِ الْوَطَنِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكرم العراقي </grapheme>
+    <alias>مَطْعَمْ اَلْكَرَمْ الْعِراقِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكوت للمأكولات الكويتية </grapheme>
+    <alias>مَطْعَمْ اَلْكوتْ لِلْمَأْكولاتِ الْكُوَيْتِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكوخ الصغير </grapheme>
+    <alias>مَطْعَمْ اَلْكوخِ الْصَغيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكوخ اللبناني </grapheme>
+    <alias>مَطْعَمْ اَلْكوخِ الُلْبْنانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكوخ اللذيذ </grapheme>
+    <alias>مَطْعَمْ اَلْكوخِ الَلْذيذْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الكوخ الهندي </grapheme>
+    <alias>مَطْعَمْ اَلْكوخِ الْهِنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اللقمة الشهية </grapheme>
+    <alias>مَطْعَمْ اَلُلْقْمَةِ الْشَهِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الليالي التركية </grapheme>
+    <alias>مَطْعَمْ اَلَلْيالي الْتُرْكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المباركية هاوس للمأكولات الكويتية </grapheme>
+    <alias>مَطْعَمْ اَلْمُبارَكِيَةْ هاوِسْ لِلْمَأْكولاتِ الْكُوَيْتِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المحيط الازرق للمأكولات البحرية </grapheme>
+    <alias>مَطْعَمْ اَلْمُحيطْ اَلْاَزْرَقِ لِلْمَأْكولاتِ الْبَحْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المدينة الأفغاني للأرز البخاري </grapheme>
+    <alias>مَطْعَمْ اَلْمَدينَةِ الْأَفْغانِيْ لِلْأَرُزِ الْبُخارِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المدينة الجديدة </grapheme>
+    <alias>مَطْعَمْ اَلْمَدينَةِ الْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المدينة الخضراء </grapheme>
+    <alias>مَطْعَمْ اَلْمَدينَةِ الْخَضْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المدينة الزرقاء </grapheme>
+    <alias>مَطْعَمْ اَلْمَدينَةِ الْزَرْقاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المراسم الافغاني </grapheme>
+    <alias>مَطْعَمْ اَلْمَراسِمُ الْاَفْغانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المرزاب الشعبي </grapheme>
+    <alias>مَطْعَمْ اَلْمِرْزابِ الْشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المرسى الشعبي </grapheme>
+    <alias>مَطْعَمْ اَلْمَرْسَىْ الْشَعْبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المزاج الطيب </grapheme>
+    <alias>مَطْعَمْ اَلْمِزاجِ الْطَيِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم المسكوف العراقي </grapheme>
+    <alias>مَطْعَمْ اَلْمَسْكوفِ الْعِراقِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم برزة الضيافة </grapheme>
+    <alias>مَطْعَمْ بَرَزَةِ الْضِيافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم بيت الكنافة </grapheme>
+    <alias>مَطْعَمْ بَيْتِ الْكُنافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم تنور وكباب </grapheme>
+    <alias>مَطْعَمْ تَنورْ وَكَبابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم درة الخليج </grapheme>
+    <alias>مَطْعَمْ دُرَةِ الْخَليجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم رصيف المحطة </grapheme>
+    <alias>مَطْعَمْ رَصيفِ الْمَحَطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم زمان اول </grapheme>
+    <alias>مَطْعَمْ زَمانَ اوَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم سبأ الحديث </grapheme>
+    <alias>مَطْعَمْ سَبَأْ الْحَديثْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم شباب على كيفك </grapheme>
+    <alias>مَطْعَمْ شَبابْ عَلَىْ كَيْفَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم شمس المدينة </grapheme>
+    <alias>مَطْعَمْ شَمْسِ الْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم شيخ الجبل </grapheme>
+    <alias>مَطْعَمْ شَيْخْ الْجَبَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم عبد الله سعيد </grapheme>
+    <alias>مَطْعَمْ عَبْدْ الَلْهْ سَعيدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم عيشة أول </grapheme>
+    <alias>مَطْعَمْ عيشَةَ أْوَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم ماضينا الأول </grapheme>
+    <alias>مَطْعَمْ ماضينا الْأَوَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم وكافتيريا </grapheme>
+    <alias>مَطْعَمْ وْكافِتيرْيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اثيو الحبشة </grapheme>
+    <alias>مَطْعَمْ اِثِيو اَلْحَبَشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم اكل ومرح </grapheme>
+    <alias>مَطْعَمْ اَكْلْ وَمَرَحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الإمارات </grapheme>
+    <alias>مَطْعَمْ اَلْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الاطلال الذهبي </grapheme>
+    <alias>مَطْعَمْ الْاَطْلالِ الْذَهَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الصين الساخن </grapheme>
+    <alias>مَطْعَمْ الْصينْ اَلْساخِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الضيف </grapheme>
+    <alias>مَطْعَمْ اَلْضَيْفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الطبخ الإيراني </grapheme>
+    <alias>مَطْعَمَ الْطَبَخِ الْإِيْرانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم الفارسي </grapheme>
+    <alias>مَطْعَمَ الْفارِسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطعم وكافتيريا مترو فالكون </grapheme>
+    <alias>مَطْعَمْ وَكافِتيرْيا مِتْرو فالْكونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطلع الشمس </grapheme>
+    <alias>مَطْلَعِ الْشَمْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معاذ بن جبل للتعليم الثانوي </grapheme>
+    <alias>مُعاذْ بِنْ جَبَلْ لِلْتَعْليمِ الْثانَوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معامل الصيداوي اللبنانية والإمارات </grapheme>
+    <alias>مَعامِلُ الْصَيْداوِيِ الُلْبْنانِيَةِ والْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معاملات لخدمات المعلومات التجارية </grapheme>
+    <alias>مُعامَلاتِ لِخِدْماتْ اَلْمَعْلوماتِ الْتِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معاودة الاتصال </grapheme>
+    <alias>مُعاوْدَةْ الاتِصالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات أمير الشام </grapheme>
+    <alias>مُعَجَناتْ أَميرُ الْشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات البيت الدمشقي </grapheme>
+    <alias>مُعَجَناتِ الْبَيْتِ الْدِمَشْقِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات الجزيرة </grapheme>
+    <alias>مُعْجَناتِ الْجَزيرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات الريف الشامي </grapheme>
+    <alias>مُعَجَناتْ اَلْريفِ الْشامي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات تاج الأمير </grapheme>
+    <alias>مُعَجَناتْ تاجِ الْأَميرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات تنور الشام </grapheme>
+    <alias>مُعَجَناتْ تَنورِ الْشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات ديك الجن </grapheme>
+    <alias>مُعَجَناتْ ديكَ الْجِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات قصر الشوق </grapheme>
+    <alias>مُعَجَناتْ قَصْرَ الْشوقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات وادي الظاهر </grapheme>
+    <alias>مُعَجَناتْ وادي الْظاهِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات ومشاوي اريج الشام </grapheme>
+    <alias>مُعَجَناتْ وَمَشاوي اَريجُ الْشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معجنات ومشاوي الشام </grapheme>
+    <alias>مُعَجَناتْ وَمَشاوي الْشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض الأميرة للسيارات الجديدة والمستعملة </grapheme>
+    <alias>مَعْرِضِ الْأَمْيِرَةْ لِلْسَياراتِ الْجَديدَةِ والْمُسْتَعْمَلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض الاطلال للسيارات المستعملة </grapheme>
+    <alias>مَعْرِضِ الْاَطْلالْ لِلْسَياراتِ الْمُسْتَعْمَلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض الباقة </grapheme>
+    <alias>مَعْرِضِ الْباقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض البيك لتجارة للسيارات المستعملة </grapheme>
+    <alias>مَعْرِضِ الْبيكْ لِتِجارَةِ لْلْسَياراتِ اَلْمُسْتَعْمَلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض الدفع الرباعي للسيارات </grapheme>
+    <alias>مَعْرِضِ الْدَفْعِ الْرُباعِيْ لِلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض الزين للأثاث المستعمل </grapheme>
+    <alias>مَعْرِضِ الْزينْ لِلْأَثاثِ الْمُسْتَعْمِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض الشروق للسيارات المستعملة </grapheme>
+    <alias>مَعْرِضِ الْشُروقِ لِلْسَياراتِ الْمُسْتَعْمَلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض الصحراء الجديد للسيارات </grapheme>
+    <alias>مَعْرِضِ الْصَحْرَاِءْ الْجَديدِ لِلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض الصحراء للسيارات </grapheme>
+    <alias>مَعْرِضِ الْصَحْرَاِءْ لِلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض الصدارة للسيارات </grapheme>
+    <alias>مَعْرِضِ الْصَدارَةِ لِلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض العاديات لبيع السيارات سوبارو </grapheme>
+    <alias>مَعْرِضِ الْعادِياتِ لِبَيْعِ الْسَياراتِ سوبارو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض الغزال </grapheme>
+    <alias>مَعْرِضِ الْغَزالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض الفاريابي للمفروشات </grapheme>
+    <alias>مَعْرِضِ الْفارْيابِيْ لِلْمَفْروشاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض الفلبين للسيارات المستعملة </grapheme>
+    <alias>مَعْرِضِ الْفِلِبينْ لِلْسَياراتِ اَلْمُسْتَعْمَلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض الفيحاء للسيارات </grapheme>
+    <alias>مَعْرِضِ الْفَيْحَاْءْ لِلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض القاهرة للاقمشة </grapheme>
+    <alias>مَعْرِضِ الْقاهِرَةْ لِلْاَقْمِشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض الليزر لتجارة الوسائل والادوات الاعلانية </grapheme>
+    <alias>مَعْرِضِ اَلَلْيْزَرْ لِتِجارَةِ الْوَسائِلِ والْاَدَواتِ الْاِعْلانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض المحيط للسيارات </grapheme>
+    <alias>مَعْرِضِ الْمُحيطِ لِلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض المدينة للمفروشات </grapheme>
+    <alias>مَعْرِضِ الْمَدينَةِ لِلْمَفْروشاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض المروة للسيارات </grapheme>
+    <alias>مَعْرِضِ الْمَرْوَةْ لِلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض المملكة للسيارات </grapheme>
+    <alias>مَعْرِضِ الْمَمْلَكَةِ لِلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض الوادي للسيارات </grapheme>
+    <alias>مَعْرِضِ الْوادي لِلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض الوحدة للسيارات </grapheme>
+    <alias>مَعْرِضِ الْوَحْدَةِ لِلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض بدر للسيارات المستعملة </grapheme>
+    <alias>مَعْرِضِ بَدْرْ لِلْسَياراتِ الْمُسْتَعْمَلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض حول العالم للسيارات </grapheme>
+    <alias>مَعْرِضِ حَوْلَ الْعالَمِ لِلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض لؤلؤة الخليج للسيارات </grapheme>
+    <alias>مَعْرِضِ لُؤْلُؤَةِ الْخَليجِ لِلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض مرابع الظفرة للسيارات </grapheme>
+    <alias>مَعْرِضِ مُرابِعِ الْظَفْرَةْ لِلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض موتور وورلد للسيارات الجديدة والمستعملة </grapheme>
+    <alias>مَعْرِضِ مَوْتورْ وورِلْدْ لِلْسَياراتِ الْجَديدَةِ والْمُسْتَعْمَلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض العبدولي لبيع مواد البناء </grapheme>
+    <alias>مَعْرِضَ الْعَبْدولي لِبَيْعْ مُوادِ الْبِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرض القدس للسيارات </grapheme>
+    <alias>مَعْرِضِ الْقُدْسِ لِلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معرف الحساب لتخصيص الدفع المناسب </grapheme>
+    <alias>مُعْرِفِ الْحِسابِ لِتَخْصيصِ الْدَفْعِ الْمُناسِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معسكر المقام الحرس الاميري </grapheme>
+    <alias>مُعَسْكَرْ اَلْمَقامِ الْحَرَسَ الْاَميرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معسكر ند الشبا </grapheme>
+    <alias>مُعَسْكَرْ نَدِ الْشِبا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معلومات الحساب </grapheme>
+    <alias>مَعْلوماتِ الْحِسابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معمل الحصن للحلوى العمانية </grapheme>
+    <alias>مَعْمَلِ الْحِصْنُ لِلْحَلْوَىْ الْعُمانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معمل العين للعقل العربية </grapheme>
+    <alias>مَعْمَلِ الْعَيْنِ لِلْعَقْلِ الْعَرَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معمل درة الخليج للثلج وتحلية المياه </grapheme>
+    <alias>مَعْمَلِ دُرَةِ الْخَليجْ لِلْثَلْجْ وَتَحْلِيَةِ الْمِياهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد الإمارات للدراسات المصرفية والتمويل </grapheme>
+    <alias>مَعْهَدِ الْإِماراتِ لِلْدِراساتِ الْمَصْرِفِيَةِ والْتَمْويلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد الابتكار التكنولوجي </grapheme>
+    <alias>مَعْهَدِ الِابْتِكارِ الْتِكْنولوجِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد الاتحاد الثقافي </grapheme>
+    <alias>مَعْهَدِ الِاتِحادِ الْثَقافِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد البيان الدولي </grapheme>
+    <alias>مَعْهَدِ الْبَيانُ الْدَوْلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد التدريب العربي لتقنية المعلومات </grapheme>
+    <alias>مَعْهَدِ الْتَدْريبِ الْعَرَبِيْ لِتِقْنِيَةِ الْمَعْلوماتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد التدريب والدراسات القضائية </grapheme>
+    <alias>مَعْهَدِ الْتَدْريبِ والْدِراساتِ الْقَضائِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد التطوير للعلوم والكمبيوتر </grapheme>
+    <alias>مَعْهَدِ الْتَطْويرِ لِلْعُلومِ والْكُمْبِيوتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد التكنولوجيا التطبيقية </grapheme>
+    <alias>مَعْهَدِ الْتِكْنولوجِيا الْتَطْبيقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد التمريض </grapheme>
+    <alias>مَعْهَدِ الْتَمْريضْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد الجاهلي للعلوم والتكنولوجيا </grapheme>
+    <alias>مَعْهَدِ الْجاهِلِيْ لِلْعُلومِ والْتِكْنولوجِيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد الخليج التعليمي للثقافة والكمبيوتر </grapheme>
+    <alias>مَعْهَدِ الْخَليجِ الْتَعْليمِيْ لِلْثَقافَةِ والْكُمْبِيوتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد الرازي الثقافي </grapheme>
+    <alias>مَعْهَدِ الْرازِيِ الْثَقافِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد السلام الثقافي </grapheme>
+    <alias>مَعْهَدِ الْسَلامُ الْثَقافِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد السويد لتعليم قيادة المركبات </grapheme>
+    <alias>مَعْهَدِ الْسُوْيَدْ لِتَعْليمِ قِيادَةِ الْمَرَكَباتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد الشارقة للتراث </grapheme>
+    <alias>مَعْهَدِ الْشارِقَةْ لِلْتُراثْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد الشارقة للسياقة </grapheme>
+    <alias>مَعْهَدِ الْشارِقَةْ لِلْسِياقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد الشرق الاوسط للكمبيوتر </grapheme>
+    <alias>مَعْهَدِ الْشَرْقِ الْاَوْسَطِ لِلْكُمْبِيوتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد الشهامة الدائم لتحفيظ القرآن الكريم </grapheme>
+    <alias>مَعْهَدِ الْشَهامَةُ الْدائِمِ لِتَحْفيظِ الْقُرْآنِ الْكَريمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد الطفل المبدع التعليمي </grapheme>
+    <alias>مَعْهَدِ اَلْطِفْلْ اَلْمُبْدِعِ الْتَعْليمِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد الطوار العلمي الثقافي </grapheme>
+    <alias>مَعْهَدِ الْطَوارِ الْعِلْمِيِ الْثَقافِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد العربية لتعليم قيادة السيارات </grapheme>
+    <alias>مَعْهَدِ الْعَرَبِيَةِ لِتَعْليمِ قِيادَةِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد الفاروق للثقافة والكمبيوتر </grapheme>
+    <alias>مَعْهَدِ الْفاروقْ لِلْثَقافَةِ والْكُمْبِيوتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد اللغات البريطاني </grapheme>
+    <alias>مَعْهَدِ الُلْغاتِ الْبِريطانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد اللغات العالمي </grapheme>
+    <alias>مَعْهَدِ الُلْغاتِ الْعالَمِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد المستقبل للتدريب واللغات </grapheme>
+    <alias>مَعْهَدِ الْمُسْتَقْبَلِ لِلْتَدْريبِ والُلْغاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد المنهل للثقافة والكمبيوتر </grapheme>
+    <alias>مَعْهَدِ الْمُنْهِلْ لِلْثَقافَةِ والْكُمْبِيوتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد النبراس </grapheme>
+    <alias>مَعْهَدِ الْنِبْراسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد النجاح الثقافي </grapheme>
+    <alias>مَعْهَدِ الْنَجاحِ الْثَقافِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد النجاح للعلوم والكمبيوتر </grapheme>
+    <alias>مَعْهَدِ الْنَجاحِ لِلْعُلومِ والْكُمْبِيوتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد النصر الثقافي </grapheme>
+    <alias>مَعْهَدِ الْنَصْرَ الْثَقافِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد النور الثقافي </grapheme>
+    <alias>مَعْهَدِ الْنورِ الْثَقافِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد ايديال لتعليم قيادة السيارات </grapheme>
+    <alias>مَعْهَدِ اِيِدْيالْ لِتَعْليمِ قِيادَةِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد برو إنجلش لتعليم اللغات </grapheme>
+    <alias>مَعْهَدِ بْرو إِنْجِلَشْ لِتَعْليمِ الُلْغاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد تدقيق الحسابات </grapheme>
+    <alias>مَعْهَدِ تَدْقيقِ الْحِساباتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد دايركت انجلش لتعليم اللغات </grapheme>
+    <alias>مَعْهَدِ دايِرْكْتْ اِنْجِلَشْ لِتَعْليمِ الُلْغاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد دبي القضائي </grapheme>
+    <alias>مَعْهَدِ دُبي الْقَضائِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد عجمان الثقافي </grapheme>
+    <alias>مَعْهَدِ عَجْمانِ الْثَقافِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد قيادة قوات الامن الخاصة </grapheme>
+    <alias>مَعْهَدِ قِيادَةْ قُواتِ الِاَمْنِ الْخاصَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد كامبردج البريطاني </grapheme>
+    <alias>مَعْهَدِ كِامْبْرِدْجِ الْبِريطانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد كامبردج التعليمي </grapheme>
+    <alias>مَعْهَدِ كِامْبْرِدِجِ الْتَعْليمِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد كيرون سلود برشلونا لطب العيون </grapheme>
+    <alias>مَعْهَدِ كيرونْ سْلودْ بْرْشَلونا لِطِبِ الْعُيونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد الإمارات لتعليم قيادة السيارات </grapheme>
+    <alias>مَعْهَدْ الْإِماراتِ لِتَعْليمِ قِيادَةِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> معهد بابل </grapheme>
+    <alias>مَعْهَدَ بابِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة الاختيار الاول </grapheme>
+    <alias>مَغْسَلَةِ الِاخْتِيارُ الْاَوَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة البقيع </grapheme>
+    <alias>مَغْسَلَةِ الْبَقيعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة البيت الابيض </grapheme>
+    <alias>مَغْسَلَةِ اَلْبَيْتِ الْاَبْيَضْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة الجبل </grapheme>
+    <alias>مَغْسَلَةِ الْجَبَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة الجماهير الاوتوماتيكية </grapheme>
+    <alias>مَغْسَلَةِ الْجَماهيرِ الْاوتوماتيكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة الجودة الاوتوماتيكية </grapheme>
+    <alias>مَغْسَلَةِ الْجَوْدَةِ الْاوتوماتيكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة الحصان الأبيض </grapheme>
+    <alias>مَغْسَلَةِ الْحُصانِ الْأَبْيَضْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة الحمراء </grapheme>
+    <alias>مَغْسَلَةِ الْحَمْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة الريان </grapheme>
+    <alias>مَغْسَلَةِ الْرَيانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة الزعاب الجديدة </grapheme>
+    <alias>مَغْسَلَةِ اَلْزَعابِ الْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة السفورة الجديدة </grapheme>
+    <alias>مَغْسَلَةِ الْسَفورَةْ الْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة الطائر الأسود </grapheme>
+    <alias>مَغْسَلَةِ الْطائِرِ الْأَسْوَدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة الظفرة الحديثة </grapheme>
+    <alias>مَغْسَلَةِ الْظَفْرَةِ الْحَديثَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة العين الاوتوماتيكية </grapheme>
+    <alias>مَغْسَلَةِ الْعَيْنِ الْاوتوماتيكِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة الفجر </grapheme>
+    <alias>مَغْسَلَةِ الْفَجْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة المتواصل </grapheme>
+    <alias>مَغْسَلَةِ الْمُتَواصِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة المحترفون </grapheme>
+    <alias>مَغْسَلَةِ الْمُحْتَرِفونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة صدفة البحر </grapheme>
+    <alias>مَغْسَلَةِ صَدَفَةِ الْبَحْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة عبد السلام للملابس </grapheme>
+    <alias>مَغْسَلَةِ عَبْدِ الْسَلامْ لِلْمَلابِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة قمر الورقاء </grapheme>
+    <alias>مَغْسَلَةِ قَمَرِ الْوَرْقاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة نجم الشليلة </grapheme>
+    <alias>مَغْسَلَةِ نَجْمُ الْشَليلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مغسلة العقد الفريد </grapheme>
+    <alias>مَغْسَلَةِ الْعِقْدِ الْفَريدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفتاح البركة التجارية </grapheme>
+    <alias>مِفْتاحَ الْبَرَكَةِ الْتِجارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفتاح الغزالة الالكتروني </grapheme>
+    <alias>مِفْتاحَ الْغَزالَةِ الْاِلِكْتُرونِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الاحسان </grapheme>
+    <alias>مَفْروشاتِ الْاِحْسانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الاستقلال </grapheme>
+    <alias>مَفْروشاتِ الْاِسْتِقْلالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات البيان </grapheme>
+    <alias>مَفْروشاتِ الْبَيانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات البيت التركي </grapheme>
+    <alias>مَفْروشاتِ الْبَيْتِ الْتُرْكِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات التسامح </grapheme>
+    <alias>مَفْروشاتِ الْتَسامُحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الجزيرة </grapheme>
+    <alias>مَفْروشاتِ الْجَزيرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الجزيرة العربية </grapheme>
+    <alias>مَفْروشاتِ الْجَزيرَةِ الْعَرَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الحرمين </grapheme>
+    <alias>مَفْروشاتِ الْحَرَمَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الخالدية </grapheme>
+    <alias>مَفْروشاتِ الْخالِدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الخشب الفضي </grapheme>
+    <alias>مَفْروشاتِ الْخَشَبِ الْفِضِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الخيام </grapheme>
+    <alias>مَفْروشاتِ الْخِيامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الدانة </grapheme>
+    <alias>مَفْروشاتِ الْدانَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الدبلوماسي </grapheme>
+    <alias>مَفْروشاتِ الْدِبْلوماسي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الدرويش </grapheme>
+    <alias>مَفْروشاتِ الْدَرْويشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الذوق الرفيع </grapheme>
+    <alias>مَفْروشاتِ الْذَوْقَ الْرَفيعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الذيد </grapheme>
+    <alias>مَفْروشاتِ الْذيدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الراحة </grapheme>
+    <alias>مَفْروشاتِ الْراحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الركن الفريد </grapheme>
+    <alias>مَفْروشاتِ الْرُكْنِ الْفَريدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات السعادة </grapheme>
+    <alias>مَفْروشاتِ الْسَعادَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الشعب </grapheme>
+    <alias>مَفْروشاتِ الْشَعْبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الشوكة الذهبية </grapheme>
+    <alias>مَفْروشاتِ الْشَوْكَةَ الْذَهَبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات العاصف </grapheme>
+    <alias>مَفْروشاتِ الْعاصِفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات العمران </grapheme>
+    <alias>مَفْروشاتِ الْعُمْرانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات القاضي </grapheme>
+    <alias>مَفْروشاتِ الْقاضي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات القصر </grapheme>
+    <alias>مَفْروشاتِ الْقَصْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات القصر الاندلسي </grapheme>
+    <alias>مَفْروشاتِ الْقَصْرْ اَلْاَنْدَلُسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات القصر الماليزي </grapheme>
+    <alias>مَفْروشاتِ الْقَصْرِ الْماليزِيُ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات القمر </grapheme>
+    <alias>مَفْروشاتِ الْقَمَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات المثالي </grapheme>
+    <alias>مَفْروشاتِ الْمُثالي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات المجد </grapheme>
+    <alias>مَفْروشاتِ الْمَجْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات المشرف </grapheme>
+    <alias>مَفْروشاتْ الْمِشْرِفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات المفرق </grapheme>
+    <alias>مَفْروشاتْ الْمَفْرَقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات النخيل </grapheme>
+    <alias>مَفْروشاتْ الْنَخيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الوطني </grapheme>
+    <alias>مَفْروشاتِ الْوَطَنِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات الوفاء </grapheme>
+    <alias>مَفْروشاتْ الْوَفاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات برج دبي </grapheme>
+    <alias>مَفْروشاتْ بُرْجِ دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات بيت الخير </grapheme>
+    <alias>مَفْروشاتْ بَيْتِ الْخَيْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات بيت المغرب </grapheme>
+    <alias>مَفْروشاتْ بَيْتِ الْمَغْرِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات دار الديكور </grapheme>
+    <alias>مَفْروشاتْ دارْ الْدْيْكورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات سلطان محمود الغزناوي </grapheme>
+    <alias>مَفْروشاتْ سُلْطانْ مَحْمودُ الْغَزْناوِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات شمس الاصيل </grapheme>
+    <alias>مَفْروشاتْ شَمْسِ الْاَصيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات عروس البادية </grapheme>
+    <alias>مَفْروشاتْ عَروسِ الْبادِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات فتح الخير </grapheme>
+    <alias>مَفْروشاتْ فَتْحِ الْخَيْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات قصر المحبة </grapheme>
+    <alias>مَفْروشاتْ قَصْرَ الْمَحَبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات ريم الفلا </grapheme>
+    <alias>مُفْرُوَشاتْ ريمَ اَلْفَلا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفروشات مصطفوي للسجاد والستائر </grapheme>
+    <alias>مُفْرُوَشاتِ مُصْطَفَوي لِلْسَجادَ والْسَتائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مفوضية مرشدات الشارقة </grapheme>
+    <alias>مُفَوَضِيَةُ مُرْشِداتِ الْشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مقبرة القصيص </grapheme>
+    <alias>مَقْبَرَةَ الْقُصَيْصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مقصب دبا الفجيرة </grapheme>
+    <alias>مُقْصِبْ دِبا الْفُجَيْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مقصب عجمان المركزي </grapheme>
+    <alias>مُقْصِبْ عَجْمانِ الْمَرْكَزِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مقصف العروبة </grapheme>
+    <alias>مَقْصَفِ الْعُروبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مقهى الاراجيل </grapheme>
+    <alias>مَقْهَىْ الْاَراجيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مقهى الديار </grapheme>
+    <alias>مَقْهَىْ الْدْيارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مقهى الغواص </grapheme>
+    <alias>مَقْهَىْ الْغَواصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مقهى الكواكب </grapheme>
+    <alias>مَقْهَىْ الْكَواكِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مقهى دندنة الورد </grapheme>
+    <alias>مَقْهَىْ دَنْدَنَةِ الْوَرْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مقهى ضوء القمر </grapheme>
+    <alias>مَقْهَىْ ضَوْءِ الْقَمَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مقهى قصر السلطان </grapheme>
+    <alias>مَقْهَىْ قَصْرِ الْسُلْطانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مقهى ومطبخ أم القيوين الوطني </grapheme>
+    <alias>مَقْهَىْ وَمَطْبَخِ أُمْ الْقيوَيْنْ اَلْوَطَنِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مقهى ومطعم بيت الزعيم </grapheme>
+    <alias>مَقْهَىْ وَمَطْعَمْ بَيْتِ الْزَعيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكافحة التسول </grapheme>
+    <alias>مُكافَحَةِ الْتَسَوُلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكافحة الحشرات </grapheme>
+    <alias>مُكافَحَةِ الْحَشَراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكافحة وإبادة الحشرات والقوارض </grapheme>
+    <alias>مُكافَحَةِ وِإِبادَةِ الْحَشَراتِ والْقَوارِضْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكة لتجارة قطع غيار السيارات </grapheme>
+    <alias>مَكَةْ لِتِجارَةِ قِطَعِ غِيارِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب أحمد محمد بشير للمحاماة والاستشارات القانونية </grapheme>
+    <alias>مَكْتَبِ أَحْمَدُ مُحَمَدْ بَشيرْ لِلْمُحاماةِ والِاسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب أرجان للاستشارات الهندسية </grapheme>
+    <alias>مَكْتَبِ أَرَجانِ لِلِاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب الأمن الوقائي </grapheme>
+    <alias>مَكْتَبِ الْأَمْنِ الْوِقائِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب الاطلال لتأجير السيارات </grapheme>
+    <alias>مَكْتَبِ الْاَطْلالَ لِتَأْجيرِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب البعثات الدراسية </grapheme>
+    <alias>مَكْتَبِ الْبَعَثاتِ الْدِراسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب الحمادي للمحاماة </grapheme>
+    <alias>مَكْتَبِ الْحَمادْيْ لِلْمُحاماةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب الرائد للمحاماة والاستشارات القانونية </grapheme>
+    <alias>مَكْتَبِ الْرائِدِ لِلْمُحاماةِ والِاسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب الرهيب للسفر والسياحة </grapheme>
+    <alias>مَكْتَبِ الْرَهيبْ لِلْسَفَرِ والْسِياحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب السبيل للطباعة </grapheme>
+    <alias>مَكْتَبِ الْسَبيلُ لِلْطِباعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب السلام استشاريون في العمارة </grapheme>
+    <alias>مَكْتَبِ الْسَلامْ اِسْتِشارَيونَ في الْعِمارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب السلطان للاستشارات الهندسية </grapheme>
+    <alias>مَكْتَبِ الْسُلْطانْ لِلِاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب الشحي للخدمات </grapheme>
+    <alias>مَكْتَبِ الْشِحي لِلْخِدْماتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب الشيخة جواهر بنت محمد القاسمي </grapheme>
+    <alias>مَكْتَبِ الْشَيْخَةِ جَواهِرْ بِنْتَ مُحَمَدِ الْقاسِمِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب الصادق للخدمة </grapheme>
+    <alias>مَكْتَبِ الْصادِقِ لِلْخِدْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب القدس للطباعة وتصوير المستندات </grapheme>
+    <alias>مَكْتَبِ الْقُدْسِ لِلْطِباعَةِ وَتَصْويرِ الْمُسْتَنَداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب المحامي أحمد عبدالله السويدي </grapheme>
+    <alias>مَكْتَبِ الْمُحامي أَحْمَدُ عَبْدالَلْهْ اَلْسُوَيْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب المحامي ابراهيم علي كرم خوري </grapheme>
+    <alias>مَكْتَبِ الْمُحامي اِبْراهيمَ عَلي كَرَمْ خُوَرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب المغرب العربي للاستشارات الهندسية </grapheme>
+    <alias>مَكْتَبِ الْمَغْرِبِ الْعَرَبِيْ لِلِاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب النائب العام لدولة الإمارات </grapheme>
+    <alias>مَكْتَبِ الْنائِبُ الْعامِ لِدَوْلَةِ الْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب النشمي للاستشارات الهندسية </grapheme>
+    <alias>مَكْتَبْ اَلْنَشْمي لِلِاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب النصر للمحاماة والاستشارات القانونية </grapheme>
+    <alias>مَكْتَبِ الْنَصْرْ لِلْمُحاماةِ والِاسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب النيل للطباعة وتصوير المستندات </grapheme>
+    <alias>مَكْتَبْ اَلْنيلْ لِلْطِباعَةْ وَتَصْويرِ الْمُسْتَنَداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب الهيثمي للمحاماة والاستشارات القانونية </grapheme>
+    <alias>مَكْتَبِ الْهَيْثَمِيْ لِلْمُحاماةِ والِاسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب بيروت للاستشارات الهندسية </grapheme>
+    <alias>مَكْتَبِ بَيْروتْ لِلِاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب خليفة بن عمير للمحاماة والاستشارات القانونية </grapheme>
+    <alias>مَكْتَبِ خَليفَةْ بِنْ عُميرْ لِلْمُحاماةِ والِاسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب ريحانة القوع للطباعة وتصوير المستندات </grapheme>
+    <alias>مَكْتَبِ ريحانَةِ الْقوعْ لِلْطِباعَةِ وَتَصْويرِ الْمُسْتَنَداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب سفريات العين اكسبرس </grapheme>
+    <alias>مَكْتَبِ سَفْرْياتِ الْعَيْنِ اِكْسَبِرِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب سلطنة عمان التجاري </grapheme>
+    <alias>مَكْتَبِ سَلْطَنَةِ عُمانَ الْتِجارِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب سليمان المنهالي للمحاماة والاستشارات القانونية </grapheme>
+    <alias>مَكْتَبِ سُلَيْمانَ الْمِنْهالِيْ لِلْمُحاماةِ والِاسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب سيتي بلان للاستشارات الهندسية </grapheme>
+    <alias>مَكْتَبِ سيتي بْلانْ لِلِاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب عبدالمجيد المرزوقي لتدقيق الحسابات </grapheme>
+    <alias>مَكْتَبِ عَبْدًالْمَجيدِ الْمَرْزوقِيْ لَتْدَقيقِ الْحِساباتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب عبيد الشامسي للمحاماة والاستشارات القانونية </grapheme>
+    <alias>مَكْتَبِ عُبَيْدْ اَلْشامِسِيْ لِلْمُحاماةِ والِاسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب عد الفرسان للكتابة والتصوير </grapheme>
+    <alias>مَكْتَبِ عَدِ الْفُرْسانْ لِلْكِتابَةِ والْتَصْويرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب فلج هزاع لتأجير السيارات </grapheme>
+    <alias>مَكْتَبِ فَلَجْ هَزاعْ لِتَأْجيرِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب فنون العمارة للاستشارات الهندسية </grapheme>
+    <alias>مَكْتَبِ فُنونِ الْعِمارَةِ لِلِاسْتِشاراتِ الْهَنْدَسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب هزاع الأحبابي للمحاماة والاستشارات القانونية </grapheme>
+    <alias>مَكْتَبِ هَزاعِ الْأَحْبابِيْ لِلْمُحاماةِ والِاسْتِشاراتِ الْقانونِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب واحة الرضا للطباعة وتصوير المستندات </grapheme>
+    <alias>مَكْتَبِ واحَةِ الْرِضا لِلْطِباعَةِ وَتَصْويرِ الْمُسْتَنَداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتب الملف الأخضر للطباعة </grapheme>
+    <alias>مَكْتَبِ الْمَلَفَ الْأَخْضَرْ لِلْطِباعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الاجيال </grapheme>
+    <alias>مَكْتَبَةِ الْاِجْيالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الاقلام </grapheme>
+    <alias>مَكْتَبَةِ الْاَقْلامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الالباني الاثري </grapheme>
+    <alias>مَكْتَبَةِ الْاَلْباني الْاَثَرِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الامجاد </grapheme>
+    <alias>مَكْتَبَةِ الْاِمْجادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الامين </grapheme>
+    <alias>مَكْتَبَةِ الْاَمينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الايمان </grapheme>
+    <alias>مَكْتَبَةِ الْايمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة البتراء </grapheme>
+    <alias>مَكْتَبَةِ الْبَتْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة البدية الاهلية </grapheme>
+    <alias>مَكْتَبَةِ الْبَدِيَةِ الْاَهْلِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة البيان </grapheme>
+    <alias>مَكْتَبَةِ الْبَيانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة البيرق </grapheme>
+    <alias>مَكْتَبَةِ الْبَيْرَقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة التوفير </grapheme>
+    <alias>مَكْتَبَةِ الْتَوْفيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الجامعة </grapheme>
+    <alias>مَكْتَبَةِ الْجامِعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الجزيرة </grapheme>
+    <alias>مَكْتَبَةِ الْجَزيرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الحجاز </grapheme>
+    <alias>مَكْتَبَةِ الْحِجازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الحرمين </grapheme>
+    <alias>مَكْتَبَةِ الْحَرَمَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الحكمة </grapheme>
+    <alias>مَكْتَبَةِ الْحِكْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الخضراء للقرطاسية </grapheme>
+    <alias>مَكْتَبَةِ الْخَضْرَاِءْ لِلْقُرْطاسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الخطوط الملونة </grapheme>
+    <alias>مَكْتَبَةِ الْخُطوطِ الْمُلَوَنَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الرفاعة </grapheme>
+    <alias>مَكْتَبَةِ الْرَفاعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الرميلة </grapheme>
+    <alias>مَكْتَبَةِ الْرُميلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة السلامات </grapheme>
+    <alias>مَكْتَبَةِ الْسَلاماتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الشاطر حسن </grapheme>
+    <alias>مَكْتَبَةِ الْشاطِرُ حَسَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الشروق </grapheme>
+    <alias>مَكْتَبَةِ الْشُروقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الصفاء </grapheme>
+    <alias>مَكْتَبَةِ الْصَفاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الضحى </grapheme>
+    <alias>مَكْتَبَةِ الْضُحَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة العريبي </grapheme>
+    <alias>مَكْتَبَةِ الْعُرَيْبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة العلا </grapheme>
+    <alias>مَكْتَبَةِ الْعُلا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الفارابي </grapheme>
+    <alias>مَكْتَبَةِ الْفارابِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الفجر </grapheme>
+    <alias>مَكْتَبَةِ الْفَجْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الفرقان </grapheme>
+    <alias>مَكْتَبَةِ الْفُرْقانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الفصول </grapheme>
+    <alias>مَكْتَبَةِ الْفُصولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الفلاح </grapheme>
+    <alias>مَكْتَبَةِ الْفَلاحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة القلم الذهبي </grapheme>
+    <alias>مَكْتَبَةِ الْقَلَمِ الْذَهَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة القيروان </grapheme>
+    <alias>مَكْتَبَةِ الْقَيْرَوانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الكوثر </grapheme>
+    <alias>مَكْتَبَةِ الْكَوْثَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة المتنبي </grapheme>
+    <alias>مَكْتَبَةِ الْمُتَنَبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة المدير </grapheme>
+    <alias>مَكْتَبَةِ الْمُديرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة المدينة </grapheme>
+    <alias>مَكْتَبَةِ الْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة المشاهير </grapheme>
+    <alias>مَكْتَبَةِ الْمَشاهيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة المعمورة </grapheme>
+    <alias>مَكْتَبَةِ الْمَعْمورَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة المنى </grapheme>
+    <alias>مَكْتَبَةِ الْمُنَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة النجاح </grapheme>
+    <alias>مَكْتَبَةِ الْنَجاحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الهدى </grapheme>
+    <alias>مَكْتَبَةِ الْهُدَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة الوصل </grapheme>
+    <alias>مَكْتَبَةِ الْوَصْلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة اليحر الحديثة </grapheme>
+    <alias>مَكْتَبَةِ الْيَحَرِ الْحَديثَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة اليقظة الثقافية العامة للمرأة والطفل </grapheme>
+    <alias>مَكْتَبَةِ الْيَقَظَةِ الْثَقافِيَةِ الْعامَةِ لِلْمَرْأَةِ والْطِفْلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة باب الريان </grapheme>
+    <alias>مَكْتَبَةِ بابِ الْرَيانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة بحر العلوم </grapheme>
+    <alias>مَكْتَبَةِ بَحْرِ الْعُلومْ</alias>
+  </lexeme>
+</lexicon>

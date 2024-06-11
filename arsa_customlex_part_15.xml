@@ -1,0 +1,1808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="ar-SA">
+  <lexeme>
+    <grapheme> فندق السلام جراند </grapheme>
+    <alias>فُنْدُقْ اَلْسَلامْ جْرانْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق السماء الزرقاء </grapheme>
+    <alias>فُنْدُقْ اَلْسَمَاِءْ الْزَرْقاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الشاطئ </grapheme>
+    <alias>فُنْدُقْ اَلْشاطِئْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الشاطئ روتانا </grapheme>
+    <alias>فُنْدُقْ اَلْشاطِئْ رْوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الشرق </grapheme>
+    <alias>فُنْدُقِ الْشَرْقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الشمس والرمال </grapheme>
+    <alias>فُنْدُقْ اَلْشَمْسِ والْرِمالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق العنوان داون تاون </grapheme>
+    <alias>فُنْدُقْ اَلْعُنْوانْ داوِنْ تاوِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق العنوان سكاي فيو </grapheme>
+    <alias>فُنْدُقْ اَلْعُنْوانْ سْكايْ فيوْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق العنوان مارينا مول </grapheme>
+    <alias>فُنْدُقْ اَلْعُنْوانْ مارينا مولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق العين بالاس </grapheme>
+    <alias>فُنْدُقِ الْعَيْنْ بالاسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق العين روتانا </grapheme>
+    <alias>فُنْدُقْ اَلْعَيْنْ رْوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الفجيرة روتانا </grapheme>
+    <alias>فُنْدُقْ اَلْفُجَيْرَةْ رْوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الفريج </grapheme>
+    <alias>فُنْدُقْ اَلْفِريجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الكرامة </grapheme>
+    <alias>فُنْدُقْ اَلْكَرامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الكورنيش </grapheme>
+    <alias>فُنْدُقْ اَلْكورْنِيْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الكوف روتانا </grapheme>
+    <alias>فُنْدُقْ اَلْكوفْ رْوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق اللؤلؤة </grapheme>
+    <alias>فُنْدُقِ الُلْؤْلُؤَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الماسة </grapheme>
+    <alias>فُنْدُقْ اَلْماسَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق المجاز </grapheme>
+    <alias>فُنْدُقْ اَلْمَجازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق المدينة </grapheme>
+    <alias>فُنْدُقِ اَلْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق المرفأ </grapheme>
+    <alias>فُنْدُقْ اَلْمَرْفَأْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق المروج روتانا </grapheme>
+    <alias>فُنْدُقْ اَلْمُروجِ رْوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق المطار ميلينيوم دبي </grapheme>
+    <alias>فُنْدُقْ اَلْمَطارِ ميلينْيومْ دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق المفرق </grapheme>
+    <alias>فُنْدُقْ اَلْمَفْرَقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق المنزل داون تاون </grapheme>
+    <alias>فُنْدُقْ اَلْمَنْزِلِ داوِنْ تاوِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الميدان </grapheme>
+    <alias>فُنْدُقْ اَلْمَيْدانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق النور </grapheme>
+    <alias>فُنْدُقْ اَلْنورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الهيلي ريحان روتانا </grapheme>
+    <alias>فُنْدُقْ اَلْهْيْلْيْ ريحانْ رْوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق الوفت </grapheme>
+    <alias>فُنْدُقْ اَلوفْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق امباسادور </grapheme>
+    <alias>فُنْدُقْ اِمْباسادورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق اوركيد </grapheme>
+    <alias>فُنْدُقْ اورْكيدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ايبيس الفجيرة </grapheme>
+    <alias>فُنْدُقْ اَيْبيسْ اَلْفُجَيْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ايبيس المركز التجاري </grapheme>
+    <alias>فُنْدُقْ اَيْبيسْ الْمَرْكَزِ الْتِجارِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ايبيس بوابة أبوظبي </grapheme>
+    <alias>فُنْدُقْ اَيْبيسْ بَوابَةِ أَبوظَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ايبيس ديرة سيتي سنتر </grapheme>
+    <alias>فُنْدُقْ اَيْبيسْ دِيْرَةْ سيتي سَنْتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ايبيس ستايلز </grapheme>
+    <alias>فُنْدُقْ اَيْبيسْ سْتايْلْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ايبيس ون سنترال </grapheme>
+    <alias>فُنْدُقْ اَيْبيسْ وَنْ سَنْتَرالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق باب الشمس </grapheme>
+    <alias>فُنْدُقْ بابِ الْشَمْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق باب القصر </grapheme>
+    <alias>فُنْدُقِ بابِ الْقَصْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق باراجون </grapheme>
+    <alias>فُنْدُقِ باراجونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق بارك ان باي راديسون </grapheme>
+    <alias>فُنْدُقْ بارْكْ اِنْ بايْ راديسونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق بارك حياة </grapheme>
+    <alias>فُنْدُقْ بارْكْ حَياةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق بارك روتانا </grapheme>
+    <alias>فُنْدُقْ بارْكْ رْوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق بارك ريجيس كريس كين </grapheme>
+    <alias>فُنْدُقْ بُارْكْ ريجيسْ كْريسْ كينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق بالاس </grapheme>
+    <alias>فُنْدُقِ بالاسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق بالم بيتش </grapheme>
+    <alias>فُنْدُقْ بالْمْ بِيْتْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق بانوراما </grapheme>
+    <alias>فُنْدُقْ بانوراما</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق باهي قصر عجمان </grapheme>
+    <alias>فُنْدُقْ باهي قَصْرْ عَجْمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق برايم </grapheme>
+    <alias>فُنْدُقِ بْرايِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق برايم تاور </grapheme>
+    <alias>فُنْدُقِ بْرايِمْ تاوَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق برج العرب </grapheme>
+    <alias>فُنْدُقْ بُرْجِ الْعَرَبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق بركودا بيتش </grapheme>
+    <alias>فُنْدُقِ بَرَكودا بيتْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق برودواي </grapheme>
+    <alias>فُنْدُقْ بُرودْوايْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق بريمير إن </grapheme>
+    <alias>فُنْدُقْ بْريمِيَرْ إَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق بلازا الإمارات </grapheme>
+    <alias>فُنْدُقْ بْلازا الْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق بلازو فيرساتشي </grapheme>
+    <alias>فُنْدُقْ بْلازو فيرْساتْشِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق بلاك ستون </grapheme>
+    <alias>فُنْدُقْ بْلاكْ سْتونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق بولمان </grapheme>
+    <alias>فُنْدُقْ بولْمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق بيبلوس </grapheme>
+    <alias>فُنْدُقْ بْيْبْلوسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق بيرل روتانا كابيتال سنتر </grapheme>
+    <alias>فُنْدُقْ بيرْلْ رْوْتانا كابيتالْ سَنْتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق تاج </grapheme>
+    <alias>فُنْدُقِ تاجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق تاج البراحة </grapheme>
+    <alias>فُنْدُقِ تاجْ اَلْبَراحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق تاورز روتانا </grapheme>
+    <alias>فُنْدُقْ تاوَرْزْ رْوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق تايم اوك </grapheme>
+    <alias>فُنْدُقْ تايِمْ اُوْكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق تايم بالاس </grapheme>
+    <alias>فُنْدُقْ تايِمْ بالاسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق تايم جراند بلازا </grapheme>
+    <alias>فُنْدُقْ تايِمْ جْرانْدْ بْلازا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق تريب باي ويندام </grapheme>
+    <alias>فُنْدُقْ تْريبْ بايْ وَيْنْدامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق تريب ويندام </grapheme>
+    <alias>فُنْدُقْ تْريبْ وَيْنْدامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق تريدرز </grapheme>
+    <alias>فُنْدُقِ تْريدَرْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق تشيلسي بلازا </grapheme>
+    <alias>فُنْدُقْ تْشَيْلْسي بْلازا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق تلال ليوا </grapheme>
+    <alias>فُنْدُقْ تِلالْ ليوا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق تو سيزنز </grapheme>
+    <alias>فُنْدُقْ تو سيزِنْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق توب ستارز </grapheme>
+    <alias>فُنْدُقْ توبْ سْتارْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق تيوليب إن </grapheme>
+    <alias>فُنْدُقْ تْيوليبْ إِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق تيوليب إن الشريعة </grapheme>
+    <alias>فُنْدُقْ تْيوليبْ إِنْ اَلْشَريعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جبل علي </grapheme>
+    <alias>فُنْدُقْ جَبَلْ عَلي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جراند اكسلسيور </grapheme>
+    <alias>فُنْدُقْ جْرانْدْ اِكْسَلْسْيورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جراند الإمارات </grapheme>
+    <alias>فُنْدُقْ جْرانْدْ اَلْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جراند بي جي </grapheme>
+    <alias>فُنْدُقْ جْرانْدْ بي جَيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جراند حياة </grapheme>
+    <alias>فُنْدُقْ جْرانْدْ حَياةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جراند سنترال </grapheme>
+    <alias>فُنْدُقْ جْرانْدْ سَنْتْرالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جراند كونتيننتال </grapheme>
+    <alias>فُنْدُقْ جْرانْدْ كونْتينِنْتالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جروسفينور هاوس </grapheme>
+    <alias>فُنْدُقْ جْروسْفينورْ هاوِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جلفار </grapheme>
+    <alias>فُنْدُقْ جِلْفارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جميرا أبراج الاتحاد </grapheme>
+    <alias>فُنْدُقْ جُمْيَرَاَ أْبْراجْ اَلِاتِحادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جميرا بيتش </grapheme>
+    <alias>فُنْدُقْ جُمْيَرا بْيْتْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جميرا روتانا </grapheme>
+    <alias>فُنْدُقْ جُمْيَرا رْوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جميرا زعبيل سراي </grapheme>
+    <alias>فُنْدُقْ جُمْيَرا زَعْبيلْ سَرايْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جميرا كريك سايد </grapheme>
+    <alias>فُنْدُقْ جُمْيَرا كِريكْ سايِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جنة </grapheme>
+    <alias>فُنْدُقِ جَنَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جوبا </grapheme>
+    <alias>فُنْدُقْ جوبا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جود بالاس </grapheme>
+    <alias>فُنْدُقْ جودْ بالاسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جولد ستيت </grapheme>
+    <alias>فُنْدُقْ جولْدْ سْتَيْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جولدن تيوليب </grapheme>
+    <alias>فُنْدُقِ جولْدِنْ تِيْوْليبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جولدن ساندز </grapheme>
+    <alias>فُنْدُقْ جولْدِنْ سانْدْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق جيفورا </grapheme>
+    <alias>فُنْدُقْ جَيْفورا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق حبتور بالاس </grapheme>
+    <alias>فُنْدُقْ حَبْتورْ بالاسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق حياة بليس </grapheme>
+    <alias>فُنْدُقْ حَياةْ بْلَيْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق حياة ريجنسي </grapheme>
+    <alias>فُنْدُقْ حَياةْ ريجِنْسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق حياة ريجنسي كريك هايتس </grapheme>
+    <alias>فُنْدُقْ حَياةْ ريجِنْسِيْ كِريكْ هايْتْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق دانة </grapheme>
+    <alias>فُنْدُقْ دانَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق داو بالاس </grapheme>
+    <alias>فُنْدُقْ داوْ بالاسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق دبليو دبي </grapheme>
+    <alias>فُنْدُقْ دَبْلِيو دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق دبي الدولي </grapheme>
+    <alias>فُنْدُقْ دُبي اَلْدَوْلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق دبي جراند </grapheme>
+    <alias>فُنْدُقِ دُبي جْرانْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق دريم بالاس </grapheme>
+    <alias>فُنْدُقْ دَريمْ بالاسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق دريم لاند </grapheme>
+    <alias>فُنْدُقْ دْريمْ لانْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ديلمون بالاس </grapheme>
+    <alias>فُنْدُقْ دْيْلْمونْ بالاسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ذا ليلا </grapheme>
+    <alias>فُنْدُقْ ذا ليلا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ذي إتش </grapheme>
+    <alias>فُنْدُقِ ذي إِتْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ذي إديشن </grapheme>
+    <alias>فُنْدُقْ ذْيْ إِديشِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ذي اكت </grapheme>
+    <alias>فُنْدُقْ ذْيْ اَكْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ذي ريتريت بالم </grapheme>
+    <alias>فُنْدُقْ ذي ريتْريتْ بالْمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رأس الخيمة </grapheme>
+    <alias>فُنْدُقِ رَأْسِ الْخَيْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق راديسون بلو </grapheme>
+    <alias>فُنْدُقْ راديسونْ بْلو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رافيز سنتر بوينت </grapheme>
+    <alias>فُنْدُقْ رافَيْزْ سَنْتَرْ بويْنْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رامادا </grapheme>
+    <alias>فُنْدُقْ رامادا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رامادا بلازا جميرا بيتش </grapheme>
+    <alias>فُنْدُقْ رامادا بْلازا جُمْيَرا بِيْتْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رامادا بيتش </grapheme>
+    <alias>فُنْدُقْ رامادا بِيْتْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رامادا جميرا </grapheme>
+    <alias>فُنْدُقْ رامادا جُمْيَرا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رامادا ديرة </grapheme>
+    <alias>فُنْدُقْ رامادا دِيْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رامادا شيلسي </grapheme>
+    <alias>فُنْدُقْ رامادا شَيْلْسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رامي روز </grapheme>
+    <alias>فُنْدُقْ رامي روزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رحاب </grapheme>
+    <alias>فُنْدُقْ رِحابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رفلكشنز </grapheme>
+    <alias>فُنْدُقْ رِفْلَكْشِنْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رمادا داون تاون </grapheme>
+    <alias>فُنْدُقْ رَمادا داوِنْ تاوِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رنيسانس </grapheme>
+    <alias>فُنْدُقْ رِنيسانْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق روتانا جزيرة ياس </grapheme>
+    <alias>فُنْدُقْ رْوْتانا جَزيرَةِ ياسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق روز ريحان روتانا </grapheme>
+    <alias>فُنْدُقْ روزْ ريحانْ رْوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق روز وود </grapheme>
+    <alias>فُنْدُقْ روزْ وُوْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق روضة البستان </grapheme>
+    <alias>فُنْدُقْ رَوْضَةْ اَلْبُسْتانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق روف داون تاون </grapheme>
+    <alias>فُنْدُقْ روفْ داوِنْ تاوْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق روف دبي مارينا </grapheme>
+    <alias>فُنْدُقْ روفْ دُبي مارينا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق روف لامير </grapheme>
+    <alias>فُنْدُقْ روفْ لاميرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رويال إم </grapheme>
+    <alias>فُنْدُقِ رويالْ إِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رويال اسكوت </grapheme>
+    <alias>فُنْدُقْ رويالْ اَسْكوتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رويال بيتش </grapheme>
+    <alias>فُنْدُقِ رويالْ بيتْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رويال رزيدنس </grapheme>
+    <alias>فُنْدُقْ رويالْ رِزيدَنْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رويال روز </grapheme>
+    <alias>فُنْدُقْ رويالْ روزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رويال سنترال </grapheme>
+    <alias>فُنْدُقْ رويالْ سَنْتَرالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رويال فالكون </grapheme>
+    <alias>فُنْدُقْ رويالْ فالْكونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رويال فيو </grapheme>
+    <alias>فُنْدُقْ رويالْ فيوْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رويال كراون </grapheme>
+    <alias>فُنْدُقْ رويالْ كْراوَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رويال كونتيننتال </grapheme>
+    <alias>فُنْدُقْ رويالْ كونْتينِنْتالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ريان </grapheme>
+    <alias>فُنْدُقِ رَيِانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ريان الكورنيش </grapheme>
+    <alias>فُنْدُقِ رَيانْ اَلْكورْنَيْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ريكسوس </grapheme>
+    <alias>فُنْدُقْ رَيْكْسوسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق زعبيل هاوس </grapheme>
+    <alias>فُنْدُقِ زَعْبيلْ هاوْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق زين إنترناشونال </grapheme>
+    <alias>فُنْدُقْ زَيْنْ إِنْتَرْناشونالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سافرون </grapheme>
+    <alias>فُنْدُقْ سافْرونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سافرون بوتيك </grapheme>
+    <alias>فُنْدُقْ سافْرونْ بوتيكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سان ماركو </grapheme>
+    <alias>فُنْدُقْ سانْ مارْكو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سانت جورج </grapheme>
+    <alias>فُنْدُقْ سانْتْ جورْجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سانت ريجيس </grapheme>
+    <alias>فُنْدُقْ سانْتْ ريجيسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ساوثرن صن </grapheme>
+    <alias>فُنْدُقْ ساوْثَرْنْ صَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سبورت </grapheme>
+    <alias>فُنْدُقْ سْبورْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ستار مترو </grapheme>
+    <alias>فُنْدُقْ سْتارْ مِتْرو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ستراند </grapheme>
+    <alias>فُنْدُقْ سْتْرانْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سراي زعبيل </grapheme>
+    <alias>فُنْدُقْ سَرايْ زَعْبيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سراي عجمان </grapheme>
+    <alias>فُنْدُقْ سَرايْ عَجْمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سفن تو </grapheme>
+    <alias>فُنْدُقْ سِفِنْ تُوْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سمايا </grapheme>
+    <alias>فُنْدُقْ سَمايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سنتر فيل </grapheme>
+    <alias>فُنْدُقْ سَنْتَرْ فيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سنترو كابيتال سنتر </grapheme>
+    <alias>فُنْدُقْ سَنْتْرو كابيتالْ سَنْتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سنترو مطار الشارقة </grapheme>
+    <alias>فُنْدُقْ سَنْتْرو مَطارِ الْشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سوفيتل </grapheme>
+    <alias>فُنْدُقْ سوفيتِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سويت نوفوتيل مول الإمارات </grapheme>
+    <alias>فُنْدُقْ سْويتْ نوفوتيلْ مولْ اَلْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سويس بلهوتل </grapheme>
+    <alias>فُنْدُقْ سْويسْ بَلْهوتِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سي فيو </grapheme>
+    <alias>فُنْدُقِ سي فيوْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سياج </grapheme>
+    <alias>فُنْدُقْ سِياجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سيتي أفينيو </grapheme>
+    <alias>فُنْدُقْ سيتي أَفْيْنِيو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سيتي بلازا </grapheme>
+    <alias>فُنْدُقِ سيتي بْلازا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سيتي تاور </grapheme>
+    <alias>فُنْدُقْ سيتي تاوَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سيتي سيزنز </grapheme>
+    <alias>فُنْدُقْ سيتي سيزِنْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سيتي ماكس </grapheme>
+    <alias>فُنْدُقْ سيتي ماكْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سيجنتشر </grapheme>
+    <alias>فُنْدُقْ سيجْنِتْشَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سيجنتشر إن </grapheme>
+    <alias>فُنْدُقْ سيجْنِتْشَرْ إِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق سيجي الديار </grapheme>
+    <alias>فُنْدُقْ سيجي اَلْدَيارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق شاطئ الراحة </grapheme>
+    <alias>فُنْدُقْ شاطِئِ الْراحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق شاطئ السيف </grapheme>
+    <alias>فُنْدُقْ شاطِئِ الْسَيْفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق شاطئ الفجيرة </grapheme>
+    <alias>فُنْدُقْ شاطِئِ اَلْفُجَيْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق شاطئ اللؤلؤ </grapheme>
+    <alias>فُنْدُقْ شاطِئِ الُلْؤُلُؤْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق شاطئ الواحة </grapheme>
+    <alias>فُنْدُقْ شاطِئِ الْواحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق شاطئ ام القيوين </grapheme>
+    <alias>فُنْدُقِ شاطِئِ اُمِ الْقيوينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق شاطئ روتانا </grapheme>
+    <alias>فُنْدُقْ شاطِئْ رْوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق شاطئ روتانا ريزيدنس </grapheme>
+    <alias>فُنْدُقْ شاطِئِ رْوْتانا رْيْزيدَنْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق شاطئ عجمان </grapheme>
+    <alias>فُنْدُقْ شاطِئِ عَجْمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق شتيجنبرجر </grapheme>
+    <alias>فُنْدُقِ شْتَيْجِنْبِرْجِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق شيراتون </grapheme>
+    <alias>فُنْدُقْ شيراتونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق صدف ديلمون </grapheme>
+    <alias>فُنْدُقْ صَدَفْ ديلْمونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق طهران </grapheme>
+    <alias>فُنْدُقْ طَهْرانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق عجمان </grapheme>
+    <alias>فُنْدُقِ عَجْمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق عجمان كمبينسكي </grapheme>
+    <alias>فُنْدُقِ عَجْمانْ كِمْبينْسْكِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق غاية جراند </grapheme>
+    <alias>فُنْدُقْ غايَةِ جْرانْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق فايف نخلة جميرا </grapheme>
+    <alias>فُنْدُقْ فايِفْ نَخْلَةْ جُمْيَرا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق فلورا ان </grapheme>
+    <alias>فُنْدُقْ فْلْوَرَاَ انْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق فلورا جراند </grapheme>
+    <alias>فُنْدُقْ فْلْوَرا جْرانْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق فلوريدا </grapheme>
+    <alias>فُنْدُقْ فْلْوَريدا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق فور بوينتس شيراتون </grapheme>
+    <alias>فُنْدُقْ فَوْرْ بويِنْتْسْ شيراتونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق فور سيزونز </grapheme>
+    <alias>فُنْدُقْ فَوْرْ سَيْزونْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق فورتشن </grapheme>
+    <alias>فُنْدُقْ فورْتْشِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق فورتشن بارك </grapheme>
+    <alias>فُنْدُقْ فورْتْشِنْ بارْكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق فورتشن بلازا </grapheme>
+    <alias>فُنْدُقْ فورْتْشِنْ بْلازا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق فورتشن بيرل </grapheme>
+    <alias>فُنْدُقْ فورْتْشِنْ بَيْرْلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق فورتشن جراند </grapheme>
+    <alias>فُنْدُقْ فورْتْشِنْ جْرانْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق فورم </grapheme>
+    <alias>فُنْدُقْ فورْمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق فوكو </grapheme>
+    <alias>فُنْدُقْ فوكُوْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق فوياج </grapheme>
+    <alias>فُنْدُقْ فُوْياجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق في </grapheme>
+    <alias>فُنْدُقِ في</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق فيدا هيلز </grapheme>
+    <alias>فُنْدُقْ فيدا هيلْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق فيراري </grapheme>
+    <alias>فُنْدُقْ فيراري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق فينيسيا </grapheme>
+    <alias>فُنْدُقْ فْيْنْيْسْيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق قصر الإمارات </grapheme>
+    <alias>فُنْدُقْ قَصْرْ اَلْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق قصر الحمراء </grapheme>
+    <alias>فُنْدُقْ قَصْرْ اَلْحَمْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق قصر الشارقة </grapheme>
+    <alias>فُنْدُقِ قَصْرِ الْشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق قصر الضيافة </grapheme>
+    <alias>فُنْدُقْ قَصْرْ اَلْضِيافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق قصر الملكة </grapheme>
+    <alias>فُنْدُقْ قَصْرْ اَلْمَلِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق قصر ديرة </grapheme>
+    <alias>فُنْدُقْ قَصْرْ دِيْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق قوس قزح </grapheme>
+    <alias>فُنْدُقْ قوسْ قَزَحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كابيتال </grapheme>
+    <alias>فُنْدُقْ كابيتالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كابيتال جراند </grapheme>
+    <alias>فُنْدُقْ كابيتالْ جْرانْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كازابلانكا </grapheme>
+    <alias>فُنْدُقْ كازابْلانْكا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كاسيلز البرشاء </grapheme>
+    <alias>فُنْدُقْ كاسيلْزْ اَلْبَرْشاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كاليفورنيا </grapheme>
+    <alias>فُنْدُقْ كاليفورْنِيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كراون بالاس </grapheme>
+    <alias>فُنْدُقْ كْراوْنْ بالاسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كراون بلازا </grapheme>
+    <alias>فُنْدُقْ كْراوْنْ بْلازا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كراون بلازا دبي مارينا </grapheme>
+    <alias>فُنْدُقْ كْراوْنْ بْلازا دُبي مارينا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كريستال </grapheme>
+    <alias>فُنْدُقِ كِريسْتالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كريستال بلازا </grapheme>
+    <alias>فُنْدُقْ كْريسْتالْ بْلازا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كليفتون إنترناشونال </grapheme>
+    <alias>فُنْدُقْ كْلَيْفْتونْ إِنْتَرْناشونالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كمبينسكي </grapheme>
+    <alias>فُنْدُقْ كِمْبينْسْكِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كمبينسكي مول الإمارات </grapheme>
+    <alias>فُنْدُقْ كِمْبْيْنْسْكْيِ مولْ اَلْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كمفورت ان </grapheme>
+    <alias>فُنْدُقْ كُمْفورْتْ اِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كنجز جيت </grapheme>
+    <alias>فُنْدُقْ كِنْجْزْ جيتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كوبثرون </grapheme>
+    <alias>فُنْدُقْ كوبْثُرونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كورال اورينتال </grapheme>
+    <alias>فُنْدُقْ كُوْرالْ اورْيَنْتالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كورال بيتش </grapheme>
+    <alias>فُنْدُقْ كُوْرالْ بْيْتْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كونراد </grapheme>
+    <alias>فُنْدُقِ كونْرادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كونكورد </grapheme>
+    <alias>فُنْدُقْ كونْكورِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كونكورد الفجيرة </grapheme>
+    <alias>فُنْدُقْ كونْكورْدْ اَلْفُجَيْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كينج فيشر </grapheme>
+    <alias>فُنْدُقِ كَيْنْجْ فيشَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق كينجز بارك </grapheme>
+    <alias>فُنْدُقْ كينْجْزْ بارْكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق لافندر </grapheme>
+    <alias>فُنْدُقِ لافَنْدَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق لندن سويتس </grapheme>
+    <alias>فُنْدُقْ لَنْدَنْ سويْتْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق لو رويال مريديان </grapheme>
+    <alias>فُنْدُقْ لو رويالْ مِريدْيانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق لو مريديان </grapheme>
+    <alias>فُنْدُقْ لو مِريدْيانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق لوتس جراند </grapheme>
+    <alias>فُنْدُقْ لَوْتَسْ جْرانْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق لي مريديان </grapheme>
+    <alias>فُنْدُقْ لي مِريدْيانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ليوا </grapheme>
+    <alias>فُنْدُقِ ليوا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ماجستيك </grapheme>
+    <alias>فُنْدُقِ ماجَسْتيكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ماركو بولو </grapheme>
+    <alias>فُنْدُقْ مارْكو بولو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق مارينا بيبلوس </grapheme>
+    <alias>فُنْدُقْ مارينا بْيْبْلوسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق متروبوليتان </grapheme>
+    <alias>فُنْدُقْ مِتْروبولْيْتانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق مطار الشارقة </grapheme>
+    <alias>فُنْدُقْ مَطارِ الْشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق معين </grapheme>
+    <alias>فُنْدُقْ مُعْيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق منهاتن </grapheme>
+    <alias>فُنْدُقْ مَنْهاتِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق موسكو </grapheme>
+    <alias>فُنْدُقْ موسْكو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق موفينبيك </grapheme>
+    <alias>فُنْدُقِ موفينْبيكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق موناكو </grapheme>
+    <alias>فُنْدُقْ موناكو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق مونتريال </grapheme>
+    <alias>فُنْدُقْ مونْتَرْيالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ميديا روتانا </grapheme>
+    <alias>فُنْدُقْ مْيْدَيا رْوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ميراج </grapheme>
+    <alias>فُنْدُقْ ميراجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ميركوري جولد </grapheme>
+    <alias>فُنْدُقْ مْيْرْكورِيْ جُوْلْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ميرميد بيتش </grapheme>
+    <alias>فُنْدُقْ مْيْرْميدْ بِيْتْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ميليا </grapheme>
+    <alias>فُنْدُقْ مْيْلْيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق مينا بلازا </grapheme>
+    <alias>فُنْدُقْ مينا بْلازا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق نايف فيو </grapheme>
+    <alias>فُنْدُقْ نايِفْ فيوْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق نجوم الإمارات </grapheme>
+    <alias>فُنْدُقْ نُجومِ الْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق نهال </grapheme>
+    <alias>فُنْدُقْ نِهالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق نور ارجان روتانا </grapheme>
+    <alias>فُنْدُقْ نورْ اَرْجانْ رِوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق نوفا بارك </grapheme>
+    <alias>فُنْدُقْ نوفا بارْكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق نوفوتيل </grapheme>
+    <alias>فُنْدُقْ نوفوتيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق نوفوتيل بوابة أبوظبي </grapheme>
+    <alias>فُنْدُقْ نوفوتيلْ بَوابَةِ أَبوظَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق نوفوتيل واداجيو البستان </grapheme>
+    <alias>فُنْدُقْ نوفوتيلْ واداجَيو اَلْبُسْتانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق هامبتون من هيلتون </grapheme>
+    <alias>فُنْدُقْ هامْبْتونْ مِنْ هيلْتونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق هايد بارك </grapheme>
+    <alias>فُنْدُقْ هايِدْ بارْكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق هلا أرجان </grapheme>
+    <alias>فُنْدُقْ هَلَاَ أْرْجانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق هلو </grapheme>
+    <alias>فُنْدُقِ هَلَوْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق هوارد جونسون </grapheme>
+    <alias>فُنْدُقْ هَوارْدْ جونْسونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق هيلتون </grapheme>
+    <alias>فُنْدُقْ هيلْتونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق هيلتون العالمي </grapheme>
+    <alias>فُنْدُقْ هيلْتونْ اَلْعالَمِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق هيلتون جاردن ان </grapheme>
+    <alias>فُنْدُقْ هيلْتونْ جارَدِنْ اِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق هيلتون جاردن ان رأس الخيمة </grapheme>
+    <alias>فُنْدُقْ هيلْتونْ جارَدِنْ اِنْ رَأْسِ الْخَيْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق هيلتون دبي الحبتور سيتي </grapheme>
+    <alias>فُنْدُقْ هيلْتونْ دُبي اَلْحُبْتورْ سيتي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق هيلتون كابيتال جراند </grapheme>
+    <alias>فُنْدُقْ هيلْتونْ كابيتالْ جْرانْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق هيوز </grapheme>
+    <alias>فُنْدُقْ هِيوزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق واجنحة لافيل </grapheme>
+    <alias>فُنْدُقْ وَاَجْنِحَةْ لافيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق واجنحة ماريوت هاربور </grapheme>
+    <alias>فُنْدُقْ وَاَجْنِحَةْ مارِيوتْ هارْبورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق والدورف أستوريا </grapheme>
+    <alias>فُنْدُقْ والْدُوْرْفْ أْسْتورَيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق وايت فورت </grapheme>
+    <alias>فُنْدُقْ وايْتْ فورْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق وشاطئ الظفرة </grapheme>
+    <alias>فُنْدُقْ وَشاطِئِ الْظَفْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ومنتجع البدع </grapheme>
+    <alias>فُنْدُقْ وَمُنْتَجِعِ الْبَدَعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ومنتجع امواج روتانا </grapheme>
+    <alias>فُنْدُقْ وَمُنْتَجِعْ اَمْواجُ رْوْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ومنتجع بريميير </grapheme>
+    <alias>فُنْدُقْ وَمُنْتَجِعْ بِريمْييرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ومنتجع بلو دايموند </grapheme>
+    <alias>فُنْدُقِ وَمُنْتَجِعْ بْلو دايْمونْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ومنتجع بلو دايموند السلام </grapheme>
+    <alias>فُنْدُقِ وَمُنْتَجِعْ بْلو دايْمونْدْ اَلْسَلامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ومنتجع جزر الصحراء </grapheme>
+    <alias>فُنْدُقْ وَمُنْتَجِعْ جُزُرِ الْصَحْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ومنتجع جنة </grapheme>
+    <alias>فُنْدُقْ وَمُنْتَجِعْ جَنَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ومنتجع ساندي بيتش </grapheme>
+    <alias>فُنْدُقْ وَمُنْتَجِعْ سانْدْيْ بيتْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ومنتجع فيلاجيو </grapheme>
+    <alias>فُنْدُقْ وَمُنْتَجِعْ فيلاجْيُوْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ومنتجع قصر السراب </grapheme>
+    <alias>فُنْدُقْ وَمُنْتَجِعْ قَصْرْ اَلْسَرابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ون اند أونلي بالم </grapheme>
+    <alias>فُنْدُقْ وَنْ اِنْدْ أَوْنْلِيْ بالْمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ون اند اونلي </grapheme>
+    <alias>فُنْدُقْ وَنْ اَنْدْ اونْلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ون اند اونلي رويال ميراج </grapheme>
+    <alias>فُنْدُقْ وَنْ اَنْدْ اونْلِيْ رويالْ ميراجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ويندام </grapheme>
+    <alias>فُنْدُقْ وينْدامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ويندهام جاردن </grapheme>
+    <alias>فُنْدُقْ وَيْنْدْهامْ جارْدِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ياس </grapheme>
+    <alias>فُنْدُقْ ياسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق ياس اكسبرس </grapheme>
+    <alias>فُنْدُقْ ياسْ اِكْسَبْرِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق يورك إنترناشونال </grapheme>
+    <alias>فُنْدُقْ يَوْرْكْ إِنْتَرْناشونالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق يوريكا </grapheme>
+    <alias>فُنْدُقْ يوريكا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فندق رامي رويال </grapheme>
+    <alias>فُنْدُقْ رامْيْ رويالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فنزويلا لتجارة الإلكترونيات </grapheme>
+    <alias>فَنِزْويلا لِتِجارَةِ اَلْإِلِكْتِرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فهاتفك سيصبح الآن هو محفظتك </grapheme>
+    <alias>فَهاتِفُكَ سَيُصْبِحُ الْآنَ هُوَ مَحْفَظَتُكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فواتير اتصالات الشهرية </grapheme>
+    <alias>فَواتيرْ اِتِصالاتْ اَلْشَهْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فوج فيتنس جيم </grapheme>
+    <alias>فُوْجْ فيتْنِسْ جيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فود بوك </grapheme>
+    <alias>فودْ بوكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فود بوكس </grapheme>
+    <alias>فودْ بوكْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فود ديزاين </grapheme>
+    <alias>فودْ ديزايْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فود واي </grapheme>
+    <alias>فودْ وايْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فور ستار </grapheme>
+    <alias>فَوْرْ سْتارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فور ستار هايبرماركت </grapheme>
+    <alias>فورْ سْتارْ هايُبَرِمارْكَتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فور لايف جيم </grapheme>
+    <alias>فورْ لايْفْ جيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فورتشن جراند للشقق الفندقية </grapheme>
+    <alias>فورْتْشَنْ جْرانْدْ لِلْشُقَقْ اَلْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فورتشن كلاسيك للشقق الفندقية </grapheme>
+    <alias>فورْتْشَنْ كَلاسيكْ لِلْشُقَقْ اَلْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فورتي فروتي للعصائر </grapheme>
+    <alias>فورْتِيْ فْروتِيْ لِلْعَصائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فورمولا لتجارة الاطارات </grapheme>
+    <alias>فَوْرْمولا لِتِجارَةِ اَلْاِطاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فوريو للكمبيوتر </grapheme>
+    <alias>فَوْرِيو لِلْكُمْبِيوتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فورَ توفُرِها </grapheme>
+    <alias>فَوْرَ تَوْفُرِها</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فوزية للأسماك </grapheme>
+    <alias>فَوْزِيَةْ لِلْأَسْماكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فوكس لزينة السيارات </grapheme>
+    <alias>فوكْسْ لِزينَةِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فول أبوالعباس </grapheme>
+    <alias>فولْ أَبوالْعَباسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فول اوبشن موتورز </grapheme>
+    <alias>فولْ اوبْشَنْ موتورْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فول وحمص </grapheme>
+    <alias>فولْ وَحُمُصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فول وفلافل </grapheme>
+    <alias>فولْ وَفَلافِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فولتج برجر </grapheme>
+    <alias>فولْتَجْ بِرْجَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في آي بي لاصلاح السيارات الالمانية </grapheme>
+    <alias>في آيْ بي لِاِصْلاحِ الْسَياراتِ الْاَلْمانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في أي بي لزينة السيارات </grapheme>
+    <alias>في أَيْ بي لَزينَةِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في أي بي للاطارات </grapheme>
+    <alias>في أَيْ بي لِلْاِطاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في أي بي للمفروشات </grapheme>
+    <alias>في أَيْ بي لِلْمَفْروشاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في أي منطقة في </grapheme>
+    <alias>في أَيْ مِنْطَقَةٍ في</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في إعادة تشغيله </grapheme>
+    <alias>في إِعادَةِ تَشْغيلِهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في إل سي سي </grapheme>
+    <alias>في إِلْ سْيْ سْيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في استفساراتك و طلباتك </grapheme>
+    <alias>في اِسْتِفْساراتِكَ وَ طَلَباتِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في اف اس جلوبال </grapheme>
+    <alias>في اِفْ اِسْ جْلوبالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في اف اس جي سي سي </grapheme>
+    <alias>في اَفْ اَسْ جي سي سي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في ال سي سي </grapheme>
+    <alias>في اَلْ سي سي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في الفاتورة </grapheme>
+    <alias>في الْفاتورَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في الوقت الحالي </grapheme>
+    <alias>في الْوَقْتِ الْحالِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في اي بي للنسخ والقرطاسية </grapheme>
+    <alias>في اَيْ بي لِلْنَسْخِ والْقِرْطاسِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في بي اس للرعاية الصحية </grapheme>
+    <alias>في بي اَسْ لِلْرِعايَةِ الْصِحِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في حالة عدم توفر خدمة </grapheme>
+    <alias>في حالَةِ عَدَمِ تَوَفُرِ خِدْمَةِ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في حساباتك </grapheme>
+    <alias>في حِساباتِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في ضبطها </grapheme>
+    <alias>في ضَبْطِها</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في كول الإمارات للتجارة </grapheme>
+    <alias>في كولْ اْلْإِماراتِ لِلْتِجارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في للعطور </grapheme>
+    <alias>في لِلُعْطورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في مكالماتك </grapheme>
+    <alias>في مُكالَماتِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> في منطقتك </grapheme>
+    <alias>في مَنْطِقَتِكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيا روما </grapheme>
+    <alias>فَيا روما</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فياض أحمد للخياطة </grapheme>
+    <alias>فَياضْ أَحْمَدْ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فياض حمد لخياطة أزياء السيدات </grapheme>
+    <alias>فَياضْ حَمَدْ لِخِياطَةِ أَزْيَاْءَ الْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيتشر للتوصيل </grapheme>
+    <alias>فيتْشَرْ لِلْتَوْصيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيتنام لمتابعة الصفقات العقارية </grapheme>
+    <alias>فَيِتْنامْ لِمُتابَعَةِ الْصَفَقاتِ الْعَقارِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيتنس فيرست </grapheme>
+    <alias>فيتْنِسْ فيرْسْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيتنس واي للياقة البدنية </grapheme>
+    <alias>فيتْنِسْ وايْ لِلَياقَةِ الْبَدَنِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيجن للشقق الفندقية </grapheme>
+    <alias>فْيْجَنْ لِلْشُقَقْ اَلْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيجي للخزانات </grapheme>
+    <alias>فْيْجْيْ لِلْخَزاناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيدا بيتش ريزورت </grapheme>
+    <alias>فيدا بْيْتْشْ رْيْزورْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيدال للرجال </grapheme>
+    <alias>فيدالْ لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيذرز فاشن </grapheme>
+    <alias>فيذَرْزْ فاشِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيراري لوجستكس </grapheme>
+    <alias>فَيْراري لوجِسْتِكْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيرست سكيورتي جروب </grapheme>
+    <alias>فيرْسْتْ سِكْيورِتي جُروبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيروز لقطع غيار السيارات </grapheme>
+    <alias>فَيْروزْ لِقِطَعِ غِيارِ اَلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيرونا للتجارة </grapheme>
+    <alias>فيرُوْنا لِلْتِجارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيس بوك </grapheme>
+    <alias>فَيِسْ بوكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيصل الهرمودي للسفر </grapheme>
+    <alias>فَيْصَلَ الْهُرْمودِيْ لِلْسَفَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيفا للرياضة </grapheme>
+    <alias>فيفا لِلْرِياضَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيفيان بيوتي سنتر </grapheme>
+    <alias>فيفْيانْ بيوْتِيْ سَنْتَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيكتوريا سيكريت </grapheme>
+    <alias>فيكْتورْيا سْيْكْريتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيكتوريا كوتور للشيلة والعبايا </grapheme>
+    <alias>فيكْتورْيا كوتورْ لِلْشيلَةْ والْعَبايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيلا روتانا للشقق الفندقية </grapheme>
+    <alias>فيلا رْوْتانا لِلْشُقَقْ اَلْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فينكس بلازا للشقق الفندقية </grapheme>
+    <alias>فِيْنِكْسْ بْلازا لِلْشُقَقْ اَلْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فينوس لمستحضرات التجميل والعطور </grapheme>
+    <alias>فْيْنوسْ لِمُسْتَحْضَراتِ الْتَجْميلِ والْعُطورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيوتشر لايت للانارة </grapheme>
+    <alias>فِيوتْشَرْ لايِتْ لِلِاِنارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيوتشر لخدمات تأجير السيارات </grapheme>
+    <alias>فِيوتْشَرْ لِخِدْماتِ تَأْجيرِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيوجن اوتو كونسبت لخدمة السيارات </grapheme>
+    <alias>فْيوجِنْ اُوْتو كونْسَبْتْ لِخِدْمَةِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فيونكة للخياطة والتطريز </grapheme>
+    <alias>فْيونْكَةْ لِلْخِياطَةِ والْتَطْريزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فَقَطْ أُطْلُبْ </grapheme>
+    <alias>فَقَطْ أُطْلُبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فِي آخِرِ </grapheme>
+    <alias>في آخِرِ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فِي إِحْدَى خِدْمَاتِنَا </grapheme>
+    <alias>في إِحْدَىْ خِدْماتِنا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> فِي إِيقَافِها </grapheme>
+    <alias>في إيقافِها</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قاعة البستان </grapheme>
+    <alias>قاعَةِ اَلْبُسْتانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قاعة الجواهر للأفراح </grapheme>
+    <alias>قاعَةِ الْجَواهِرْ لِلْأَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قاعة الشيخ خليفة </grapheme>
+    <alias>قاعَةِ الْشَيْخِ خَليفَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قاعة الماسة للأفراح </grapheme>
+    <alias>قاعَةِ الْماسَةْ لِلْأَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قاعة خورفكان للأفراح والمناسبات </grapheme>
+    <alias>قاعَةِ خورْفَكانْ لِلْأَفْراحِ والْمُناسَباتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قاعة مسايا للمناسبات </grapheme>
+    <alias>قاعَةِ مَسايا لِلْمُناسَباتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قاعة مودة للمناسبات </grapheme>
+    <alias>قاعَةِ مَوَدَةْ لِلْمُناسَباتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قبل أن أتمكن من المساعدة </grapheme>
+    <alias>قَبْلَ أَنَ أَتَمَكَنْ مَنِ الْمُساعَدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قبل وبعد بيوتي صالون </grapheme>
+    <alias>قَبْلْ وَبَعْدْ بِيوتي صالونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قدفع لتأجير السيارات </grapheme>
+    <alias>قَدْفَعْ لِتَأْجيرِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قدفع للمفروشات والستائر </grapheme>
+    <alias>قَدْفَعْ لِلْمَفْروشاتِ والْسَتائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قدورة لتجارة السيارات </grapheme>
+    <alias>قَدورَةْ لِتِجارَةِ اَلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاج لاستقدام الايدي العاملة </grapheme>
+    <alias>قَرْطاجْ لِاسْتِقْدامِ الْاَيْدي الْعامِلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية اصالة </grapheme>
+    <alias>قِرْطاسِيَةْ اَصالَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية الإتحاد </grapheme>
+    <alias>قِرْطاسِيَةْ اَلِإْتِحادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية البيرق </grapheme>
+    <alias>قِرْطاسِيَةْ اَلْبَيْرَقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية التوكل </grapheme>
+    <alias>قِرْطاسِيَةْ اَلْتَوَكُلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية الجبل الأخضر </grapheme>
+    <alias>قِرْطاسِيَةْ اَلْجَبَلِ الْأَخْضَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية الرحبة </grapheme>
+    <alias>قِرْطاسِيَةْ اَلْرَحْبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية الرواق </grapheme>
+    <alias>قِرْطاسِيَةْ اَلْرَواقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية الشعيبة </grapheme>
+    <alias>قِرْطاسِيَةِ الْشَعيبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية الشهباء </grapheme>
+    <alias>قِرْطاسِيَةْ اَلْشَهْباءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية الفصيل </grapheme>
+    <alias>قِرْطاسِيَةْ اَلْفَصيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية النجاح </grapheme>
+    <alias>قِرْطاسِيَةْ اَلْنَجاحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية الهداية </grapheme>
+    <alias>قِرْطاسِيَةْ اَلْهِدايَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية الهدى </grapheme>
+    <alias>قِرْطاسِيَةْ اَلْهُدَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية الهناوي </grapheme>
+    <alias>قِرْطاسِيَةْ اَلْهَناوي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية اليرموك </grapheme>
+    <alias>قِرْطاسِيَةْ اَلْيَرْموكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية بني ياس الحديثة </grapheme>
+    <alias>قِرْطاسِيَةْ بَنِيْ ياسْ اَلْحَديثَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية بوكس و كاردز كورنر </grapheme>
+    <alias>قِرْطاسِيَةْ بوكْسْ وْ كارْدْزْ كورْنَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية حلوان </grapheme>
+    <alias>قِرْطاسِيَةْ حُلْوانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية فلورنسا </grapheme>
+    <alias>قِرْطاسِيَةْ فْلورَنْسا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطاسية مذهل </grapheme>
+    <alias>قِرْطاسِيَةْ مُذْهِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطبة للخدمات </grapheme>
+    <alias>قُرْطُبَةْ لِلْخِدْماتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرطبة للزهور </grapheme>
+    <alias>قُرْطُبَةْ لِلْزُهورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرقفي للشعر </grapheme>
+    <alias>قَرْقَفِيْ لِلْشَعْرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرية السيف مول </grapheme>
+    <alias>قَرْيَةْ اَلْسَيْفْ مولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرية الشعب </grapheme>
+    <alias>قَرْيَةْ اَلْشَعْبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرية الشندقة </grapheme>
+    <alias>قَرْيَةْ اَلْشُنْدَقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرية تسجيل السيارات </grapheme>
+    <alias>قَرْيَةِ تَسْجيلِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قرية دبي الطبية </grapheme>
+    <alias>قَرْيَةْ دُبي اَلْطِبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قسم الامن والمعلومات </grapheme>
+    <alias>قِسْمِ الْاَمْنِ والْمَعْلوماتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قسم العلاج بالخارج </grapheme>
+    <alias>قِسْمِ الْعِلاجِ بِالْخارِجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قشطة وعسل </grapheme>
+    <alias>قِشْطَةْ وَعَسَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قشم للسفريات والسياحة </grapheme>
+    <alias>قَشَمْ لِلْسَفَرِياتْ والْسِياحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قصايد الشعبي للولائم </grapheme>
+    <alias>قَصايِدِ الْشَعْبِيْ لِلْوَلائِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قصر آسيا للهواتف المتحركة </grapheme>
+    <alias>قَصْرْ آسْيا لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قصر الأمراء </grapheme>
+    <alias>قَصْرْ اَلْأُمَراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قصر الإمارات للهدايا </grapheme>
+    <alias>قَصْرْ اَلْإِماراتِ لِلْهَدايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قصر الابراهيمي </grapheme>
+    <alias>قَصْرْ اَلْاِبْراهيمِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قصر الاتحاد </grapheme>
+    <alias>قَصْرْ اَلِاتِحادْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قصر البارون </grapheme>
+    <alias>قَصْرْ اَلْبارونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قصر البرياني </grapheme>
+    <alias>قَصْرْ اَلْبَرَيانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قصر التلة </grapheme>
+    <alias>قَصْرْ اَلْتَلَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قصر الجبل </grapheme>
+    <alias>قَصْرْ اَلْجَبَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قصر الجرف </grapheme>
+    <alias>قَصْرْ اَلْجَرْفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قصر الجسرين </grapheme>
+    <alias>قَصْرْ اَلْجَسْرَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قصر الجواهر </grapheme>
+    <alias>قَصْرْ اَلْجَواهِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قصر الجوري لتجارة الزهور والشوكولاتة </grapheme>
+    <alias>قَصْرْ اَلْجَوْرْيْ لِتِجارَةِ اَلْزُهورِ والْشوكولاتَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> قصر الحجاب </grapheme>
+    <alias>قَصْرْ اَلْحِجابْ</alias>
+  </lexeme>
+</lexicon>

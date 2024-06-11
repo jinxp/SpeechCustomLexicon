@@ -1,0 +1,1808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="ar-SA">
+  <lexeme>
+    <grapheme> سفارة دولة الكويت </grapheme>
+    <alias>سِفارَةْ دَوْلَةْ اَلْكُوَيْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفارة دولة فلسطين </grapheme>
+    <alias>سِفارَةْ دَوْلَةْ فِلَسْطينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفارة دولة قطر </grapheme>
+    <alias>سِفارَةْ دَوْلَةِ قَطَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفارة رومانيا </grapheme>
+    <alias>سِفارَةْ رومانْيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفارة سريلانكا </grapheme>
+    <alias>سِفارَةْ سِريلانْكا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفارة سلطنة عمان </grapheme>
+    <alias>سِفارَةِ سَلْطَنَةِ عُمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفارة سيشل </grapheme>
+    <alias>سِفارَةْ سَيْشِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفارة كينيا </grapheme>
+    <alias>سِفارَةْ كينْيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفارة ماليزيا </grapheme>
+    <alias>سِفارَةْ ماليزْيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفارة مملكة اسبانيا </grapheme>
+    <alias>سِفارَةْ مَمْلَكَةِ اِسْبانَيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفارة نيوزيلاندا </grapheme>
+    <alias>سِفارَةْ نِيوزيلانْدا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفارة هولندا </grapheme>
+    <alias>سِفارَةِ هولَنْدا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفاري بلازا </grapheme>
+    <alias>سَفاري بْلازا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفاري للعطلات </grapheme>
+    <alias>سَفاري لِلْعُطُلاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفر للسياحة والسفر </grapheme>
+    <alias>سَفَرْ لِلْسِياحَةِ والْسَفَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفرة اسطنبول </grapheme>
+    <alias>سُفْرَةْ اِسْطَنْبولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفرة بني ياس للمندي والمظبي </grapheme>
+    <alias>سُفْرَةِ بَنِيْ ياسْ لِلْمَنْدِيْ والْمَظْبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفريات الشارقة </grapheme>
+    <alias>سَفَرْياتِ الْشارِقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفريات الشرق الاوسط </grapheme>
+    <alias>سَفَرْياتِ الْشَرْقِ الْاَوْسَطْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفريات الشرق العربي </grapheme>
+    <alias>سَفَرْياتِ الْشَرْقْ الْعَرَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفريات المغيب </grapheme>
+    <alias>سَفَرْياتِ الْمَغيبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفريات بن موسى </grapheme>
+    <alias>سَفَرْياتْ بِنْ موسَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفريات سهيل </grapheme>
+    <alias>سَفَرْياتْ سْهيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفن ستارز لليزر </grapheme>
+    <alias>سِفِنْ سْتارْزْ لِلَيْزَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفن ون ون للسفر والسياحة </grapheme>
+    <alias>سِفِنْ وَنْ وَنْ لِلْسَفَرِ والْسِياحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفير الشام </grapheme>
+    <alias>سَفيرْ اَلْشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفير لتجارة الاطارات </grapheme>
+    <alias>سَفيرْ لِتِجارَةِ اَلْاَطاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفير للاطارات </grapheme>
+    <alias>سَفيرْ لِلْاِطاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفير للخياطة </grapheme>
+    <alias>سَفيرْ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفير ماركت </grapheme>
+    <alias>سَفيرْ مارْكَتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفير مول </grapheme>
+    <alias>سَفيرْ مولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سفينة الصحراء لنقل السيارات </grapheme>
+    <alias>سَفينَةْ الْصَحْرَاْءْ لِنَقْلِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سكاي برجر </grapheme>
+    <alias>سْكايْ بِرْجَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سكاي دايف </grapheme>
+    <alias>سْكايْ دايِفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سكاي شيد للخيم والمظلات </grapheme>
+    <alias>سْكايْ شيدْ لِلْخْيَمِ والْمِظَلاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سكاي فون للإلكترونيات </grapheme>
+    <alias>سْكايْ فونْ لِلْإِلِكْتِرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سكاي كوم اكسبرس </grapheme>
+    <alias>سْكايْ كومْ اِكْسَبْرِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سكاي لاين للسفر والسياحة والشحن </grapheme>
+    <alias>سْكايْ لايْنْ لِلْسَفَرِ والْسِياحَةِ والْشَحَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سكاي لاين للسفر والعطلات </grapheme>
+    <alias>سْكايْ لايْنْ لِلْسَفَرِ والْعُطُلاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سكاي لاين للسفريات والسياحة والشحن </grapheme>
+    <alias>سْكايْ لايْنْ لِلْسَفَرِياتِ والْسِياحَةِ والْشَحَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سكاي نيوز أرابيا </grapheme>
+    <alias>سْكايْ نِيوزْ أَرابِيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سكة بيروت </grapheme>
+    <alias>سِكَةِ بَيْروتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سكر لتجميل السيدات </grapheme>
+    <alias>سُكَرِ لِتَجْميلْ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سكراب اسطنبول </grapheme>
+    <alias>سِكْرابْ اِسْطَنْبولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سكراب جوي </grapheme>
+    <alias>سِكْرابْ جويْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سكست لتأجير السيارات </grapheme>
+    <alias>سِكْسْتْ لِتَأْجيرِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سكي دبي </grapheme>
+    <alias>سْكي دُبي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سلايدر بار برجرز </grapheme>
+    <alias>سْلايْدِرْ بارْ بِرْجَرْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سلايدر ستيشن </grapheme>
+    <alias>سْلايْدَرْ سْتَيْشِنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سلايدر ميكرز </grapheme>
+    <alias>سْلايْدَرْ مَيْكَرْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سلايس دونر </grapheme>
+    <alias>سْلايِسْ دونَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سلة الفواكه للعصائر </grapheme>
+    <alias>سَلَةُ الْفَواكِهِ لِلْعَصائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سلسبيل ايس كريم وعصائر </grapheme>
+    <alias>سَلْسَبيلْ اَيْسْ كْريمْ وَعَصائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سلستى للتجميل </grapheme>
+    <alias>سِلِسِتِىْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سلطان بن راشد سلطاكو </grapheme>
+    <alias>سُلْطانْ بِنْ راشِدْ سُلْطاكو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سلطان بن على العويس للعقارات </grapheme>
+    <alias>سُلْطانْ بِنْ عَلِىْ الْعِوْيَسِ لِلْعَقاراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سلطة مدينة دبي الملاحية </grapheme>
+    <alias>سُلْطَةْ مَدينَةْ دُبي اَلْمِلاحِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سلطة واحة دبي للسيليكون </grapheme>
+    <alias>سُلْطَةِ واحَةِ دُبي لِلْسْيْليكونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سلفر تاور </grapheme>
+    <alias>سَلْفَرْ تاوَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سلمى لتصليح الادوات الكهربائية والصحية </grapheme>
+    <alias>سَلْمَىْ لِتَصْليحْ اَلْاَدَواتِ الْكَهْرُبائِيَةِ والْصِحِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سلوى للتجميل والحناء </grapheme>
+    <alias>سَلْوَىْ لِلْتَجْميلِ والْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سليم اند لايت للرشاقة </grapheme>
+    <alias>سْليمْ اَنْدْ لايِتْ لِلْرَشاقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سليمان الطبي </grapheme>
+    <alias>سُلَيْمانَ الْطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سما بينونة </grapheme>
+    <alias>سَما بِيْنِوْنَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سما دبي للسفر والسياحة </grapheme>
+    <alias>سَما دُبي لِلْسَفَرِ والْسِياحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سما طيبة </grapheme>
+    <alias>سَما طيبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سما كلباء لتأجير السيارات </grapheme>
+    <alias>سَما كَلْبَاْءْ لِتَأْجيرِ الْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سما للسفريات </grapheme>
+    <alias>سَما لِلْسَفَرِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سماء تبريزي للأسنان </grapheme>
+    <alias>سَمَاِءْ تَبْريزِيْ لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سماء للاخصاب </grapheme>
+    <alias>سَمَاِءْ لِلْاِخْصابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سمارت سنتر ألفين </grapheme>
+    <alias>سْمارْتْ سَنْتَرْ أَلْفَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سمارت موتور لتصليح السيارات </grapheme>
+    <alias>سْمارْتْ موتورْ لِتَصْليحْ اَلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سماري زمزم للمندي </grapheme>
+    <alias>سَماري زَمْزَمْ لِلْمَنْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سمايا للبصريات </grapheme>
+    <alias>سَمايا لِلْبَصَرِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سمايا للتجميل </grapheme>
+    <alias>سَمايا لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سمايل ديزاين كلينيك </grapheme>
+    <alias>سْمايْلْ ديزايْنْ كْلينيكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سمايل رايت دنتال كير </grapheme>
+    <alias>سْمايْلْ رايْتْ دَنْتِالْ كيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سمايل كير لطب الأسنان </grapheme>
+    <alias>سْمايْلْ كيرْ لَطَبِ الْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سمايلز للعناية بالأسنان </grapheme>
+    <alias>سْمايِلْزْ لِلْعِنايَةِ بِالْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سمبوسة هاوس </grapheme>
+    <alias>سُمْبوسَةْ هاوِسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سمرا لتجارة الشيلة والعبايا </grapheme>
+    <alias>سَمَرا لِتِجارَةِ اَلْشيلَةْ والْعَبايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سمراء حلب </grapheme>
+    <alias>سَمْرَاَءْ حَلَبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سمرة للمجوهرات </grapheme>
+    <alias>سَمْرَةْ لِلْمُجَوْهَراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سميحة للكتابة على الآلة الكاتبة </grapheme>
+    <alias>سَميحَةْ لِلْكِتابَةِ عَلَىْ الْآلَةِ الْكاتِبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سميرة لقطع غيار السيارات </grapheme>
+    <alias>سَميرَةْ لِقِطَعِ غِيارِ اَلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سميرة للخضروات والفواكه </grapheme>
+    <alias>سَميرَةْ لِلْخُضَرَواتِ والْفَواكِهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سن أند ساند سبورتس </grapheme>
+    <alias>سَنْ أَنْدْ سانْدْ سْبورْتْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سن اند ساند سبورتس </grapheme>
+    <alias>سَنْ اَنْدْ سانْدْ سْبورْتْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سن ريجيز </grapheme>
+    <alias>سُنْ رِيْجيزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سناء حبيب الطبي </grapheme>
+    <alias>سَنَاْءْ حَبيبْ اَلْطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سناء للتجميل </grapheme>
+    <alias>سَنَاْءْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سناب بلس للهواتف </grapheme>
+    <alias>سْنابْ بْلَسْ لِلْهَواتِفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سناب شاي </grapheme>
+    <alias>سْنابْ شايْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سنابل للخضروات والفواكه </grapheme>
+    <alias>سَنابِلْ لِلْخُضَرَواتِ والْفَواكِهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سنابل للخياطة الرجالية </grapheme>
+    <alias>سَنابِلْ لِلْخِياطَةِ اَلْرِجالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سنان للخياطة </grapheme>
+    <alias>سِنانْ لِلْخِياطَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سنان هايبرماركت </grapheme>
+    <alias>سِنانْ هايْبَرْمارْكَتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سنايبر انترنت كوفي </grapheme>
+    <alias>سْنايْبَرْ اِنْتِرْنِتْ كوفْيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سنبلة لبنان </grapheme>
+    <alias>سُنْبُلَةِ لُبْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سنتر بوينت </grapheme>
+    <alias>سَنْتَرْ بويْنْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سنترال بيورو ريكروتمنت سرفيس </grapheme>
+    <alias>سَنْتْرالْ بْيورو ريكْروتْمِنْتْ سِرْفيسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سنترال مول </grapheme>
+    <alias>سَنْتْرالْ مولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سنترو للشحن والتخليص </grapheme>
+    <alias>سَنْتْرو لِلْشَحْنْ والْتَخْليصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سنترون للإلكترونيات </grapheme>
+    <alias>سَنْتْرونَ لِلْإِلِكْتِرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سند أبوظبي </grapheme>
+    <alias>سَنَدْ أَبوظَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سند شهباز </grapheme>
+    <alias>سِنْدْ شَهْبازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سندريلا للطباعة </grapheme>
+    <alias>سَنْدْريلا لِلْطِباعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سندس للصرافة </grapheme>
+    <alias>سُنْدُسْ لِلْصِرافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سنشري انترناشونال </grapheme>
+    <alias>سَنْشِرِيْ اِنْتَرْناشونالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سنشري للشقق الفندقية </grapheme>
+    <alias>سِنْشَرِيْ لِلْشُقَقْ اَلْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سنشري مول </grapheme>
+    <alias>سَنْشَرِيْ مولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سنغافورة للساعات والهدايا </grapheme>
+    <alias>سِنْغافورَةْ لِلْساعاتْ والْهَدايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سني الطبي </grapheme>
+    <alias>سَني اَلْطِبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سني للأسنان </grapheme>
+    <alias>سَني لِلْأَسْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سنيوريتا للازياء </grapheme>
+    <alias>سِنْيوريتا لِلْاَزْياءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سها للشقق الفندقية </grapheme>
+    <alias>سُها لِلْشُقَقْ اَلْفُنْدُقِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سهول الشام للمأكولات البحرية والمشاوي </grapheme>
+    <alias>سُهولِ الْشامِ لِلْمَأَكولاتِ الْبَحْرِيَةِ والْمَشاوي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سهول مسافي </grapheme>
+    <alias>سُهولْ مَسافي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر تي جانكشن </grapheme>
+    <alias>سوبَرْ تي جانْكْشَنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر جنرال </grapheme>
+    <alias>سوبَرْ جِنِرالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر جيم </grapheme>
+    <alias>سوبَرْ جيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر فاست سوبر ماركت </grapheme>
+    <alias>سوبَرْ فاسْتْ سوبَرْ مارْكَتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر كباب </grapheme>
+    <alias>سوبَرْ كَبابْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر للخضروات والفواكه </grapheme>
+    <alias>سوبَرْ لِلْخُضَرَواتِ والْفَواكِهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت </grapheme>
+    <alias>سوبَرْ مارْكَتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت آدم شاه </grapheme>
+    <alias>سوبَرْ مارْكَتْ آدَمْ شاهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت أبوسالم </grapheme>
+    <alias>سوبَرْ مارْكَتْ أَبوسالِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت أبوسهيل </grapheme>
+    <alias>سوبَرْ مارْكَتْ أَبوسُهيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت أبوعمران </grapheme>
+    <alias>سوبَرْ مارْكَتْ أَبوعِمْرانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت أبوفاضل </grapheme>
+    <alias>سوبَرْ مارْكَتْ أَبوفاضِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت أشرف </grapheme>
+    <alias>سوبَرْ مارْكَتْ أَشْرَفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت أضواء الأقصى </grapheme>
+    <alias>سوبَرْ مارْكَتْ أَضْوَاَءْ الْأَقْصَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت أضواء مكة </grapheme>
+    <alias>سوبَرْ مارْكَتْ أَضْوَاْءْ مَكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت أمل </grapheme>
+    <alias>سوبَرْ مارْكَتْ أَمَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت أنصاف </grapheme>
+    <alias>سوبَرْ مارْكَتْ أَنْصافْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت أيوب </grapheme>
+    <alias>سوبَرْ مارْكَتْ أَيوبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت احمد بن علي مظفري </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَحْمَدْ بِنْ عَلي مُظْفَري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت اسطنبول </grapheme>
+    <alias>سوبَرْ مارْكَتْ اِسْطَنْبولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت اشبيليا </grapheme>
+    <alias>سوبَرْ مارْكَتْ اِشْبِيْلِيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت اشكناني </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَشْكِناني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت اضواء نجران </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَضْوَاْءْ نَجْرانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت اكبر </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَكْبَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الأمير </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْأَميرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الإمارات </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْإِماراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الاستقامة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْاِسْتِقامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الافراح </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْاَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الامبراطور </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْاِمْبِراطورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الامل </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْاَمَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الاميرة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْاَمْيِرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الاهلي </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْاَهْلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت البدية </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْبَدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت البركة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْبَرَكَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت البطين مول </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْبُطينْ مولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت البيات </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْبَياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت البيان </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْبَيانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت التبارك </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْتَبارَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت التفاح الاخضر </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْتُفاحْ الْاَخْضَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت التقوى </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْتَقْوَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت التكامل </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْتَكامُلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت التلال </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْتِلالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت التلال السبع </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْتِلالْ اَلْسَبْعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الثريا </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْثُرَيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الجسرين </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْجِسْرينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الجمهور </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْجُمْهورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الجناحين </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْجَناحَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الجهراء </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْجَهْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الجوهرة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْجَوْهَرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الجير </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْجيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الجيلاني </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْجيلاني</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الجيمي </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْجْيْمْيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الحسينة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْحُسينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الخبراء </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْخُبَراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الخواطر </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْخَواطِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الدبدوب </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْدُبْدوبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الدوار </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْدَوارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الدوحة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْدَوْحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الدورة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْدَوْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الذهب </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْذَهَبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الراشدية </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْراشِدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الربيع </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْرَبيعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الرحبة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْرَحْبَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الرضوان </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْرُضُوانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الرقيم </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْرَقيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الرمثاء </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْرَمْثاءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الرمس </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْرَمْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الرموز </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْرُموزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الزاهية </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْزاهْيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الزخرفة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْزَخْرَفَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الساعة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْساعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الساف </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْسافْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت السرور </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْسُرورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت السعدي </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْسَعْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت السويس </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْسُوَيْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت السيف </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْسَيْفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الشاوي </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْشاوي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الشراع </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْشَراعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الشروق </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْشُروقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الشريعة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْشَريعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الشريف </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْشَريفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الشعبية </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْشَعْبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الشوامخ جراند </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْشَوامِخِ جْرانْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الصفا </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْصَفا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الطائر الذهبي </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْطائِرِ الْذَهَبِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الطائف </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْطائِفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت العبير </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْعَبيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت العشائر </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْعَشائِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت العطار </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْعَطارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت العنبر </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْعَنْبَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت العود </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْعودْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت العين </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت العين ابيلا </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْعَيْنْ اَبيلا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت العين الفايضة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْعَيْنْ اَلْفايِضَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الغابة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْغابَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الغافة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْغافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الفصيل </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْفُصيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الفضي </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْفِضِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الفنر </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْفَنَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت القرية </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْقَرْيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الكتبي </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْكُتْبْيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الكرم الدمشقي </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْكَرَمِ الْدِمَشْقِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الكواكب </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْكَواكِبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الكورنيش </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْكورْنِيْشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت اللؤلؤة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلُلْؤْلُؤَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الليالي </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْلَيالي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الماسة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْماسَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت المايا </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْمايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت المبارك </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْمُبارَكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت المدد </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْمَدَدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت المدينة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت المرفأ </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْمَرْفِأْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت المروة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْمَرْوَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت المشجري </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْمُشْجَري</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت المشرق </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْمَشْرِقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت المطروشي </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْمَطْروشِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت المطينة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْمُطينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت المعاصره </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْمُعاصِرَهْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت المعراج </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْمِعْراجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت المقطع </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْمَقْطَعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الملكي </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْمَلَكِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الممتاز </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْمُمْتازْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت المنازل </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْمَنازِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت المنهل </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْمَنْهَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت المهيب </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْمُهيبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الميناء </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْميناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الناس </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْناسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت النجاح </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْنَجاحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت النخيل </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْنَخيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الندود </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْنِدودْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت النمور </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْنُمورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت النورس </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْنَوْرَسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الهدف </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْهَدَفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الهدية </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْهَدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الوادي </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْوادي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الوافي </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْوافي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الوحدة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْوِحْدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت اندونيسيا </grapheme>
+    <alias>سوبَرْ مارْكَتْ اِنْدونيسْيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت انوار المدينة </grapheme>
+    <alias>سوبَرْ مارْكَتْ اِنْوارِ الْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت باب المدينة </grapheme>
+    <alias>سوبَرْ مارْكَتْ بابِ الْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت باكستان </grapheme>
+    <alias>سوبَرْ مارْكَتْ باكِسْتانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت بدر الفرفار </grapheme>
+    <alias>سوبَرْ مارْكَتْ بَدْرْ اَلْفِرْفارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت برج الخالدية </grapheme>
+    <alias>سوبَرْ مارْكَتْ بُرْجِ الْخالِدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت بستو </grapheme>
+    <alias>سوبَرْ مارْكَتْ بِسْتو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت بشرى </grapheme>
+    <alias>سوبَرْ مارْكَتْ بُشْرَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت بلوم </grapheme>
+    <alias>سوبَرْ مارْكَتْ بْلومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت بن شرارة </grapheme>
+    <alias>سوبَرْ مارْكَتْ بِنْ شَرارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت بندة </grapheme>
+    <alias>سوبَرْ مارْكَتْ بَنْدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت بوابة الكرم </grapheme>
+    <alias>سوبَرْ مارْكَتْ بَوابَةِ الْكَرَمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت بورما </grapheme>
+    <alias>سوبَرْ مارْكَتْ بورْما</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت تلال الرحمانية </grapheme>
+    <alias>سوبَرْ مارْكَتْ تَلالِ الْرَحْمانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت تمام </grapheme>
+    <alias>سوبَرْ مارْكَتْ تَمامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت تناتيف </grapheme>
+    <alias>سوبَرْ مارْكَتْ تَناتيفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت توب توب </grapheme>
+    <alias>سوبَرْ مارْكَتْ توبْ توبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت ثمار لبنان </grapheme>
+    <alias>سوبَرْ مارْكَتْ ثِمارْ لُبْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت جامبو </grapheme>
+    <alias>سوبَرْ مارْكَتْ جامْبو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت جراند مارت العالمية </grapheme>
+    <alias>سوبَرْ مارْكَتْ جُرانْدْ مارْتْ اَلْعالَمِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت جسر الذيد </grapheme>
+    <alias>سوبَرْ مارْكَتْ جِسْرْ اَلْذيدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت حلاوة </grapheme>
+    <alias>سوبَرْ مارْكَتْ حَلاوَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت حمزة </grapheme>
+    <alias>سوبَرْ مارْكَتْ حَمْزَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت خزام </grapheme>
+    <alias>سوبَرْ مارْكَتْ خُزامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت خيبر </grapheme>
+    <alias>سوبَرْ مارْكَتْ خَيْبَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت دار الفلاح </grapheme>
+    <alias>سوبَرْ مارْكَتْ دارْ اَلْفَلاحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت دبا </grapheme>
+    <alias>سوبَرْ مارْكَتْ دِبا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت دوار الخان </grapheme>
+    <alias>سوبَرْ مارْكَتْ دَوارِ الْخانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت دينار </grapheme>
+    <alias>سوبَرْ مارْكَتْ دينارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت رأس الخيمة </grapheme>
+    <alias>سوبَرْ مارْكَتْ رَأْسِ الْخَيْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت رادو </grapheme>
+    <alias>سوبَرْ مارْكَتْ رادو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت رحابة </grapheme>
+    <alias>سوبَرْ مارْكَتْ رَحابَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت رمضان </grapheme>
+    <alias>سوبَرْ مارْكَتْ رَمَضانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت زمزم </grapheme>
+    <alias>سوبَرْ مارْكَتْ زَمْزَمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت زهرة بني ياس </grapheme>
+    <alias>سوبَرْ مارْكَتْ زَهْرَةْ بَنِيْ ياسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت ساجدة </grapheme>
+    <alias>سوبَرْ مارْكَتْ ساجِدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت سارة </grapheme>
+    <alias>سوبَرْ مارْكَتْ سارَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت ساس </grapheme>
+    <alias>سوبَرْ مارْكَتْ ساسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت سبار </grapheme>
+    <alias>سوبَرْ مارْكَتْ سَبارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت سبيس تون </grapheme>
+    <alias>سوبَرْ مارْكَتْ سْبَيْسْ تونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت سجينة </grapheme>
+    <alias>سوبَرْ مارْكَتْ سَجينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت سوق بلانيت </grapheme>
+    <alias>سوبَرْ مارْكَتْ سوقِ بْلانيتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت سويحان الجديدة </grapheme>
+    <alias>سوبَرْ مارْكَتْ سِوَيْحانَ الْجَديدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت سيتي سنتر الجديد </grapheme>
+    <alias>سوبَرْ مارْكَتْ سيتي سَنْتَرِ الْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت سيدار </grapheme>
+    <alias>سوبَرْ مارْكَتْ سيدارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت سيلفر كلاسيك </grapheme>
+    <alias>سوبَرْ مارْكَتْ سيلْفَرْ كْلاسيكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت سيملا </grapheme>
+    <alias>سوبَرْ مارْكَتْ سَيْمْلا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت شارع التعاون </grapheme>
+    <alias>سوبَرْ مارْكَتْ شارِعِ الْتَعاوُنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت شاطئ كلباء </grapheme>
+    <alias>سوبَرْ مارْكَتْ شاطِئِ كَلْباءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت شاهين الجديد </grapheme>
+    <alias>سوبَرْ مارْكَتْ شاهينَ الْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت شباب مدينة الفلاح </grapheme>
+    <alias>سوبَرْ مارْكَتْ شَبابِ مَدينَةِ الْفَلاحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت شويترام </grapheme>
+    <alias>سوبَرْ مارْكَتْ شُوَيَتَرامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت صابرة </grapheme>
+    <alias>سوبَرْ مارْكَتْ صابْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت طازج </grapheme>
+    <alias>سوبَرْ مارْكَتْ طازِجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت طريف </grapheme>
+    <alias>سوبَرْ مارْكَتْ طَريفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت طلال </grapheme>
+    <alias>سوبَرْ مارْكَتْ طَلالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت طلحة </grapheme>
+    <alias>سوبَرْ مارْكَتْ طَلْحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت عائشة </grapheme>
+    <alias>سوبَرْ مارْكَتْ عائِشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت عائلات </grapheme>
+    <alias>سوبَرْ مارْكَتْ عائِلاتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت عاصم </grapheme>
+    <alias>سوبَرْ مارْكَتْ عاصِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت عصام </grapheme>
+    <alias>سوبَرْ مارْكَتْ عِصامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت علي خوري </grapheme>
+    <alias>سوبَرْ مارْكَتْ عَلي خورِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت عمران </grapheme>
+    <alias>سوبَرْ مارْكَتْ عِمْرانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت فاطمة </grapheme>
+    <alias>سوبَرْ مارْكَتْ فاطِمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت فريش بارك </grapheme>
+    <alias>سوبَرْ مارْكَتْ فْريشْ بارْكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت فيروز </grapheme>
+    <alias>سوبَرْ مارْكَتْ فَيْروزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت فيصل </grapheme>
+    <alias>سوبَرْ مارْكَتْ فَيْصَلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت قرطاج </grapheme>
+    <alias>سوبَرْ مارْكَتْ قِرْطاجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت كاسبر </grapheme>
+    <alias>سوبَرْ مارْكَتْ كاسْبَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت كرافت </grapheme>
+    <alias>سوبَرْ مارْكَتْ كْرافْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت كلكتا </grapheme>
+    <alias>سوبَرْ مارْكَتْ كَلْكُتا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت كندا </grapheme>
+    <alias>سوبَرْ مارْكَتْ كَنَدا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت كيرلا </grapheme>
+    <alias>سوبَرْ مارْكَتْ كَيْرْلا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت لقمان </grapheme>
+    <alias>سوبَرْ مارْكَتْ لُقْمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت لميا </grapheme>
+    <alias>سوبَرْ مارْكَتْ لَمِيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت ليمارا </grapheme>
+    <alias>سوبَرْ مارْكَتْ ليمارا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت مانيلا </grapheme>
+    <alias>سوبَرْ مارْكَتْ مانيلا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت مبروك </grapheme>
+    <alias>سوبَرْ مارْكَتْ مَبْروكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت مترو </grapheme>
+    <alias>سوبَرْ مارْكَتْ مِتْرو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت مترو مانيلا </grapheme>
+    <alias>سوبَرْ مارْكَتْ مِتْرو مانيلا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت مدريد </grapheme>
+    <alias>سوبَرْ مارْكَتْ مَدْريدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت مرحبا </grapheme>
+    <alias>سوبَرْ مارْكَتْ مَرْحَبا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت مزيان </grapheme>
+    <alias>سوبَرْ مارْكَتْ مِزْيانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت معصومة </grapheme>
+    <alias>سوبَرْ مارْكَتْ مَعْصومَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت منار </grapheme>
+    <alias>سوبَرْ مارْكَتْ مَنارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت مهير بخيت محمد </grapheme>
+    <alias>سوبَرْ مارْكَتْ مُهيرْ بَخيتْ مُحَمَدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت مونتانا </grapheme>
+    <alias>سوبَرْ مارْكَتْ مونْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت نسيمة </grapheme>
+    <alias>سوبَرْ مارْكَتْ نَسيمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت نشأت </grapheme>
+    <alias>سوبَرْ مارْكَتْ نَشْأَتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت نعناع </grapheme>
+    <alias>سوبَرْ مارْكَتْ نِعْناعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت نور الازدهار </grapheme>
+    <alias>سوبَرْ مارْكَتْ نورْ اَلازْدِهارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت نور الشمس </grapheme>
+    <alias>سوبَرْ مارْكَتْ نورْ اَلْشَمْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت هايد بارك </grapheme>
+    <alias>سوبَرْ مارْكَتْ هايِدْ بارْكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت هولندا </grapheme>
+    <alias>سوبَرْ مارْكَتْ هولَنْدا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت واحة الماس </grapheme>
+    <alias>سوبَرْ مارْكَتْ واحَةِ الْماسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت وصايف </grapheme>
+    <alias>سوبَرْ مارْكَتْ وَصايِفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت ومحمصة الدوري مارت </grapheme>
+    <alias>سوبَرْ مارْكَتْ وَمَحْمَصَةِ الْدورِيْ مارْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت ريمون </grapheme>
+    <alias>سوبَرْ مارْكَتْ ريمونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماريو للإلكترونيات </grapheme>
+    <alias>سوبَرْ مارِيو لِلْإِلِكْتِرونِياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر نوفا لقطع غيار السيارات </grapheme>
+    <alias>سوبَرْ نوفا لِقِطَعِ غِيارِ اَلْسَياراتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبر ماركت الرزان </grapheme>
+    <alias>سوبَرْ مارْكَتْ اَلْرَزانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الاستقامة </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْاِسْتِقامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الاشجار الخضراء </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْاَشْجارِ الْخَضْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الاهلي </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْاَهْلِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت البدية </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْبَدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت البطين مول </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْبُطينْ مولْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت البيات </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْبَياتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت البيت السوري </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْبَيْتِ الْسورِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت التحصيل </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْتَحْصيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت التلال </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْتِلالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الجهراء </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْجَهْراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الجير </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْجيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الخبراء </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْخُبَراءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الدوار </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْدَوارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الدورة </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْدَوْرَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الرقيم </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْرَقيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الزخرفة </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْزَخْرَفَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الساعة </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْساعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الساف </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْسافْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت السرور </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْسُرورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت السعدي </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْسَعْدِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت السويس </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْسُوَيْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت السيف </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْسَيْفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الشريعة </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْشَريعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الشريف </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْشَريفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الشعبية </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْشَعْبِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت العبير </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْعَبيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت العنبر </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْعَنْبَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت العين </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الغافة </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْغافَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الفصيل </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْفَصيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الفضي </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْفِضِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت القرية </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْقَرْيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت القناص </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْقَناصْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الكتبي </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْكُتُبْيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الكرز </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْكَرَزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الليالي </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلَلْيالي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت المايا </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْمايا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت المدد </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْمَدَدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت المدينة </grapheme>
+    <alias>سوبَرْمارْكَتْ الْمَدينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت المطينة </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْمُطينَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت المعراج </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْمِعْراجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت المنازل </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْمَنازِلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت المهيب </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْمُهيبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الميناء </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْميناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الندود </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْنَدودْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت النورس </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْنَوْرَسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الهدف </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْهَدَفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الوادي </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْوادي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الوحدة </grapheme>
+    <alias>سوبَرْمارْكَتْ اَلْوَحْدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت بدر الفرفار </grapheme>
+    <alias>سوبَرْمارْكَتْ بَدْرْ اَلْفِرْفارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت برج الخالدية </grapheme>
+    <alias>سوبَرْمارْكَتْ بُرْجِ الْخالِدِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت بورما </grapheme>
+    <alias>سوبَرْمارْكَتْ بورْما</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت تلال الرحمانية </grapheme>
+    <alias>سوبَرْمارْكَتْ تَلالِ الْرَحْمانِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت توب توب </grapheme>
+    <alias>سوبَرْمارْكَتْ توبْ توبْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت ثمار لبنان </grapheme>
+    <alias>سوبَرْمارْكَتْ ثِمارِ لُبْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت جالكسي </grapheme>
+    <alias>سوبَرْمارْكَتْ جالِكْسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت جامبو </grapheme>
+    <alias>سوبَرْمارْكَتْ جامْبو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت خيبر </grapheme>
+    <alias>سوبَرْمارْكَتْ خَيْبَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت دار الفلاح </grapheme>
+    <alias>سوبَرْمارْكَتْ دارْ اَلْفَلاحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت دبا </grapheme>
+    <alias>سوبَرْمارْكَتْ دِبا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت دوار الخان </grapheme>
+    <alias>سوبَرْمارْكَتْ دَوارِ الْخانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت رادو </grapheme>
+    <alias>سوبَرْمارْكَتْ رادو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت رمضان </grapheme>
+    <alias>سوبَرْمارْكَتْ رَمَضانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت زمزم </grapheme>
+    <alias>سوبَرْمارْكَتْ زَمْزَمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت زهرة بني ياس </grapheme>
+    <alias>سوبَرْمارْكَتْ زَهْرَةْ بَنِيْ ياسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت ساجدة </grapheme>
+    <alias>سوبَرْمارْكَتْ ساجِدَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت ساس </grapheme>
+    <alias>سوبَرْمارْكَتْ ساسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت سالم </grapheme>
+    <alias>سوبَرْمارْكَتْ سالِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت سبار </grapheme>
+    <alias>سوبَرْمارْكَتْ سْبارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت شاطئ كلباء </grapheme>
+    <alias>سوبَرْمارْكَتْ شاطِئِ كَلْباءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت شاهين الجديد </grapheme>
+    <alias>سوبَرْمارْكَتْ شاهينْ اَلْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت شويترام </grapheme>
+    <alias>سوبَرْمارْكَتْ شُوْيِتْرامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت طلال </grapheme>
+    <alias>سوبَرْمارْكَتْ طَلالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت طلحة </grapheme>
+    <alias>سوبَرْمارْكَتْ طَلْحَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت عائشة </grapheme>
+    <alias>سوبَرْمارْكَتْ عائِشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت عاصم </grapheme>
+    <alias>سوبَرْمارْكَتْ عاصِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت فاطمة </grapheme>
+    <alias>سوبَرْمارْكَتْ فاطِمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت كرافت </grapheme>
+    <alias>سوبَرْمارْكَتْ كْرافْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت كيرلا </grapheme>
+    <alias>سوبَرْمارْكَتْ كَيْرَلا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت مدريد </grapheme>
+    <alias>سوبَرْمارْكَتْ مِدْريدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت معصومة </grapheme>
+    <alias>سوبَرْمارْكَتْ مَعْصومَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت مونتانا </grapheme>
+    <alias>سوبَرْمارْكَتْ مونْتانا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت نجم السحر </grapheme>
+    <alias>سوبَرْمارْكَتْ نَجْمُ الْسَحَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت نسيمة </grapheme>
+    <alias>سوبَرْمارْكَتْ نَسيمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت نور الازدهار </grapheme>
+    <alias>سوبَرْمارْكَتْ نورْ اَلازْدِهارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت نور الشمس </grapheme>
+    <alias>سوبَرْمارْكَتْ نورْ اَلْشَمْسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت هولندا </grapheme>
+    <alias>سوبَرْمارْكَتْ هولَنْدا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت واحة الماس </grapheme>
+    <alias>سوبَرْمارْكَتْ واحَةِ الْماسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت وصايف </grapheme>
+    <alias>سوبَرْمارْكَتْ وَصايِفْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت ومحمصة الدوري مارت </grapheme>
+    <alias>سوبَرْمارْكَتْ وَمَحْمَصَةِ الْدَوْرِيْ مارْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوشي ارت </grapheme>
+    <alias>سوشِيْ اَرْتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوشي بار </grapheme>
+    <alias>سوشِيْ بارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوشي سنترال </grapheme>
+    <alias>سوشِيْ سِنْتْرالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوشي هاوس </grapheme>
+    <alias>سوشْيْ هاوِسْ</alias>
+  </lexeme>
+</lexicon>
