@@ -6,10 +6,6 @@
 http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="ipa" xml:lang="ar-SA">
   <lexeme>
-    <grapheme> مدرسة خديجة للتعليم الأساسي </grapheme>
-    <alias>مَدْرَسَةِ خَديجَةْ لِلْتَعْليمِ الْأَساسِيْ</alias>
-  </lexeme>
-  <lexeme>
     <grapheme> مدرسة خليفة الهمزة الخاصة </grapheme>
     <alias>مَدْرَسَةِ خَليفَةْ الْهَمْزَةِ الْخاصَةْ</alias>
   </lexeme>
@@ -1804,5 +1800,9 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
   <lexeme>
     <grapheme> مطحنة وسوبر ماركت زهرة الرفاع </grapheme>
     <alias>مَطْحَنَةْ وْسوبَرْ مارْكَتْ زَهْرَةِ الْرَفاعْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مطر لبيع قطع غيار السيارات </grapheme>
+    <alias>مَطَرْ لِبَيْعِ قِطَعِ غِيارِ الْسَياراتْ</alias>
   </lexeme>
 </lexicon>

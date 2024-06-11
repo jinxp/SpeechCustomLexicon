@@ -6,10 +6,6 @@
 http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="ipa" xml:lang="ar-SA">
   <lexeme>
-    <grapheme> محمد العويس للمحاماة والاستشارات القانونية </grapheme>
-    <alias>مُحَمَدِ الْعُوْيَسْ لِلْمُحاماةِ والِاسْتِشاراتِ الْقانونِيَةْ</alias>
-  </lexeme>
-  <lexeme>
     <grapheme> محمد المزروعي لبيع وشراء السيارات المستعملة </grapheme>
     <alias>مُحَمَدِ الْمَزْروعِيْ لِبَيْعِ وَشِرَاِءْ الْسَياراتِ اَلْمُسْتَعْمَلَةْ</alias>
   </lexeme>
@@ -1804,5 +1800,9 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
   <lexeme>
     <grapheme> مدرسة خديجة بنت خويلد للتعليم الأساسي </grapheme>
     <alias>مَدْرَسَةِ خَديجَةْ بِنْتْ خويْلِدْ لِلْتَعْليمِ الْأَساسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مدرسة خديجة للتعليم الأساسي </grapheme>
+    <alias>مَدْرَسَةِ خَديجَةْ لِلْتَعْليمِ الْأَساسِيْ</alias>
   </lexeme>
 </lexicon>

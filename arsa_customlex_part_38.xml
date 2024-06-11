@@ -6,10 +6,6 @@
 http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="ipa" xml:lang="ar-SA">
   <lexeme>
-    <grapheme> مكتبة جرير </grapheme>
-    <alias>مَكْتَبَةِ جَريرْ</alias>
-  </lexeme>
-  <lexeme>
     <grapheme> مكتبة خورفكان العامة </grapheme>
     <alias>مَكْتَبَةِ خورْفَكانْ اَلْعامَةْ</alias>
   </lexeme>
@@ -1804,5 +1800,9 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
   <lexeme>
     <grapheme> واحة البوادي </grapheme>
     <alias>واحَةِ الْبَوادي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> واحة الجزات </grapheme>
+    <alias>واحَةِ الْجَزاتْ</alias>
   </lexeme>
 </lexicon>

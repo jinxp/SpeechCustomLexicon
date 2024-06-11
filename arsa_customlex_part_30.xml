@@ -6,10 +6,6 @@
 http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="ipa" xml:lang="ar-SA">
   <lexeme>
-    <grapheme> دجلة الطبي </grapheme>
-    <alias>دَجْلَةَ الْطِبِيْ</alias>
-  </lexeme>
-  <lexeme>
     <grapheme> دجلة لتوزيع مياه الشرب </grapheme>
     <alias>دَجْلَةْ لِتَوْزيعِ مِياهِ الْشُرْبْ</alias>
   </lexeme>
@@ -1804,5 +1800,9 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
   <lexeme>
     <grapheme> سوبرماركت التفوق </grapheme>
     <alias>سوبَرْمارْكَتْ اَلْتَفَوُقْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> سوبرماركت الدبدوب </grapheme>
+    <alias>سوبِرْمارْكِتِ الْدُبْدوبْ</alias>
   </lexeme>
 </lexicon>

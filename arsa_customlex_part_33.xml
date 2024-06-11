@@ -6,10 +6,6 @@
 http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="ipa" xml:lang="ar-SA">
   <lexeme>
-    <grapheme> عيادة الفائز الطبية </grapheme>
-    <alias>عِيادَةْ اَلْفائِزِ الْطِبِيَةْ</alias>
-  </lexeme>
-  <lexeme>
     <grapheme> عيادة القوام الرشيق الجلدية </grapheme>
     <alias>عِيادَةْ اَلْقَوامِ الْرَشيقَ الْجِلْدِيَةْ</alias>
   </lexeme>
@@ -1804,5 +1800,9 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
   <lexeme>
     <grapheme> كي ستار لنسخ المفاتيح </grapheme>
     <alias>كِيْ سْتارْ لِنَسْخِ الْمَفاتيحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> كيرفون للهواتف المتحركة </grapheme>
+    <alias>كَيْرْفونْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
   </lexeme>
 </lexicon>

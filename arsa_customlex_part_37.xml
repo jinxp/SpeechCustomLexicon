@@ -6,10 +6,6 @@
 http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="ipa" xml:lang="ar-SA">
   <lexeme>
-    <grapheme> مطر لبيع قطع غيار السيارات </grapheme>
-    <alias>مَطَرْ لِبَيْعِ قِطَعِ غِيارِ الْسَياراتْ</alias>
-  </lexeme>
-  <lexeme>
     <grapheme> مطعم آمنة العرب </grapheme>
     <alias>مَطْعَمْ آمِنَةِ الْعَرَبْ</alias>
   </lexeme>
@@ -1804,5 +1800,9 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
   <lexeme>
     <grapheme> مكتبة بحر العلوم </grapheme>
     <alias>مَكْتَبَةِ بَحْرِ الْعُلومْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> مكتبة جرير </grapheme>
+    <alias>مَكْتَبَةِ جَريرْ</alias>
   </lexeme>
 </lexicon>

@@ -6,10 +6,6 @@
 http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="ipa" xml:lang="ar-SA">
   <lexeme>
-    <grapheme> كيرفون للهواتف المتحركة </grapheme>
-    <alias>كَيْرْفونْ لِلْهَواتِفِ الْمُتَحَرِكَةْ</alias>
-  </lexeme>
-  <lexeme>
     <grapheme> كيرلا للطب التقليدي </grapheme>
     <alias>كَيْرَلا لِلْطِبِ الْتَقْليدِيْ</alias>
   </lexeme>
@@ -1804,5 +1800,9 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
   <lexeme>
     <grapheme> محمد البسامي للنقل بالشاحنات </grapheme>
     <alias>مُحَمَدِ الْبَسامي لِلْنَقْلِ بِالْشاحِناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> محمد العويس للمحاماة والاستشارات القانونية </grapheme>
+    <alias>مُحَمَدِ الْعُوْيَسْ لِلْمُحاماةِ والِاسْتِشاراتِ الْقانونِيَةْ</alias>
   </lexeme>
 </lexicon>

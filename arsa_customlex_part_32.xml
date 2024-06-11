@@ -6,10 +6,6 @@
 http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="ipa" xml:lang="ar-SA">
   <lexeme>
-    <grapheme> صالون جويل الذهبي للسيدات </grapheme>
-    <alias>صالونْ جُوْيَلِ الْذَهَبِيْ لِلْسَيِداتْ</alias>
-  </lexeme>
-  <lexeme>
     <grapheme> صالون حديقة الورود للسيدات </grapheme>
     <alias>صالونْ حَديقَةْ الْوُرودِ لِلْسَيِداتْ</alias>
   </lexeme>
@@ -1804,5 +1800,9 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
   <lexeme>
     <grapheme> عيادة العيون العصرية </grapheme>
     <alias>عِيادَةْ اَلْعُيونِ الْعَصْرِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> عيادة الفائز الطبية </grapheme>
+    <alias>عِيادَةْ اَلْفائِزِ الْطِبِيَةْ</alias>
   </lexeme>
 </lexicon>

@@ -6,10 +6,6 @@
 http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="ipa" xml:lang="ar-SA">
   <lexeme>
-    <grapheme> سوبرماركت الدبدوب </grapheme>
-    <alias>سوبِرْمارْكِتِ الْدُبْدوبْ</alias>
-  </lexeme>
-  <lexeme>
     <grapheme> سوبرماركت الزينة الجديد </grapheme>
     <alias>سوبَرْمارْكَتْ اَلْزينَةِ الْجَديدْ</alias>
   </lexeme>
@@ -1804,5 +1800,9 @@ http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
   <lexeme>
     <grapheme> صالون جمال الكون للسيدات </grapheme>
     <alias>صالونْ جَمالِ الْكَوْنِ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جويل الذهبي للسيدات </grapheme>
+    <alias>صالونْ جُوْيَلِ الْذَهَبِيْ لِلْسَيِداتْ</alias>
   </lexeme>
 </lexicon>
