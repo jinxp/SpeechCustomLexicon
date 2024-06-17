@@ -1,0 +1,1808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="ar-SA">
+  <lexeme>
+    <grapheme> صابرة للخياطة والاقمشة </grapheme>
+    <alias>صابِرَةْ لِلْخِياطَةِ والْاَقْمِشَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صاج الفريج </grapheme>
+    <alias>صاجِ الْفِريجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة أماسي للأفراح </grapheme>
+    <alias>صالَةْ أَماسي لِلْأَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة الجمال للسيدات </grapheme>
+    <alias>صالَةِ الْجَمالِ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة الكورنيش للافراح </grapheme>
+    <alias>صالَةْ اَلْكورْنِيْشْ لِلْاَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة اي جيم </grapheme>
+    <alias>صالَةُ اَيْ جيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة راس الخيمة للأفراح </grapheme>
+    <alias>صالَةْ رَاْسِ الْخَيْمَةِ لِلْأَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة شهرزاد للأفراح </grapheme>
+    <alias>صالَةْ شَهْرَزادِ لِلْأَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة فانتازيا للبلياردو </grapheme>
+    <alias>صالَةْ فانْتازَيا لِلْبِلْيارْدو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة كلباء لخدمات الافراح </grapheme>
+    <alias>صالَةْ كَلْبَاْءْ لِخِدْماتِ الْاَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة مسافي للأفراح </grapheme>
+    <alias>صالَةُ مَسافي لِلْأَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة مسافي للافراح </grapheme>
+    <alias>صالَةُ مَسافي لِلْاَفْراحْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة نشوان للسيدات </grapheme>
+    <alias>صالَةْ نَشْوانْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالة ومطعم زيزفون </grapheme>
+    <alias>صالَةْ وَمَطْعَمْ زَيْزَفونْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالح غريب للخياطة والتطريز </grapheme>
+    <alias>صالِحْ غَريبْ لِلْخِياطَةِ والْتَطْريزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون آمنة للسيدات </grapheme>
+    <alias>صالونْ آمِنَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون آنستي للتجميل </grapheme>
+    <alias>صالونْ آنِسَتي لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون آنسي </grapheme>
+    <alias>صالونْ آنْسِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون أحلى عروس للتجميل </grapheme>
+    <alias>صالونْ أَحْلَىْ عَروسْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون أديس أبابا للسيدات </grapheme>
+    <alias>صالونْ أَديسْ أَبابا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون أفنان </grapheme>
+    <alias>صالونْ أَفْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون أنا وأنت للتجميل </grapheme>
+    <alias>صالونْ أَنا وَأَنْتْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون أنت أخرى </grapheme>
+    <alias>صالونْ أَنْتِ أُخْرَىْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون أورو بيوتي </grapheme>
+    <alias>صالونْ أورو بِيوتِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون إليجنت سكرتس لتجميل السيدات </grapheme>
+    <alias>صالونْ إِلَيْجَنْتْ سِكْرِتْسْ لِتَجْميلْ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ابتهال لتجميل السيدات </grapheme>
+    <alias>صالونْ اِبْتِهالْ لِتَجْميلْ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اجواء للتجميل والحناء </grapheme>
+    <alias>صالونْ اَجْوَاْءْ لِلْتَجْميلِ والْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون احلام العمر للسيدات </grapheme>
+    <alias>صالونْ اَحْلامْ الْعُمُرِ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون احلام للسيدات </grapheme>
+    <alias>صالونْ اَحْلامْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون احلى للسيدات </grapheme>
+    <alias>صالونْ اَحْلَىْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اخوات العرب للسيدات </grapheme>
+    <alias>صالونْ اَخَواتِ الْعَرَبِ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اريج للتجميل </grapheme>
+    <alias>صالونْ اَريجْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اسطنبول للحلاقة </grapheme>
+    <alias>صالونْ اِسْطَنْبولْ لِلْحِلاقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اشا للسيدات </grapheme>
+    <alias>صالونْ اَشا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اشبيليا للسيدات </grapheme>
+    <alias>صالونْ اِشْبْيْلِيا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اصالة للسيدات </grapheme>
+    <alias>صالونْ اَصالَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اظافر </grapheme>
+    <alias>صالونْ اَظافِرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون افرو للسيدات </grapheme>
+    <alias>صالونْ اَفْرو لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اكاسيا للسيدات </grapheme>
+    <alias>صالونْ اَكاسِيا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الأميرة للتجميل </grapheme>
+    <alias>صالونْ اَلْأَمْيِرَةْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الأوروبي للتجميل </grapheme>
+    <alias>صالونْ اَلْأوروبِيْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الإمبراطورة للتجميل </grapheme>
+    <alias>صالونْ اَلْإِمْبَراطورَةْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الاء للسيدات </grapheme>
+    <alias>صالونْ اَلَاِءْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الاجمل للسيدات </grapheme>
+    <alias>صالونْ اَلاجْمَلْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الاحلام للتجميل </grapheme>
+    <alias>صالونْ اَلْاَحْلامْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الاخلاص للسيدات </grapheme>
+    <alias>صالونْ اَلْاِخْلاصْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الاخوات للسيدات </grapheme>
+    <alias>صالونْ اَلْاَخَواتْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الاريام </grapheme>
+    <alias>صالونْ اَلْاَرْيامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الازهار للتجميل </grapheme>
+    <alias>صالونْ اَلْاَزْهارْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الاستكانة للرجال </grapheme>
+    <alias>صالونْ اَلْاِسْتِكانَةْ لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الاصالة للرجال </grapheme>
+    <alias>صالونْ اَلْاَصالَةْ لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الاقبال لتجميل السيدات </grapheme>
+    <alias>صالونْ اَلْاِقْبالِ لِتَجْميلْ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الاماكن للسيدات </grapheme>
+    <alias>صالونْ اَلْاَماكِنْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الاميرات للسيدات </grapheme>
+    <alias>صالونْ اَلْاَميراتْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الانسجام للسيدات </grapheme>
+    <alias>صالونْ اَلِانْسِجامْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الانهار للتجميل </grapheme>
+    <alias>صالونْ اَلْاَنْهارْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون البادية للتجميل </grapheme>
+    <alias>صالونِ الْبادِيَةِ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون البرتقالة الذهبية للسيدات </grapheme>
+    <alias>صالونْ اَلِبُرْتُقالَةِ الْذَهَبِيَةِ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون البرقع للسيدات </grapheme>
+    <alias>صالونْ اَلْبُرْقُعْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون البرنسيسة للسيدات </grapheme>
+    <alias>صالونْ اَلْبْرِنْسيسَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون البرواز للسيدات </grapheme>
+    <alias>صالونْ اَلْبُرُوازْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون البسمة الجميلة للسيدات </grapheme>
+    <alias>صالونْ اَلْبَسْمَةِ الْجَميلَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون البسمة الدائمة للسيدات </grapheme>
+    <alias>صالونْ اَلْبَسْمَةْ الْدائِمَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون البنان للعناية بالاظافر والجمال </grapheme>
+    <alias>صالونْ اَلْبَنانْ لِلْعِنايَةِ بِالْاَظافِرِ والْجَمالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون البهجة للسيدات </grapheme>
+    <alias>صالونْ اَلْبَهْجَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الجسرين للسيدات </grapheme>
+    <alias>صالونْ اَلْجَسَرينْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الجوال للسيدات </grapheme>
+    <alias>صالونْ اَلْجَوالِ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الجوهرة للسيدات </grapheme>
+    <alias>صالونْ اَلْجَوْهَرَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الحبشة للتجميل </grapheme>
+    <alias>صالونْ اَلْحَبَشَةِ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الحرير للسيدات </grapheme>
+    <alias>صالونْ اَلْحَريرْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الحسناء للتجميل </grapheme>
+    <alias>صالونْ اَلْحَسْنَاِءْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الحسناء للسيدات </grapheme>
+    <alias>صالونْ اَلْحَسْنَاِءْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الحلوة للسيدات </grapheme>
+    <alias>صالونْ اَلْحُلْوَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الحور للحناء والتجميل </grapheme>
+    <alias>صالونْ اَلْحورْ لِلْحِنَاْءْ والْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الخبيرة لنقش الحناء </grapheme>
+    <alias>صالونْ اَلْخَبيرَةُ لِنَقْشِ اَلْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الدلة للسيدات </grapheme>
+    <alias>صالونْ اَلْدَلَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الديم للسيدات </grapheme>
+    <alias>صالونْ اَلْديمْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الراشدية للتجميل </grapheme>
+    <alias>صالونْ اَلْراشِدِيَةْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الرباط للرجال </grapheme>
+    <alias>صالونْ اَلْرِباطُ لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الرحيق للسيدات </grapheme>
+    <alias>صالونْ اَلْرَحيقْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الرقة للتجميل </grapheme>
+    <alias>صالونْ اَلْرِقَةِ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الرواء للسيدات </grapheme>
+    <alias>صالونْ اَلْرِوَاْءْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الروعة للتجميل </grapheme>
+    <alias>صالونْ اَلْرَوْعَةْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الريش للسيدات </grapheme>
+    <alias>صالونْ اَلْريشِ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الريم للسيدات </grapheme>
+    <alias>صالونْ اَلْريمْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الريهام للتجميل </grapheme>
+    <alias>صالونْ اَلْريهامْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الزارة للحناء والتجميل </grapheme>
+    <alias>صالونْ اَلْزارَةْ لِلْحِنَاْءْ والْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الشمائل للسيدات </grapheme>
+    <alias>صالونْ اَلْشَمائِلْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الشيماء للحناء والتجميل </grapheme>
+    <alias>صالونْ اَلْشَيْمَاْءْ لِلْحِنَاْءْ والْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الصدف للرجال </grapheme>
+    <alias>صالونْ اَلْصَدَفْ لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون العاش لتجميل السيدات </grapheme>
+    <alias>صالونْ اَلْعاشْ لِتَجْميلْ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون العروسة للحناء </grapheme>
+    <alias>صالونِ الْعَروسَةْ لِلَحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون العطاء للسيدات </grapheme>
+    <alias>صالونْ اَلْعَطَاِءْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون العنود للتجميل </grapheme>
+    <alias>صالونْ اَلْعَنودْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون العيون الفاتنة لتجميل السيدات </grapheme>
+    <alias>صالونْ اَلْعُيونِ الْفاتِنَةْ لِتَجْميلْ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الغدير للحناء والتجميل </grapheme>
+    <alias>صالونْ اَلْغَديرِ لِلْحِنَاْءْ والْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الغراشيب للسيدات </grapheme>
+    <alias>صالونْ اَلْغَراشيبْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الغيداء للسيدات </grapheme>
+    <alias>صالونْ اَلْغَيْدَاْءْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الفراشة الذهبية للحناء والتجميل </grapheme>
+    <alias>صالونْ اَلْفَراشَةِ الْذَهَبِيَةِ لِلْحِنَاْءْ والْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الفراشة للتجميل </grapheme>
+    <alias>صالونْ اَلْفَراشَةِ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الفريدة للسيدات </grapheme>
+    <alias>صالونْ اَلْفَريدَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون القصة الذهبية لتجميل السيدات </grapheme>
+    <alias>صالونْ اَلْقَصَةِ الْذَهَبِيَةِ لِتَجْميلْ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون القمر للحناء والتجميل </grapheme>
+    <alias>صالونْ اَلْقَمَرِ لِلْحَنَاْءْ والْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الكناري للسيدات </grapheme>
+    <alias>صالونْ اَلْكَناري لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الكون للسيدات </grapheme>
+    <alias>صالونْ اَلْكَوْنِ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الليالي للسيدات </grapheme>
+    <alias>صالونْ اَلَلْيالي لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الليل الهادئ </grapheme>
+    <alias>صالونْ اَلَلْيْلِ الْهادِئْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون المرأة الفاتنة للسيدات </grapheme>
+    <alias>صالونْ اَلْمَرْأَةِ الْفاتِنَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون المراسم للسيدات </grapheme>
+    <alias>صالونْ اَلْمَراسِمْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون المراسي للسيدات </grapheme>
+    <alias>صالونْ اَلْمَراسي لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون المرجانة للسيدات </grapheme>
+    <alias>صالونْ اَلْمَرْجانَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون المسرات للسيدات </grapheme>
+    <alias>صالونْ اَلْمَسَراتْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون المسك الابيض للسيدات </grapheme>
+    <alias>صالونْ اَلْمِسْكِ الْاَبْيَضِ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون المشاهير للسيدات </grapheme>
+    <alias>صالونْ اَلْمَشاهيرِ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون المعالي للسيدات </grapheme>
+    <alias>صالونْ اَلْمَعالي لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون المعجزة للتجميل </grapheme>
+    <alias>صالونْ اَلْمُعْجِزَةْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون المناور للسيدات </grapheme>
+    <alias>صالونْ اَلْمَناوِرْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون المنصور للسيدات </grapheme>
+    <alias>صالونْ اَلْمَنْصورْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون المها للسيدات </grapheme>
+    <alias>صالونْ اَلْمَها لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون النقاوة للرجال </grapheme>
+    <alias>صالونْ اَلْنَقاوَةْ لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الهتوف للسيدات </grapheme>
+    <alias>صالونْ اَلْهَتوفْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الهدف للرجال </grapheme>
+    <alias>صالونْ اَلْهَدَفِ لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الهنوف للسيدات </grapheme>
+    <alias>صالونْ اَلْهَنوفْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الهودج للسيدات </grapheme>
+    <alias>صالونْ اَلْهَوْدَجْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون الوردة للسيدات </grapheme>
+    <alias>صالونْ اَلْوَرْدَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اليازية للحناء </grapheme>
+    <alias>صالونْ اَلْيازْيَةْ لِلْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ام حمادة للحناء والتجميل </grapheme>
+    <alias>صالونْ اُمْ حَمادَةْ لِلْحِنَاْءْ والْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ام داليا للحناء والتجميل </grapheme>
+    <alias>صالونْ اُمْ دالْيا لِلْحِنَاْءْ والْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اماسي للتجميل </grapheme>
+    <alias>صالونْ اَماسي لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون امبالا </grapheme>
+    <alias>صالونْ اِمْبالا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون امبيانس للتجميل </grapheme>
+    <alias>صالونْ اَمْبِيانْسْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون امور للرجال </grapheme>
+    <alias>صالونْ اَمورْ لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون انامل كازابلانكا للسيدات </grapheme>
+    <alias>صالونْ اَنامِلْ كازابْلانْكا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون انديرا للتجميل </grapheme>
+    <alias>صالونْ اَنْديرا لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون انطاليا للحلاقة </grapheme>
+    <alias>صالونْ اَنْطالَيا لِلْحِلاقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون انفينيتي للتجميل </grapheme>
+    <alias>صالونْ اِنْفينيتي لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اورنج للتجميل </grapheme>
+    <alias>صالونْ اورَنْجْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اورو بيوتي </grapheme>
+    <alias>صالونْ اورو بيوْتي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون اون فليك </grapheme>
+    <alias>صالونْ اَوْنْ فْليكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ايفانا للسيدات </grapheme>
+    <alias>صالونْ اْيْفانا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ايمان لتجميل السيدات </grapheme>
+    <alias>صالونْ ايمانْ لِتَجْميلْ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ايمي للسيدات </grapheme>
+    <alias>صالونْ اْيْمِيْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون باتشي اي لوتشي للسيدات </grapheme>
+    <alias>صالونْ باتْشْيْ اْيْ لُوْتْشْيْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون باثول للسيدات </grapheme>
+    <alias>صالونْ باثولْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون باريس الجديد </grapheme>
+    <alias>صالونْ باريسِ الْجَديدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون باريس للتجميل </grapheme>
+    <alias>صالونْ باريسْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون باريس للرجال </grapheme>
+    <alias>صالونْ باريسْ لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون باريسا للتجميل </grapheme>
+    <alias>صالونْ باريسا لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بافان الماسة للسيدات </grapheme>
+    <alias>صالونْ بافانْ الْماسَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بافان للسيدات </grapheme>
+    <alias>صالونْ بافانْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ببرش </grapheme>
+    <alias>صالونْ بِبِرِشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بثينة للحناء والتجميل </grapheme>
+    <alias>صالونْ بُثَيْنَةُ لِلْحِنَاْءْ والْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بدع زايد للرجال </grapheme>
+    <alias>صالونْ بِدَعْ زايِدْ لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بدور للتجميل </grapheme>
+    <alias>صالونْ بِدورْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون برايت للتجميل </grapheme>
+    <alias>صالونْ بَرايِتْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون برج ايفل للسيدات </grapheme>
+    <alias>صالونْ بُرْجِ اَيْفِلْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون برج ثريا للتجميل </grapheme>
+    <alias>صالونْ بُرْجِ ثُرَيا لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون برستيج </grapheme>
+    <alias>صالونْ بْرِسْتيجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون برونز ليدي للتجميل </grapheme>
+    <alias>صالونْ بْرونْزْ لَيْدي لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بريتي لاش للتجميل </grapheme>
+    <alias>صالونْ بْريتي لاشْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بل فام للتجميل </grapheme>
+    <alias>صالونْ بَلْ فامْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بلاد الشام للحلاقة </grapheme>
+    <alias>صالونْ بِلادِ الْشامِ لِلْحِلاقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بلاشر </grapheme>
+    <alias>صالونْ بَلاشَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بلسم للتجميل </grapheme>
+    <alias>صالونْ بَلْسَمْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بلو ستايل للرجال </grapheme>
+    <alias>صالونْ بْلو سْتايِلْ لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بلوسم ديستركت لتجميل السيدات </grapheme>
+    <alias>صالونْ بْلوسَمْ ديسْتْرِكْتْ لِتَجْميلْ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بلوم للسيدات </grapheme>
+    <alias>صالونْ بْلومْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بنت الفريج للسيدات </grapheme>
+    <alias>صالونْ بِنْتَ الْفِريجْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بنكي نيلز للسيدات </grapheme>
+    <alias>صالونْ بِنْكْيْ نَيْلْزْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بني و أسود للرجال </grapheme>
+    <alias>صالونْ بُنْيْ وْ أَسْوَدْ لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بوتيك أوركيد للجمال </grapheme>
+    <alias>صالونْ بوتيكْ أورْكيدْ لِلْجَمالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بولش للعناية بالاظافر وأكثر </grapheme>
+    <alias>صالونْ بُوْلِشْ لِلْعِنايَةِ بِالْاَظافِرِ وَأَكْثَرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بي يو </grapheme>
+    <alias>صالونْ بي يو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بياسا للسيدات </grapheme>
+    <alias>صالونْ بِياسا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بيبلوس للحلاقة </grapheme>
+    <alias>صالونْ بْيْبْلوسْ لِلْحِلاقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بيلا </grapheme>
+    <alias>صالونْ بيلا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بينك اند وايت للتجميل </grapheme>
+    <alias>صالونْ بينْكْ اَنْدْ وايْتْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بينك للتجميل </grapheme>
+    <alias>صالونْ بينْكْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بيوتي </grapheme>
+    <alias>صالونْ بيوْتِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بيوتي بالاس </grapheme>
+    <alias>صالونْ بِيُوْتي بالاسْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون بيوتي لاند للسيدات </grapheme>
+    <alias>صالونْ بِيُوْتي لانْدْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون تارا روز للشعر وللتجميل </grapheme>
+    <alias>صالونْ تارا روزْ لِلْشَعْرِ وْلِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون تانيا </grapheme>
+    <alias>صالونْ تانْيا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون تراحيب للتجميل </grapheme>
+    <alias>صالونْ تَراحيبْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون تشارم للسيدات </grapheme>
+    <alias>صالونْ تْشارْمْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون تفانين </grapheme>
+    <alias>صالونْ تَفانينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون تقاسيم </grapheme>
+    <alias>صالونْ تَقاسيمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون تيفاني للتجميل </grapheme>
+    <alias>صالونْ تيفاني لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جاردينيا للتجميل </grapheme>
+    <alias>صالونْ جارْدينِيا لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جاسمين للتجميل </grapheme>
+    <alias>صالونْ جاسْمينْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جبل الورد للسيدات </grapheme>
+    <alias>صالونْ جَبَلْ اَلْوَرْدِ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جراند فلورا للسيدات </grapheme>
+    <alias>صالونْ جْرانْدْ فْلورا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جست نيلز للتجميل </grapheme>
+    <alias>صالونْ جَسْتْ نَيْلْزْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جلو ستار </grapheme>
+    <alias>صالونْ جْلُوْ سْتارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جلوس اند جلتر لتجميل السيدات </grapheme>
+    <alias>صالونْ جْلوسْ اَنْدْ جْلِتِرْ لِتَجْميلْ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جمال الارز للسيدات </grapheme>
+    <alias>صالونْ جَمالِ الْاَرْزْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جنان لبنان للسيدات </grapheme>
+    <alias>صالونْ جِنانِ لُبْنانَ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جو جو </grapheme>
+    <alias>صالونْ جَوْ جَوْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جود للتجميل </grapheme>
+    <alias>صالونْ جودْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جورجي للسيدات </grapheme>
+    <alias>صالونْ جورْجِيْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جوري بني ياس للسيدات </grapheme>
+    <alias>صالونْ جورْيْ بَنِيْ ياسْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جولدن نيلز للتجميل </grapheme>
+    <alias>صالونْ جولْدِنْ نَيْلْزْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جوهرة العالم </grapheme>
+    <alias>صالونْ جَوْهَرَةِ الْعالَمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون جيتارا للسيدات </grapheme>
+    <alias>صالونْ جيتارا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون حبيبة للسيدات </grapheme>
+    <alias>صالونْ حَبْيْبَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون حراير للتجميل </grapheme>
+    <alias>صالونْ حَرايِرْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون حسينة للتجميل </grapheme>
+    <alias>صالونْ حَسينَةْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون حفصة للتجميل </grapheme>
+    <alias>صالونْ حَفْصَةْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون حلاكي </grapheme>
+    <alias>صالونْ حَلاكي</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون حناين للسيدات </grapheme>
+    <alias>صالونْ حَنايِنْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون حواء للسيدات </grapheme>
+    <alias>صالونْ حَوَاَءْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون حيات للتجميل </grapheme>
+    <alias>صالونْ حَياتْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون حيفا للتجميل </grapheme>
+    <alias>صالونْ حَيْفا لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون خديجة للسيدات </grapheme>
+    <alias>صالونْ خَديجَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون خزام للتجميل </grapheme>
+    <alias>صالونْ خُزامْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون خيرية للسيدات </grapheme>
+    <alias>صالونْ خَيْرِيَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون دار سلوى للسيدات </grapheme>
+    <alias>صالونْ دارْ سَلْوَىْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون دارين للسيدات </grapheme>
+    <alias>صالونْ دارينْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون داماس للسيدات </grapheme>
+    <alias>صالونْ داماسْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون دانية للتجميل </grapheme>
+    <alias>صالونْ دانْيَةْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون دانية للسيدات </grapheme>
+    <alias>صالونْ دانْيَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون دبدوب وارنوب للاطفال </grapheme>
+    <alias>صالونْ دَبْدوبْ وَاَرْنوبْ لِلْاَطْفالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون دبليو للرجال </grapheme>
+    <alias>صالونْ دَبْلِيو لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون دبليو للسيدات </grapheme>
+    <alias>صالونْ دَبْلِيو لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون درة العين </grapheme>
+    <alias>صالونْ دُرَةِ الْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون دولا للتجميل </grapheme>
+    <alias>صالونْ دُوْلا لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ديزرت كلاسيك للسيدات </grapheme>
+    <alias>صالونْ ديزْرْتْ كْلاسيكْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ديفا للرجال </grapheme>
+    <alias>صالونْ ديفا لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ذا لوفت افينيو للسيدات </grapheme>
+    <alias>صالونْ ذا لوفْتْ اَفِيْنِيو لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ذا هير ريبير </grapheme>
+    <alias>صالونْ ذا هيرْ رْيْبيرْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ذهب الهند للسيدات </grapheme>
+    <alias>صالونْ ذَهَبْ اَلْهِنْدْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون رانيا احمد </grapheme>
+    <alias>صالونْ رانَيَاَ احْمَدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون رانيا اللبناني </grapheme>
+    <alias>صالونْ رانَيا الُلْبْنانِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون رتاج </grapheme>
+    <alias>صالونْ رِتاجْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون رتوش </grapheme>
+    <alias>صالونْ رُتوشْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون رد دور </grapheme>
+    <alias>صالونْ رَدْ دورْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون رزان للتجميل </grapheme>
+    <alias>صالونْ رَزانْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون رشنا للتجميل والحناء </grapheme>
+    <alias>صالونْ رِشْنا لِلْتَجْميلِ والْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون رضوانة للتجميل </grapheme>
+    <alias>صالونْ رَضْوانَةْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون رغدان للسيدات </grapheme>
+    <alias>صالونْ رَغَدانْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون رفالينا للسيدات </grapheme>
+    <alias>صالونْ رَفالينا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ركن الجميلة للسيدات </grapheme>
+    <alias>صالونْ رُكْنْ اَلْجَميلَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ركن اللافندر للسيدات </grapheme>
+    <alias>صالونْ رُكْنْ اَلَلْافَنْدَرْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ركن المها للتجميل </grapheme>
+    <alias>صالونْ رُكْنْ اَلْمَها لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون رموش للسيدات </grapheme>
+    <alias>صالونْ رُموشْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون رنا لتجميل السيدات </grapheme>
+    <alias>صالونْ رَنا لِتَجْميلْ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون رهف للتجميل </grapheme>
+    <alias>صالونْ رَهَفْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون روبي للرجال </grapheme>
+    <alias>صالونْ رُوْبْيْ لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون روتانا للسيدات </grapheme>
+    <alias>صالونْ روتانا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون روج للتجميل </grapheme>
+    <alias>صالونْ روجْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون روز العربجي للسيدات </grapheme>
+    <alias>صالونْ روزِ الْعَرْبَجِيْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون روز نيلز للسيدات </grapheme>
+    <alias>صالونْ روزْ نَيْلْزْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون روعة </grapheme>
+    <alias>صالونْ رَوْعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون روعة كازابلانكا للسيدات </grapheme>
+    <alias>صالونْ رَوْعَةْ كازابْلانْكا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون روما للحلاقة </grapheme>
+    <alias>صالونْ روما لِلْحِلاقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون رويال بيوتي للسيدات </grapheme>
+    <alias>صالونْ رويالْ بِيوتِيْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون رويال سمايل للاطفال </grapheme>
+    <alias>صالونْ رويالْ سْمايِلْ لِلْاَطْفالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون رويال نيلز </grapheme>
+    <alias>صالونْ رويالْ نَيْلْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ريفال لتجميل السيدات </grapheme>
+    <alias>صالونْ ريفالْ لِتَجْميلْ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ريم بيوتي للحناء </grapheme>
+    <alias>صالونْ رِيْمْ بِيوتِيْ لِلْحْناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون زرينا للسيدات </grapheme>
+    <alias>صالونْ زَرْيْنا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون زليخة </grapheme>
+    <alias>صالونْ زُلَيْخَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون زهرة ليوا للسيدات </grapheme>
+    <alias>صالونْ زَهْرَةْ ليوا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون زينب للتجميل </grapheme>
+    <alias>صالونْ زَيْنَبْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سارة روز للسيدات </grapheme>
+    <alias>صالونْ سارَةْ روزْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ساكورا نيل للسيدات </grapheme>
+    <alias>صالونْ ساكورا نَيْلْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سالي للسيدات </grapheme>
+    <alias>صالونْ سالي لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سان جورجيو للرجال </grapheme>
+    <alias>صالونْ سانْ جورْجْيو لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سانديا للتجميل </grapheme>
+    <alias>صالونْ سانْدْيا لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سباركل للتجميل </grapheme>
+    <alias>صالونْ سْبارْكِلْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سبلاش للتجميل </grapheme>
+    <alias>صالونْ سْبْلاشْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ستايل بيوتي </grapheme>
+    <alias>صالونْ سْتايِلْ بِيوتِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ستيلا للسيدات </grapheme>
+    <alias>صالونْ سْتيلا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سكر بنات </grapheme>
+    <alias>صالونْ سُكَرْ بَناتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سكر حديد للسيدات </grapheme>
+    <alias>صالونْ سُكَرْ حَديدْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سلامة </grapheme>
+    <alias>صالونْ سَلامَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سلامة ستايل للسيدات </grapheme>
+    <alias>صالونْ سَلامَةْ سْتايِلْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سلطانة للسيدات </grapheme>
+    <alias>صالونْ سُلْطانَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سما بني ياس للسيدات </grapheme>
+    <alias>صالونْ سَما بَنِيْ ياسْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سما لبنان للسيدات </grapheme>
+    <alias>صالونْ سَما لُبْنانْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سمر كالرز للسيدات </grapheme>
+    <alias>صالونْ سَمَرْ كالَرْزْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سمسمة للسيدات </grapheme>
+    <alias>صالونْ سِمْسِمَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سميرة للتجميل </grapheme>
+    <alias>صالونْ سَمْيْرَةْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سناء للتجميل </grapheme>
+    <alias>صالونْ سَنَاْءْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سندريلا </grapheme>
+    <alias>صالونْ سِنْدِريلا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سوليدير للرجال </grapheme>
+    <alias>صالونْ سولْيْدَيْرْ لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سونا للسيدات </grapheme>
+    <alias>صالونْ سونا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سونيا للتجميل والحناء </grapheme>
+    <alias>صالونْ سونِيا لِلْتَجْميلِ والْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سويت كت </grapheme>
+    <alias>صالونْ سْويتْ كَتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سويت كيدز </grapheme>
+    <alias>صالونْ سْويتْ كْيْدْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سيسترز للتجميل </grapheme>
+    <alias>صالونْ سْيْسْتَرْزْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون سيلفا للسيدات </grapheme>
+    <alias>صالونْ سيلْفا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون شامية للسيدات </grapheme>
+    <alias>صالونْ شامِيَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون شاهين ديرة للسيدات </grapheme>
+    <alias>صالونْ شاهينْ دِيْرَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون شباب هايد بارك </grapheme>
+    <alias>صالونْ شَبابْ هايِدْ بارْكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون شبانة للسيدات </grapheme>
+    <alias>صالونْ شَبانَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون شذا للتجميل </grapheme>
+    <alias>صالونْ شَذا لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون شماسي للسيدات </grapheme>
+    <alias>صالونْ شَماسي لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون شمسة للتجميل </grapheme>
+    <alias>صالونْ شَمْسَةْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون شمعة </grapheme>
+    <alias>صالونْ شَمَعَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون شهد </grapheme>
+    <alias>صالونْ شَهِدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون شوجركوت نيلز لتجميل السيدات </grapheme>
+    <alias>صالونْ شوجَرْكوتْ نَيْلْزْ لِتَجْميلْ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون شوق للتجميل </grapheme>
+    <alias>صالونْ شَوْقْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون شيب اوف يو للسيدات </grapheme>
+    <alias>صالونْ شَيْبْ اوفْ يو لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون شيرين للسيدات </grapheme>
+    <alias>صالونْ شيرينْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون شيماء للتجميل </grapheme>
+    <alias>صالونْ شَيْمَاْءْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون صباح للسيدات </grapheme>
+    <alias>صالونْ صَباحْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون صفاء للسيدات </grapheme>
+    <alias>صالونْ صَفَاْءْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون صوفيا للتجميل </grapheme>
+    <alias>صالونْ صوفِيا لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون طاهرة للتجميل </grapheme>
+    <alias>صالونْ طاهِرَةْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون طهران للحلاقة </grapheme>
+    <alias>صالونْ طَهْرانْ لِلْحِلاقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ظبي ليوا للسيدات </grapheme>
+    <alias>صالونْ ظَبْيْ ليوا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ظبية للسيدات </grapheme>
+    <alias>صالونْ ظَبِيَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عائشة للتجميل </grapheme>
+    <alias>صالونْ عائِشَةْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عبلة للسيدات </grapheme>
+    <alias>صالونْ عَبْلَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عبير للتجميل والحناء </grapheme>
+    <alias>صالونْ عَبيرْ لِلْتَجْميلِ والْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عذاري للسيدات </grapheme>
+    <alias>صالونْ عَذاري لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عروس الزين </grapheme>
+    <alias>صالونْ عَروسْ اَلْزينْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عروس الشام </grapheme>
+    <alias>صالونْ عَروسْ اَلْشامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عروس عجمان </grapheme>
+    <alias>صالونْ عَروسْ عَجْمانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عروشي للسيدات </grapheme>
+    <alias>صالونْ عْرُوْشي لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عزة لتجميل السيدات </grapheme>
+    <alias>صالونْ عَزَةْ لِتَجْميلْ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عزة للسيدات </grapheme>
+    <alias>صالونْ عَزَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عزيز للرجال </grapheme>
+    <alias>صالونْ عَزيزْ لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون علا للسيدات </grapheme>
+    <alias>صالونْ عُلا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون على كيفها لتجميل السيدات </grapheme>
+    <alias>صالونْ عَلَىْ كَيْفْها لِتَجْميلْ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عمرو للسيدات </grapheme>
+    <alias>صالونْ عَمْرو لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عهود للسيدات </grapheme>
+    <alias>صالونْ عُهودْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون عيون عالية </grapheme>
+    <alias>صالونْ عُيونْ عالِيَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون غادة فحص للتجميل </grapheme>
+    <alias>صالونْ غادَةْ فَحْصْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون غصون للتجميل </grapheme>
+    <alias>صالونْ غُصونْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون فاشونيستا للسيدات </grapheme>
+    <alias>صالونْ فاشونيسْتا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون فاطمة للتجميل </grapheme>
+    <alias>صالونْ فاطِمَةْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون فايزة للتجميل </grapheme>
+    <alias>صالونْ فايِزَةْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون فلامنجو للحلاقة </grapheme>
+    <alias>صالونْ فَلامِنْجو لِلْحِلاقَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون فلة للتجميل والحناء </grapheme>
+    <alias>صالونْ فُلَةْ لِلْتَجْميلِ والْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون فلورنسا للسيدات </grapheme>
+    <alias>صالونْ فْلورَنْسا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون فلوريت للتجميل </grapheme>
+    <alias>صالونْ فْلوريتْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون فلونة للسيدات </grapheme>
+    <alias>صالونْ فْلونَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون فوشي لتجميل </grapheme>
+    <alias>صالونْ فوشي لْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون فيفا للسيدات </grapheme>
+    <alias>صالونْ فيفا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون فيكتوري للسيدات </grapheme>
+    <alias>صالونْ فيكْتوري لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون فيم للرجال </grapheme>
+    <alias>صالونْ فَيْمْ لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون فينوس للسيدات </grapheme>
+    <alias>صالونْ فْيْنوسْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون قرة العين </grapheme>
+    <alias>صالونْ قُرَةُ الْعَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون قصر سندريلا للتجميل </grapheme>
+    <alias>صالونْ قَصْرْ سِنْدِريلا لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون قمر لبنان للتجميل </grapheme>
+    <alias>صالونْ قَمَرْ لُبْنانْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون كازابلانكا للسيدات </grapheme>
+    <alias>صالونْ كازابْلانْكا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون كازانوفا </grapheme>
+    <alias>صالونْ كازانوفا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون كحل للسيدات </grapheme>
+    <alias>صالونْ كُحْلْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون كلاس كليوباترا </grapheme>
+    <alias>صالونْ كْلاسْ كِلْيوباتْرا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون كندة للسيدات </grapheme>
+    <alias>صالونْ كِنْدَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون كنز لبنان </grapheme>
+    <alias>صالونْ كَنْزْ لُبْنانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون كنعان في اي بي للرجال </grapheme>
+    <alias>صالونْ كَنْعانْ في اي بي لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون كنعان للرجال </grapheme>
+    <alias>صالونْ كَنْعانْ لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون كوكونز </grapheme>
+    <alias>صالونْ كوكونْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون كونكورد </grapheme>
+    <alias>صالونْ كونْكورْدْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون كوني نجمة للسيدات </grapheme>
+    <alias>صالونْ كوني نَجْمَةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لؤلؤة الخور للسيدات </grapheme>
+    <alias>صالونْ لُؤْلُؤَةَ الْخورْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لؤلؤة زنجبار </grapheme>
+    <alias>صالونْ لُؤْلُؤَةْ زِنْجَبارْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لابيل </grapheme>
+    <alias>صالونْ لابيلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لابيل للحناء </grapheme>
+    <alias>صالونْ لابيلْ لِلْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لاروزا </grapheme>
+    <alias>صالونْ لاروزا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لافام </grapheme>
+    <alias>صالونْ لافامْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لافندر للسيدات </grapheme>
+    <alias>صالونْ لافَنْدَرْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لافيتا للسيدات </grapheme>
+    <alias>صالونْ لافيتا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لافيدا سارة للتجميل </grapheme>
+    <alias>صالونْ لافيدا سارَةْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لافيدا لوكا للتجميل والحناء </grapheme>
+    <alias>صالونْ لافيدا لوكا لِلْتَجْميلِ والْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لاميزو للسيدات </grapheme>
+    <alias>صالونْ لاميزو لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لبنان للسيدات </grapheme>
+    <alias>صالونْ لُبْنانْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لمار للتجميل </grapheme>
+    <alias>صالونْ لَمارْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لمسات للتجميل </grapheme>
+    <alias>صالونْ لَمَساتْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لمسة عوشة للتجميل </grapheme>
+    <alias>صالونْ لَمْسَةْ عوشَةْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لمسة وداد للتجميل </grapheme>
+    <alias>صالونْ لَمْسَةْ وِدادْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لميس للسيدات </grapheme>
+    <alias>صالونْ لَميسْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لوزان </grapheme>
+    <alias>صالونْ لوزانْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لوسيانا للسيدات </grapheme>
+    <alias>صالونْ لوسْيانا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لي جوزاليم لتجميل السيدات </grapheme>
+    <alias>صالونْ لي جوزاليمْ لِتَجْميلْ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لي للسيدات </grapheme>
+    <alias>صالونْ لي لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون لي لي للتجميل </grapheme>
+    <alias>صالونْ لي لي لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ليالي الافراح السيدات </grapheme>
+    <alias>صالونْ لَيالي الْاَفْراحِ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ليتشي للسيدات </grapheme>
+    <alias>صالونْ لْيْتْشْيْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ليدي ألفين واثنين </grapheme>
+    <alias>صالونْ لَيْدَيْ أَلْفَيْنِ واثْنَيْنْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ليلة الحناء للسيدات </grapheme>
+    <alias>صالونْ لَيْلَةْ اَلْحِنَاْءْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ليندا للسيدات </grapheme>
+    <alias>صالونْ لينْدا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مادهو للسيدات </grapheme>
+    <alias>صالونْ مادْهو لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ماربيلا </grapheme>
+    <alias>صالونْ مارْبيلا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مارلين للسيدات </grapheme>
+    <alias>صالونْ مارْلينْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مارو للتجميل </grapheme>
+    <alias>صالونْ مارو لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ماريوت للسيدات </grapheme>
+    <alias>صالونْ مارِيوتْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مانجو للسيدات </grapheme>
+    <alias>صالونْ مانْجو لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مانويلا للتجميل </grapheme>
+    <alias>صالونْ مانْويلا لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ماي ستايل للسيدات </grapheme>
+    <alias>صالونْ مايْ سْتايِلْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مايا للسيدات </grapheme>
+    <alias>صالونْ مايا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مدام حبيبة للتجميل </grapheme>
+    <alias>صالونْ مَدامْ حَبيبَةْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مدموزيل للتجميل </grapheme>
+    <alias>صالونْ مُدْموزيلْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مراحب للسيدات </grapheme>
+    <alias>صالونْ مَراحِبْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مريم للتجميل </grapheme>
+    <alias>صالونْ مَرْيَمْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مزايا للحناء </grapheme>
+    <alias>صالونْ مَزايا لِلْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مزون للتجميل </grapheme>
+    <alias>صالونْ مُزونْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مسايا للتجميل </grapheme>
+    <alias>صالونْ مَسايا لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مشكاة للسيدات </grapheme>
+    <alias>صالونْ مِشْكاةْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مشكبار للتجميل </grapheme>
+    <alias>صالونْ مِشْكِبارِ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ملاك للحناء والتجميل </grapheme>
+    <alias>صالونْ مَلاكْ لِلْحِنَاْءْ والْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون منال للسيدات </grapheme>
+    <alias>صالونْ مَنالْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون منى ستايل للسيدات </grapheme>
+    <alias>صالونْ مُنَىْ سْتايِلْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون منى مون للتجميل  </grapheme>
+    <alias>صالونْ مُنَىْ مونْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مواويل للسيدات </grapheme>
+    <alias>صالونْ مَواويلْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مورا للتجميل </grapheme>
+    <alias>صالونْ مورا لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مون امور للسيدات </grapheme>
+    <alias>صالونْ مونْ اَمورْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون موناليزا للسيدات </grapheme>
+    <alias>صالونْ موناليزا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مونتي كارلو للسيدات </grapheme>
+    <alias>صالونْ مونْتي كارْلو لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مي روسا </grapheme>
+    <alias>صالونْ مَيْ روسا</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مي لتجميل السيدات </grapheme>
+    <alias>صالونْ مَيْ لِتَجْميلْ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ميثاء للتجميل والحناء </grapheme>
+    <alias>صالونْ مَيْثَاْءْ لِلْتَجْميلِ والْحِناءْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون مير للسيدات </grapheme>
+    <alias>صالونْ ميرْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ميس ايناس للسيدات </grapheme>
+    <alias>صالونْ ميسْ ايناسْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ميسون للتجميل </grapheme>
+    <alias>صالونْ ميسونْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ناريمان للسيدات </grapheme>
+    <alias>صالونْ ناريمانْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نايا للسيدات </grapheme>
+    <alias>صالونْ نايا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون ناينتيز بيوتي </grapheme>
+    <alias>صالونْ نايْنْتْيْزْ بيوْتِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نجمة شماسي للسيدات </grapheme>
+    <alias>صالونْ نَجْمَةْ شَماسي لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نجوى للسيدات </grapheme>
+    <alias>صالونْ نَجْوَىْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نزيه للرجال </grapheme>
+    <alias>صالونْ نَزيهْ لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نعمة </grapheme>
+    <alias>صالونْ نِعْمَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نعومي للسيدات </grapheme>
+    <alias>صالونْ نَعُوْمي لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نفرتيتي للسيدات </grapheme>
+    <alias>صالونْ نَفْرْتْيْتي لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نهال للسيدات </grapheme>
+    <alias>صالونْ نِهالْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نهى للسيدات </grapheme>
+    <alias>صالونْ نُهَىْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نواعم </grapheme>
+    <alias>صالونْ نَواعِمْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نواعم للتجميل </grapheme>
+    <alias>صالونْ نَواعِمْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نور الحنان للسيدات </grapheme>
+    <alias>صالونْ نورْ اَلْحَنانْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نوف للسيدات </grapheme>
+    <alias>صالونْ نوفْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نيكست للسيدات </grapheme>
+    <alias>صالونْ نيكْسْتْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نيل بوكس للتجميل </grapheme>
+    <alias>صالونْ نَيْلْ بوكْسْ لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نيل تو يو </grapheme>
+    <alias>صالونْ نَيْلْ تو يو</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نيل كورنر للسيدات </grapheme>
+    <alias>صالونْ نَيْلْ كورْنَرْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نيلز كوتور للسيدات </grapheme>
+    <alias>صالونْ نَيْلْزْ كوتورْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون نيلز لتجميل السيدات </grapheme>
+    <alias>صالونْ نَيْلْزْ لِتَجْميلْ اَلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون هاجر للسيدات </grapheme>
+    <alias>صالونْ هاجَرْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون هارودز </grapheme>
+    <alias>صالونْ هارودْزْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون هارودز بيوتي للسيدات </grapheme>
+    <alias>صالونْ هارودْزْ بيوْتِيْ لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون هافا للرجال </grapheme>
+    <alias>صالونْ هافا لِلْرِجالْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون هافانا للتجميل </grapheme>
+    <alias>صالونْ هافانا لِلْتَجْميلْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون هالة </grapheme>
+    <alias>صالونْ هالَةْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون هالو كيتي </grapheme>
+    <alias>صالونْ هالو كيتِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون هانا مونتانا للسيدات </grapheme>
+    <alias>صالونْ هانا مونْتانا لِلْسَيِداتْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون هاوس اوف بيوتي </grapheme>
+    <alias>صالونْ هاوْسْ اُوْفْ بِيوتِيْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون هايد بارك </grapheme>
+    <alias>صالونْ هايِدْ بارْكْ</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme> صالون هني كوم </grapheme>
+    <alias>صالونْ هَنِيْ كومْ</alias>
+  </lexeme>
+</lexicon>
